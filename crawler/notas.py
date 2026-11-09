@@ -5,6 +5,7 @@ La sección "Notas propias" queda debajo y el crawler nunca la toca.
 """
 import hashlib
 import json
+import os
 import re
 
 from .portal import NO_CONSTA, URL_FICHA, campos, json_canonico
@@ -14,6 +15,7 @@ CARPETA_SISTEMA = CARPETA_RAIZ + "/_Sistema"
 INICIO = "<!-- portal:inicio -->"
 FIN = "<!-- portal:fin -->"
 NOTAS_PROPIAS = "## Notas propias"
+ENLACE_CASE_DECK = "[[00 Panel/Directorio|Directorio de Case Deck]]"
 VIGENTE = "Vigente"
 YA_NO_APARECE = "Ya no aparece en el portal"
 SIN_RESOLVER = "No se pudo verificar en la extracción"
@@ -75,6 +77,14 @@ def md_parrafo(texto: str) -> str:
 
 def celda(texto: str) -> str:
     return md(texto).replace("|", "\\|")
+
+
+def enlace_md(texto: str, url: str) -> str:
+    """Enlace externo en Markdown. Los corchetes del texto se escapan para que Obsidian no los lea como [[enlace interno]]."""
+    marcado = (texto or url).replace("[", "\ue000").replace("]", "\ue001")
+    t = celda(marcado).replace("\ue000", "\\[").replace("\ue001", "\\]")
+    destino = f"<{url}>" if any(c in url for c in " ()<>") else url
+    return f"[{t}]({destino})"
 
 
 def yaml_texto(v) -> str:
@@ -156,7 +166,7 @@ def _render_contenido(c) -> list:
             for u in e["documentos"]:
                 L.append(f"{sang}- Documento enlazado en el portal: {u}")
             for en in e["enlaces"]:
-                L.append(f"{sang}- Enlace en el texto: [{celda(en['texto']) or en['url']}]({en['url']})")
+                L.append(f"{sang}- Enlace en el texto: {enlace_md(en['texto'], en['url'])}")
             for o in e["otros"]:
                 L.append(f"{sang}- {md(o)}")
         return L
@@ -172,7 +182,7 @@ def _render_contenido(c) -> list:
                 valor = "; ".join(d["valor"]) if d["valor"] else NO_CONSTA
                 L.append(f"- {md(d['etiqueta'] or 'Dato')}: {md(valor)}")
             for en in lug["enlaces"]:
-                L.append(f"- Enlace: [{celda(en['texto']) or en['url']}]({en['url']})")
+                L.append(f"- Enlace: {enlace_md(en['texto'], en['url'])}")
             # datos que se esperan en un lugar y que el portal no muestra
             if not any(k.startswith("horario") for k in vistos):
                 L.append(f"- Horario: {NO_CONSTA}")
@@ -195,7 +205,7 @@ def _render_contenido(c) -> list:
         return [NO_CONSTA]
     L += [md_parrafo(x) for x in c["lineas"]]
     for en in c.get("enlaces", []):
-        L.append(f"- [{celda(en['texto']) or en['url']}]({en['url']})")
+        L.append(f"- {enlace_md(en['texto'], en['url'])}")
     return L
 
 
@@ -330,7 +340,7 @@ def render_institucion(nombre, id_inst, url_listado, filas, siglas=None) -> str:
          f"## Trámites en el portal ({vigentes})", ""]
     for f in sorted(filas, key=lambda x: x["id"]):
         extra = "" if f["estado_portal"] == VIGENTE else f" · {f['estado_portal']} desde el {f['no_aparece_desde']}"
-        B.append(f"- [[{f['nota']}|{md(f['titulo'])}]] · N.º {f['id']} · {md(f['modalidad'] or NO_CONSTA)}{extra}")
+        B.append(f"- {enlace(os.path.dirname(f['ruta']), f['nota'], f['titulo'])} · N.º {f['id']} · {md(f['modalidad'] or NO_CONSTA)}{extra}")
     if not filas:
         B.append(NO_CONSTA)
     B += ["", FIN, "", NOTAS_PROPIAS, ""]
@@ -344,6 +354,8 @@ def render_indice(instituciones) -> str:
          "Consulta de los trámites que publica el Portal de Trámites del Estado de Honduras (DIGER), ordenados por institución. "
          "Es material de referencia y no forma parte del control de casos. Detalle de la última corrida en [[Última extracción]].", "",
          f"Trámites vigentes en el portal: {total}. Instituciones con trámites: {sum(1 for i in instituciones if i[2])}.", "",
+         f"Conexión con el control de casos: {ENLACE_CASE_DECK}. Es el único enlace del índice hacia el resto de la bóveda, "
+         "para que en la vista de grafo los trámites y Case Deck se vean como dos redes unidas por una línea.", "",
          "## Instituciones", ""]
     for enl, nombre, v, d in sorted(instituciones, key=lambda x: x[1].lower()):
         extra = f" · {d} ya no aparecen" if d else ""

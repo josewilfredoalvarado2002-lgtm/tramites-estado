@@ -152,6 +152,33 @@ class LecturaDeFichas(unittest.TestCase):
         self.assertEqual(parsear_listado(html("listado-paginas-extracto.html"))["paginas"], 25)
 
 
+def cf(correo, clave=0x5A):
+    """Codifica un correo como lo hace Cloudflare (para las pruebas; el correo es ficticio)."""
+    return f"{clave:02x}" + "".join(f"{b ^ clave:02x}" for b in correo.encode("utf-8"))
+
+
+class CorreosProtegidos(unittest.TestCase):
+    def test_se_muestran_como_en_el_navegador(self):
+        from crawler.dom import correo_cloudflare
+        self.assertEqual(correo_cloudflare(cf("becas@ejemplo.hn")), "becas@ejemplo.hn")
+        ficha = html("ficha-1051.html").replace(
+            "Carta poder debidamente autenticada",
+            f'Escribir a <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="{cf("becas@ejemplo.hn")}">[email&#160;protected]</a> '
+            f'o <a href="/cdn-cgi/l/email-protection#{cf("info@ejemplo.hn")}"><span class="__cf_email__" data-cfemail="{cf("info@ejemplo.hn")}">'
+            '[email&#160;protected]</span></a>')
+        f = parsear_ficha(ficha, 1051)
+        req = f["pestanas"][1]["contenido"]["elementos"][0]
+        self.assertEqual(req["texto"], ["Escribir a becas@ejemplo.hn o info@ejemplo.hn"])
+        self.assertEqual(req["enlaces"], [{"texto": "info@ejemplo.hn", "url": "mailto:info@ejemplo.hn"}])
+        nota = N.render_tramite(f, "[[x]]", "2026-11-09T15:30", None, None)
+        self.assertNotIn("email protected", nota)
+        self.assertIn("- Enlace en el texto: [info@ejemplo.hn](mailto:info@ejemplo.hn)", nota)
+
+    def test_corchetes_en_el_texto_de_un_enlace(self):
+        self.assertEqual(N.enlace_md("[aviso]", "https://a.hn/x"), "[\\[aviso\\]](https://a.hn/x)")
+        self.assertEqual(N.enlace_md("ver", "https://a.hn/a b"), "[ver](<https://a.hn/a b>)")
+
+
 class Notas(unittest.TestCase):
     def test_nota_1051(self):
         f = parsear_ficha(html("ficha-1051.html"), 1051)
@@ -227,7 +254,12 @@ class Corridas(unittest.TestCase):
         self.assertIn("No se pudo consultar el comparador", self.leer(
             "10 Trámites del Estado/Instituto de Previsión Social de los Empleados de la Universidad Nacional Autónoma de Honduras/"
             "TR-23 Solicitud de Préstamo de Consumo.md"))
-        self.assertIn("[[TR-1051 Certificación de expediente en trámite|Certificación de expediente en trámite]]", self.leer(inst))
+        self.assertIn("[[10 Trámites del Estado/Instituto Hondureño de Transporte Terrestre/TR-1051 Certificación de expediente en trámite"
+                      "|Certificación de expediente en trámite]]", self.leer(inst))
+        indice = self.leer("10 Trámites del Estado/Índice de trámites.md")
+        self.assertIn("[[00 Panel/Directorio|Directorio de Case Deck]]", indice)
+        enlaces_afuera = [x for x in __import__("re").findall(r"\[\[([^\]|]+)", indice) if not x.startswith("10 Trámites del Estado/")]
+        self.assertEqual(sorted(enlaces_afuera), ["00 Panel/Directorio", "Trámites.base", "Última extracción"])
         for rel in ("Índice de trámites.md", "Trámites.base", "_Sistema/Última extracción.md", "_Sistema/Registro de cambios.md"):
             self.assertTrue(os.path.exists(os.path.join(self.dir, "10 Trámites del Estado", rel)), rel)
         mtime = os.path.getmtime(os.path.join(self.dir, nota))
@@ -267,6 +299,19 @@ class Corridas(unittest.TestCase):
         for raiz, dirs, archivos in os.walk(os.path.join(self.dir, "10 Trámites del Estado")):
             for n in dirs + archivos:
                 self.assertEqual(n, unicodedata.normalize("NFC", n))
+
+    def test_cambio_de_version_del_lector_queda_anotado(self):
+        import json as _json
+        Extraccion(self.dir, ClienteFalso(self.paginas([1051])), "piloto", [], [1051]).ejecutar()
+        ruta = os.path.join(self.dir, "estado", "catalogo.json")
+        estado = _json.load(open(ruta, encoding="utf-8"))
+        estado.pop("version_lector")                      # como quedó la primera corrida completa
+        _json.dump(estado, open(ruta, "w", encoding="utf-8"))
+        ex = Extraccion(self.dir, ClienteFalso(self.paginas([1051])), "piloto", [], [1051])
+        ex.ejecutar()
+        self.assertIn("(1.0 → 1.1)", self.leer("10 Trámites del Estado/_Sistema/Registro de cambios.md"))
+        ex2 = Extraccion(self.dir, ClienteFalso(self.paginas([1051])), "piloto", [], [1051])
+        self.assertIsNone(ex2.nota_lector)
 
     def test_cambio_en_requisitos_queda_en_el_registro(self):
         Extraccion(self.dir, ClienteFalso(self.paginas([23])), "piloto", [], [23]).ejecutar()

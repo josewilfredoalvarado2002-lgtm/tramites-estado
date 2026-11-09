@@ -13,7 +13,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
-from .dom import analizar, lineas, texto_unico
+from .dom import analizar, correo_cloudflare, lineas, texto_unico
 
 BASE = "https://tramites.diger.gob.hn"
 URL_LISTADO = BASE + "/tramites"
@@ -312,6 +312,11 @@ def _enlaces(nodo):
     salida = []
     for a in nodo.buscar(tag="a"):
         href = (a.get("href") or "").strip()
+        if "__cf_email__" in a.clases:
+            continue   # en el portal se ve como texto (el correo), no como enlace
+        if "/cdn-cgi/l/email-protection#" in href:
+            correo = correo_cloudflare(href.split("#", 1)[1])
+            href = f"mailto:{correo}" if correo else href
         if href:
             salida.append({"texto": texto_unico(a.texto()), "url": href})
     return salida

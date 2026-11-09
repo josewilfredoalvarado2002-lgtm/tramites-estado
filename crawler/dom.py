@@ -54,7 +54,11 @@ class Nodo:
         return r[0] if r else None
 
     def texto(self, excluir_clases=()):
-        """Texto crudo de todos los descendientes (entidades ya decodificadas)."""
+        """Texto crudo de todos los descendientes (entidades ya decodificadas).
+        Los correos que Cloudflare oculta en el HTML se devuelven como los muestra el portal en el navegador."""
+        correo = correo_cloudflare(self.attrs.get("data-cfemail"))
+        if correo is not None:
+            return correo
         partes = []
         for h in self.hijos:
             if isinstance(h, Nodo):
@@ -92,6 +96,20 @@ class _Constructor(HTMLParser):
 
     def handle_data(self, data):
         self.actual.hijos.append(data)
+
+
+def correo_cloudflare(codigo):
+    """Decodifica el atributo data-cfemail de Cloudflare (el primer byte es la clave XOR).
+    Es lo mismo que hace el script del portal para mostrar el correo al visitante."""
+    if not codigo:
+        return None
+    try:
+        b = bytes.fromhex(codigo.strip())
+        if len(b) < 2:
+            return None
+        return bytes(x ^ b[0] for x in b[1:]).decode("utf-8")
+    except (ValueError, UnicodeDecodeError):
+        return None
 
 
 def analizar(html: str) -> Nodo:

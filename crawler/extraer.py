@@ -25,6 +25,9 @@ HONDURAS = dt.timezone(dt.timedelta(hours=-6))
 PILOTO_INSTITUCIONES = ["11060"]
 PILOTO_FICHAS = [142, 1051]
 ENCABEZADO_REGISTRO = "<!-- registro:entradas -->"
+# Sube cuando cambia la forma de leer el portal; así el registro distingue esos cambios de los cambios del portal.
+VERSION_LECTOR = "1.1"
+CAMBIOS_LECTOR = {"1.1": "los correos que Cloudflare oculta ahora se copian como los muestra el portal"}
 TIPOS_CONOCIDOS = {"lista", "lugares", "tabla"}
 DATOS_CONOCIDOS = {"responsable", "objetivo", "dirigido a"}
 
@@ -56,6 +59,14 @@ class Extraccion:
         self.r = {"nuevos": [], "modificados": [], "desaparecidos": [], "reaparecidos": [], "sin_cambios": 0,
                   "errores": [], "avisos": [], "procesados": 0}
         self.inicio = time.monotonic()
+        anterior = self.estado.get("version_lector", "1.0" if self.estado["tramites"] else VERSION_LECTOR)
+        self.nota_lector = None
+        if anterior != VERSION_LECTOR:
+            self.nota_lector = (f"En esta corrida cambió la versión del lector del crawler ({anterior} → {VERSION_LECTOR}): "
+                                f"{CAMBIOS_LECTOR.get(VERSION_LECTOR, 'ajustes en la lectura')}. Las fichas marcadas como "
+                                "modificadas pueden deberse a ese cambio y no a un cambio del portal.")
+            self.r["avisos"].append(self.nota_lector)
+        self.estado["version_lector"] = VERSION_LECTOR
 
     # -- archivos -------------------------------------------------------------
     def ruta(self, rel):
@@ -283,7 +294,7 @@ class Extraccion:
         por_inst = {}
         for k, t in self.estado["tramites"].items():
             por_inst.setdefault(t["institucion"], []).append({
-                "id": int(k), "titulo": t["titulo"], "nota": os.path.basename(t["archivo"])[:-3],
+                "id": int(k), "titulo": t["titulo"], "nota": os.path.basename(t["archivo"])[:-3], "ruta": t["archivo"][:-3],
                 "modalidad": t.get("modalidad", ""), "estado_portal": t["estado_portal"],
                 "no_aparece_desde": t.get("no_aparece_desde")})
         indice = []
@@ -379,6 +390,8 @@ class Extraccion:
             E.append(f"- Vuelve a aparecer: TR-{x['id']} {N.md(x['titulo'])}")
         if fallo_general:
             E.append(f"- Corrida detenida: {N.md(fallo_general)}")
+        if self.nota_lector:
+            E.append(f"- Nota: {N.md(self.nota_lector)}")
         if len(E) == 2:
             E.append("- Sin cambios en las fichas.")
         E.append("")

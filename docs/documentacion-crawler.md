@@ -1,6 +1,6 @@
 ---
 tipo: sistema
-version: 1.0.0
+version: 1.1.0
 actualizado: 2026-11-09
 ---
 
@@ -34,6 +34,8 @@ Todo tal como aparece en el portal, sin resumir, reordenar ni completar. Si un d
 | Fecha y hora de extracción | Sección Fuente y propiedad `extraido` |
 
 En Lugares, si el portal no da horario ni enlace de mapa, la nota lo dice expresamente.
+
+Algunos correos de contacto vienen ocultos en el HTML por Cloudflare y el navegador los muestra al abrir la ficha. El crawler los decodifica igual que el navegador, así que la nota dice, por ejemplo, el correo de la unidad de becas y no "[email protected]".
 
 ## Propiedades de cada trámite
 
@@ -87,6 +89,17 @@ Cada institución tiene su carpeta y una nota con su mismo nombre, que lista sus
 - El motor solo lee `01 Casos`, `02 Actuaciones`, `03 Clientes`, `04 Equipo` y las dos carpetas de `09 Catálogos`. No valida estas notas, no las reporta en Estado del sistema ni crea catálogos a partir de ellas. Se comprobó con una copia del motor el 5 y el 9 de noviembre de 2026: 0 errores y 0 avisos.
 - Para enlazar un trámite desde un caso, escribí el enlace en el cuerpo de la nota del caso o agregá la propiedad opcional `tramites_estado` con una lista de enlaces, por ejemplo `- "[[TR-1051 Certificación de expediente en trámite]]"`. El motor no la exige ni la valida, y la conserva cuando reescribe el caso.
 - No se cambió `config.json` ni `casedeck.py`. Lo único que se agregó es un renglón al final de `~/Library/Application Support/CaseDeck/ejecutar.sh` para que CaseDeck Motor llame al puente después del motor.
+
+## Vista de grafo: dos redes unidas por una línea
+
+- Cada trámite enlaza solo a su institución; cada institución, a sus trámites; el [[Índice de trámites]], a las instituciones.
+- El índice tiene un único enlace hacia el resto de la bóveda: `[[00 Panel/Directorio|Directorio de Case Deck]]`. Esa es la línea que une las dos redes.
+- Todos los enlaces que genera el crawler llevan ruta completa, así que una nota copiada con el mismo nombre en otra carpeta no se mezcla.
+- Configuración recomendada del grafo (Vista de grafo → ícono de ajustes):
+  - Filtros: además de lo que ya excluís, `-path:"10 Trámites del Estado/_Sistema"`.
+  - Grupos: `file:"Índice de trámites"`, `[tipo:institucion_portal]` y `path:"10 Trámites del Estado"`, cada uno con su color.
+  - Fuerzas: fuerza de centro baja (0,1), repulsión alta (14), fuerza de enlace alta (1) y distancia de enlace media (160). Con la fuerza de enlace en 0 los enlaces no agrupan nada y todo se ve como una sola bola.
+- Los enlaces que agregués desde un caso con `tramites_estado` o desde `catalogo_case_deck` también aparecen como líneas entre las dos redes. Es lo esperado: son las relaciones reales.
 
 ## Equivalencias con tu catálogo de instituciones
 

@@ -27,8 +27,9 @@ Portal de Trámites ──(GitHub Actions, día 3 de cada mes)──> este repos
 | `puente/instalar_puente.sh` | Engancha el puente a CaseDeck Motor (un renglón en `ejecutar.sh`) |
 | `puente/desinstalar_puente.sh` | Quita ese renglón; no borra notas |
 | `.github/workflows/extraer.yml` | Corrida mensual y manual en GitHub Actions |
+| `gaceta/` y `.github/workflows/gaceta-sonda.yml` | Primera etapa de la sección de normativa: sonda de La Gaceta (ENAG). No escribe notas |
 | `docs/documentacion-crawler.md` | Documentación; el crawler la copia a `10 Trámites del Estado/_Sistema/Documentación del crawler.md` |
-| `pruebas/` | 25 pruebas con HTML guardado del portal y con una bóveda simulada |
+| `pruebas/` | 29 pruebas con HTML guardado del portal y con una bóveda simulada |
 | `10 Trámites del Estado/` | Salida del crawler (la crea la primera corrida) |
 | `estado/` | Registro interno: huellas, nombres de archivo fijos y copia de cada ficha leída |
 
