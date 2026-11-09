@@ -1,0 +1,287 @@
+{
+ "instituciones": {
+  "11060": {
+   "carpeta": "10 Trámites del Estado/Secretaría de Trabajo y Seguridad Social",
+   "id": "11060",
+   "nombre": "Secretaría de Trabajo y Seguridad Social",
+   "nota": "Secretaría de Trabajo y Seguridad Social",
+   "siglas": "STSS",
+   "url_listado": "https://tramites.diger.gob.hn/tramites?page=1&institutionFilter=11060"
+  },
+  "11065": {
+   "carpeta": "10 Trámites del Estado/Secretaría de Relaciones Exteriores y Cooperación Internacional",
+   "id": "11065",
+   "nombre": "Secretaría de Relaciones Exteriores y Cooperación Internacional",
+   "nota": "Secretaría de Relaciones Exteriores y Cooperación Internacional",
+   "siglas": "SRECI",
+   "url_listado": "https://tramites.diger.gob.hn/tramites?page=1&institutionFilter=11065"
+  },
+  "11159": {
+   "carpeta": "10 Trámites del Estado/Instituto Hondureño de Transporte Terrestre",
+   "id": "11159",
+   "nombre": "Instituto Hondureño de Transporte Terrestre",
+   "nota": "Instituto Hondureño de Transporte Terrestre",
+   "siglas": "IHTT",
+   "url_listado": "https://tramites.diger.gob.hn/tramites?page=1&institutionFilter=11159"
+  }
+ },
+ "tramites": {
+  "1051": {
+   "archivo": "10 Trámites del Estado/Instituto Hondureño de Transporte Terrestre/TR-1051 Certificación de expediente en trámite.md",
+   "comparador": {
+    "nivel_complejidad": "Complejo",
+    "puntaje_complejidad": 12,
+    "siglas_institucion": "IHTT",
+    "tiempo_estimado_dias": 14
+   },
+   "estado_portal": "Vigente",
+   "extraido": "2026-11-09T14:32",
+   "huella": "9657241039abc89a173d0c854048a9eaf5d12f57a39ae364eaf5c8f09e8aae00",
+   "institucion": "11159",
+   "modalidad": "En línea",
+   "no_aparece_desde": null,
+   "secciones": {
+    "Cabecera": "00b508a3f0affa016664aa451786962933918f82cbefa7f303c9c348c28ef57d",
+    "Descripción": "baefcf6fffcf66d6b3a1aeb909ed0b3a848f86f9e89373fbff8b4c9eeb7005b3",
+    "Dirigido a": "0ba7d6fc9bfe7082b39fc94fe2e94c2d2a048594de19e11e1bd7167bac6b1e45",
+    "Entregables": "bfdbe2f71bb689a860392339b859e3963f0c1d3be211c6365f17ecea98b2ccf3",
+    "Lugares": "b5cd36099d33087abbe43e7ce8a5e293b26c5ecbe05daf38de36a33ebbe26ddd",
+    "Más información": "0c682cde6bcdfd4f2fb469cbf1671e81c4be92c32789a96d88eb19064ce9958a",
+    "Objetivo": "d8b65a1daaf715347b8b56a1c81301c52c1568ef2f94372d2ad2b3b3a3b65304",
+    "Pasos del trámite": "aaf906849daf9c7a3e657869a9f32e9f846671bb34eabccb75b22c9d869eaa6e",
+    "Requisitos": "e3f1e95d3db524d197835db73508080a77dd754a2ef7ce21eabd19efd2ef9d3c",
+    "Responsable": "a0b576dee8d99599dfbac7804041ca6020216b651e541d42a896803424f28208",
+    "Según el comparador del portal": "66dd4bfb711a035683d72abc691312669c7143a5447803e65f761f3b5dea051c",
+    "URL final del botón": "3bd38e26d78500827252338e8ab4753913045da5f84bb5563aa1983dab368cf5"
+   },
+   "titulo": "Certificación de expediente en trámite",
+   "url_accion": "https://sol.pdihonduras.gob.hn/IHTT/web/ciudadano/#/inicio",
+   "url_final_accion": "https://sol.pdihonduras.gob.hn/IHTT/web/ciudadano/#/inicio"
+  },
+  "1090": {
+   "archivo": "10 Trámites del Estado/Secretaría de Trabajo y Seguridad Social/TR-1090 Aprobación reglamento interno de trabajo.md",
+   "comparador": {
+    "nivel_complejidad": "Complejo",
+    "puntaje_complejidad": 21,
+    "siglas_institucion": "STSS",
+    "tiempo_estimado_dias": 21
+   },
+   "estado_portal": "Vigente",
+   "extraido": "2026-11-09T14:32",
+   "huella": "2da95f78c10740f12356d1e1759cc9760a6706fccf6df147bd6bd38bd390a504",
+   "institucion": "11060",
+   "modalidad": "En línea",
+   "no_aparece_desde": null,
+   "secciones": {
+    "Cabecera": "321f2821fcb7819f4ddb5d8160abc70376d5b17817653450c0c4dd25f120d9bb",
+    "Descripción": "73d909862ced2be425dd07de7abefae0d16bf091c6a8b20d479d044398673af6",
+    "Dirigido a": "f4b78450ef5589d58927168d71dbc50c3b12b5c135663fc7cdb98b319f0951bb",
+    "Entregables": "4bb113e67e5aa6565689cdd5348a01b76a6fc0033f4176c9b0e29cbfb1650cc4",
+    "Lugares": "65f1dc55d8d874d9c8e5917fcec99a35797baa4cbc5d2b3c6124f5294d47fe97",
+    "Más información": "64c60e0b5835e3ef1d716d927198d87c5e51582db13907efdc74c74bdd2d0b38",
+    "Objetivo": "9a0e77008490ebe2b3049eb2897ed74c7a951e0216ccc9fad264945a4a63ba84",
+    "Pasos del trámite": "805744449af3e2c3b34153299667f5ad3008af40de2cf8628f600f8840cf14aa",
+    "Requisitos": "a5b4e1f18e21c59ed2df482d0b4c6c5e2e76beab98181d2b8a9e32a932991749",
+    "Responsable": "bd4dd73230b20bda81af6243da751438a21e967ffd43f75f298bac4bb48aeda4",
+    "Según el comparador del portal": "1dc1bb4b3e18589ec7d581fd5ba34f8e226e1c6ddc019b1a271d2d5da2b410f3",
+    "URL final del botón": "149812663f243319d7fa49b265bc8efd65885c46d5f0bfcb03a8c1c130e63ec5"
+   },
+   "titulo": "Aprobación reglamento interno de trabajo",
+   "url_accion": "https://sol.trabajo.gob.hn/ciudadano/#/inicio",
+   "url_final_accion": "https://sol.trabajo.gob.hn/ciudadano/#/inicio"
+  },
+  "1106": {
+   "archivo": "10 Trámites del Estado/Secretaría de Trabajo y Seguridad Social/TR-1106 Certificación de cumplimiento de normativa laboral.md",
+   "comparador": {
+    "nivel_complejidad": "Complejo",
+    "puntaje_complejidad": 25,
+    "siglas_institucion": "STSS",
+    "tiempo_estimado_dias": 23
+   },
+   "estado_portal": "Vigente",
+   "extraido": "2026-11-09T14:32",
+   "huella": "72f6cb79a5f6b04633ce3962764fa7b9f485f8e307f74fca24f3270931433e0d",
+   "institucion": "11060",
+   "modalidad": "En línea",
+   "no_aparece_desde": null,
+   "secciones": {
+    "Cabecera": "9bd682ee53abe127fad2325d008a5faf87dd56e7166386b5ba2024488701bbd0",
+    "Descripción": "39964afbaa69cf471d3ce705779072580ae679dc5ed809f2eb9795e4db689251",
+    "Dirigido a": "3d00833d081061184416002ce3027ea7086893c6d31641be8a3fac0f1a2c0f8e",
+    "Entregables": "21b139279a2459569f105537172974c9d9cc17fcd22232855e47ea5f55187209",
+    "Lugares": "2e34a3d1ba5fd008ff61a2d282f9e475538de2376b5a4f7ffd32e0add9fdbb3b",
+    "Más información": "2fe1199ee2d6c67e2a96345e028812a8ac6518e1ea378f4bde46d3631bec4bc5",
+    "Objetivo": "f3a7a27ed6e3c0796569f9c7581b8f988efe2373e50391d96251991735e6e9cf",
+    "Pasos del trámite": "805744449af3e2c3b34153299667f5ad3008af40de2cf8628f600f8840cf14aa",
+    "Requisitos": "084867be4adfa8f0d0627e207934fce14b0e46e4822131aabc1e99613fd56115",
+    "Responsable": "bd4dd73230b20bda81af6243da751438a21e967ffd43f75f298bac4bb48aeda4",
+    "Según el comparador del portal": "c183319cd3f9de8fde49dae84f89c67ffdb292032e41492422cb0d3137a43f42",
+    "URL final del botón": "149812663f243319d7fa49b265bc8efd65885c46d5f0bfcb03a8c1c130e63ec5"
+   },
+   "titulo": "Certificación de cumplimiento de normativa laboral",
+   "url_accion": "https://sol.trabajo.gob.hn/ciudadano/#/inicio",
+   "url_final_accion": "https://sol.trabajo.gob.hn/ciudadano/#/inicio"
+  },
+  "1113": {
+   "archivo": "10 Trámites del Estado/Secretaría de Trabajo y Seguridad Social/TR-1113 Certificaciones y constancias emitidas por la Dirección General del Trabajo (DGT).md",
+   "comparador": {
+    "nivel_complejidad": "Complejo",
+    "puntaje_complejidad": 13,
+    "siglas_institucion": "STSS",
+    "tiempo_estimado_dias": 15
+   },
+   "estado_portal": "Vigente",
+   "extraido": "2026-11-09T14:32",
+   "huella": "3c420ab34a3b0fb1a32e361c66dfb0e1fa1c0caa2c4fb47a8cd128edfe0ea16b",
+   "institucion": "11060",
+   "modalidad": "En línea",
+   "no_aparece_desde": null,
+   "secciones": {
+    "Cabecera": "dfd63608e4ea5862686f4d3a41a6afcc3d679b32ee9fa26e6fa7d6b6d2c35905",
+    "Descripción": "9a8ac9e3b8d69d92fc29b4215ed8f9a464376ad9986666884d48e497965f49fd",
+    "Dirigido a": "28231bc462e3fc26a49a11289bf8a0b16a9766c6966b9b9f17f77ecaa89a5fce",
+    "Entregables": "77529c800edcdd327ac26bb503fca6f59085157ed614a78e4ae223dd97bea5a3",
+    "Lugares": "2e34a3d1ba5fd008ff61a2d282f9e475538de2376b5a4f7ffd32e0add9fdbb3b",
+    "Más información": "23c32a084a119f9965f5a72f0b26839df0cd2ca380fa5c5f300aabce0e4838ab",
+    "Objetivo": "93b770e27b59833f5f0dc59d4608c6920efbdf3048ceeebef3304106dec0076b",
+    "Pasos del trámite": "805744449af3e2c3b34153299667f5ad3008af40de2cf8628f600f8840cf14aa",
+    "Requisitos": "2f96fe896e444b0de4c6741bcb1bd2ed6588c707b51937852b8031b3c835e329",
+    "Responsable": "bd4dd73230b20bda81af6243da751438a21e967ffd43f75f298bac4bb48aeda4",
+    "Según el comparador del portal": "c608edc7e3c6a4ce52ae27095cb5ace2962f31d1c79ee28032310b66e1477a36",
+    "URL final del botón": "149812663f243319d7fa49b265bc8efd65885c46d5f0bfcb03a8c1c130e63ec5"
+   },
+   "titulo": "Certificaciones y constancias emitidas por la Dirección General del Trabajo (DGT)",
+   "url_accion": "https://sol.trabajo.gob.hn/ciudadano/#/inicio",
+   "url_final_accion": "https://sol.trabajo.gob.hn/ciudadano/#/inicio"
+  },
+  "1162": {
+   "archivo": "10 Trámites del Estado/Secretaría de Trabajo y Seguridad Social/TR-1162 Comunicación de Cambio de Junta Directiva.md",
+   "comparador": {
+    "nivel_complejidad": "Complejo",
+    "puntaje_complejidad": 24,
+    "siglas_institucion": "STSS",
+    "tiempo_estimado_dias": 27
+   },
+   "estado_portal": "Vigente",
+   "extraido": "2026-11-09T14:32",
+   "huella": "a9ad183bfcfabc4782995418945f76721a677fdb81e9e7b05e2a2d3788d7ce62",
+   "institucion": "11060",
+   "modalidad": "En línea",
+   "no_aparece_desde": null,
+   "secciones": {
+    "Cabecera": "6f895956ee162f34e5ed5b1552885b6693effc3a487d18a8eaf4399dd5d37382",
+    "Descripción": "d7c59bd0751e64edc616917b3c29475df32c7c50a7e36246962cd2d09e2d5d1a",
+    "Dirigido a": "ad91d29a641d51c48bb6ca3b99fbfb2c9d43b5acf613bcbc98ff79c6dd623d57",
+    "Entregables": "4e63c1d2d7a7a68adbfe84f89fe9065ed2e4fbad76a784a23add7eaa3d6092e4",
+    "Lugares": "2e34a3d1ba5fd008ff61a2d282f9e475538de2376b5a4f7ffd32e0add9fdbb3b",
+    "Más información": "234fc4c8b48a19a628f27a0f2ee168539f5ae522d97e3c230b9d8c9132a5dafe",
+    "Objetivo": "9e268b531c9f3af5ef1a148eda8ccbf940005686237221749354c3493c3ef726",
+    "Pasos del trámite": "5fbc321687b2c5826b080378bcd5ade39558022a3d2bc14d34e904ec65773bc9",
+    "Requisitos": "87839680e1c6971b491c822cdf9036f571fe3b3f2dff02205528ca789af5325b",
+    "Responsable": "bd4dd73230b20bda81af6243da751438a21e967ffd43f75f298bac4bb48aeda4",
+    "Según el comparador del portal": "264d408631f16cc18eb68444b59db8f6ba9a44c60446001456cc843402181d2a",
+    "URL final del botón": "149812663f243319d7fa49b265bc8efd65885c46d5f0bfcb03a8c1c130e63ec5"
+   },
+   "titulo": "Comunicación de Cambio de Junta Directiva",
+   "url_accion": "https://sol.trabajo.gob.hn/ciudadano/#/inicio",
+   "url_final_accion": "https://sol.trabajo.gob.hn/ciudadano/#/inicio"
+  },
+  "142": {
+   "archivo": "10 Trámites del Estado/Secretaría de Relaciones Exteriores y Cooperación Internacional/TR-142 Autenticas y Apostillas.md",
+   "comparador": {
+    "nivel_complejidad": "Complejo",
+    "puntaje_complejidad": 10,
+    "siglas_institucion": "SRECI",
+    "tiempo_estimado_dias": 13
+   },
+   "estado_portal": "Vigente",
+   "extraido": "2026-11-09T14:32",
+   "huella": "97292b9448e97591a6b64f40c218505240ee8ea5164f65806aeb6104b60f3853",
+   "institucion": "11065",
+   "modalidad": "En línea",
+   "no_aparece_desde": null,
+   "secciones": {
+    "Cabecera": "dcbdefe0660fbb4775ab64ec5405e2517c7871682705f9fd2cf9b8f1a22165a1",
+    "Descripción": "0ea8ea6458f23b4968179b51a1c1465eeba9dec1fac0518b2e373f5060e96ff6",
+    "Dirigido a": "74f4274bd52c078f7c3bdb30e18e009038f69aee23afff00e6f36ae7f0787b35",
+    "Entregables": "79b34fc426421283b092d863234e9369cfc649247c7cfca202cf4511684789f5",
+    "Lugares": "a07acd38c4983404008a09023b2883c7b18020888332087e6021bbbf8c8d65f9",
+    "Más información": "b173ecc52ebe89ca82982b6b0a3095683a1a12ccc4c9a235d98dd1dfb2aea1a2",
+    "Objetivo": "d76c465e4a93bbc47876b307968c091dd3afbce09233b7e53f17fdadb6b48ee2",
+    "Pasos del trámite": "805744449af3e2c3b34153299667f5ad3008af40de2cf8628f600f8840cf14aa",
+    "Requisitos": "6a9453582af93a67cf36c52b667d504f550c9efb4e7b842659cdab067191fc6d",
+    "Responsable": "442f54be7c5b954aff1defe9d415959948bca2e09c072db2d6c1c40057a9adc0",
+    "Según el comparador del portal": "ef2994fd49e5110706b0b7aab5e67d154ca9a49580e46cccb53796dcd4d56743",
+    "URL final del botón": "48e0e5ea91c78f911a6d8fb7a25d028022be4bebae27fedef9d0f30a66cae655"
+   },
+   "titulo": "Autenticas y Apostillas",
+   "url_accion": "https://tramitedigital.sreci.gob.hn/SOL/web/ciudadano/#/inicio",
+   "url_final_accion": "https://tramitedigital.sreci.gob.hn/SOL/web/ciudadano/#/inicio"
+  },
+  "705": {
+   "archivo": "10 Trámites del Estado/Secretaría de Trabajo y Seguridad Social/TR-705 Reconocimiento e Inscripción de Personalidad Jurídica.md",
+   "comparador": {
+    "nivel_complejidad": "Complejo",
+    "puntaje_complejidad": 35,
+    "siglas_institucion": "STSS",
+    "tiempo_estimado_dias": 38
+   },
+   "estado_portal": "Vigente",
+   "extraido": "2026-11-09T14:32",
+   "huella": "354b1890bdeb2b69503c529760c767ddc92e18c76e859f9e94d75346e3e87fad",
+   "institucion": "11060",
+   "modalidad": "En línea",
+   "no_aparece_desde": null,
+   "secciones": {
+    "Cabecera": "80ee9666d08bb75cb669ad33e6e04a3121e1bceafd13f0270f11d944edd84fa2",
+    "Descripción": "71990b3b555dde18df358f428415b5db9e78e63fc5fb5f2fb32270df1c66c1e0",
+    "Dirigido a": "82cff1435b55f5bd44894a087a30a38226d410a2a355cc1dacb9e0598312f29e",
+    "Entregables": "f858712b2afc3df94b6bd58fa06569bee885ff72f458d720a9af93aa5f1a2d92",
+    "Lugares": "c67ced9c3ebd8362d2501621ab79f6b1580a19be909440365c4c693f7a4c1627",
+    "Más información": "67aafd17de06196111fd66edef8d700c5cbd525aed6b258bd9e66dd8969565bc",
+    "Objetivo": "46a2a4d7e77fbb0e11fb5594d98d054a2f8bc4ab82bdddce796fd80c4ae1cc6a",
+    "Pasos del trámite": "10eb9e28d46d3f96892adafc41dd770be8e64287b65735f7a6ab6b06a526500b",
+    "Requisitos": "e917b35e17c6cad782c372942f79a9736c598f2adc0b0ee4ef637cd0f1643a73",
+    "Responsable": "88ddd0a5ed919975320c31ab26cb6d47edd07e923c7a2bc5b599b198409c637e",
+    "Según el comparador del portal": "468bbc53b8dd06d6ea719c1f9218f1017781b55f9291b8848d8a682988dccbb9",
+    "URL final del botón": "149812663f243319d7fa49b265bc8efd65885c46d5f0bfcb03a8c1c130e63ec5"
+   },
+   "titulo": "Reconocimiento e Inscripción de Personalidad Jurídica",
+   "url_accion": "https://sol.trabajo.gob.hn/ciudadano/#/inicio",
+   "url_final_accion": "https://sol.trabajo.gob.hn/ciudadano/#/inicio"
+  },
+  "712": {
+   "archivo": "10 Trámites del Estado/Secretaría de Trabajo y Seguridad Social/TR-712 Aprobación de Reforma de Estatutos de las Organizaciones Sociales.md",
+   "comparador": {
+    "nivel_complejidad": "Complejo",
+    "puntaje_complejidad": 12,
+    "siglas_institucion": "STSS",
+    "tiempo_estimado_dias": 14
+   },
+   "estado_portal": "Vigente",
+   "extraido": "2026-11-09T14:32",
+   "huella": "04f7ed9ce999865323dfce7b8df369caa7905f28574b69cca7ee7a9faee401f6",
+   "institucion": "11060",
+   "modalidad": "En línea",
+   "no_aparece_desde": null,
+   "secciones": {
+    "Cabecera": "b33a9c846fc289f7f462a6b6849af8f9bafacf64d34d0ec424b4d08f0eae3b4c",
+    "Descripción": "5e950f5bd6d4c96b104206142340615fe82fd49328ebc1749516aa19d661ddca",
+    "Dirigido a": "82c975a8c38b78823add2c83ee0e9fdf55a83e700bf6fe2c13a9cad430af384f",
+    "Entregables": "f858712b2afc3df94b6bd58fa06569bee885ff72f458d720a9af93aa5f1a2d92",
+    "Lugares": "5ecca2e3c3a982117cec0d35b1dfdc2aefe8b4401f7e226d0834d5559ff60acb",
+    "Más información": "59d8f62a8c5213b1f5958917f2d8491031644cc6310aee4edc824e2eb76e4d94",
+    "Objetivo": "9ee729afc6fb59da08591d0a23edbe763936a565a63c853db93f4a432c087237",
+    "Pasos del trámite": "f1b4adee046b0b4afd3b2d666572bbaefb81188a9905a7a232c692aa4cd17337",
+    "Requisitos": "bec426f68a00e45faceed351d89113772d07b90a6b8a14e22f7bf11b126d266d",
+    "Responsable": "88ddd0a5ed919975320c31ab26cb6d47edd07e923c7a2bc5b599b198409c637e",
+    "Según el comparador del portal": "458214537b51723e8904d7ff27d44028f8fd9e4f57647f7157db1cacbbc6a5f6",
+    "URL final del botón": "149812663f243319d7fa49b265bc8efd65885c46d5f0bfcb03a8c1c130e63ec5"
+   },
+   "titulo": "Aprobación de Reforma de Estatutos de las Organizaciones Sociales",
+   "url_accion": "https://sol.trabajo.gob.hn/ciudadano/#/inicio",
+   "url_final_accion": "https://sol.trabajo.gob.hn/ciudadano/#/inicio"
+  }
+ },
+ "version": 1
+}

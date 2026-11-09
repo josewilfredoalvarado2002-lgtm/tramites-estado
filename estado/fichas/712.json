@@ -1,0 +1,273 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://sol.trabajo.gob.hn/ciudadano/#/inicio"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Director General de Trabajo"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Regular la organización y funcionamiento de las organizaciones sociales que gozan de personalidad jurídica."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Junta directiva de la Organización sindical.",
+    "Representante legal de la Organización sindical.",
+    "Apoderado legal de la Organización sindical."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Las reformas a los estatutos de los sindicatos son modificaciones o actualizaciones de las normas que rigen el funcionamiento interno de estas organizaciones. Los estatutos son elconjunto de reglas que establecen la estructura, los objetivos, los derechos y deberes de los miembros, así como los procedimientos para la toma de decisiones y la gestión del sindicato."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 712,
+ "institucion": "Secretaría de Trabajo y Seguridad Social",
+ "modalidad": "En línea",
+ "numero": "712",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "La Junta Directiva de la Organización sindical, el Representante legal, o el Apoderado legal de la Organización sindical pueden solicitar el trámite."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "El solicitante debe llenar el formulario del servicio en línea y adjuntar los documentos requeridos."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "El trámite requiere la solicitud de aprobación de las reformas, presentada a la Secretaría de Trabajo y Seguridad Social, por conducción de la Dirección General del Trabajo."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Se debe adjuntar la Certificación del Acta de la Asamblea General en donde consten las reformas introducidas."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Se debe adjuntar una segunda Certificación del Acta de la Asamblea General en donde consten las reformas introducidas y los estatutos vigentes digitales en formato editable."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "El trámite es completamente gratuito."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "El tiempo de entrega de la resolución es de 20 días hábiles."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Al finalizar, se le hace entrega de la certificación de resolución."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "La solicitud de aprobación de las reformas, presentada a la Secretaría de Trabajo y Seguridad Social, por conducción de la Dirección General del Trabajo."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificación del Acta de la Asamblea General, en donde consten las reformas introducidas."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificación del Acta de la Asamblea General, en donde consten las reformas introducidas y los estatutos vigentes digitales en formato editable."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "LOS TRÁMITES NO SON TRANSFERIBLES A OTRO RESPONSABLE."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Cuerpo Bajo B, Centro Cívico Gubernamental José Cecilio Valle, Boulevard Juan Pablo II"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "+(504)2232-3842"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Central Tegucigalpa"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificación de Resolución"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://sol.trabajo.gob.hn/ciudadano/#/inicio",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sol.trabajo.gob.hn/ciudadano/#/inicio"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.trabajo.gob.hn/wp-content/uploads/2025/03/Tramite-de-Aprobacion-de-reforma-de-estatutos-Tutorial.mp4",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.trabajo.gob.hn/wp-content/uploads/2025/03/Tramite-de-Aprobacion-de-reforma-de-estatutos-Tutorial.mp4"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Aprobación de Reforma de Estatutos de las Organizaciones Sociales"
+}

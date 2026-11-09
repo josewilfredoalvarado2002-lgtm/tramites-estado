@@ -1,0 +1,393 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://sol.trabajo.gob.hn/ciudadano/#/inicio"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Dirección General de Trabajo"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Documentar y comunicar oficialmente las modificaciones en los cargos y miembros que componen en la junta directiva"
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Junta Directiva de la organización sindical",
+    "Representante legal de la organización sindical",
+    "Apoderado legal de la organización sindical"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "El registro de cambios en la junta directiva implica documentar y comunicar oficialmente las modificaciones en los cargos y miembros que la componen, los cambios en la junta directiva es un proceso fundamental para mantener la legalidad, transparencia y estabilidad en la dirección de un sindicato, garantizando la protección de los derechos de sus miembros."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 1162,
+ "institucion": "Secretaría de Trabajo y Seguridad Social",
+ "modalidad": "En línea",
+ "numero": "1162",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Elaborar la Comunicación escrita dirigida a la Dirección General del Trabajo Dirección general del Trabajo(DGT)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Presentar la solicitud de modificación de la Junta Directiva ante el Inspector de Trabajo y Seguridad Social de su jurisdicción."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Adjuntar la Nómina de la Junta Directiva por triplicado."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "La Nómina debe indicar la nacionalidad, sexo, profesión u oficio y el número de tarjeta de identidad de cada director."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Adjuntar la Certificación de Punto de Acta acreditando la elección de la nueva Junta Directiva, debidamente firmada por el Secretario."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "La Certificación de Acta de la Asamblea General debe estar suscrita por todos los participantes."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Incluir la lista de asociados participantes en la Asamblea General, la cual debe contener: Nombre, DNI, Firma o Huella"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Adjuntar una copia de la Autorización del Libro de Actas en que se encuentra asentada el acta de asamblea general."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "9",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "El tesorero debe depositar en la Dirección General del Trabajo una copia de la caución que rinda a favor del sindicato para garantizar el manejo de los fondos."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "10",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Adjuntar una copia de la comunicación dirigida al empleador, debidamente decepcionada."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "11",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Se deberá cancelar un recibo TGR1 por un valor de L. 200.00 en la Tesorería General de la República para la emisión de Constancia de Registro de Cuerpos Directivos por la Oficina ODS."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "12",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "La comunicación de cualquier cambio, total o parcial, en la Junta Directiva debe ser realizada dentro de los cinco (05) días siguientes a la hábiles."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "13",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "El Inspector de Trabajo revisará que los documentos estén completos y, si cumplen, procederá a recibir y diligenciar el formato de registro."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "14",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Al finalizar el proceso, la organización obtendrá la Constancia de Registro de Cuerpos Directivos."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Comunicación del cambio de Junta Directiva del Sindicato."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Acta de la Asamblea General del sindicato con indicación del número de miembros concurrentes a la sesión, un extracto de las deliberaciones y el texto de las decisiones tomadas."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Nomina de los directores selectos, indicando nacionalidad, profesión u oficio, número de la tarjeta de identidad y el domicilio de cada director."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de afiliación sindical."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de trabajo de empleado permanente en el momento de la elección, con indicación de la actividad, profesión u oficio característico."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de saber leer y escribir emitida por un Inspector de trabajo o en su defecto por un notario público mediante acta notarial, título o certificación de estudio de los integrantes, certificación emitida por el secretario de acta en donde certifique la habilidad de lectura y escritura."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Documento Nacional de Identificación (DNI)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de no tener antecedentes penales emitida en fecha posterior a la Asamblea."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Caución del tesorero debidamente firmada y sellada por la organización Sindical."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "LOS TRÁMITES NO SON TRANSFERIBLES A OTRO RESPONSABLE."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Cuerpo Bajo B, Centro Cívico Gubernamental José Cecilio del Valle, Boulevard Juan Pablo II."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "+(504)2232-3918"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Centro Cívico Gubernamental José Cecilio del Valle"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificación del Registro de la Junta Directiva Vigente."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://sol.trabajo.gob.hn/ciudadano/#/inicio",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sol.trabajo.gob.hn/ciudadano/#/inicio"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.trabajo.gob.hn/wp-content/uploads/2025/03/TUTORIAL-CAMBIO-DE-JUNTA-DIRECTIVA.mp4",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.trabajo.gob.hn/wp-content/uploads/2025/03/TUTORIAL-CAMBIO-DE-JUNTA-DIRECTIVA.mp4"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Comunicación de Cambio de Junta Directiva"
+}

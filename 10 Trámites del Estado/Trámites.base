@@ -1,0 +1,109 @@
+filters:
+  and:
+    - tipo == "tramite"
+    - file.inFolder("10 Trámites del Estado")
+properties:
+  file.name:
+    displayName: Nota
+  id_portal:
+    displayName: N.º
+  titulo:
+    displayName: Trámite
+  institucion:
+    displayName: Institución
+  modalidad:
+    displayName: Modalidad
+  dirigido_a:
+    displayName: Dirigido a
+  responsable:
+    displayName: Responsable
+  costo:
+    displayName: Costo
+  tiempo_respuesta:
+    displayName: Tiempo de respuesta
+  comparador_tiempo_dias:
+    displayName: Días estimados (comparador)
+  comparador_complejidad:
+    displayName: Complejidad (comparador)
+  estado_portal:
+    displayName: Estado en el portal
+views:
+  - type: table
+    name: Por institución
+    groupBy:
+      property: institucion
+      direction: ASC
+    order:
+      - id_portal
+      - file.name
+      - modalidad
+      - dirigido_a
+      - responsable
+      - comparador_tiempo_dias
+      - comparador_complejidad
+      - estado_portal
+    sort:
+      - property: id_portal
+        direction: ASC
+  - type: table
+    name: En línea
+    filters:
+      and:
+        - modalidad == "En línea"
+    groupBy:
+      property: institucion
+      direction: ASC
+    order:
+      - id_portal
+      - file.name
+      - dirigido_a
+      - responsable
+  - type: table
+    name: Presencial
+    filters:
+      and:
+        - modalidad == "Presencial"
+    groupBy:
+      property: institucion
+      direction: ASC
+    order:
+      - id_portal
+      - file.name
+      - dirigido_a
+      - responsable
+  - type: table
+    name: Dirigido a (texto contiene «natural»)
+    filters:
+      and:
+        - dirigido_a.join(" ").lower().contains("natural")
+    groupBy:
+      property: institucion
+      direction: ASC
+    order:
+      - id_portal
+      - file.name
+      - modalidad
+      - dirigido_a
+  - type: table
+    name: Dirigido a (texto contiene «jurídic»)
+    filters:
+      and:
+        - dirigido_a.join(" ").lower().contains("jurídic")
+    groupBy:
+      property: institucion
+      direction: ASC
+    order:
+      - id_portal
+      - file.name
+      - modalidad
+      - dirigido_a
+  - type: table
+    name: Ya no aparecen en el portal
+    filters:
+      and:
+        - estado_portal == "Ya no aparece en el portal"
+    order:
+      - id_portal
+      - file.name
+      - institucion
+      - no_aparece_desde

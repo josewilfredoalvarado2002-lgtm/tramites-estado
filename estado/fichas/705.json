@@ -1,0 +1,502 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://sol.trabajo.gob.hn/ciudadano/#/inicio"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Director General de Trabajo"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Reconocer la personalidad jurídica de las organizaciones sociales que tienen por objeto el estudio, mejoramiento y protección de sus respectivos intereses económicos y sociales comunes."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Junta Directiva Provisional delsindicato a través de su representante legal.",
+    "Apoderado legal del sindicato"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "La personería jurídica es el reconocimiento legal que se otorga a una organización, mediante su inscripción en la Secretaría de Trabajo y Seguridad Social. Este reconocimiento faculta a la organización para actuar como una entidad independiente, con la capacidad de ejercer derechos y asumir obligaciones en representación de sus miembros afiliados."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 705,
+ "institucion": "Secretaría de Trabajo y Seguridad Social",
+ "modalidad": "En línea",
+ "numero": "705",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Llenar el formulario del servicio en línea."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Adjuntar la Solicitud de inscripción de sindicato."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Adjuntar la Certificación del Acta de Fundación del Sindicato, con firmas autógrafas de los miembros afiliados o de quienes firmen por ellos, y la anotación de sus respectivas tarjetas de identidad."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Adjuntar la Certificación del Acta de elección de la Junta Directiva Provisional."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Adjuntar la Certificación del Acta de la Reunión en que fueron aprobados los estatutos."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Adjuntar la Carta Poder debidamente autenticada (en caso de comparecer en representación de la Junta Directiva Provisional)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Adjuntar un ejemplar de los estatutos del sindicato, extendido por el secretario provisional."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Adjuntar la Nómina de la Junta Directiva, con indicación de la nacionalidad, la profesión u oficio, el número de la tarjeta de identidad y el domicilio de cada director."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "9",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Adjuntar la Nómina Completa del Personal de afiliados, con indicación de la nacionalidad, sexo y profesión u oficio de cada uno de ellos."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "10",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Adjuntar la Constancia de afiliación sindical."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "11",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Adjuntar la Constancia de Trabajo de empleado permanente en el momento de la elección, con indicación de la actividad, profesión u oficio característico del sindicato, y haberlo ejercido normalmente por más de seis (6) meses en el año."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "12",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Adjuntar la Constancia de saber leer y escribir, la cual puede ser emitida por un Inspector de Trabajo o por un notario público mediante acta notarial, título o certificación de estudio de los integrantes, o certificación emitida por el secretario de acta donde certifique la habilidad de lectura y escritura."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "13",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Adjuntar el Documento Nacional de Identificación (DNI)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "14",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Adjuntar la Constancia de no tener antecedentes penales emitida en fecha posterior a la Asamblea."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "15",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Adjuntar la Caución del tesorero debidamente firmada y sellada por la organización sindical."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "16",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "La solicitud se presenta a la Secretaría de Estado en los despachos de Trabajo y Seguridad Social a través de la Dirección General del Trabajo."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "17",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Una vez presentada la solicitud, el tiempo de entrega de la resolución es de 4 a 6 meses."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "18",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Al finalizar, se otorga la certificación de resolución."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "19",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "El trámite es completamente gratuito."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Solicitud de inscripción de sindicato"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificación del Acta de Fundación del Sindicato, con las firmas autógrafas de los miembros afiliados, o de quienes firmen por ello, y la anotación de sus respectivas tarjetas de identidad."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificación del Acta de elección de la Junta Directiva Provisional."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificación del Acta de la Reunión en que fueron aprobados los estatutos."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Carta Poder debidamente autenticada (en caso de comparar en representación de la Junta Directiva Provisional)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificación del Acta de Fundación, extendida por el secretario Provisional."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Un ejemplar de los estatutos del sindicato, extendido por el secretario provisional."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Nómina de la Junta Directiva, con indicación de la nacionalidad, la profesión u oficio, el número de la tarjeta de identidad y el domicilio de cada director."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Nómina Completa del Personal de afiliados, con indicación de la nacionalidad, sexo y profesión u oficio de cada uno de ellos."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de afiliación sindical."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de Trabajo de empleado permanente en el momento de la elección, con indicación de la actividad, profesión u oficio característico del sindicato, y haberlo ejercido normalmente por más de seis (6) meses en el año."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de saber leer y escribir emitida por un Inspector de trabajo o en su defecto por un notario público mediante acta notarial, titulo o certificación de estudio de los integrantes, certificación emitida por el secretario de acta en donde certifique la habilidad de lectura y escritura."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Documento Nacional de Identificación (DNI)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de no tener antecedentes penales emitida en fecha posterior a la Asamblea."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Caución del tesorero debidamente firmada y sellada por la organización sindical."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "En caso de que actúe en condición de apoderado legal, deberá acreditar la carta, poder debidamente autenticada y carnet de colegiación vigente."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Cuerpo Bajo B, Centro Cívico Gubernamental José Cecilio del Valle, Boulevard Juan Pablo II. Tegucigalpa M.D.C. Honduras."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "+(504)2232-3842"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Teguciglpa"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificación de Resolución"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://sol.trabajo.gob.hn/ciudadano/#/inicio",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sol.trabajo.gob.hn/ciudadano/#/inicio"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.trabajo.gob.hn/wp-content/uploads/2025/03/Tutorial-PJ.mp4",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.trabajo.gob.hn/wp-content/uploads/2025/03/Tutorial-PJ.mp4"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Reconocimiento e Inscripción de Personalidad Jurídica"
+}
