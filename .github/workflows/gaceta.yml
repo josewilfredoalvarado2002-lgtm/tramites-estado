@@ -1,0 +1,54 @@
+name: Gaceta (normativa)
+
+on:
+  schedule:
+    - cron: "23 8 * * *"
+  workflow_dispatch:
+    inputs:
+      modo:
+        description: "tanda = sigue cargando de la más reciente hacia atrás; piloto = ediciones 37261 y 37262"
+        type: choice
+        options:
+          - tanda
+          - piloto
+        default: tanda
+      max:
+        description: "Ediciones por corrida"
+        default: "40"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gaceta-normativa
+  cancel-in-progress: false
+
+jobs:
+  gaceta:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v6
+
+      - name: Instalar lector de PDF
+        run: python3 -m pip install --quiet --break-system-packages pymupdf
+
+      - name: Pruebas
+        run: python3 -m unittest discover -s pruebas -p "test_gaceta*.py"
+
+      - name: Cargar La Gaceta
+        run: python3 -m gaceta.extraer --modo "${{ inputs.modo || 'tanda' }}" --max "${{ inputs.max || '40' }}"
+
+      - name: Guardar en el repositorio
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for ruta in "11 Normativa" estado/gaceta.json; do
+            if [ -e "$ruta" ]; then git add -A -- "$ruta"; fi
+          done
+          if git diff --cached --quiet; then echo "Sin cambios que guardar."; exit 0; fi
+          git commit -m "Gaceta $(TZ=America/Tegucigalpa date '+%Y-%m-%d %H:%M')"
+          git pull --rebase --quiet
+          git push
