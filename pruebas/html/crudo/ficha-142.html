@@ -1,0 +1,841 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Realizar la gesti&#xF3;n administrativa en el apego a las disposiciones establecidas en la Ley de la Administraci&#xF3;n P&#xFA;blica y su Reglamento bajo los principios de le... - Portal de Trámites Honduras">
+	<meta property="og:title" content="Autenticas y Apostillas  - Portal de Trámites Honduras">
+	<meta property="og:description" content="Realizar la gesti&#xF3;n administrativa en el apego a las disposiciones establecidas en la Ley de la Administraci&#xF3;n P&#xFA;blica y su Reglamento bajo los principios de legalidad, eficacia y simplificaci&#xF3;n.">
+	<meta property="og:type" content="article">
+	<title>Autenticas y Apostillas  - Portal Honduras</title>
+
+	<!-- Tipografía oficial DIGER — Poppins (Manual de Marca DIGER) -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;800&display=swap" rel="stylesheet">
+
+	<!-- Iconos · Phosphor Icons (regular, bold, fill, duotone) -->
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.1/src/regular/style.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.1/src/bold/style.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.1/src/fill/style.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.1/src/duotone/style.css">
+
+	<!-- Favicon DIGER -->
+	<link rel="icon" href="/assets/images/logo/diger-isotipo-color.png" type="image/png">
+
+	<!-- Core CSS -->
+	<link rel="stylesheet" href="/assets/css/renew.css?v=639298529927352751">
+	<!-- DIGER 2026 — Sistema de diseño oficial (paleta marino / medio / celeste + Híbrido) -->
+	<link rel="stylesheet" href="/assets/css/diger-2026.css?v=639298529927352788">
+
+	<style>
+		/* ===== Detalle de trámite — Densidad C sobre shell B ===== */
+		* { box-sizing: border-box; }
+		body {
+			margin: 0;
+			font-family: 'Poppins', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+			font-weight: 500;
+			color: var(--diger-azul-marino);
+			background: #f4f7fb;
+			overflow-x: hidden;
+			-webkit-font-smoothing: antialiased;
+			text-rendering: optimizeLegibility;
+		}
+		main { display: block; }
+		#contenido { scroll-margin-top: 84px; }
+
+		/* ---------- Encabezado (eyebrow institución + título + descripción) ---------- */
+		.dt-eyebrow {
+			display: inline-flex; flex-wrap: wrap; align-items: center; gap: 9px;
+			max-width: 100%; margin: 2px 0 4px; letter-spacing: 0.08em; line-height: 1.5;
+		}
+		.dt-title {
+			font-family: 'Poppins', sans-serif; font-weight: 800; letter-spacing: -0.02em;
+			color: var(--diger-azul-marino); font-size: clamp(1.7rem, 3.4vw, 2.5rem);
+			line-height: 1.15; margin: 8px 0 12px;
+		}
+		.dt-desc {
+			max-width: 70ch; font-size: clamp(15px, 1.5vw, 16.5px); line-height: 1.65;
+			color: var(--color-text-muted); font-weight: 500; margin: 0 0 18px;
+		}
+		.dt-metarow { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin-bottom: 22px; }
+		.dt-chip {
+			display: inline-flex; align-items: center; gap: 7px; height: 30px; padding: 0 13px;
+			border-radius: 999px; background: #fff; border: 1px solid var(--color-border);
+			font-family: 'Poppins', sans-serif; font-size: 13px; font-weight: 600; color: var(--color-text-muted);
+		}
+		.dt-chip i { font-size: 16px; color: var(--diger-azul-medio); }
+
+		/* ---------- Acciones (CTA + favorito + volver) ---------- */
+		.dt-actions { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
+		.btn-iniciar {
+			display: inline-flex; align-items: center; justify-content: center; gap: 9px;
+			height: 50px; padding: 0 26px; border: 0; border-radius: 12px;
+			background: linear-gradient(135deg, #1a65a3, #2377c2); color: #fff;
+			font-family: 'Poppins', sans-serif; font-weight: 600; font-size: 15px; cursor: pointer;
+			text-decoration: none; box-shadow: 0 12px 28px -12px rgba(26, 101, 163, 0.6);
+			transition: background 0.2s ease, transform 0.16s ease;
+		}
+		.btn-iniciar:hover { background: linear-gradient(135deg, #2377c2, #2c86d4); transform: translateY(-1px); }
+		.btn-iniciar:active { transform: translateY(0); }
+		.btn-iniciar i { font-size: 19px; }
+		.btn-favorito {
+			display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+			height: 50px; padding: 0 20px; border: 1.6px solid var(--color-border-strong);
+			border-radius: 12px; background: #fff; color: var(--diger-azul-medio);
+			font-family: 'Poppins', sans-serif; font-weight: 600; font-size: 14.5px; cursor: pointer;
+			text-decoration: none; transition: background 0.16s ease, border-color 0.16s ease, color 0.16s ease;
+		}
+		.btn-favorito i { font-size: 19px; }
+		.btn-favorito:hover { border-color: var(--diger-azul-medio); background: var(--blue-50); }
+		.btn-favorito.active { background: var(--diger-azul-medio); border-color: var(--diger-azul-medio); color: #fff; }
+		.btn-back {
+			display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+			height: 50px; padding: 0 20px; border: 1.6px solid var(--color-border-strong);
+			border-radius: 12px; background: transparent; color: var(--color-text-muted);
+			font-family: 'Poppins', sans-serif; font-weight: 600; font-size: 14.5px; cursor: pointer;
+			text-decoration: none; transition: background 0.16s ease, border-color 0.16s ease, color 0.16s ease;
+		}
+		.btn-back i { font-size: 18px; }
+		.btn-back:hover { border-color: var(--diger-azul-medio); color: var(--diger-azul-medio); background: var(--blue-50); }
+
+		/* ---------- Cuerpo ---------- */
+		.dt-body { max-width: 1380px; margin: 0 auto; padding: clamp(22px, 3vw, 34px) clamp(16px, 4vw, 32px) 8px; }
+
+		/* ---------- Info-cards compactas (icono duotone en disco celeste-15%) ---------- */
+		.quick-info { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px; margin-bottom: 26px; }
+		.info-card {
+			display: flex; gap: 14px; align-items: flex-start; background: #fff; border-radius: 16px;
+			padding: 20px; border: 1px solid var(--color-border); box-shadow: var(--shadow-sm);
+		}
+		.info-card__ico {
+			flex-shrink: 0; width: 44px; height: 44px; border-radius: 12px 12px 20px 12px;
+			background: rgba(122, 203, 221, 0.15); display: flex; align-items: center; justify-content: center;
+		}
+		.info-card__ico i { font-size: 24px; color: var(--diger-azul-medio); }
+		.info-card__text { min-width: 0; }
+		.info-card-title {
+			font-family: 'Poppins', sans-serif; font-size: 12px; font-weight: 700; letter-spacing: 0.06em;
+			text-transform: uppercase; color: var(--color-text-soft); margin: 2px 0 5px;
+		}
+		.info-card-content { font-size: 15px; font-weight: 500; color: var(--diger-azul-marino); line-height: 1.55; }
+
+		/* ---------- Tabs (pills, estado activo medio) ---------- */
+		.tabs-modern { background: #fff; border-radius: 18px; border: 1px solid var(--color-border); box-shadow: var(--shadow-sm); overflow: hidden; }
+		.tabs-header { display: flex; flex-wrap: wrap; gap: 8px; padding: 16px; border-bottom: 1px solid var(--color-border); background: var(--neutral-50); }
+		.tab-button {
+			display: inline-flex; align-items: center; gap: 8px; padding: 10px 16px;
+			border: 1px solid var(--color-border); border-radius: 999px; background: #fff;
+			color: var(--color-text-muted); cursor: pointer; font-family: 'Poppins', sans-serif;
+			font-weight: 600; font-size: 14px; white-space: nowrap;
+			transition: background 0.16s ease, color 0.16s ease, border-color 0.16s ease;
+		}
+		.tab-button i { font-size: 18px; }
+		.tab-button:hover { border-color: var(--diger-azul-medio); color: var(--diger-azul-medio); background: var(--blue-50); }
+		.tab-button.active {
+			background: linear-gradient(135deg, #1a65a3, #2377c2); border-color: transparent; color: #fff;
+			box-shadow: 0 10px 22px -12px rgba(26, 101, 163, 0.65);
+		}
+		.tab-content-wrapper { padding: clamp(20px, 3vw, 32px); }
+		.tab-pane { display: none; }
+		.tab-pane.active { display: block; animation: dtFadeIn 0.3s ease; }
+		@keyframes dtFadeIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+
+		/* ---------- Listas de densidad C (pasos numerados · requisitos checklist · entregables) ---------- */
+		.dt-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 12px; }
+		.dt-list__item {
+			display: flex; gap: 15px; align-items: flex-start; padding: 16px 18px;
+			background: var(--neutral-50); border: 1px solid var(--color-border); border-radius: 14px;
+		}
+		.dt-list__mark {
+			flex-shrink: 0; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center;
+			font-family: 'Poppins', sans-serif; font-weight: 700; font-size: 15px; border-radius: 12px 12px 20px 12px;
+		}
+		.dt-list__mark i { font-size: 24px; }
+		.dt-list__mark--num { background: linear-gradient(135deg, #1a65a3, #2377c2); color: #fff; }
+		.dt-list__mark--check { background: rgba(20, 114, 74, 0.12); color: #14724a; }
+		.dt-list__mark--doc { background: rgba(122, 203, 221, 0.18); color: var(--diger-azul-medio); }
+		.dt-list__body { min-width: 0; flex: 1; }
+		.dt-list__title { font-size: 15.5px; font-weight: 600; color: var(--diger-azul-marino); line-height: 1.5; }
+		.dt-list__meta { margin-top: 8px; font-size: 13px; }
+		.dt-list__meta-label { color: var(--color-text-soft); font-weight: 600; }
+		.dt-list__meta-value { color: var(--color-text-muted); font-weight: 500; }
+
+		/* ---------- Vista previa de documentos ---------- */
+		.documento-preview { margin-top: 14px; border-radius: 12px; overflow: hidden; border: 1px solid var(--color-border); }
+		.documento-preview iframe, .documento-preview img { display: block; border: 0; width: 100%; }
+
+		/* ---------- Lugares ---------- */
+		.lugares-list { display: flex; flex-direction: column; gap: 16px; }
+		.lugar-card { background: var(--neutral-50); border: 1px solid var(--color-border); border-radius: 16px; padding: 22px; }
+		.lugar-title { display: flex; align-items: center; gap: 10px; font-family: 'Poppins', sans-serif; font-size: 17px; font-weight: 700; color: var(--diger-azul-marino); margin-bottom: 16px; }
+		.lugar-title i { font-size: 22px; color: var(--diger-azul-medio); }
+		.lugar-info { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 14px; }
+		.lugar-info-item { display: flex; flex-direction: column; gap: 4px; }
+		.lugar-info-label { font-size: 11.5px; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; color: var(--color-text-soft); }
+		.lugar-info-value { font-size: 14.5px; font-weight: 500; color: var(--diger-azul-marino); }
+
+		/* ---------- Tabla de enlaces ---------- */
+		.dt-tablewrap { overflow-x: auto; }
+		.table-modern { width: 100%; border-collapse: collapse; }
+		.table-modern thead th {
+			text-align: left; padding: 12px 16px; font-family: 'Poppins', sans-serif; font-size: 12px;
+			font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; color: var(--color-text-soft);
+			border-bottom: 2px solid var(--color-border); white-space: nowrap;
+		}
+		.table-modern tbody td { padding: 14px 16px; border-bottom: 1px solid var(--color-border); font-size: 14px; color: var(--diger-azul-marino); vertical-align: middle; }
+		.table-modern tbody tr:last-child td { border-bottom: 0; }
+		.table-modern tbody tr:hover { background: rgba(122, 203, 221, 0.06); }
+		.dt-url { color: var(--color-text-soft); font-size: 13px; word-break: break-all; }
+
+		/* ---------- Empty states ---------- */
+		.empty-state { text-align: center; padding: 48px 24px; }
+		.empty-state i { font-size: 64px; color: var(--diger-azul-medio); opacity: 0.4; }
+		.empty-state h3 { font-family: 'Poppins', sans-serif; font-weight: 700; font-size: 19px; color: var(--diger-azul-marino); margin: 14px 0 6px; }
+		.empty-state p { font-size: 14px; color: var(--color-text-soft); margin: 0; }
+
+		/* ---------- Volver (pie) ---------- */
+		.back-section { text-align: center; padding: 30px 0 48px; }
+
+		/* ---------- Foco visible ---------- */
+		.btn-iniciar:focus-visible, .btn-favorito:focus-visible, .btn-back:focus-visible,
+		.tab-button:focus-visible, .table-modern a:focus-visible {
+			outline: 3px solid var(--diger-azul-medio); outline-offset: 3px;
+		}
+
+		/* ---------- Responsive ---------- */
+		@media (max-width: 560px) {
+			.dt-actions { flex-direction: column; align-items: stretch; }
+			.dt-actions > * { width: 100%; }
+			.quick-info { grid-template-columns: 1fr; }
+			.tab-content-wrapper { padding: 20px 16px; }
+		}
+
+		/* ---------- Movimiento reducido ---------- */
+		@media (prefers-reduced-motion: reduce) {
+			.tab-pane.active { animation: none; }
+			.btn-iniciar, .btn-favorito, .btn-back, .tab-button { transition: none; }
+		}
+	</style>
+</head>
+<body>
+
+<a class="diger-skip" href="#contenido">Saltar al contenido</a>
+
+<!-- ============================ HEADER (Shell B — nav marino sólida) ============================ -->
+<header class="diger-appnav" id="appnav">
+	<div class="diger-appnav__wrap">
+		<a class="diger-appnav__brand" href="/" aria-label="DIGER — Inicio">
+			<img src="/assets/images/logo/diger-white.png" alt="DIGER — Dirección de Gestión por Resultados">
+		</a>
+		<nav class="diger-appnav__links" aria-label="Navegación principal">
+			<a href="/">Inicio</a>
+			<a href="/tramites">Trámites</a>
+			<a href="/instituciones">Instituciones</a>
+			<a href="/colecciones">Servicios</a>
+			<a href="/ayuda">Ayuda</a>
+		</nav>
+		<div class="diger-appnav__gov">
+			<span class="diger-appnav__sep" aria-hidden="true"></span>
+			<img src="/assets/images/logo/logo-gobierno-horizontal-blanco.png" alt="Gobierno de la República de Honduras">
+		</div>
+		<button class="diger-burger" id="burger" type="button" aria-label="Abrir menú" aria-expanded="false" aria-controls="mnav">
+			<i class="ph ph-list" aria-hidden="true"></i>
+		</button>
+	</div>
+</header>
+
+<!-- Menú móvil -->
+<div class="diger-mnav" id="mnav">
+	<div class="diger-mnav__scrim" data-close-mnav></div>
+	<div class="diger-mnav__panel" role="dialog" aria-modal="true" aria-label="Menú de navegación">
+		<div class="diger-mnav__top">
+			<img src="/assets/images/logo/diger-color.png" alt="DIGER">
+			<button class="diger-mnav__close" type="button" data-close-mnav aria-label="Cerrar menú">
+				<i class="ph ph-x" aria-hidden="true"></i>
+			</button>
+		</div>
+		<a href="/">Inicio <i class="ph ph-caret-right" aria-hidden="true"></i></a>
+		<a href="/tramites">Trámites <i class="ph ph-caret-right" aria-hidden="true"></i></a>
+		<a href="/instituciones">Instituciones <i class="ph ph-caret-right" aria-hidden="true"></i></a>
+		<a href="/colecciones">Servicios <i class="ph ph-caret-right" aria-hidden="true"></i></a>
+		<a href="/ayuda">Ayuda <i class="ph ph-caret-right" aria-hidden="true"></i></a>
+	</div>
+</div>
+
+
+<main id="contenido">
+
+	<!-- ============================ Encabezado del trámite (Densidad C) ============================ -->
+	<section class="diger-cathero">
+		<div class="diger-cathero__wrap">
+			<nav class="diger-breadcrumb" aria-label="Ruta de navegación">
+				<a href="/">Inicio</a>
+				<i class="ph ph-caret-right" aria-hidden="true"></i>
+				<a href="">Trámites</a>
+				<i class="ph ph-caret-right" aria-hidden="true"></i>
+				<span aria-current="page">Autenticas y Apostillas </span>
+			</nav>
+
+				<span class="diger-eyebrow dt-eyebrow">
+					<span class="diger-emark" aria-hidden="true"><i></i><i></i><i></i></span>
+					Secretar&#xED;a de Relaciones Exteriores y Cooperaci&#xF3;n Internacional
+				</span>
+
+			<h1 class="dt-title">Autenticas y Apostillas </h1>
+
+				<p class="dt-desc">Realizar la gesti&#xF3;n administrativa en el apego a las disposiciones establecidas en la Ley de la Administraci&#xF3;n P&#xFA;blica y su Reglamento bajo los principios de legalidad, eficacia y simplificaci&#xF3;n.</p>
+
+			<div class="dt-metarow">
+				<span class="diger-modbadge diger-modbadge--on">
+					<span class="diger-modbadge__dot" aria-hidden="true"></span>
+						En línea
+				</span>
+					<span class="dt-chip"><i class="ph ph-seal-check" aria-hidden="true"></i>Aprobado</span>
+				<span class="dt-chip"><i class="ph ph-hash" aria-hidden="true"></i>N.º 142</span>
+			</div>
+
+			<div class="dt-actions">
+					<a href="https://tramitedigital.sreci.gob.hn/SOL/web/ciudadano/#/inicio" target="_blank" rel="noopener noreferrer" class="btn-iniciar">
+						<i class="ph-bold ph-arrow-square-out" aria-hidden="true"></i>
+						Iniciar trámite en línea
+					</a>
+				<button type="button" class="btn-favorito" onclick="toggleFavorito(142)" aria-label="Guardar trámite en favoritos">
+					<i class="ph ph-bookmark-simple" aria-hidden="true"></i>
+					Guardar
+				</button>
+				<a href="" class="btn-back">
+					<i class="ph-bold ph-arrow-left" aria-hidden="true"></i>
+					Volver
+				</a>
+			</div>
+		</div>
+	</section>
+
+	<div class="dt-body">
+
+		<div class="quick-info">
+				<div class="info-card">
+					<span class="info-card__ico" aria-hidden="true"><i class="ph-duotone ph-user-circle"></i></span>
+					<div class="info-card__text">
+						<div class="info-card-title">Responsable</div>
+						<div class="info-card-content">Jefe de la secci&#xF3;n de Autenticas y apostillas </div>
+					</div>
+				</div>
+				<div class="info-card">
+					<span class="info-card__ico" aria-hidden="true"><i class="ph-duotone ph-target"></i></span>
+					<div class="info-card__text">
+						<div class="info-card-title">Objetivo</div>
+						<div class="info-card-content">Legalizaci&#xF3;n de los documentos originados en Honduras para que surtan efecto en el exterior y aceptaci&#xF3;n de documentos Autenticados y Apostillados en el exterior surtan efecto en Honduras.</div>
+					</div>
+				</div>
+				<div class="info-card">
+					<span class="info-card__ico" aria-hidden="true"><i class="ph-duotone ph-users-three"></i></span>
+					<div class="info-card__text">
+						<div class="info-card-title">Dirigido a</div>
+						<div class="info-card-content">Poblaci&#xF3;n en general </div>
+					</div>
+				</div>
+		</div>
+
+		<div class="tabs-modern">
+			<div class="tabs-header">
+				<button class="tab-button active" onclick="showTab('pasos')">
+					<i class="ph ph-list-numbers" aria-hidden="true"></i>
+					Pasos del trámite
+				</button>
+				<button class="tab-button" onclick="showTab('requisitos')">
+					<i class="ph ph-list-checks" aria-hidden="true"></i>
+					Requisitos
+				</button>
+				<button class="tab-button" onclick="showTab('lugares')">
+					<i class="ph ph-map-pin" aria-hidden="true"></i>
+					Lugares
+				</button>
+				<button class="tab-button" onclick="showTab('entregables')">
+					<i class="ph ph-package" aria-hidden="true"></i>
+					Entregables
+				</button>
+				<button class="tab-button" onclick="showTab('enlaces')">
+					<i class="ph ph-link" aria-hidden="true"></i>
+					Más información
+				</button>
+			</div>
+
+			<div class="tab-content-wrapper">
+				<div class="tab-pane active" id="tab-pasos">
+						<ul class="dt-list">
+									<li class="dt-list__item">
+										<span class="dt-list__mark dt-list__mark--num" aria-hidden="true">1</span>
+										<div class="dt-list__body">
+											<div class="dt-list__title">Crea tu Usuario: Si es tu primera vez en el Portal Digital de Inversiones (PDI), busca la opci&#xF3;n de &quot;Registrar&quot; y completa el formulario de registro con los datos solicitados. Debes validar tu cuenta a trav&#xE9;s de un enlace enviado a tu correo electr&#xF3;nico.</div>
+										</div>
+									</li>
+									<li class="dt-list__item">
+										<span class="dt-list__mark dt-list__mark--num" aria-hidden="true">2</span>
+										<div class="dt-list__body">
+											<div class="dt-list__title">Inicia Sesi&#xF3;n: Utiliza tu usuario y contrase&#xF1;a creados ingresa al Portal Digital de Inversiones.</div>
+										</div>
+									</li>
+									<li class="dt-list__item">
+										<span class="dt-list__mark dt-list__mark--num" aria-hidden="true">3</span>
+										<div class="dt-list__body">
+											<div class="dt-list__title">Revisa Requisitos: Verifica los requisitos necesarios para la solicitud. Aseg&#xFA;rate de tener toda la informaci&#xF3;n lista.</div>
+										</div>
+									</li>
+									<li class="dt-list__item">
+										<span class="dt-list__mark dt-list__mark--num" aria-hidden="true">4</span>
+										<div class="dt-list__body">
+											<div class="dt-list__title">Completa el Formulario: Llena la solicitud digital con la informaci&#xF3;n requerida de manera precisa.</div>
+										</div>
+									</li>
+									<li class="dt-list__item">
+										<span class="dt-list__mark dt-list__mark--num" aria-hidden="true">5</span>
+										<div class="dt-list__body">
+											<div class="dt-list__title">Adjunta Documentos: Sube los documentos solicitados en el formato digital que se te indique.</div>
+										</div>
+									</li>
+									<li class="dt-list__item">
+										<span class="dt-list__mark dt-list__mark--num" aria-hidden="true">6</span>
+										<div class="dt-list__body">
+											<div class="dt-list__title">Env&#xED;a la Solicitud: Una vez completados los pasos, env&#xED;a tu solicitud a trav&#xE9;s del Portal Digital de Inversiones.</div>
+										</div>
+									</li>
+									<li class="dt-list__item">
+										<span class="dt-list__mark dt-list__mark--num" aria-hidden="true">7</span>
+										<div class="dt-list__body">
+											<div class="dt-list__title">Realiza Seguimiento: El PDI cuenta con una secci&#xF3;n para hacer seguimiento al estado de tu tr&#xE1;mite, lo que te permite ver el progreso y si se requiere alguna acci&#xF3;n adicional de tu parte.</div>
+										</div>
+									</li>
+									<li class="dt-list__item">
+										<span class="dt-list__mark dt-list__mark--num" aria-hidden="true">8</span>
+										<div class="dt-list__body">
+											<div class="dt-list__title">Recibe el Documento: Una vez aprobado, el documento ser&#xE1; emitido digitalmente y podr&#xE1;s descargarlo desde el portal.</div>
+										</div>
+									</li>
+						</ul>
+				</div>
+
+				<div class="tab-pane" id="tab-requisitos">
+						<ul class="dt-list">
+								<li class="dt-list__item">
+									<span class="dt-list__mark dt-list__mark--check" aria-hidden="true"><i class="ph-fill ph-check-circle"></i></span>
+									<div class="dt-list__body">
+										<div class="dt-list__title">Documento o lote de documentos debidamente autenticados por la autoridad competente</div>
+
+									</div>
+								</li>
+								<li class="dt-list__item">
+									<span class="dt-list__mark dt-list__mark--check" aria-hidden="true"><i class="ph-fill ph-check-circle"></i></span>
+									<div class="dt-list__body">
+										<div class="dt-list__title">Recibo de pago TGR-1 Enlace:  https://tgr1.sefin.gob.hn/tgr1/tgr</div>
+
+									</div>
+								</li>
+						</ul>
+				</div>
+
+				<div class="tab-pane" id="tab-lugares">
+						<div class="lugares-list">
+								<div class="lugar-card">
+									<div class="lugar-title">
+										<i class="ph ph-map-pin" aria-hidden="true"></i>
+										Secretaria de Relaciones Exteriores y cooperaci&#xF3;n Internacional
+									</div>
+									<div class="lugar-info">
+											<div class="lugar-info-item">
+												<span class="lugar-info-label">Ciudad</span>
+												<span class="lugar-info-value">Tegucigalpa M.D.C.</span>
+											</div>
+											<div class="lugar-info-item">
+												<span class="lugar-info-label">Dirección</span>
+												<span class="lugar-info-value">Bulevar Kuwait, contiguo a la Corte Suprema de Justicia (CSJ).</span>
+											</div>
+											<div class="lugar-info-item">
+												<span class="lugar-info-label">Teléfonos</span>
+												<span class="lugar-info-value">2236-0200, ext 3009</span>
+											</div>
+									</div>
+								</div>
+						</div>
+				</div>
+
+				<div class="tab-pane" id="tab-entregables">
+						<ul class="dt-list">
+								<li class="dt-list__item">
+									<span class="dt-list__mark dt-list__mark--doc" aria-hidden="true"><i class="ph-duotone ph-file-arrow-down"></i></span>
+									<div class="dt-list__body">
+										<div class="dt-list__title">Documento autenticado y apostillado</div>
+
+									</div>
+								</li>
+						</ul>
+				</div>
+
+				<div class="tab-pane" id="tab-enlaces">
+						<div class="dt-tablewrap">
+							<table class="table-modern">
+								<thead>
+								<tr>
+									<th>Tipo de enlace</th>
+									<th>URL</th>
+									<th style="width: 140px;">Acción</th>
+								</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td><strong>Aplicaci&#xF3;n</strong></td>
+										<td><span class="dt-url">https://pdihonduras.gob.hn/consulta/navigate/process/5</span></td>
+										<td>
+											<a href="https://pdihonduras.gob.hn/consulta/navigate/process/5" target="_blank" rel="noopener noreferrer" class="btn-iniciar" style="height: 40px; padding: 0 18px; font-size: 13px;">
+												<i class="ph-bold ph-arrow-square-out" aria-hidden="true"></i>
+												Abrir
+											</a>
+										</td>
+									</tr>
+									<tr>
+										<td><strong>Tr&#xE1;mite en l&#xED;nea</strong></td>
+										<td><span class="dt-url">https://tramitedigital.sreci.gob.hn/SOL/web/ciudadano/#/inicio</span></td>
+										<td>
+											<a href="https://tramitedigital.sreci.gob.hn/SOL/web/ciudadano/#/inicio" target="_blank" rel="noopener noreferrer" class="btn-iniciar" style="height: 40px; padding: 0 18px; font-size: 13px;">
+												<i class="ph-bold ph-arrow-square-out" aria-hidden="true"></i>
+												Abrir
+											</a>
+										</td>
+									</tr>
+								</tbody>
+							</table>
+						</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="back-section">
+			<a href="" class="btn-back">
+				<i class="ph-bold ph-arrow-left" aria-hidden="true"></i>
+				Volver a Trámites
+			</a>
+		</div>
+
+	</div>
+
+</main>
+
+<!-- ============================ FOOTER (Shell B/C) ============================ -->
+<footer class="diger-appfoot">
+	<div class="diger-appfoot__grid">
+		<div class="diger-appfoot__brand">
+			<img src="/assets/images/logo/diger-white.png" alt="DIGER — Dirección de Gestión por Resultados">
+			<p>El portal único de trámites del Estado de Honduras. Encontrá lo que necesitás, informate y realizá tu gestión desde un solo lugar.</p>
+			<img class="diger-appfoot__gov" src="/assets/images/logo/logo-gobierno-horizontal-blanco.png" alt="Gobierno de la República de Honduras">
+		</div>
+		<nav class="diger-appfoot__col" aria-label="Portal">
+			<h4>Portal</h4>
+			<a href="/">Inicio</a>
+			<a href="/tramites">Trámites</a>
+			<a href="/instituciones">Instituciones</a>
+			<a href="/colecciones">Servicios</a>
+			<a href="/ayuda">Ayuda</a>
+		</nav>
+		<nav class="diger-appfoot__col" aria-label="Recursos">
+			<h4>Recursos</h4>
+			<a href="/tramites">Todos los trámites</a>
+			<a href="/instituciones">Instituciones del Estado</a>
+			<a href="/colecciones">Áreas temáticas</a>
+			<a href="/ayuda">Centro de ayuda</a>
+		</nav>
+		<div class="diger-appfoot__col">
+			<h4>Contacto</h4>
+			<p class="diger-appfoot__contact"><i class="ph ph-map-pin" aria-hidden="true"></i><span>Tegucigalpa M.D.C., Honduras</span></p>
+			<p class="diger-appfoot__contact"><i class="ph ph-clock" aria-hidden="true"></i><span>Lunes a viernes, 9:00 a.m. – 5:00 p.m.</span></p>
+			<p class="diger-appfoot__contact"><i class="ph ph-globe" aria-hidden="true"></i><span>tramites.diger.gob.hn</span></p>
+		</div>
+	</div>
+	<div class="diger-appfoot__bottom">
+		<span>© 2026 DIGER — Dirección de Gestión por Resultados. Gobierno de la República de Honduras.</span>
+	</div>
+	<div class="diger-sigband" aria-hidden="true"><span></span><span></span><span></span></div>
+</footer>
+
+<script>
+	// Tabs functionality
+	function showTab(tabName) {
+		// Hide all tabs
+		document.querySelectorAll('.tab-pane').forEach(pane => {
+			pane.classList.remove('active');
+		});
+
+		// Remove active from all buttons
+		document.querySelectorAll('.tab-button').forEach(btn => {
+			btn.classList.remove('active');
+		});
+
+		// Show selected tab
+		document.getElementById('tab-' + tabName).classList.add('active');
+		event.target.closest('.tab-button').classList.add('active');
+	}
+
+	// Favoritos functionality
+	function toggleFavorito(tramiteId) {
+		tramiteId = parseInt(tramiteId);
+		const btn = event.target.closest('.btn-favorito');
+		const favorites = JSON.parse(localStorage.getItem('favorites') || '[]');
+		const index = favorites.findIndex(fav => parseInt(fav) === tramiteId);
+
+		if (index > -1) {
+			favorites.splice(index, 1);
+			btn.classList.remove('active');
+		} else {
+			favorites.push(tramiteId);
+			btn.classList.add('active');
+		}
+
+		localStorage.setItem('favorites', JSON.stringify(favorites));
+	}
+
+	// Check if already favorite + track visit
+	document.addEventListener('DOMContentLoaded', function() {
+		const tramiteId = 142;
+		const favorites = JSON.parse(localStorage.getItem('favorites') || '[]');
+		if (favorites.some(fav => parseInt(fav) === tramiteId)) {
+			document.querySelector('.btn-favorito')?.classList.add('active');
+		}
+
+		// Track tramite visit (server-side)
+		fetch('/landingPage/TrackVisit', {
+			method: 'POST',
+			headers: { 'Content-Type': 'application/json' },
+			body: JSON.stringify({
+				pageType: 'tramite',
+				pageId: tramiteId,
+				pageName: "Autenticas y Apostillas "
+			})
+		}).catch(() => {});
+	});
+</script>
+
+<script>
+	// ========== SHELL HÍBRIDO (nav scroll + menú móvil) — aditivo, aislado ==========
+	(function () {
+		"use strict";
+
+		// Nav: sombra al hacer scroll (siempre marino sólido)
+		var appnav = document.getElementById('appnav');
+		function onScroll() { if (appnav) appnav.classList.toggle('scrolled', window.scrollY > 8); }
+		onScroll();
+		window.addEventListener('scroll', onScroll, { passive: true });
+
+		// Menú móvil
+		var mnav = document.getElementById('mnav'), burger = document.getElementById('burger');
+		function openM() {
+			if (!mnav) return;
+			mnav.classList.add('open');
+			if (burger) burger.setAttribute('aria-expanded', 'true');
+			document.body.style.overflow = 'hidden';
+			var c = mnav.querySelector('.diger-mnav__close');
+			if (c) c.focus();
+		}
+		function closeM() {
+			if (!mnav) return;
+			mnav.classList.remove('open');
+			if (burger) burger.setAttribute('aria-expanded', 'false');
+			document.body.style.overflow = '';
+		}
+		if (burger) burger.addEventListener('click', openM);
+		document.querySelectorAll('[data-close-mnav]').forEach(function (el) { el.addEventListener('click', closeM); });
+		if (mnav) mnav.querySelectorAll('.diger-mnav__panel a').forEach(function (a) { a.addEventListener('click', closeM); });
+		document.addEventListener('keydown', function (e) {
+			if (e.key === 'Escape' && mnav && mnav.classList.contains('open')) closeM();
+		});
+	})();
+</script>
+
+<style>
+	/* ---------- Contenedor + ventana ---------- */
+	.ai-chat-container { position: fixed; bottom: 2rem; right: 2rem; z-index: 9999; display: flex; flex-direction: column; align-items: flex-end; gap: 1rem; }
+	.ai-chat-window { width: 420px; height: 600px; background: #fff; border-radius: 24px; box-shadow: 0 25px 50px -12px rgba(0,0,0,.25); display: none; flex-direction: column; overflow: hidden; animation: slideUp .3s ease; border: 1px solid rgba(2,57,94,.10); }
+	.ai-chat-window.active { display: flex; }
+	@keyframes slideUp { from { transform: translateY(20px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+
+	/* ---------- Header ---------- */
+	.ai-chat-header { padding: 1.5rem; background: linear-gradient(135deg,#1a65a3,#155486); color: #fff; display: flex; align-items: center; justify-content: space-between; flex-shrink: 0; }
+	.ai-header-info { display: flex; align-items: center; gap: 1rem; }
+	.ai-status { width: 10px; height: 10px; background: #999; border-radius: 50%; flex-shrink: 0; transition: background .3s ease; }
+	.ai-status.online { background: #10b981; animation: pulse 2s infinite; }
+	.ai-status.offline { background: #ef4444; animation: none; }
+	.ai-status.checking { background: #999; animation: pulse 1.5s infinite; }
+	.ai-header-text { display: flex; flex-direction: column; }
+	.ai-name { font-weight: 600; font-size: 1rem; }
+	.ai-subtitle { font-size: .875rem; opacity: .9; }
+	.ai-close-btn { background: none; border: none; color: #fff; font-size: 24px; cursor: pointer; padding: 0; width: 30px; height: 30px; display: flex; align-items: center; justify-content: center; border-radius: 50%; transition: background .2s ease; }
+	.ai-close-btn:hover { background: rgba(255,255,255,.2); }
+
+	/* ---------- Cuerpo + mensajes ---------- */
+	.ai-chat-body { flex: 1; padding: 1.5rem; overflow-y: auto; background: #f8fafb; display: flex; flex-direction: column; gap: 1rem; }
+	.ai-message { display: flex; gap: .75rem; animation: fadeIn .3s ease; align-items: flex-start; }
+	@keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+	.ai-message.user { flex-direction: row-reverse; }
+	.ai-avatar { width: 36px; height: 36px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 18px; flex-shrink: 0; }
+	.ai-message.bot .ai-avatar { background: linear-gradient(135deg,#1a65a3,#155486); color: #fff; }
+	.ai-message.user .ai-avatar { background: #e5e7eb; }
+	.ai-bubble { max-width: 75%; padding: .75rem 1rem; border-radius: 18px; line-height: 1.5; word-wrap: break-word; }
+	.ai-message.bot .ai-bubble { background: #fff; color: #1f2937; border-bottom-left-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,.08); }
+	.ai-message.user .ai-bubble { background: linear-gradient(135deg,#1a65a3,#155486); color: #fff; border-bottom-right-radius: 4px; }
+
+	/* ---------- Indicador de escritura ---------- */
+	.ai-typing { display: flex; gap: 4px; padding: 1rem; align-items: center; }
+	.typing-dot { width: 8px; height: 8px; background: #94a3b8; border-radius: 50%; animation: typing 1.4s infinite; }
+	.typing-dot:nth-child(2) { animation-delay: .2s; }
+	.typing-dot:nth-child(3) { animation-delay: .4s; }
+	@keyframes typing { 0%,60%,100% { transform: translateY(0); } 30% { transform: translateY(-10px); } }
+
+	/* ---------- Acciones rápidas ---------- */
+	.ai-quick-actions { padding: .75rem; background: #fff; border-top: 1px solid #e5e7eb; display: flex; gap: .5rem; flex-wrap: wrap; flex-shrink: 0; }
+	.quick-action-chip { padding: .5rem 1rem; background: #f3f4f6; border-radius: 100px; font-size: .875rem; color: #4b5563; border: 1px solid #e5e7eb; cursor: pointer; transition: all .2s ease; white-space: nowrap; }
+	.quick-action-chip:hover { background: #1a65a3; color: #fff; transform: translateY(-2px); }
+
+	/* ---------- Footer + input ---------- */
+	.ai-chat-footer { padding: 1rem; background: #fff; border-top: 1px solid #e5e7eb; flex-shrink: 0; }
+	.ai-input-group { display: flex; gap: .5rem; align-items: center; background: #f3f4f6; border-radius: 100px; padding: .5rem; }
+	.ai-input { flex: 1; background: none; border: none; padding: .5rem 1rem; font-size: .95rem; outline: none; min-width: 0; }
+	.ai-send-btn { width: 40px; height: 40px; background: linear-gradient(135deg,#1a65a3,#155486); border: none; border-radius: 50%; color: #fff; cursor: pointer; display: flex; align-items: center; justify-content: center; transition: all .2s ease; flex-shrink: 0; }
+	.ai-send-btn:hover:not(:disabled) { transform: scale(1.1); }
+	.ai-send-btn:disabled { opacity: .5; cursor: not-allowed; transform: none; }
+
+	/* ---------- FAB (estructura) ---------- */
+	.ai-fab { position: fixed; bottom: 30px; right: 30px; width: 65px; height: 65px; border-radius: 50%; display: flex; align-items: center; justify-content: center; cursor: pointer; transition: all .4s cubic-bezier(.4,0,.2,1); z-index: 1001; }
+	.ai-fab-icon-wrapper { display: flex; align-items: center; justify-content: center; width: 100%; height: 100%; }
+	.ai-fab-icon-wrapper i { font-size: 26px; color: #02395e; line-height: 1; }
+	.ai-fab-icon { width: 32px; height: 32px; }
+	.ai-fab.active { opacity: 0 !important; pointer-events: none !important; transform: scale(0) !important; }
+	.ai-fab-close { display: none; }
+	.ai-fab-pulse { position: absolute; inset: 0; border-radius: 50%; border: 2px solid rgba(122,203,221,.6); animation: subtlePulse 3s ease-in-out infinite; pointer-events: none; }
+	@keyframes subtlePulse { 0% { transform: scale(1); opacity: .8; } 50% { transform: scale(1.15); opacity: .4; } 100% { transform: scale(1.3); opacity: 0; } }
+
+	/* ---------- Panel de sugerencias ---------- */
+	.ai-suggestions { position: absolute; bottom: 100%; right: 0; background: #fff; border-radius: 12px; padding: 1rem; margin-bottom: 1rem; box-shadow: 0 10px 30px -10px rgba(0,0,0,.2); display: none; min-width: 280px; }
+	.ai-suggestions.active { display: block; animation: fadeIn .3s ease; }
+	.suggestion-item { display: flex; align-items: center; gap: .75rem; padding: .75rem; border-radius: 8px; cursor: pointer; transition: all .2s ease; }
+	.suggestion-item:hover { background: #f3f4f6; transform: translateX(4px); }
+	.suggestion-icon { width: 40px; height: 40px; background: linear-gradient(135deg,rgba(26,101,163,.12),rgba(26,101,163,.05)); border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 20px; flex-shrink: 0; }
+	.suggestion-title { font-weight: 600; font-size: .9rem; color: #02395e; }
+	.suggestion-desc { font-size: .75rem; color: #6b7280; }
+
+	@keyframes pulse { 0% { transform: scale(1); opacity: 1; } 50% { transform: scale(1.08); opacity: .7; } 100% { transform: scale(1); opacity: 1; } }
+
+	/* ---------- Color de marca del FAB (gana a diger-2026.css con !important) ---------- */
+	.ai-fab { background: linear-gradient(135deg,#1a65a3 0%,#2377c2 100%) !important; box-shadow: 0 12px 30px rgba(26,101,163,.42) !important; border: 0 !important; }
+	.ai-fab:hover { background: linear-gradient(135deg,#2377c2 0%,#2c86d4 100%) !important; box-shadow: 0 16px 36px rgba(26,101,163,.5) !important; }
+	.ai-fab:focus-visible { outline: 3px solid #1a65a3; outline-offset: 3px; }
+
+	/* ---------- Responsive ---------- */
+	@media (max-width: 768px) {
+		.ai-chat-window { width: calc(100vw - 2rem); height: calc(100vh - 6rem); right: 1rem; bottom: 1rem; left: 1rem; }
+		.ai-fab { bottom: 20px; right: 20px; }
+	}
+
+	/* ---------- Accesibilidad: menos movimiento ---------- */
+	@media (prefers-reduced-motion: reduce) {
+		.ai-fab-pulse { animation: none !important; }
+		.ai-status.online, .ai-status.checking { animation: none !important; }
+		.ai-message, .ai-chat-window, .ai-suggestions.active { animation: none !important; }
+	}
+</style>
+
+<!-- ============================ WIDGET DE CHAT IA (lógica en chatbotia.js) ============================ -->
+<div class="ai-chat-container">
+	<!-- Panel de sugerencias -->
+	<div class="ai-suggestions" id="aiSuggestionsPanel">
+		<div class="suggestion-item" onclick="startAIChat('help')">
+			<div class="suggestion-icon"><i class="ph-duotone ph-lightbulb" aria-hidden="true"></i></div>
+			<div>
+				<div class="suggestion-title">Necesito ayuda</div>
+				<div class="suggestion-desc">Asistente disponible 24/7</div>
+			</div>
+		</div>
+		<div class="suggestion-item" onclick="startAIChat('recommend')">
+			<div class="suggestion-icon"><i class="ph-duotone ph-target" aria-hidden="true"></i></div>
+			<div>
+				<div class="suggestion-title">Trámites populares</div>
+				<div class="suggestion-desc">Los más consultados</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- Ventana de chat -->
+	<div class="ai-chat-window" id="aiChatWindow" role="dialog" aria-label="Asistente de Trámites">
+		<div class="ai-chat-header">
+			<div class="ai-header-info">
+				<div class="ai-status" id="aiStatusDot" title="Verificando IA..."></div>
+				<div class="ai-header-text">
+					<div class="ai-name">Asistente de Trámites</div>
+					<div class="ai-subtitle" id="aiStatusText">Verificando conexión...</div>
+				</div>
+			</div>
+			<button class="ai-new-chat-btn" onclick="resetAIChat()" title="Nueva conversación" aria-label="Nueva conversación" style="background:none;border:none;color:white;cursor:pointer;font-size:18px;padding:4px 8px;opacity:0.8;transition:opacity 0.2s;" onmouseenter="this.style.opacity='1'" onmouseleave="this.style.opacity='0.8'">
+				<i class="ph-bold ph-plus-circle" aria-hidden="true"></i>
+			</button>
+			<button class="ai-close-btn" onclick="closeAIChat()" aria-label="Cerrar chat"><i class="ph-bold ph-x" aria-hidden="true"></i></button>
+		</div>
+
+		<div class="ai-chat-body" id="aiChatBody">
+			<!-- Mensaje de bienvenida -->
+			<div class="ai-message bot">
+				<div class="ai-avatar"><i class="ph-fill ph-bank" aria-hidden="true"></i></div>
+				<div class="ai-bubble">
+					<strong>Bienvenido al Portal de Trámites.</strong><br><br>Puedo ayudarte a buscar trámites, ver requisitos e información de instituciones. Pregúntame lo que necesites.
+				</div>
+			</div>
+		</div>
+
+		<!-- Acciones rápidas -->
+		<div class="ai-quick-actions" id="aiQuickActions">
+			<button class="quick-action-chip" onclick="sendQuickMessage('¿Qué trámites puedo hacer en línea?')">
+				Trámites en línea
+			</button>
+			<button class="quick-action-chip" onclick="sendQuickMessage('¿Cómo saco mi pasaporte?')">
+				Pasaporte
+			</button>
+			<button class="quick-action-chip" onclick="sendQuickMessage('¿Qué instituciones hay disponibles?')">
+				Instituciones
+			</button>
+			<button class="quick-action-chip" onclick="sendQuickMessage('¿Cuáles son los trámites más populares?')">
+				Más populares
+			</button>
+		</div>
+
+		<div class="ai-chat-footer">
+			<div class="ai-input-group">
+				<input type="text"
+				       class="ai-input"
+				       id="aiMessageInput"
+				       placeholder="Escribe tu pregunta..."
+				       maxlength="1000"
+				       autocomplete="off"
+				       aria-label="Escribe tu pregunta"
+				       onkeypress="if(event.key === 'Enter') sendAIMessage()">
+				<button class="ai-send-btn" onclick="sendAIMessage()" aria-label="Enviar mensaje">
+					<i class="ph-fill ph-paper-plane-tilt" aria-hidden="true"></i>
+				</button>
+			</div>
+		</div>
+	</div>
+
+	<!-- Botón flotante (FAB) -->
+	<div class="ai-fab" onclick="toggleAIChat()" role="button" tabindex="0" aria-label="Abrir asistente de trámites">
+		<div class="ai-fab-icon-wrapper">
+			<i class="ph-duotone ph-chat-circle-dots ai-fab-icon" aria-hidden="true"></i>
+		</div>
+		<!-- Badge de estado IA -->
+		<div id="aiFabBadge" style="position:absolute;top:0;right:0;width:14px;height:14px;border-radius:50%;border:2px solid white;background:#999;z-index:2;"></div>
+		<div class="ai-fab-close"></div>
+		<div class="ai-fab-pulse"></div>
+	</div>
+</div>
+
+<!-- Chatbot IA — lógica (cache busting por deploy) -->
+<script src="/assets/js/chatbotia.js?v=639298529927353767"></script>
+
+
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a57f92735f9389fb',t:'MTc5NDI1NjE5Mg=='};var l=window.parent.location,o;try{o=new URL(l.origin).origin}catch(e){try{o=new URL(new URL(l.href).origin).origin}catch(e){o=''}}var u='/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a57f92735f9389fb',a=document.createElement('script');a.src=o?new URL(u,o).href:u;document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

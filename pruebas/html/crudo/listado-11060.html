@@ -1,0 +1,1231 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Catálogo completo de trámites gubernamentales de Honduras. Busca por nombre, institución o tipo de trámite.">
+	<meta property="og:title" content="Tr&#xE1;mites - Portal Honduras">
+	<meta property="og:description" content="Explora todos los trámites y servicios gubernamentales de Honduras disponibles en línea y presenciales.">
+	<meta property="og:type" content="website">
+	<title>Tr&#xE1;mites - Portal Honduras</title>
+
+	<!-- Tipografía oficial DIGER — Poppins (Manual de Marca DIGER) -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;800&display=swap" rel="stylesheet">
+
+	<!-- Iconos · Phosphor Icons (regular, bold, fill, duotone) -->
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.1/src/regular/style.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.1/src/bold/style.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.1/src/fill/style.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.1/src/duotone/style.css">
+
+	<!-- Favicon DIGER -->
+	<link rel="icon" href="/assets/images/logo/diger-isotipo-color.png" type="image/png">
+
+	<!-- Core CSS -->
+	<link rel="stylesheet" href="/assets/css/renew.css?v=639298529865008952">
+	<!-- DIGER 2026 — Sistema de diseño oficial (paleta marino / medio / celeste + Híbrido Catálogo) -->
+	<link rel="stylesheet" href="/assets/css/diger-2026.css?v=639298529865008985">
+
+	<style>
+		/* ===== Estilos exclusivos del catálogo /tramites ===== */
+		* { box-sizing: border-box; }
+		body {
+			margin: 0;
+			font-family: 'Poppins', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+			font-weight: 500;
+			color: var(--diger-azul-marino);
+			background: #f4f7fb;
+			overflow-x: hidden;
+			-webkit-font-smoothing: antialiased;
+			text-rendering: optimizeLegibility;
+		}
+
+		/* Spinner del botón Buscar (reutilizado por el submit handler) */
+		.loading { display: inline-block; width: 18px; height: 18px; border: 3px solid rgba(255, 255, 255, 0.35); border-radius: 50%; border-top-color: #fff; animation: spin 0.8s linear infinite; }
+		@keyframes spin { to { transform: rotate(360deg); } }
+
+		/* Botones de acción de filtros como pills */
+		.btn-filter {
+			display: inline-flex; align-items: center; justify-content: center; gap: 9px;
+			height: 52px; padding: 0 26px; border: 0; border-radius: 12px;
+			background: linear-gradient(135deg, #1a65a3, #2377c2); color: #fff;
+			font-family: 'Poppins', sans-serif; font-weight: 600; font-size: 14.5px; cursor: pointer;
+			box-shadow: 0 10px 26px -12px rgba(26, 101, 163, 0.6);
+			transition: background 0.2s ease, transform 0.16s ease;
+			text-decoration: none;
+		}
+		.btn-filter:hover { background: linear-gradient(135deg, #2377c2, #2c86d4); transform: translateY(-1px); }
+		.btn-filter:active { transform: translateY(0); }
+		.btn-filter svg { width: 20px; height: 20px; }
+		.btn-clear {
+			display: inline-flex; align-items: center; gap: 8px; height: 52px; padding: 0 20px;
+			border: 1.6px solid var(--color-border-strong); border-radius: 12px; background: #fff;
+			color: var(--color-text-muted); font-family: 'Poppins', sans-serif; font-weight: 600;
+			font-size: 14px; cursor: pointer; text-decoration: none; transition: all 0.16s ease;
+		}
+		.btn-clear:hover { border-color: var(--diger-azul-medio); color: var(--diger-azul-medio); background: var(--blue-50); }
+		.btn-clear svg { width: 16px; height: 16px; }
+		.btn-filter:focus-visible, .btn-clear:focus-visible { outline: 3px solid var(--diger-azul-medio); outline-offset: 3px; }
+
+		/* ===== Custom select moderno (skin DIGER — depende del JS CustomSelect) ===== */
+		.custom-select-wrapper { position: relative; }
+		.custom-select-wrapper select { position: absolute; opacity: 0; pointer-events: none; }
+		.select-trigger {
+			display: flex; align-items: center; justify-content: space-between; gap: 10px;
+			height: 52px; padding: 0 16px; background: #fff; border: 1.6px solid var(--color-border-strong);
+			border-radius: 12px; cursor: pointer; font-family: 'Poppins', sans-serif; font-size: 15px;
+			transition: border-color 0.18s ease, box-shadow 0.18s ease;
+		}
+		.select-trigger:hover { border-color: var(--diger-azul-medio); }
+		.select-trigger.active { border-color: var(--diger-azul-medio); box-shadow: 0 0 0 3px rgba(26, 101, 163, 0.18); }
+		.select-value { color: var(--diger-azul-marino); font-weight: 500; flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+		.select-value.placeholder { color: var(--neutral-500); font-weight: 500; }
+		.select-arrow { display: flex; align-items: center; justify-content: center; width: 20px; height: 20px; color: var(--diger-azul-medio); flex-shrink: 0; transition: transform 0.25s ease; }
+		.select-trigger.active .select-arrow { transform: rotate(180deg); }
+		.select-dropdown {
+			position: absolute; top: calc(100% + 8px); left: 0; right: 0; background: #fff;
+			border: 1px solid var(--color-border); border-radius: 12px; box-shadow: var(--shadow-lg);
+			z-index: var(--z-dropdown); opacity: 0; visibility: hidden; transform: translateY(-10px);
+			transition: opacity 0.22s ease, transform 0.22s ease, visibility 0.22s;
+			max-height: 320px; overflow: hidden; display: flex; flex-direction: column;
+		}
+		.select-dropdown.active { opacity: 1; visibility: visible; transform: translateY(0); }
+		.select-search { padding: 12px; border-bottom: 1px solid var(--color-border); position: sticky; top: 0; background: #fff; z-index: 10; }
+		.select-search input {
+			width: 100%; padding: 10px 14px 10px 38px; border: 1.6px solid var(--color-border-strong); border-radius: 10px;
+			font-size: 13px; font-family: 'Poppins', sans-serif; transition: border-color 0.18s ease, box-shadow 0.18s ease;
+			background: url('data:image/svg+xml,<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="%231a65a3" stroke-width="2" xmlns="http://www.w3.org/2000/svg"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>') no-repeat 12px center;
+		}
+		.select-search input:focus { outline: none; border-color: var(--diger-azul-medio); box-shadow: 0 0 0 3px rgba(26, 101, 163, 0.15); }
+		.select-options { overflow-y: auto; max-height: 240px; padding: 8px; }
+		.select-options::-webkit-scrollbar { width: 6px; }
+		.select-options::-webkit-scrollbar-track { background: var(--neutral-100); border-radius: 10px; }
+		.select-options::-webkit-scrollbar-thumb { background: var(--neutral-300); border-radius: 10px; }
+		.select-options::-webkit-scrollbar-thumb:hover { background: var(--neutral-400); }
+		.select-option {
+			padding: 10px 14px; cursor: pointer; border-radius: 8px; transition: background 0.16s ease, color 0.16s ease;
+			font-size: 14px; display: flex; align-items: center; justify-content: space-between; color: var(--diger-azul-marino);
+		}
+		.select-option:hover { background: rgba(122, 203, 221, 0.12); color: var(--diger-azul-medio); }
+		.select-option.selected { background: rgba(26, 101, 163, 0.10); color: var(--diger-azul-medio); font-weight: 600; }
+		.select-option.selected::after { content: '✓'; font-weight: 700; color: var(--diger-azul-medio); }
+		.select-option.hidden { display: none; }
+		.select-no-results { padding: 20px; text-align: center; color: var(--neutral-500); font-size: 13px; display: none; }
+		.select-no-results.show { display: block; }
+
+		/* ===== Paginación (mismos nombres de clase, restilizada) ===== */
+		.pagination-modern { display: flex; justify-content: center; align-items: center; gap: 6px; margin: 30px 0 44px; flex-wrap: wrap; }
+		.page-btn {
+			min-width: 40px; height: 40px; padding: 0 12px; display: inline-flex; align-items: center; justify-content: center;
+			background: #fff; color: var(--color-text-muted); border: 1px solid var(--color-border); border-radius: 10px;
+			font-family: 'Poppins', sans-serif; font-weight: 600; font-size: 14px; cursor: pointer; text-decoration: none;
+			transition: all 0.16s ease;
+		}
+		.page-btn:hover:not(.active):not(:disabled) { border-color: var(--diger-azul-medio); color: var(--diger-azul-medio); background: var(--blue-50); }
+		.page-btn.active { background: linear-gradient(135deg, #1a65a3, #2377c2); color: #fff; border-color: transparent; }
+		.page-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+		.page-btn svg { width: 14px; height: 14px; }
+		.page-btn:focus-visible { outline: 3px solid var(--diger-azul-medio); outline-offset: 2px; }
+
+		/* ===== Empty state ===== */
+		/* display:block explícito: renew.css trae un segundo .empty-state con display:none
+		   (línea ~4381, patrón viejo de toggle por JS) que este override neutraliza. */
+		.empty-state {
+			display: block;
+			text-align: center; padding: 64px 30px; background: #fff; border-radius: 16px;
+			border: 1px solid var(--color-border); box-shadow: var(--shadow-sm); max-width: 1380px; margin: 0 auto 40px;
+		}
+		.empty-state svg { width: 80px; height: 80px; margin-bottom: 18px; color: var(--diger-azul-medio); opacity: 0.32; }
+		.empty-state h3 { font-family: 'Poppins', sans-serif; font-weight: 700; font-size: 22px; color: var(--diger-azul-marino); margin: 0 0 8px; }
+		.empty-state p { font-size: 15px; color: var(--color-text-soft); margin: 0 0 6px; }
+
+		main { display: block; }
+		#catalogo { scroll-margin-top: 84px; }
+	</style>
+</head>
+<body>
+<div class="loading-overlay" id="loadingOverlay"><div class="loading-spinner"></div></div>
+
+<!-- Floating Compare Container -->
+<div id="compareContainer" class="compare-container">
+	<div class="compare-header">
+		<div class="compare-title">
+			<span>Comparar Trámites</span>
+			<span id="compareCounter" class="compare-counter">0</span>
+		</div>
+		<button class="btn-clear-compare" onclick="clearCompareList()" title="Limpiar todo">Limpiar</button>
+	</div>
+	<div id="compareItems" class="compare-items-list"></div>
+	<button class="btn-compare-now" onclick="compareNow()">Comparar Ahora</button>
+</div>
+
+<!-- Comparison Modal -->
+<div class="comparison-modal" id="comparisonModal">
+	<div class="comparison-modal-content">
+		<div class="comparison-modal-header">
+			<div class="comparison-modal-title">
+				<svg width="32" height="32" viewBox="0 0 24 24" fill="currentColor"><path d="M18 20V10m0 10l3-3m-3 3l-3-3M6 4v10m0-10l3 3M6 4L3 7"/></svg>
+				Comparación de Trámites
+			</div>
+			<button class="comparison-modal-close" onclick="closeComparisonModal()">×</button>
+		</div>
+		<div id="comparisonModalBody"></div>
+		<div class="comparison-actions">
+			<button class="btn-comparison-action btn-comparison-secondary" onclick="clearCompareList()">Limpiar Todo</button>
+			<button class="btn-comparison-action btn-comparison-primary" onclick="closeComparisonModal()">Cerrar</button>
+		</div>
+	</div>
+</div>
+
+<a class="diger-skip" href="#catalogo">Saltar al contenido</a>
+
+<!-- ============================ HEADER (Shell B — nav marino sólida) ============================ -->
+<header class="diger-appnav" id="appnav">
+	<div class="diger-appnav__wrap">
+		<a class="diger-appnav__brand" href="/" aria-label="DIGER — Inicio">
+			<img src="/assets/images/logo/diger-white.png" alt="DIGER — Dirección de Gestión por Resultados">
+		</a>
+		<nav class="diger-appnav__links" aria-label="Navegación principal">
+			<a href="/">Inicio</a>
+			<a href="/tramites" aria-current="page">Trámites</a>
+			<a href="/instituciones">Instituciones</a>
+			<a href="/colecciones">Servicios</a>
+			<a href="/ayuda">Ayuda</a>
+		</nav>
+		<div class="diger-appnav__gov">
+			<span class="diger-appnav__sep" aria-hidden="true"></span>
+			<img src="/assets/images/logo/logo-gobierno-horizontal-blanco.png" alt="Gobierno de la República de Honduras">
+		</div>
+		<button class="diger-burger" id="burger" type="button" aria-label="Abrir menú" aria-expanded="false" aria-controls="mnav">
+			<i class="ph ph-list" aria-hidden="true"></i>
+		</button>
+	</div>
+</header>
+
+<!-- Menú móvil -->
+<div class="diger-mnav" id="mnav">
+	<div class="diger-mnav__scrim" data-close-mnav></div>
+	<div class="diger-mnav__panel" role="dialog" aria-modal="true" aria-label="Menú de navegación">
+		<div class="diger-mnav__top">
+			<img src="/assets/images/logo/diger-color.png" alt="DIGER">
+			<button class="diger-mnav__close" type="button" data-close-mnav aria-label="Cerrar menú">
+				<i class="ph ph-x" aria-hidden="true"></i>
+			</button>
+		</div>
+		<a href="/">Inicio <i class="ph ph-caret-right" aria-hidden="true"></i></a>
+		<a href="/tramites" aria-current="page">Trámites <i class="ph ph-caret-right" aria-hidden="true"></i></a>
+		<a href="/instituciones">Instituciones <i class="ph ph-caret-right" aria-hidden="true"></i></a>
+		<a href="/colecciones">Servicios <i class="ph ph-caret-right" aria-hidden="true"></i></a>
+		<a href="/ayuda">Ayuda <i class="ph ph-caret-right" aria-hidden="true"></i></a>
+	</div>
+</div>
+
+<main id="catalogo">
+
+	<!-- ============================ HERO compacto (C) + filtros ============================ -->
+	<section class="diger-cathero">
+		<div class="diger-cathero__wrap">
+			<nav class="diger-breadcrumb" aria-label="Ruta de navegación">
+				<a href="/">Inicio</a>
+				<i class="ph ph-caret-right" aria-hidden="true"></i>
+				<span aria-current="page">Trámites</span>
+			</nav>
+			<h1 class="diger-cathero__title">Catálogo de trámites</h1>
+			<p class="diger-cathero__sub">Explorá el catálogo completo de trámites y servicios del Estado. Buscá por nombre, filtrá por institución o elegí si lo querés hacer en línea o presencial.</p>
+
+			<form method="GET" action="/tramites" id="filterForm" class="diger-filters">
+				<div class="diger-filters__row">
+					<!-- Búsqueda -->
+					<div class="diger-filters__group">
+						<label class="diger-filters__label" for="searchString">
+							<i class="ph ph-magnifying-glass" aria-hidden="true"></i>
+							Buscar trámite
+						</label>
+						<input type="text" class="diger-filters__input" id="searchString" name="searchString" placeholder="Buscar por nombre, descripción o institución…">
+					</div>
+
+					<!-- Institución - SELECT MODERNO -->
+					<div class="diger-filters__group">
+						<label class="diger-filters__label" for="institutionFilter">
+							<i class="ph ph-buildings" aria-hidden="true"></i>
+							Institución
+						</label>
+						<div class="custom-select-wrapper">
+							<select id="institutionFilter" name="institutionFilter">
+								<option value="">Todas las instituciones</option>
+										<option value="11054">Secretar&#xED;a de Salud </option>
+										<option value="11055">Secretar&#xED;a de Desarrollo Econ&#xF3;mico</option>
+										<option value="11056">Secretar&#xED;a de Seguridad</option>
+										<option value="11057">Secretar&#xED;a de Educaci&#xF3;n</option>
+										<option value="11058">Secretar&#xED;a de Finanzas</option>
+										<option value="11059">Secretar&#xED;a de Defensa Nacional</option>
+										<option value="11060" selected="selected">Secretar&#xED;a de Trabajo y Seguridad Social</option>
+										<option value="11061">Secretar&#xED;a de Agricultura y Ganader&#xED;a</option>
+										<option value="11062">Secretar&#xED;a de Desarrollo Social </option>
+										<option value="11063">Secretar&#xED;a de Recursos Naturales y Ambiente</option>
+										<option value="11064">Secretar&#xED;a de Gobernaci&#xF3;n, Justicia y Descentralizaci&#xF3;n</option>
+										<option value="11065">Secretar&#xED;a de Relaciones Exteriores y Cooperaci&#xF3;n Internacional</option>
+										<option value="11067">Empresa de Correos de Honduras</option>
+										<option value="11068">Instituto de la Propiedad</option>
+										<option value="11069">Instituto Hondure&#xF1;o de Turismo</option>
+										<option value="11070">Instituto Nacional Agrario</option>
+										<option value="11071">Comisi&#xF3;n Nacional de Telecomunicaciones</option>
+										<option value="11073">Instituto Hondure&#xF1;o de Antropolog&#xED;a e Historia</option>
+										<option value="11074">Instituto Nacional de Formaci&#xF3;n Profesional</option>
+										<option value="11075">Instituto Hondure&#xF1;o de Mercadeo Agr&#xED;cola</option>
+										<option value="11078">Instituto Hondure&#xF1;o de Seguridad Social</option>
+										<option value="11079">Empresa Nacional Portuaria</option>
+										<option value="11080">Empresa Hondure&#xF1;a de Telecomunicaciones</option>
+										<option value="11081">Empresa Nacional de Energ&#xED;a El&#xE9;ctrica</option>
+										<option value="11082">Instituto Hondure&#xF1;o de Ciencia, Tecnolog&#xED;a e Innovaci&#xF3;n</option>
+										<option value="11084">Suplidora Nacional de Productos B&#xE1;sicos</option>
+										<option value="11085">Servicio Aut&#xF3;nomo Nacional de Acueductos y Alcantarillados (SANAA)</option>
+										<option value="11086">Programa Nacional de Desarrollo Rural Sostenible</option>
+										<option value="11087">Banco Nacional de Desarrollo Agr&#xED;cola</option>
+										<option value="11088">Comisi&#xF3;n Nacional del Deporte, Educaci&#xF3;n F&#xED;sica y Recreaci&#xF3;n</option>
+										<option value="11090">Banco Hondure&#xF1;o para la Producci&#xF3;n y Vivienda</option>
+										<option value="11091">Instituto Nacional de Jubilaciones y Pensiones de los Empleados del Poder Ejecutivo</option>
+										<option value="11093">Secretar&#xED;a de la Presidencia</option>
+										<option value="11096">Instituto Nacional de Estad&#xED;stica</option>
+										<option value="11097">Secretar&#xED;a de Infraestructura y Transporte</option>
+										<option value="11118">Comisi&#xF3;n Nacional de Bancos y Seguros</option>
+										<option value="11120">Secretar&#xED;a de Transparencia y Lucha Contra la Corrupci&#xF3;n </option>
+										<option value="11121">Secretar&#xED;a de Derechos Humanos</option>
+										<option value="11122">Universidad Nacional de Ciencias Forestales</option>
+										<option value="11123">Universidad Nacional de Agricultura</option>
+										<option value="11124">Secretar&#xED;a de las Culturas, las Artes y los Patrimonios de los Pueblos de Honduras</option>
+										<option value="11125">Centro de la Cultura Garinagu de Honduras</option>
+										<option value="11126">Secretar&#xED;a de Energ&#xED;a</option>
+										<option value="11127">Instituto Hondure&#xF1;o de Geolog&#xED;a y Minas</option>
+										<option value="11128">Banco Central de Honduras</option>
+										<option value="11130">Patronato Nacional de la Infancia</option>
+										<option value="11132">Comisi&#xF3;n Interinstitucional contra la Explotaci&#xF3;n Sexual, Comercial y la Trata de Personas</option>
+										<option value="11133">Comit&#xE9; Nacional de Prevenci&#xF3;n contra la Tortura, Tratos Crueles, Inhumanos y Degradantes</option>
+										<option value="11134">Universidad Nacional Aut&#xF3;noma de Honduras</option>
+										<option value="11135">Universidad Pedag&#xF3;gica Nacional Francisco Moraz&#xE1;n</option>
+										<option value="11136">Centro Nacional de Educaci&#xF3;n para el Trabajo</option>
+										<option value="11138">Ente Regulador de Servicios de Agua Potable y Saneamiento (ERSAPS)</option>
+										<option value="11139">Instituto de Previsi&#xF3;n Social de los Empleados de la Universidad Nacional Aut&#xF3;noma de Honduras</option>
+										<option value="11140">Red Solidaria</option>
+										<option value="11141">Comisi&#xF3;n para la Defensa y la Promoci&#xF3;n de la Competencia</option>
+										<option value="11143">Instituto de Previsi&#xF3;n Militar</option>
+										<option value="11144">Consejo Nacional Supervisor de Cooperativas</option>
+										<option value="11145">Secretar&#xED;a de Turismo</option>
+										<option value="11146">Comisi&#xF3;n Administradora Zona Libre Tur&#xED;stica Islas de la Bahia</option>
+										<option value="11147">Direcci&#xF3;n de Asuntos Disciplinarios Policiales</option>
+										<option value="11148">Programa Nacional de Prevenci&#xF3;n, Rehabilitaci&#xF3;n y Reinserci&#xF3;n Social</option>
+										<option value="11149">Agencia Hondure&#xF1;a de Aeron&#xE1;utica Civil</option>
+										<option value="11150">Instituto de Cr&#xE9;dito Educativo</option>
+										<option value="11151">Secretar&#xED;a de la Mujer </option>
+										<option value="11152">Empresa Nacional de Artes Gr&#xE1;ficas</option>
+										<option value="11153">Agencia de Regulaci&#xF3;n Sanitaria</option>
+										<option value="11154">Programa Ciudad Mujer</option>
+										<option value="11155">Direcci&#xF3;n de Ni&#xF1;ez, Adolescencia y Familia</option>
+										<option value="11156">Instituto Nacional de la Juventud</option>
+										<option value="11157">Administraci&#xF3;n Aduanera de Honduras</option>
+										<option value="11158">Comisi&#xF3;n Reguladora de Energ&#xED;a El&#xE9;ctrica</option>
+										<option value="11159">Instituto Hondure&#xF1;o de Transporte Terrestre</option>
+										<option value="11160">Servicio de Administraci&#xF3;n de Rentas</option>
+										<option value="11163">Instituto Hondure&#xF1;o para la Prevenci&#xF3;n del Alcoholismo, Drogadicci&#xF3;n y Farmacodependencia </option>
+										<option value="11164">Direcci&#xF3;n Nacional de Parques y Recreaci&#xF3;n </option>
+										<option value="11165">Comisi&#xF3;n Nacional de Vivienda y Asentamientos Humanos de Honduras</option>
+										<option value="11166">Direcci&#xF3;n Nacional de Bienes del Estado</option>
+										<option value="11167">Cuerpo de Bomberos de Honduras</option>
+										<option value="11168">Secretar&#xED;a de Gesti&#xF3;n de Riesgos y Contingencias Nacionales (COPECO) </option>
+										<option value="11169">Instituto de Previsi&#xF3;n del Magisterio</option>
+										<option value="11170">Direcci&#xF3;n de Ciencia y Tecnolog&#xED;a Agropecuaria</option>
+										<option value="11172">Instituto Nacional de Migraci&#xF3;n</option>
+										<option value="11173">Instituto Nacional Penitenciario</option>
+										<option value="11174">Direcci&#xF3;n General de la Marina Mercante</option>
+										<option value="11175">Servicio Nacional de Sanidad e Inocuidad Agroalimentaria </option>
+										<option value="11178">Instituto Nacional de Conservaci&#xF3;n y Desarrollo Forestal</option>
+										<option value="11179">Superintendencia de Alianza P&#xFA;blico y Privada</option>
+										<option value="11183">Confederaci&#xF3;n Deportiva Aut&#xF3;noma de Honduras</option>
+										<option value="11190">Fondo Hondure&#xF1;o de Inversi&#xF3;n Social</option>
+										<option value="11191">Secretar&#xED;a de Estado en el Despacho de Planificaci&#xF3;n Estrat&#xE9;gica</option>
+										<option value="11192">Secretar&#xED;a de Estado para el Desarrollo y Seguimiento de Proyectos</option>
+										<option value="11193">Direcci&#xF3;n General de Cinematograf&#xED;a</option>
+										<option value="11194">Hospital Escuela</option>
+										<option value="11198">Direcci&#xF3;n de Gesti&#xF3;n por Resultados</option>
+										<option value="11200">Servicio Nacional de Emprendimiento y de Peque&#xF1;os Negocios</option>
+										<option value="11212">Programa de Acci&#xF3;n Solidaria</option>
+										<option value="11226">Administraci&#xF3;n Nacional de Servicio Civil</option>
+										<option value="11227">Instituto Nacional para la Atenci&#xF3;n a Menores Infractores</option>
+							</select>
+							<div class="select-trigger">
+								<span class="select-value placeholder">Todas las instituciones</span>
+								<div class="select-arrow">
+									<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+										<polyline points="6 9 12 15 18 9"></polyline>
+									</svg>
+								</div>
+							</div>
+							<div class="select-dropdown">
+								<div class="select-search">
+									<input type="text" placeholder="Buscar institución..." class="search-input">
+								</div>
+								<div class="select-options"></div>
+								<div class="select-no-results">No se encontraron instituciones</div>
+							</div>
+						</div>
+					</div>
+
+					<!-- Tipo - SELECT MODERNO -->
+					<div class="diger-filters__group">
+						<label class="diger-filters__label" for="typeFilter">
+							<i class="ph ph-funnel" aria-hidden="true"></i>
+							Tipo de trámite
+						</label>
+						<div class="custom-select-wrapper">
+							<select id="typeFilter" name="typeFilter">
+								<option value="">Todos los tipos</option>
+								<option value="Online">En línea</option>
+								<option value="Presencial">Presencial</option>
+							</select>
+							<div class="select-trigger">
+								<span class="select-value placeholder">Todos los tipos</span>
+								<div class="select-arrow">
+									<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+										<polyline points="6 9 12 15 18 9"></polyline>
+									</svg>
+								</div>
+							</div>
+							<div class="select-dropdown">
+								<div class="select-options"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="diger-filters__actions">
+					<button type="submit" class="btn-filter" id="btnFilter">
+						<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+							<circle cx="11" cy="11" r="8"></circle>
+							<path d="m21 21-4.35-4.35"></path>
+						</svg>
+						Buscar Trámites
+					</button>
+					<a href="/tramites" class="btn-clear">
+						<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+							<line x1="18" y1="6" x2="6" y2="18"></line>
+							<line x1="6" y1="6" x2="18" y2="18"></line>
+						</svg>
+						Limpiar Filtros
+					</a>
+				</div>
+			</form>
+		</div>
+	</section>
+
+	<div class="diger-catbody">
+			<div class="diger-results-bar">
+				<span class="diger-results-count">
+					<i class="ph ph-files" aria-hidden="true"></i>
+					<span><b>6</b> de <b>6</b> trámites encontrados</span>
+				</span>
+				<div class="diger-viewtoggle" id="viewToggle" role="group" aria-label="Cambiar vista de resultados">
+					<button type="button" data-view="list" aria-pressed="true" aria-label="Ver como lista">
+						<i class="ph ph-list-bullets" aria-hidden="true"></i><span>Lista</span>
+					</button>
+					<button type="button" data-view="grid" aria-pressed="false" aria-label="Ver como cuadrícula">
+						<i class="ph ph-squares-four" aria-hidden="true"></i><span>Cuadrícula</span>
+					</button>
+				</div>
+			</div>
+			<div class="diger-results" id="resultsWrap" data-view="list">
+					<article class="tramite-card diger-rrow" data-tramite-id="705">
+						<span class="diger-rrow__mark" aria-hidden="true"><i class="ph-duotone ph-file-text"></i></span>
+						<div class="diger-rrow__body">
+								<span class="diger-rrow__eyebrow">Secretar&#xED;a de Trabajo y Seguridad Social</span>
+							<h3 class="diger-rrow__title">Reconocimiento e Inscripci&#xF3;n de Personalidad Jur&#xED;dica</h3>
+								<p class="diger-rrow__desc">La personer&#xED;a jur&#xED;dica es el reconocimiento legal que se otorga a una organizaci&#xF3;n, mediante su inscripci&#xF3;n en la Secretar&#xED;a de Trabajo y Seguridad Social. Este reconocimiento faculta a la organizaci&#xF3;n para actuar como una entidad independiente, con la capacidad de ejercer derechos y asumir obligaciones en representaci&#xF3;n de sus miembros afiliados.</p>
+						</div>
+						<span class="diger-modbadge diger-modbadge--on">
+							<span class="diger-modbadge__dot" aria-hidden="true"></span>
+								En línea
+						</span>
+						<span class="diger-rrow__meta">
+							<i class="ph ph-hash" aria-hidden="true"></i>
+							<span>N.º 705</span>
+						</span>
+						<div class="diger-rrow__actions">
+							<button class="btn-compare" onclick="event.stopPropagation(); addToCompare(705, 'Reconocimiento e Inscripci&#xF3;n de Personalidad Jur&#xED;dica')" aria-label="Comparar trámite" title="Comparar">
+								<i class="ph ph-arrows-left-right" aria-hidden="true"></i>
+							</button>
+							<button class="btn-favorite" onclick="event.stopPropagation(); toggleFavorite(705)" aria-label="Agregar a favoritos" title="Favorito">
+								<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+									<path d="M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 000-7.78z"/>
+								</svg>
+							</button>
+						</div>
+						<a class="diger-rrow__cta" href="/api/landingPage/DetalleTramite/705">
+							<span>Ver trámite</span>
+							<i class="ph-bold ph-caret-right" aria-hidden="true"></i>
+						</a>
+					</article>
+					<article class="tramite-card diger-rrow" data-tramite-id="712">
+						<span class="diger-rrow__mark" aria-hidden="true"><i class="ph-duotone ph-file-text"></i></span>
+						<div class="diger-rrow__body">
+								<span class="diger-rrow__eyebrow">Secretar&#xED;a de Trabajo y Seguridad Social</span>
+							<h3 class="diger-rrow__title">Aprobaci&#xF3;n de Reforma de Estatutos de las Organizaciones Sociales</h3>
+								<p class="diger-rrow__desc">Las reformas a los estatutos de los sindicatos son modificaciones o actualizaciones de las normas que rigen el funcionamiento interno de estas organizaciones. Los estatutos son elconjunto de reglas que establecen la estructura, los objetivos, los derechos y deberes de los miembros, as&#xED; como los procedimientos para la toma de decisiones y la gesti&#xF3;n del sindicato.</p>
+						</div>
+						<span class="diger-modbadge diger-modbadge--on">
+							<span class="diger-modbadge__dot" aria-hidden="true"></span>
+								En línea
+						</span>
+						<span class="diger-rrow__meta">
+							<i class="ph ph-hash" aria-hidden="true"></i>
+							<span>N.º 712</span>
+						</span>
+						<div class="diger-rrow__actions">
+							<button class="btn-compare" onclick="event.stopPropagation(); addToCompare(712, 'Aprobaci&#xF3;n de Reforma de Estatutos de las Organizaciones Sociales')" aria-label="Comparar trámite" title="Comparar">
+								<i class="ph ph-arrows-left-right" aria-hidden="true"></i>
+							</button>
+							<button class="btn-favorite" onclick="event.stopPropagation(); toggleFavorite(712)" aria-label="Agregar a favoritos" title="Favorito">
+								<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+									<path d="M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 000-7.78z"/>
+								</svg>
+							</button>
+						</div>
+						<a class="diger-rrow__cta" href="/api/landingPage/DetalleTramite/712">
+							<span>Ver trámite</span>
+							<i class="ph-bold ph-caret-right" aria-hidden="true"></i>
+						</a>
+					</article>
+					<article class="tramite-card diger-rrow" data-tramite-id="1090">
+						<span class="diger-rrow__mark" aria-hidden="true"><i class="ph-duotone ph-file-text"></i></span>
+						<div class="diger-rrow__body">
+								<span class="diger-rrow__eyebrow">Secretar&#xED;a de Trabajo y Seguridad Social</span>
+							<h3 class="diger-rrow__title">Aprobaci&#xF3;n reglamento interno de trabajo</h3>
+								<p class="diger-rrow__desc">Es el conjunto de normas obligatorias que determinan las condiciones a que deben sujetarse el patrono y sus trabajadores en la prestaci&#xF3;n del servicio</p>
+						</div>
+						<span class="diger-modbadge diger-modbadge--on">
+							<span class="diger-modbadge__dot" aria-hidden="true"></span>
+								En línea
+						</span>
+						<span class="diger-rrow__meta">
+							<i class="ph ph-hash" aria-hidden="true"></i>
+							<span>N.º 1090</span>
+						</span>
+						<div class="diger-rrow__actions">
+							<button class="btn-compare" onclick="event.stopPropagation(); addToCompare(1090, 'Aprobaci&#xF3;n reglamento interno de trabajo')" aria-label="Comparar trámite" title="Comparar">
+								<i class="ph ph-arrows-left-right" aria-hidden="true"></i>
+							</button>
+							<button class="btn-favorite" onclick="event.stopPropagation(); toggleFavorite(1090)" aria-label="Agregar a favoritos" title="Favorito">
+								<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+									<path d="M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 000-7.78z"/>
+								</svg>
+							</button>
+						</div>
+						<a class="diger-rrow__cta" href="/api/landingPage/DetalleTramite/1090">
+							<span>Ver trámite</span>
+							<i class="ph-bold ph-caret-right" aria-hidden="true"></i>
+						</a>
+					</article>
+					<article class="tramite-card diger-rrow" data-tramite-id="1106">
+						<span class="diger-rrow__mark" aria-hidden="true"><i class="ph-duotone ph-file-text"></i></span>
+						<div class="diger-rrow__body">
+								<span class="diger-rrow__eyebrow">Secretar&#xED;a de Trabajo y Seguridad Social</span>
+							<h3 class="diger-rrow__title">Certificaci&#xF3;n de cumplimiento de normativa laboral</h3>
+								<p class="diger-rrow__desc">Documento emitido por la Direcci&#xF3;n General de Inspecci&#xF3;n de Trabajo, que certifica el cumplimiento de la normativa laboral por parte de un patrono, derivado de los mecanismos de verificaci&#xF3;n y promoci&#xF3;n del cumplimiento.</p>
+						</div>
+						<span class="diger-modbadge diger-modbadge--on">
+							<span class="diger-modbadge__dot" aria-hidden="true"></span>
+								En línea
+						</span>
+						<span class="diger-rrow__meta">
+							<i class="ph ph-hash" aria-hidden="true"></i>
+							<span>N.º 1106</span>
+						</span>
+						<div class="diger-rrow__actions">
+							<button class="btn-compare" onclick="event.stopPropagation(); addToCompare(1106, 'Certificaci&#xF3;n de cumplimiento de normativa laboral')" aria-label="Comparar trámite" title="Comparar">
+								<i class="ph ph-arrows-left-right" aria-hidden="true"></i>
+							</button>
+							<button class="btn-favorite" onclick="event.stopPropagation(); toggleFavorite(1106)" aria-label="Agregar a favoritos" title="Favorito">
+								<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+									<path d="M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 000-7.78z"/>
+								</svg>
+							</button>
+						</div>
+						<a class="diger-rrow__cta" href="/api/landingPage/DetalleTramite/1106">
+							<span>Ver trámite</span>
+							<i class="ph-bold ph-caret-right" aria-hidden="true"></i>
+						</a>
+					</article>
+					<article class="tramite-card diger-rrow" data-tramite-id="1113">
+						<span class="diger-rrow__mark" aria-hidden="true"><i class="ph-duotone ph-file-text"></i></span>
+						<div class="diger-rrow__body">
+								<span class="diger-rrow__eyebrow">Secretar&#xED;a de Trabajo y Seguridad Social</span>
+							<h3 class="diger-rrow__title">Certificaciones y constancias emitidas por la Direcci&#xF3;n General del Trabajo (DGT)</h3>
+								<p class="diger-rrow__desc">Documento emitido por la Direcci&#xF3;n General de Trabajo relacionado con tr&#xE1;mites de: a) Certificaci&#xF3;n de reconocimiento e inscripci&#xF3;n de personer&#xED;a jur&#xED;dica, b) Certificado de comunicaci&#xF3;n de junta directiva (inscrita internamente en la SETRASS), c) Certificado de registro de contrato colectivo, d) Constancia de tr&#xE1;mite en curso de aprobaci&#xF3;n de reglamento interno de trabajo.</p>
+						</div>
+						<span class="diger-modbadge diger-modbadge--on">
+							<span class="diger-modbadge__dot" aria-hidden="true"></span>
+								En línea
+						</span>
+						<span class="diger-rrow__meta">
+							<i class="ph ph-hash" aria-hidden="true"></i>
+							<span>N.º 1113</span>
+						</span>
+						<div class="diger-rrow__actions">
+							<button class="btn-compare" onclick="event.stopPropagation(); addToCompare(1113, 'Certificaciones y constancias emitidas por la Direcci&#xF3;n General del Trabajo (DGT)')" aria-label="Comparar trámite" title="Comparar">
+								<i class="ph ph-arrows-left-right" aria-hidden="true"></i>
+							</button>
+							<button class="btn-favorite" onclick="event.stopPropagation(); toggleFavorite(1113)" aria-label="Agregar a favoritos" title="Favorito">
+								<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+									<path d="M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 000-7.78z"/>
+								</svg>
+							</button>
+						</div>
+						<a class="diger-rrow__cta" href="/api/landingPage/DetalleTramite/1113">
+							<span>Ver trámite</span>
+							<i class="ph-bold ph-caret-right" aria-hidden="true"></i>
+						</a>
+					</article>
+					<article class="tramite-card diger-rrow" data-tramite-id="1162">
+						<span class="diger-rrow__mark" aria-hidden="true"><i class="ph-duotone ph-file-text"></i></span>
+						<div class="diger-rrow__body">
+								<span class="diger-rrow__eyebrow">Secretar&#xED;a de Trabajo y Seguridad Social</span>
+							<h3 class="diger-rrow__title">Comunicaci&#xF3;n de Cambio de Junta Directiva</h3>
+								<p class="diger-rrow__desc">El registro de cambios en la junta directiva implica documentar y comunicar oficialmente las modificaciones en los cargos y miembros que la componen, los cambios en la junta directiva es un proceso fundamental para mantener la legalidad, transparencia y estabilidad en la direcci&#xF3;n de un sindicato, garantizando la protecci&#xF3;n de los derechos de sus miembros.&#xD;&#xA;</p>
+						</div>
+						<span class="diger-modbadge diger-modbadge--on">
+							<span class="diger-modbadge__dot" aria-hidden="true"></span>
+								En línea
+						</span>
+						<span class="diger-rrow__meta">
+							<i class="ph ph-hash" aria-hidden="true"></i>
+							<span>N.º 1162</span>
+						</span>
+						<div class="diger-rrow__actions">
+							<button class="btn-compare" onclick="event.stopPropagation(); addToCompare(1162, 'Comunicaci&#xF3;n de Cambio de Junta Directiva')" aria-label="Comparar trámite" title="Comparar">
+								<i class="ph ph-arrows-left-right" aria-hidden="true"></i>
+							</button>
+							<button class="btn-favorite" onclick="event.stopPropagation(); toggleFavorite(1162)" aria-label="Agregar a favoritos" title="Favorito">
+								<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+									<path d="M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 000-7.78z"/>
+								</svg>
+							</button>
+						</div>
+						<a class="diger-rrow__cta" href="/api/landingPage/DetalleTramite/1162">
+							<span>Ver trámite</span>
+							<i class="ph-bold ph-caret-right" aria-hidden="true"></i>
+						</a>
+					</article>
+			</div>
+			<!-- Paginación -->
+			<div class="pagination-modern">
+					<button class="page-btn" disabled><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 18 9 12 15 6"></polyline></svg></button>
+
+
+
+					<a href="/tramites?page=1&amp;institutionFilter=11060" class="page-btn active">1</a>
+
+
+					<button class="page-btn" disabled><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 18 15 12 9 6"></polyline></svg></button>
+			</div>
+	</div>
+
+</main>
+
+<!-- ============================ FOOTER (Shell B/C) ============================ -->
+<footer class="diger-appfoot">
+	<div class="diger-appfoot__grid">
+		<div class="diger-appfoot__brand">
+			<img src="/assets/images/logo/diger-white.png" alt="DIGER — Dirección de Gestión por Resultados">
+			<p>El portal único de trámites del Estado de Honduras. Encontrá lo que necesitás, informate y realizá tu gestión desde un solo lugar.</p>
+			<img class="diger-appfoot__gov" src="/assets/images/logo/logo-gobierno-horizontal-blanco.png" alt="Gobierno de la República de Honduras">
+		</div>
+		<nav class="diger-appfoot__col" aria-label="Portal">
+			<h4>Portal</h4>
+			<a href="/">Inicio</a>
+			<a href="/tramites">Trámites</a>
+			<a href="/instituciones">Instituciones</a>
+			<a href="/colecciones">Servicios</a>
+			<a href="/ayuda">Ayuda</a>
+		</nav>
+		<nav class="diger-appfoot__col" aria-label="Recursos">
+			<h4>Recursos</h4>
+			<a href="/tramites">Todos los trámites</a>
+			<a href="/instituciones">Instituciones del Estado</a>
+			<a href="/colecciones">Áreas temáticas</a>
+			<a href="/ayuda">Centro de ayuda</a>
+		</nav>
+		<div class="diger-appfoot__col">
+			<h4>Contacto</h4>
+			<p class="diger-appfoot__contact"><i class="ph ph-map-pin" aria-hidden="true"></i><span>Tegucigalpa M.D.C., Honduras</span></p>
+			<p class="diger-appfoot__contact"><i class="ph ph-clock" aria-hidden="true"></i><span>Lunes a viernes, 9:00 a.m. – 5:00 p.m.</span></p>
+			<p class="diger-appfoot__contact"><i class="ph ph-globe" aria-hidden="true"></i><span>tramites.diger.gob.hn</span></p>
+		</div>
+	</div>
+	<div class="diger-appfoot__bottom">
+		<span>© 2026 DIGER — Dirección de Gestión por Resultados. Gobierno de la República de Honduras.</span>
+	</div>
+	<div class="diger-sigband" aria-hidden="true"><span></span><span></span><span></span></div>
+</footer>
+
+<script>
+	// ========== CUSTOM SELECT MODERNO ==========
+	class CustomSelect {
+		constructor(selectElement) {
+			this.select = selectElement;
+			this.wrapper = selectElement.closest('.custom-select-wrapper');
+			this.trigger = this.wrapper.querySelector('.select-trigger');
+			this.dropdown = this.wrapper.querySelector('.select-dropdown');
+			this.optionsContainer = this.wrapper.querySelector('.select-options');
+			this.searchInput = this.wrapper.querySelector('.search-input');
+			this.noResults = this.wrapper.querySelector('.select-no-results');
+			this.valueDisplay = this.wrapper.querySelector('.select-value');
+			this.options = Array.from(this.select.options);
+
+			this.init();
+		}
+
+		init() {
+			this.renderOptions();
+			this.setInitialValue();
+			this.attachEvents();
+		}
+
+		renderOptions() {
+			this.optionsContainer.innerHTML = '';
+			this.options.forEach((option, index) => {
+				if (index === 0 && option.value === '') return; // Skip placeholder
+				const div = document.createElement('div');
+				div.className = 'select-option';
+				div.textContent = option.text;
+				div.dataset.value = option.value;
+				div.dataset.text = option.text;
+				if (option.selected) div.classList.add('selected');
+				div.addEventListener('click', () => this.selectOption(option.value, option.text, div));
+				this.optionsContainer.appendChild(div);
+			});
+		}
+
+		setInitialValue() {
+			const selectedOption = this.select.options[this.select.selectedIndex];
+			if (selectedOption && selectedOption.value !== '') {
+				this.valueDisplay.textContent = selectedOption.text;
+				this.valueDisplay.classList.remove('placeholder');
+			}
+		}
+
+		selectOption(value, text, optionElement) {
+			// Update select
+			this.select.value = value;
+
+			// Update display
+			if (value === '') {
+				this.valueDisplay.textContent = this.options[0].text;
+				this.valueDisplay.classList.add('placeholder');
+			} else {
+				this.valueDisplay.textContent = text;
+				this.valueDisplay.classList.remove('placeholder');
+			}
+
+			// Update selected class
+			this.optionsContainer.querySelectorAll('.select-option').forEach(opt => {
+				opt.classList.remove('selected');
+			});
+			if (optionElement) optionElement.classList.add('selected');
+
+			// Close dropdown
+			this.close();
+		}
+
+		attachEvents() {
+			// Toggle dropdown
+			this.trigger.addEventListener('click', (e) => {
+				e.stopPropagation();
+				this.toggle();
+			});
+
+			// Search functionality
+			if (this.searchInput) {
+				this.searchInput.addEventListener('input', (e) => {
+					this.filterOptions(e.target.value);
+				});
+
+				this.searchInput.addEventListener('click', (e) => {
+					e.stopPropagation();
+				});
+			}
+
+			// Close on outside click
+			document.addEventListener('click', (e) => {
+				if (!this.wrapper.contains(e.target)) {
+					this.close();
+				}
+			});
+
+			// Close on escape
+			document.addEventListener('keydown', (e) => {
+				if (e.key === 'Escape') this.close();
+			});
+		}
+
+		filterOptions(searchTerm) {
+			const term = searchTerm.toLowerCase().trim();
+			let visibleCount = 0;
+
+			this.optionsContainer.querySelectorAll('.select-option').forEach(option => {
+				const text = option.textContent.toLowerCase();
+				if (text.includes(term)) {
+					option.classList.remove('hidden');
+					visibleCount++;
+				} else {
+					option.classList.add('hidden');
+				}
+			});
+
+			if (visibleCount === 0) {
+				this.noResults.classList.add('show');
+			} else {
+				this.noResults.classList.remove('show');
+			}
+		}
+
+		toggle() {
+			if (this.dropdown.classList.contains('active')) {
+				this.close();
+			} else {
+				this.open();
+			}
+		}
+
+		open() {
+			// Close all other selects
+			document.querySelectorAll('.select-dropdown.active').forEach(dropdown => {
+				dropdown.classList.remove('active');
+				dropdown.closest('.select-trigger')?.classList.remove('active');
+			});
+
+			this.dropdown.classList.add('active');
+			this.trigger.classList.add('active');
+
+			if (this.searchInput) {
+				this.searchInput.value = '';
+				this.filterOptions('');
+				setTimeout(() => this.searchInput.focus(), 100);
+			}
+		}
+
+		close() {
+			this.dropdown.classList.remove('active');
+			this.trigger.classList.remove('active');
+			if (this.searchInput) this.searchInput.value = '';
+		}
+	}
+
+	// Initialize all custom selects
+	document.addEventListener('DOMContentLoaded', function() {
+		document.querySelectorAll('.custom-select-wrapper select').forEach(select => {
+			new CustomSelect(select);
+		});
+
+		updateFavoriteButtons();
+	});
+
+	// ========== FAVORITOS ==========
+	let favorites = JSON.parse(localStorage.getItem('favorites') || '[]');
+	function toggleFavorite(tramiteId) {
+		tramiteId = parseInt(tramiteId);
+		const index = favorites.findIndex(fav => parseInt(fav) === tramiteId);
+		if (index > -1) { favorites.splice(index, 1); } else { favorites.push(tramiteId); }
+		localStorage.setItem('favorites', JSON.stringify(favorites));
+		updateFavoriteButtons();
+	}
+	function updateFavoriteButtons() {
+		document.querySelectorAll('.tramite-card').forEach(card => {
+			const tramiteId = parseInt(card.dataset.tramiteId);
+			const btn = card.querySelector('.btn-favorite');
+			const svg = btn?.querySelector('svg');
+			if (btn && svg) {
+				const isFavorite = favorites.some(fav => parseInt(fav) === tramiteId);
+				if (isFavorite) {
+					btn.classList.add('active');
+					svg.innerHTML = '<path d="M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 000-7.78z" fill="currentColor" stroke="currentColor"/>';
+				} else {
+					btn.classList.remove('active');
+					svg.innerHTML = '<path d="M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 000-7.78z" fill="none" stroke="currentColor"/>';
+				}
+			}
+		});
+	}
+
+	// ========== COMPARACIÓN ==========
+	let compareList = JSON.parse(localStorage.getItem('compareList') || '[]');
+	function showNotification(message, type) {
+		const colors = { info: '#1a65a3', warning: '#f59e0b', error: '#ef4444', success: '#10b981' };
+		const toast = document.createElement('div');
+		toast.style.cssText = `position:fixed;top:20px;right:20px;z-index:99999;padding:14px 24px;border-radius:12px;color:white;font-size:14px;font-weight:500;background:${colors[type] || colors.info};box-shadow:0 4px 12px rgba(0,0,0,0.15);opacity:0;transition:opacity 0.3s ease;max-width:400px;`;
+		toast.textContent = message;
+		document.body.appendChild(toast);
+		requestAnimationFrame(() => toast.style.opacity = '1');
+		setTimeout(() => { toast.style.opacity = '0'; setTimeout(() => toast.remove(), 300); }, 4000);
+	}
+	function addToCompare(tramiteId, tramiteName) {
+		if (compareList.length >= 3) { showNotification('Máximo 3 trámites para comparar', 'warning'); return; }
+		const exists = compareList.find(item => item.id === tramiteId);
+		if (exists) { showNotification('Este trámite ya está en la comparación', 'info'); return; }
+		compareList.push({ id: tramiteId, name: tramiteName });
+		localStorage.setItem('compareList', JSON.stringify(compareList));
+		showNotification(`Agregado: "${tramiteName}" (${compareList.length}/3)`, 'success');
+		updateCompareUI();
+	}
+	function removeFromCompare(tramiteId) {
+		compareList = compareList.filter(item => item.id !== tramiteId);
+		localStorage.setItem('compareList', JSON.stringify(compareList));
+		updateCompareUI();
+		const modal = document.getElementById('comparisonModal');
+		if (modal && modal.style.display === 'flex') {
+			if (compareList.length >= 2) compareNow(); else closeComparisonModal();
+		}
+	}
+	function clearCompareList() {
+		compareList = [];
+		localStorage.setItem('compareList', JSON.stringify(compareList));
+		updateCompareUI();
+		closeComparisonModal();
+	}
+	function updateCompareUI() {
+		const container = document.getElementById('compareContainer');
+		const counter = document.getElementById('compareCounter');
+		const items = document.getElementById('compareItems');
+		if (compareList.length > 0) {
+			container.classList.add('active');
+			counter.textContent = compareList.length;
+			items.innerHTML = compareList.map(item => `
+				<div class="compare-item">
+					<span class="compare-item-name">${item.name}</span>
+					<button class="compare-item-remove" onclick="removeFromCompare(${item.id})">
+						<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+							<line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line>
+						</svg>
+					</button>
+				</div>`).join('');
+		} else {
+			container.classList.remove('active');
+		}
+	}
+	async function compareNow() {
+		if (compareList.length < 2) { showNotification('Selecciona al menos 2 trámites', 'warning'); return; }
+		const modal = document.getElementById('comparisonModal');
+		const modalBody = document.getElementById('comparisonModalBody');
+		modalBody.innerHTML = '<div style="text-align:center;padding:40px;"><div class="loading-spinner"></div><p>Cargando comparación...</p></div>';
+		modal.style.display = 'flex';
+		try {
+			const res = await fetch('/landingPage/CompararTramites', {
+				method: 'POST', headers: {'Content-Type':'application/json'},
+				body: JSON.stringify(compareList.map(i => i.id))
+			});
+			const data = await res.json();
+			if (data.success) {
+				const t = data.tramites, m = data.mejoresOpciones;
+				modalBody.innerHTML = `
+				<div class="comparison-table">
+					<div class="comparison-row header">
+						<div class="comparison-label">Trámite</div>
+						${t.map(x => `<div class="comparison-item-card ${m.menosComplejo===x.id?'destacado':''}">
+							${m.menosComplejo===x.id?'<div class="comparison-winner"><i class="ph-fill ph-seal-check" aria-hidden="true"></i> MENOS COMPLEJO</div>':''}
+							<button class="comparison-remove-btn" onclick="removeFromCompare(${x.id})">×</button>
+							<h3 class="comparison-item-title">${x.nombre||''}</h3>
+							<p class="comparison-item-subtitle">${x.siglaInstitucion||x.institucion||''}</p>
+						</div>`).join('')}
+					</div>
+					<div class="comparison-row"><div class="comparison-label">Modalidad</div>${t.map(x=>`<div class="comparison-item-card"><span class="comparison-item-badge badge-${x.esEnLinea?'online':'presencial'}">${x.esEnLinea?'En línea':'Presencial'}</span></div>`).join('')}</div>
+					<div class="comparison-row"><div class="comparison-label">Requisitos</div>${t.map(x=>`<div class="comparison-item-card"><div class="comparison-item-value ${m.menosRequisitos===x.id?'best':''}">${x.cantidadRequisitos||0} documentos</div></div>`).join('')}</div>
+					<div class="comparison-row"><div class="comparison-label">Pasos</div>${t.map(x=>`<div class="comparison-item-card"><div class="comparison-item-value ${m.menosPasos===x.id?'best':''}">${x.cantidadPasos||0} pasos</div></div>`).join('')}</div>
+					<div class="comparison-row"><div class="comparison-label">Complejidad</div>${t.map(x=>`<div class="comparison-item-card"><span class="comparison-item-badge badge-${(x.nivelComplejidad||'medio').toLowerCase()}">${x.nivelComplejidad||'Medio'}</span></div>`).join('')}</div>
+					<div class="comparison-row"><div class="comparison-label">Tiempo est.</div>${t.map(x=>`<div class="comparison-item-card"><div class="comparison-item-value ${m.masRapido===x.id?'best':''}">${x.tiempoEstimadoDias||1} días</div></div>`).join('')}</div>
+				</div>
+				<div class="comparison-actions">${t.map(x=>`<a href="/landingPage/DetalleTramite/${x.id}" class="btn-comparison-detail">Ver: ${x.nombre||''}</a>`).join('')}</div>`;
+			} else {
+				showNotification(data.message || 'Error', 'error');
+				closeComparisonModal();
+			}
+		} catch(e) { showNotification('Error al cargar comparación', 'error'); closeComparisonModal(); }
+	}
+	function closeComparisonModal() { document.getElementById('comparisonModal').style.display = 'none'; }
+	window.addEventListener('click', function(e) { if (e.target === document.getElementById('comparisonModal')) closeComparisonModal(); });
+	// Init compare UI on load
+	updateCompareUI();
+
+	// ========== LOADING ==========
+	document.getElementById('filterForm').addEventListener('submit', function() {
+		const btn = document.getElementById('btnFilter');
+		btn.disabled = true;
+		btn.innerHTML = '<div class="loading"></div> Buscando...';
+	});
+
+	// ========== ANIMACIONES ==========
+	const observer = new IntersectionObserver((entries) => {
+		entries.forEach(entry => {
+			if (entry.isIntersecting) {
+				entry.target.style.opacity = '1';
+				entry.target.style.transform = 'translateY(0)';
+			}
+		});
+	}, { threshold: 0.1 });
+	document.querySelectorAll('.tramite-card').forEach(card => {
+		card.style.opacity = '0';
+		card.style.transform = 'translateY(20px)';
+		card.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
+		observer.observe(card);
+	});
+
+	// Loading overlay on navigation
+	document.querySelectorAll('a[href*="DetalleTramite"]').forEach(link => {
+		link.addEventListener('click', function() {
+			document.getElementById('loadingOverlay').classList.add('active');
+		});
+	});
+</script>
+
+<script>
+	// ========== SHELL HÍBRIDO (nav scroll + menú móvil + toggle vista) — aditivo, aislado ==========
+	(function () {
+		"use strict";
+
+		// Nav: sombra al hacer scroll (siempre marino sólido)
+		var appnav = document.getElementById('appnav');
+		function onScroll() { if (appnav) appnav.classList.toggle('scrolled', window.scrollY > 8); }
+		onScroll();
+		window.addEventListener('scroll', onScroll, { passive: true });
+
+		// Menú móvil
+		var mnav = document.getElementById('mnav'), burger = document.getElementById('burger');
+		function openM() {
+			if (!mnav) return;
+			mnav.classList.add('open');
+			if (burger) burger.setAttribute('aria-expanded', 'true');
+			document.body.style.overflow = 'hidden';
+			var c = mnav.querySelector('.diger-mnav__close');
+			if (c) c.focus();
+		}
+		function closeM() {
+			if (!mnav) return;
+			mnav.classList.remove('open');
+			if (burger) burger.setAttribute('aria-expanded', 'false');
+			document.body.style.overflow = '';
+		}
+		if (burger) burger.addEventListener('click', openM);
+		document.querySelectorAll('[data-close-mnav]').forEach(function (el) { el.addEventListener('click', closeM); });
+		if (mnav) mnav.querySelectorAll('.diger-mnav__panel a').forEach(function (a) { a.addEventListener('click', closeM); });
+		document.addEventListener('keydown', function (e) {
+			if (e.key === 'Escape' && mnav && mnav.classList.contains('open')) closeM();
+		});
+
+		// Toggle Lista / Cuadrícula (preferencia en localStorage 'catalogView')
+		var results = document.getElementById('resultsWrap');
+		var toggle = document.getElementById('viewToggle');
+		if (results && toggle) {
+			var mode = 'list';
+			try { var v = localStorage.getItem('catalogView'); if (v === 'list' || v === 'grid') mode = v; } catch (e) { }
+			function applyView(m) {
+				results.setAttribute('data-view', m);
+				toggle.querySelectorAll('button').forEach(function (b) {
+					b.setAttribute('aria-pressed', b.getAttribute('data-view') === m ? 'true' : 'false');
+				});
+				try { localStorage.setItem('catalogView', m); } catch (e) { }
+			}
+			applyView(mode);
+			toggle.querySelectorAll('button').forEach(function (b) {
+				b.addEventListener('click', function () { applyView(b.getAttribute('data-view')); });
+			});
+		}
+	})();
+</script>
+
+<style>
+	/* ---------- Contenedor + ventana ---------- */
+	.ai-chat-container { position: fixed; bottom: 2rem; right: 2rem; z-index: 9999; display: flex; flex-direction: column; align-items: flex-end; gap: 1rem; }
+	.ai-chat-window { width: 420px; height: 600px; background: #fff; border-radius: 24px; box-shadow: 0 25px 50px -12px rgba(0,0,0,.25); display: none; flex-direction: column; overflow: hidden; animation: slideUp .3s ease; border: 1px solid rgba(2,57,94,.10); }
+	.ai-chat-window.active { display: flex; }
+	@keyframes slideUp { from { transform: translateY(20px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+
+	/* ---------- Header ---------- */
+	.ai-chat-header { padding: 1.5rem; background: linear-gradient(135deg,#1a65a3,#155486); color: #fff; display: flex; align-items: center; justify-content: space-between; flex-shrink: 0; }
+	.ai-header-info { display: flex; align-items: center; gap: 1rem; }
+	.ai-status { width: 10px; height: 10px; background: #999; border-radius: 50%; flex-shrink: 0; transition: background .3s ease; }
+	.ai-status.online { background: #10b981; animation: pulse 2s infinite; }
+	.ai-status.offline { background: #ef4444; animation: none; }
+	.ai-status.checking { background: #999; animation: pulse 1.5s infinite; }
+	.ai-header-text { display: flex; flex-direction: column; }
+	.ai-name { font-weight: 600; font-size: 1rem; }
+	.ai-subtitle { font-size: .875rem; opacity: .9; }
+	.ai-close-btn { background: none; border: none; color: #fff; font-size: 24px; cursor: pointer; padding: 0; width: 30px; height: 30px; display: flex; align-items: center; justify-content: center; border-radius: 50%; transition: background .2s ease; }
+	.ai-close-btn:hover { background: rgba(255,255,255,.2); }
+
+	/* ---------- Cuerpo + mensajes ---------- */
+	.ai-chat-body { flex: 1; padding: 1.5rem; overflow-y: auto; background: #f8fafb; display: flex; flex-direction: column; gap: 1rem; }
+	.ai-message { display: flex; gap: .75rem; animation: fadeIn .3s ease; align-items: flex-start; }
+	@keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+	.ai-message.user { flex-direction: row-reverse; }
+	.ai-avatar { width: 36px; height: 36px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 18px; flex-shrink: 0; }
+	.ai-message.bot .ai-avatar { background: linear-gradient(135deg,#1a65a3,#155486); color: #fff; }
+	.ai-message.user .ai-avatar { background: #e5e7eb; }
+	.ai-bubble { max-width: 75%; padding: .75rem 1rem; border-radius: 18px; line-height: 1.5; word-wrap: break-word; }
+	.ai-message.bot .ai-bubble { background: #fff; color: #1f2937; border-bottom-left-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,.08); }
+	.ai-message.user .ai-bubble { background: linear-gradient(135deg,#1a65a3,#155486); color: #fff; border-bottom-right-radius: 4px; }
+
+	/* ---------- Indicador de escritura ---------- */
+	.ai-typing { display: flex; gap: 4px; padding: 1rem; align-items: center; }
+	.typing-dot { width: 8px; height: 8px; background: #94a3b8; border-radius: 50%; animation: typing 1.4s infinite; }
+	.typing-dot:nth-child(2) { animation-delay: .2s; }
+	.typing-dot:nth-child(3) { animation-delay: .4s; }
+	@keyframes typing { 0%,60%,100% { transform: translateY(0); } 30% { transform: translateY(-10px); } }
+
+	/* ---------- Acciones rápidas ---------- */
+	.ai-quick-actions { padding: .75rem; background: #fff; border-top: 1px solid #e5e7eb; display: flex; gap: .5rem; flex-wrap: wrap; flex-shrink: 0; }
+	.quick-action-chip { padding: .5rem 1rem; background: #f3f4f6; border-radius: 100px; font-size: .875rem; color: #4b5563; border: 1px solid #e5e7eb; cursor: pointer; transition: all .2s ease; white-space: nowrap; }
+	.quick-action-chip:hover { background: #1a65a3; color: #fff; transform: translateY(-2px); }
+
+	/* ---------- Footer + input ---------- */
+	.ai-chat-footer { padding: 1rem; background: #fff; border-top: 1px solid #e5e7eb; flex-shrink: 0; }
+	.ai-input-group { display: flex; gap: .5rem; align-items: center; background: #f3f4f6; border-radius: 100px; padding: .5rem; }
+	.ai-input { flex: 1; background: none; border: none; padding: .5rem 1rem; font-size: .95rem; outline: none; min-width: 0; }
+	.ai-send-btn { width: 40px; height: 40px; background: linear-gradient(135deg,#1a65a3,#155486); border: none; border-radius: 50%; color: #fff; cursor: pointer; display: flex; align-items: center; justify-content: center; transition: all .2s ease; flex-shrink: 0; }
+	.ai-send-btn:hover:not(:disabled) { transform: scale(1.1); }
+	.ai-send-btn:disabled { opacity: .5; cursor: not-allowed; transform: none; }
+
+	/* ---------- FAB (estructura) ---------- */
+	.ai-fab { position: fixed; bottom: 30px; right: 30px; width: 65px; height: 65px; border-radius: 50%; display: flex; align-items: center; justify-content: center; cursor: pointer; transition: all .4s cubic-bezier(.4,0,.2,1); z-index: 1001; }
+	.ai-fab-icon-wrapper { display: flex; align-items: center; justify-content: center; width: 100%; height: 100%; }
+	.ai-fab-icon-wrapper i { font-size: 26px; color: #02395e; line-height: 1; }
+	.ai-fab-icon { width: 32px; height: 32px; }
+	.ai-fab.active { opacity: 0 !important; pointer-events: none !important; transform: scale(0) !important; }
+	.ai-fab-close { display: none; }
+	.ai-fab-pulse { position: absolute; inset: 0; border-radius: 50%; border: 2px solid rgba(122,203,221,.6); animation: subtlePulse 3s ease-in-out infinite; pointer-events: none; }
+	@keyframes subtlePulse { 0% { transform: scale(1); opacity: .8; } 50% { transform: scale(1.15); opacity: .4; } 100% { transform: scale(1.3); opacity: 0; } }
+
+	/* ---------- Panel de sugerencias ---------- */
+	.ai-suggestions { position: absolute; bottom: 100%; right: 0; background: #fff; border-radius: 12px; padding: 1rem; margin-bottom: 1rem; box-shadow: 0 10px 30px -10px rgba(0,0,0,.2); display: none; min-width: 280px; }
+	.ai-suggestions.active { display: block; animation: fadeIn .3s ease; }
+	.suggestion-item { display: flex; align-items: center; gap: .75rem; padding: .75rem; border-radius: 8px; cursor: pointer; transition: all .2s ease; }
+	.suggestion-item:hover { background: #f3f4f6; transform: translateX(4px); }
+	.suggestion-icon { width: 40px; height: 40px; background: linear-gradient(135deg,rgba(26,101,163,.12),rgba(26,101,163,.05)); border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 20px; flex-shrink: 0; }
+	.suggestion-title { font-weight: 600; font-size: .9rem; color: #02395e; }
+	.suggestion-desc { font-size: .75rem; color: #6b7280; }
+
+	@keyframes pulse { 0% { transform: scale(1); opacity: 1; } 50% { transform: scale(1.08); opacity: .7; } 100% { transform: scale(1); opacity: 1; } }
+
+	/* ---------- Color de marca del FAB (gana a diger-2026.css con !important) ---------- */
+	.ai-fab { background: linear-gradient(135deg,#1a65a3 0%,#2377c2 100%) !important; box-shadow: 0 12px 30px rgba(26,101,163,.42) !important; border: 0 !important; }
+	.ai-fab:hover { background: linear-gradient(135deg,#2377c2 0%,#2c86d4 100%) !important; box-shadow: 0 16px 36px rgba(26,101,163,.5) !important; }
+	.ai-fab:focus-visible { outline: 3px solid #1a65a3; outline-offset: 3px; }
+
+	/* ---------- Responsive ---------- */
+	@media (max-width: 768px) {
+		.ai-chat-window { width: calc(100vw - 2rem); height: calc(100vh - 6rem); right: 1rem; bottom: 1rem; left: 1rem; }
+		.ai-fab { bottom: 20px; right: 20px; }
+	}
+
+	/* ---------- Accesibilidad: menos movimiento ---------- */
+	@media (prefers-reduced-motion: reduce) {
+		.ai-fab-pulse { animation: none !important; }
+		.ai-status.online, .ai-status.checking { animation: none !important; }
+		.ai-message, .ai-chat-window, .ai-suggestions.active { animation: none !important; }
+	}
+</style>
+
+<!-- ============================ WIDGET DE CHAT IA (lógica en chatbotia.js) ============================ -->
+<div class="ai-chat-container">
+	<!-- Panel de sugerencias -->
+	<div class="ai-suggestions" id="aiSuggestionsPanel">
+		<div class="suggestion-item" onclick="startAIChat('help')">
+			<div class="suggestion-icon"><i class="ph-duotone ph-lightbulb" aria-hidden="true"></i></div>
+			<div>
+				<div class="suggestion-title">Necesito ayuda</div>
+				<div class="suggestion-desc">Asistente disponible 24/7</div>
+			</div>
+		</div>
+		<div class="suggestion-item" onclick="startAIChat('recommend')">
+			<div class="suggestion-icon"><i class="ph-duotone ph-target" aria-hidden="true"></i></div>
+			<div>
+				<div class="suggestion-title">Trámites populares</div>
+				<div class="suggestion-desc">Los más consultados</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- Ventana de chat -->
+	<div class="ai-chat-window" id="aiChatWindow" role="dialog" aria-label="Asistente de Trámites">
+		<div class="ai-chat-header">
+			<div class="ai-header-info">
+				<div class="ai-status" id="aiStatusDot" title="Verificando IA..."></div>
+				<div class="ai-header-text">
+					<div class="ai-name">Asistente de Trámites</div>
+					<div class="ai-subtitle" id="aiStatusText">Verificando conexión...</div>
+				</div>
+			</div>
+			<button class="ai-new-chat-btn" onclick="resetAIChat()" title="Nueva conversación" aria-label="Nueva conversación" style="background:none;border:none;color:white;cursor:pointer;font-size:18px;padding:4px 8px;opacity:0.8;transition:opacity 0.2s;" onmouseenter="this.style.opacity='1'" onmouseleave="this.style.opacity='0.8'">
+				<i class="ph-bold ph-plus-circle" aria-hidden="true"></i>
+			</button>
+			<button class="ai-close-btn" onclick="closeAIChat()" aria-label="Cerrar chat"><i class="ph-bold ph-x" aria-hidden="true"></i></button>
+		</div>
+
+		<div class="ai-chat-body" id="aiChatBody">
+			<!-- Mensaje de bienvenida -->
+			<div class="ai-message bot">
+				<div class="ai-avatar"><i class="ph-fill ph-bank" aria-hidden="true"></i></div>
+				<div class="ai-bubble">
+					<strong>Bienvenido al Portal de Trámites.</strong><br><br>Puedo ayudarte a buscar trámites, ver requisitos e información de instituciones. Pregúntame lo que necesites.
+				</div>
+			</div>
+		</div>
+
+		<!-- Acciones rápidas -->
+		<div class="ai-quick-actions" id="aiQuickActions">
+			<button class="quick-action-chip" onclick="sendQuickMessage('¿Qué trámites puedo hacer en línea?')">
+				Trámites en línea
+			</button>
+			<button class="quick-action-chip" onclick="sendQuickMessage('¿Cómo saco mi pasaporte?')">
+				Pasaporte
+			</button>
+			<button class="quick-action-chip" onclick="sendQuickMessage('¿Qué instituciones hay disponibles?')">
+				Instituciones
+			</button>
+			<button class="quick-action-chip" onclick="sendQuickMessage('¿Cuáles son los trámites más populares?')">
+				Más populares
+			</button>
+		</div>
+
+		<div class="ai-chat-footer">
+			<div class="ai-input-group">
+				<input type="text"
+				       class="ai-input"
+				       id="aiMessageInput"
+				       placeholder="Escribe tu pregunta..."
+				       maxlength="1000"
+				       autocomplete="off"
+				       aria-label="Escribe tu pregunta"
+				       onkeypress="if(event.key === 'Enter') sendAIMessage()">
+				<button class="ai-send-btn" onclick="sendAIMessage()" aria-label="Enviar mensaje">
+					<i class="ph-fill ph-paper-plane-tilt" aria-hidden="true"></i>
+				</button>
+			</div>
+		</div>
+	</div>
+
+	<!-- Botón flotante (FAB) -->
+	<div class="ai-fab" onclick="toggleAIChat()" role="button" tabindex="0" aria-label="Abrir asistente de trámites">
+		<div class="ai-fab-icon-wrapper">
+			<i class="ph-duotone ph-chat-circle-dots ai-fab-icon" aria-hidden="true"></i>
+		</div>
+		<!-- Badge de estado IA -->
+		<div id="aiFabBadge" style="position:absolute;top:0;right:0;width:14px;height:14px;border-radius:50%;border:2px solid white;background:#999;z-index:2;"></div>
+		<div class="ai-fab-close"></div>
+		<div class="ai-fab-pulse"></div>
+	</div>
+</div>
+
+<!-- Chatbot IA — lógica (cache busting por deploy) -->
+<script src="/assets/js/chatbotia.js?v=639298529865012604"></script>
+
+
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a57f924d099ae8d0',t:'MTc5NDI1NjE4Ng=='};var l=window.parent.location,o;try{o=new URL(l.origin).origin}catch(e){try{o=new URL(new URL(l.href).origin).origin}catch(e){o=''}}var u='/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a57f924d099ae8d0',a=document.createElement('script');a.src=o?new URL(u,o).href:u;document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
