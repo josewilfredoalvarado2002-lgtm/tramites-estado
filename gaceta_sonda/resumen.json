@@ -1,0 +1,140 @@
+[
+ {
+  "muestra": "2011 enero",
+  "listado": "https://enag.gob.hn/index.php/gaceta-digital/2011/enero",
+  "ediciones_en_pagina": 12,
+  "paginacion": [
+   12
+  ],
+  "edicion": "20110103 - 32406",
+  "tamano": "171.2 KB",
+  "sumario": [
+   "PRESIDENCIA DE LA REPÚBLICAAcuerdo Ejecutivo No. 1690.",
+   "SECRETARÍA DE FINANZASAcuerdos Nos.: 1632, 1657, 1748, 1754,1886, CGR-008/2010.",
+   "SECRETARÍA DE INDUSTRIA Y COMERCIOAcuerdos Nos.: 1078-2010, 1084-2010,1085-2010, 1088-2010, 1098-2010,1106-2010, 1110-2010, 1254-2010,1257-2010, 1259-2010, 1287-2010.",
+   "SECRETARÍA DE AGRICULTURA Y GANADERÍAAcuerdos Nos.: 223-2010 y 236-2010.",
+   "BANCO CENTRAL DE HONDURASAcuerdo No. 03/2010."
+  ],
+  "mb": 0.18,
+  "paginas": 20,
+  "fuentes": 9,
+  "paginas_sin_texto": 0,
+  "resultado": "OK"
+ },
+ {
+  "muestra": "2015 enero",
+  "listado": "https://enag.gob.hn/index.php/gaceta-digital/2015/enero",
+  "ediciones_en_pagina": 12,
+  "paginacion": [
+   12,
+   24
+  ],
+  "edicion": "20150102 - 33621",
+  "tamano": "1.48 MB",
+  "sumario": [
+   "PODER LEGISLATIVODecretos Nos.: 120-2014 y 121-2014",
+   "SECRETARÍA DE FINANZASAcuerdo Ejecutivo No. 721-2014."
+  ],
+  "mb": 1.55,
+  "paginas": 32,
+  "fuentes": 24,
+  "paginas_sin_texto": 0,
+  "resultado": "OK"
+ },
+ {
+  "muestra": "2018 enero",
+  "listado": "https://enag.gob.hn/index.php/gaceta-digital/2018/enero",
+  "ediciones_en_pagina": 12,
+  "paginacion": [
+   12,
+   24
+  ],
+  "edicion": "20180102 - 34531",
+  "tamano": "25.29 MB",
+  "sumario": [
+   "PODER EJECUTIVODecreto Ejecutivo Número PCM-078-2017"
+  ],
+  "mb": 26.52,
+  "paginas": 336,
+  "fuentes": 44,
+  "paginas_sin_texto": 0,
+  "resultado": "OK"
+ },
+ {
+  "muestra": "2020 enero",
+  "listado": "https://enag.gob.hn/index.php/gaceta-digital/2020/enero",
+  "ediciones_en_pagina": 12,
+  "paginacion": [
+   12,
+   24
+  ],
+  "edicion": "20200102 - 35138",
+  "tamano": "15.82 MB",
+  "sumario": [
+   "SECRETARÍA DE AGRICULTURA Y GANADERÍAAcuerdo No. 223-2019",
+   "BANCO CENTRAL DE HONDURASAcuerdo No. 08/2019"
+  ],
+  "mb": 16.58,
+  "paginas": 60,
+  "fuentes": 28,
+  "paginas_sin_texto": 0,
+  "resultado": "OK"
+ },
+ {
+  "muestra": "2023 enero",
+  "listado": "https://enag.gob.hn/index.php/gaceta-digital/2023/enero",
+  "ediciones_en_pagina": 12,
+  "paginacion": [
+   12,
+   24
+  ],
+  "edicion": "20230102 - 36118",
+  "tamano": "2.36 MB",
+  "sumario": [
+   "SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNCertificación, Resolución No. 1097-2022"
+  ],
+  "mb": 2.48,
+  "paginas": 20,
+  "fuentes": 25,
+  "paginas_sin_texto": 0,
+  "resultado": "OK"
+ },
+ {
+  "muestra": "2026 octubre",
+  "listado": "https://enag.gob.hn/index.php/gaceta-digital/2026/octubre",
+  "ediciones_en_pagina": 12,
+  "paginacion": [
+   12
+  ],
+  "edicion": "20261002 - 37261",
+  "tamano": "3.72 MB",
+  "sumario": [
+   "PODER EJECUTIVOAcuerdos Ejecutivos Nos. 047-DP-2026, 053-DP-2026",
+   "PODER LEGISLATIVODecreto No. 196-2026",
+   "INSTITUTO NACIONAL DE MIGRACIÓNCertificación, Convenio de Facilitación Migratoria, Cooperación Institucional y Asistencia Técnica entre La Escuela Agrícola Panamerícana Inc. y el Instituto Nacional de Migración (INM), Memorándum de Cooperación entre la Agencia de Cooperación Internacional del [Japón (JICA) en Honduras y el Instituto Nacional de Migración (INM) para la Facilitación de Trámites Migratorios]."
+  ],
+  "mb": 3.9,
+  "paginas": 68,
+  "fuentes": 22,
+  "paginas_sin_texto": 0,
+  "resultado": "OK"
+ },
+ {
+  "muestra": "2026 octubre",
+  "listado": "https://enag.gob.hn/index.php/gaceta-digital/2026/octubre",
+  "ediciones_en_pagina": 12,
+  "paginacion": [
+   12
+  ],
+  "edicion": "20261005 - 37262",
+  "tamano": "5.26 MB",
+  "sumario": [
+   "PODER LEGISLATIVODecretos Nos. 176-2026, 178-2026,185-2026, 188-2026"
+  ],
+  "mb": 5.51,
+  "paginas": 100,
+  "fuentes": 62,
+  "paginas_sin_texto": 0,
+  "resultado": "OK"
+ }
+]
