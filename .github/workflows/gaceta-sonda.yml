@@ -1,0 +1,34 @@
+name: Gaceta (sonda)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sonda:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v6
+
+      - name: Instalar herramientas para leer PDF
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq poppler-utils
+          python3 -m pip install --quiet --break-system-packages pymupdf
+
+      - name: Sonda de La Gaceta
+        run: python3 -m gaceta.sonda
+
+      - name: Guardar el resultado en el repositorio
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -e gaceta_sonda ]; then git add -A -- gaceta_sonda; fi
+          if git diff --cached --quiet; then echo "Sin cambios que guardar."; exit 0; fi
+          git commit -m "Sonda de La Gaceta $(TZ=America/Tegucigalpa date '+%Y-%m-%d %H:%M')"
+          git push
