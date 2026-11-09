@@ -27,7 +27,8 @@ Portal de Trámites ──(GitHub Actions, día 3 de cada mes)──> este repos
 | `puente/instalar_puente.sh` | Engancha el puente a CaseDeck Motor (un renglón en `ejecutar.sh`) |
 | `puente/desinstalar_puente.sh` | Quita ese renglón; no borra notas |
 | `.github/workflows/extraer.yml` | Corrida mensual y manual en GitHub Actions |
-| `pruebas/` | 24 pruebas con HTML guardado del portal y con una bóveda simulada |
+| `docs/documentacion-crawler.md` | Documentación; el crawler la copia a `10 Trámites del Estado/_Sistema/Documentación del crawler.md` |
+| `pruebas/` | 25 pruebas con HTML guardado del portal y con una bóveda simulada |
 | `10 Trámites del Estado/` | Salida del crawler (la crea la primera corrida) |
 | `estado/` | Registro interno: huellas, nombres de archivo fijos y copia de cada ficha leída |
 
@@ -118,4 +119,6 @@ python3 -m unittest discover -s pruebas -v
 
 Corren solas en cada ejecución de GitHub Actions antes de leer el portal. Si alguna falla, la extracción no corre.
 
-La documentación completa está en `10 Trámites del Estado/_Sistema/Documentación del crawler.md`.
+La documentación completa está en `docs/documentacion-crawler.md`, y en la bóveda en `10 Trámites del Estado/_Sistema/Documentación del crawler.md`.
+
+Ningún archivo o carpeta con tildes se sube a mano: los crea el crawler en GitHub. Si se suben desde la Mac por la web, las tildes llegan en otra forma Unicode y GitHub muestra dos carpetas con el mismo nombre.

@@ -295,6 +295,26 @@ class Extraccion:
             indice.append((N.enlace(inst["carpeta"], inst["nota"], inst["nombre"]), inst["nombre"], vig, len(filas) - vig))
         self.escribir(f"{N.CARPETA_RAIZ}/Índice de trámites.md", N.render_indice(indice))
         self.escribir(f"{N.CARPETA_RAIZ}/Trámites.base", N.BASE_TRAMITES)
+        # La documentación vive en docs/ con un nombre sin tildes y el crawler la copia a la carpeta de la bóveda.
+        # Así todos los nombres con tildes los crea Python y quedan en la misma forma Unicode (NFC).
+        doc = self._leer("docs/documentacion-crawler.md")
+        if doc is None:
+            self.r["avisos"].append("No se encontró docs/documentacion-crawler.md; no se actualizó la documentación del crawler.")
+        else:
+            self.escribir(f"{N.CARPETA_SISTEMA}/Documentación del crawler.md", doc)
+
+    def revisar_rutas_duplicadas(self):
+        """Una carpeta subida desde la Mac por la web de GitHub puede llegar con las tildes en otra forma Unicode (NFD).
+        Para git son dos carpetas distintas con el mismo nombre visible; aquí se avisa para borrar la sobrante."""
+        try:
+            nombres = os.listdir(self.raiz)
+        except OSError:
+            return
+        for n in nombres:
+            if n != unicodedata.normalize("NFC", n) and unicodedata.normalize("NFC", n) == N.CARPETA_RAIZ:
+                self.r["avisos"].append(
+                    f"Hay una segunda carpeta «{N.CARPETA_RAIZ}» con las tildes guardadas en otra forma (NFD), "
+                    "probablemente subida desde la web de GitHub. Borrala en GitHub; el crawler no la usa.")
 
     def reportes(self, fallo_general=None):
         r = self.r
@@ -372,6 +392,7 @@ class Extraccion:
     # -- corrida ------------------------------------------------------------------
     def ejecutar(self):
         fallo = None
+        self.revisar_rutas_duplicadas()
         try:
             ids = self.catalogo()
             self.comparador, self.comparador_err = consultar_comparador(self.cliente, ids)

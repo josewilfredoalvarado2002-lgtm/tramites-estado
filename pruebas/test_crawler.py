@@ -253,6 +253,21 @@ class Corridas(unittest.TestCase):
         self.assertEqual(ex.r["modificados"], [])
         self.assertEqual(ex.estado["tramites"]["1051"]["comparador"]["tiempo_estimado_dias"], 14)
 
+    def test_copia_la_documentacion_y_avisa_carpetas_con_otra_forma_unicode(self):
+        import unicodedata
+        os.makedirs(os.path.join(self.dir, "docs"))
+        with open(os.path.join(self.dir, "docs", "documentacion-crawler.md"), "w", encoding="utf-8") as f:
+            f.write("# Documentación\n")
+        nfd = unicodedata.normalize("NFD", "10 Trámites del Estado")
+        os.makedirs(os.path.join(self.dir, nfd, "_Sistema"))
+        ex = Extraccion(self.dir, ClienteFalso(self.paginas([1051])), "piloto", [], [1051])
+        ex.ejecutar()
+        self.assertEqual(self.leer("10 Trámites del Estado/_Sistema/Documentación del crawler.md"), "# Documentación\n")
+        self.assertTrue(any("forma (NFD)" in a for a in ex.r["avisos"]))
+        for raiz, dirs, archivos in os.walk(os.path.join(self.dir, "10 Trámites del Estado")):
+            for n in dirs + archivos:
+                self.assertEqual(n, unicodedata.normalize("NFC", n))
+
     def test_cambio_en_requisitos_queda_en_el_registro(self):
         Extraccion(self.dir, ClienteFalso(self.paginas([23])), "piloto", [], [23]).ejecutar()
         cambiada = self.f23.replace("Constancia de Trabajo con copia adjunta", "Constancia de Trabajo original")
