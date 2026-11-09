@@ -1,0 +1,164 @@
+"""Pruebas del puente entre el repositorio y la bóveda (carpetas temporales, sin git)."""
+import os
+import shutil
+import sys
+import tempfile
+import time
+import unittest
+
+AQUI = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, os.path.join(os.path.dirname(AQUI), "puente"))
+import puente_tramites as P  # noqa: E402
+
+NOTA_REPO = """---
+tipo: "tramite"
+id_portal: 1051
+titulo: "Título nuevo"
+aliases:
+  - "Título nuevo"
+huella: "nueva"
+estado_portal: "Vigente"
+---
+<!-- portal:inicio -->
+# Título nuevo
+Requisitos nuevos
+<!-- portal:fin -->
+
+## Notas propias
+"""
+
+NOTA_BOVEDA = """---
+tipo: "tramite"
+id_portal: 1051
+titulo: "Título viejo"
+aliases:
+  - "Título viejo"
+huella: "vieja"
+estado_portal: "Ya no aparece en el portal"
+no_aparece_desde: 2026-12-01
+mi_etiqueta: importante
+tags:
+  - consulta
+---
+<!-- portal:inicio -->
+# Título viejo
+Requisitos viejos
+<!-- portal:fin -->
+
+## Notas propias
+
+Lo usé en el caso [[CD-2026-001]]. No se debe perder.
+"""
+
+
+class Fusion(unittest.TestCase):
+    def test_reemplaza_solo_lo_del_portal(self):
+        r = P.fusionar(NOTA_REPO, NOTA_BOVEDA)
+        self.assertIn("Requisitos nuevos", r)
+        self.assertNotIn("Requisitos viejos", r)
+        self.assertIn('titulo: "Título nuevo"', r)
+        self.assertIn("mi_etiqueta: importante", r)
+        self.assertIn("tags:\n  - consulta", r)
+        self.assertNotIn("no_aparece_desde", r)          # propiedad del portal que ya no corresponde
+        self.assertIn("Lo usé en el caso [[CD-2026-001]]. No se debe perder.", r)
+        self.assertTrue(r.startswith("---\ntipo:"))
+
+    def test_sin_marcadores_no_se_toca(self):
+        self.assertIsNone(P.fusionar(NOTA_REPO, NOTA_BOVEDA.replace("<!-- portal:fin -->", "")))
+
+
+class Sincronizacion(unittest.TestCase):
+    def setUp(self):
+        self.base = tempfile.mkdtemp()
+        self.repo = os.path.join(self.base, "repo")
+        self.boveda = os.path.join(self.base, "boveda")
+        os.makedirs(os.path.join(self.repo, P.CARPETA, "IHTT"))
+        os.makedirs(os.path.join(self.boveda, ".casedeck"))
+        os.makedirs(os.path.join(self.boveda, "01 Casos"))
+        self.rel = os.path.join(P.CARPETA, "IHTT", "TR-1051 X.md")
+        self.escribir(self.repo, self.rel, NOTA_REPO)
+        self.escribir(self.repo, os.path.join(P.CARPETA, "Trámites.base"), "filters: x\n")
+        self.escribir(self.repo, os.path.join(P.CARPETA, "IHTT", "imagen.png"), "no se copia")
+        self.estado = {}
+
+    def tearDown(self):
+        shutil.rmtree(self.base)
+
+    def escribir(self, raiz, rel, texto, hace=None):
+        ruta = os.path.join(raiz, rel)
+        os.makedirs(os.path.dirname(ruta), exist_ok=True)
+        with open(ruta, "w", encoding="utf-8") as f:
+            f.write(texto)
+        if hace:
+            t = time.time() - hace
+            os.utime(ruta, (t, t))
+
+    def leer(self, raiz, rel):
+        with open(os.path.join(raiz, rel), encoding="utf-8") as f:
+            return f.read()
+
+    def test_copia_nuevas_y_luego_no_hace_nada(self):
+        r = P.sincronizar(self.repo, self.boveda, self.estado)
+        self.assertEqual(r["nuevas"], 2)
+        self.assertEqual(self.leer(self.boveda, self.rel), NOTA_REPO)
+        self.assertFalse(os.path.exists(os.path.join(self.boveda, P.CARPETA, "IHTT", "imagen.png")))
+        r = P.sincronizar(self.repo, self.boveda, self.estado)
+        self.assertEqual((r["nuevas"], r["actualizadas"], r["iguales"]), (0, 0, 2))
+
+    def test_actualiza_respetando_notas_propias(self):
+        self.escribir(self.boveda, self.rel, NOTA_BOVEDA, hace=3600)
+        r = P.sincronizar(self.repo, self.boveda, self.estado)
+        self.assertEqual(r["actualizadas"], 1)
+        t = self.leer(self.boveda, self.rel)
+        self.assertIn("Requisitos nuevos", t)
+        self.assertIn("No se debe perder.", t)
+        self.assertIn("mi_etiqueta: importante", t)
+
+    def test_nota_en_edicion_se_deja_para_la_siguiente(self):
+        self.escribir(self.boveda, self.rel, NOTA_BOVEDA)   # recién modificada
+        r = P.sincronizar(self.repo, self.boveda, self.estado)
+        self.assertEqual(r["en_edicion"], 1)
+        self.assertIn("Requisitos viejos", self.leer(self.boveda, self.rel))
+        self.assertNotIn(P.CARPETA + "/IHTT/TR-1051 X.md", self.estado)
+
+    def test_lo_que_escribio_el_puente_no_cuenta_como_edicion(self):
+        P.sincronizar(self.repo, self.boveda, self.estado)          # el puente acaba de escribir la nota
+        self.escribir(self.repo, self.rel, NOTA_REPO.replace("Requisitos nuevos", "Requisitos de diciembre"))
+        r = P.sincronizar(self.repo, self.boveda, self.estado)
+        self.assertEqual((r["actualizadas"], r["en_edicion"]), (1, 0))
+        self.assertIn("Requisitos de diciembre", self.leer(self.boveda, self.rel))
+
+    def test_nunca_borra(self):
+        P.sincronizar(self.repo, self.boveda, self.estado)
+        os.remove(os.path.join(self.repo, self.rel))
+        P.sincronizar(self.repo, self.boveda, self.estado)
+        self.assertTrue(os.path.exists(os.path.join(self.boveda, self.rel)))
+
+    def test_no_escribe_fuera_de_la_carpeta_10(self):
+        afuera = os.path.join(self.base, "afuera")
+        os.makedirs(afuera)
+        os.makedirs(os.path.join(self.boveda, P.CARPETA))
+        os.symlink(afuera, os.path.join(self.boveda, P.CARPETA, "IHTT"))
+        r = P.sincronizar(self.repo, self.boveda, self.estado)
+        self.assertEqual(os.listdir(afuera), [])
+        self.assertIn(os.path.join("IHTT", "TR-1051 X.md"), r["rechazadas"])
+        self.assertEqual(sorted(os.listdir(os.path.join(self.boveda, "01 Casos"))), [])
+
+    def test_equivalencias_solo_proponen(self):
+        carpeta = os.path.join(P.CARPETA, "Instituto Hondureño de Transporte Terrestre")
+        self.escribir(self.boveda, os.path.join(carpeta, "Instituto Hondureño de Transporte Terrestre.md"),
+                      '---\ntipo: "institucion_portal"\nnombre: "Instituto Hondureño de Transporte Terrestre"\nsiglas_comparador: "IHTT"\n---\n')
+        cat = os.path.join("09 Catálogos", "Instituciones")
+        self.escribir(self.boveda, os.path.join(cat, "Instituto Hondureño de Transporte Terrestre.md"), "---\ntipo: institucion\n---\n")
+        self.escribir(self.boveda, os.path.join(cat, "Transporte (IHTT).md"), "---\ntipo: institucion\nsiglas: IHTT\n---\n")
+        self.escribir(self.boveda, os.path.join(cat, "Secretaría de Finanzas.md"), "---\ntipo: institucion\n---\n")
+        t = P.equivalencias(self.boveda)
+        fila = [x for x in t.split("\n") if x.startswith("| Instituto Hondureño")][0]
+        self.assertIn("[[09 Catálogos/Instituciones/Instituto Hondureño de Transporte Terrestre\\|Instituto Hondureño de Transporte Terrestre]] (mismo nombre)", fila)
+        self.assertIn("[[09 Catálogos/Instituciones/Transporte (IHTT)\\|Transporte (IHTT)]]", fila)
+        self.assertNotIn("Finanzas", fila)
+        self.assertTrue(fila.endswith("| Pendiente |"))
+
+
+if __name__ == "__main__":
+    unittest.main()
