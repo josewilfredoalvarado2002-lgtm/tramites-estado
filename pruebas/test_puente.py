@@ -144,6 +144,24 @@ class Sincronizacion(unittest.TestCase):
         self.assertIn(os.path.join("IHTT", "TR-1051 X.md"), r["rechazadas"])
         self.assertEqual(sorted(os.listdir(os.path.join(self.boveda, "01 Casos"))), [])
 
+    def test_copia_tambien_normativa(self):
+        rel = os.path.join("11 Normativa", "Decretos", "2026", "Decreto 1-2026 (Gaceta 1).md")
+        self.escribir(self.repo, rel, "---\ntipo: \"norma\"\nhuella: \"a\"\n---\n" + P.INICIO + "\nuno\n" + P.FIN + "\n\n## Notas propias\n\n")
+        P.sincronizar(self.repo, self.boveda, self.estado, carpeta="11 Normativa")
+        destino = os.path.join(self.boveda, rel)
+        with open(destino, encoding="utf-8") as f:
+            texto = f.read()
+        with open(destino, "w", encoding="utf-8") as f:
+            f.write(texto.replace("---\n" + P.INICIO, "mia: si\n---\n" + P.INICIO) + "apunte mío\n")
+        self.escribir(self.repo, rel, "---\ntipo: \"norma\"\nhuella: \"b\"\n---\n" + P.INICIO + "\ndos\n" + P.FIN + "\n\n## Notas propias\n\n")
+        P.sincronizar(self.repo, self.boveda, self.estado, carpeta="11 Normativa", ahora=time.time() + 3600)
+        with open(destino, encoding="utf-8") as f:
+            final = f.read()
+        for trozo in ('huella: "b"', "mia: si", "\ndos\n", "apunte mío"):
+            self.assertIn(trozo, final)
+        self.assertNotIn("\nuno\n", final)
+        self.assertIn("11 Normativa/Decretos/2026/Decreto 1-2026 (Gaceta 1).md", self.estado)
+
     def test_equivalencias_solo_proponen(self):
         carpeta = os.path.join(P.CARPETA, "Instituto Hondureño de Transporte Terrestre")
         self.escribir(self.boveda, os.path.join(carpeta, "Instituto Hondureño de Transporte Terrestre.md"),

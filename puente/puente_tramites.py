@@ -7,12 +7,12 @@ que ya tiene esa app. No hace falta darle ese permiso a Python ni a Terminal.
 
 Qué hace:
   1. Baja las novedades del repositorio (git pull, con tiempo límite).
-  2. Copia a la bóveda solo las notas de "10 Trámites del Estado" que cambiaron.
+  2. Copia a la bóveda solo las notas de "10 Trámites del Estado" y "11 Normativa" que cambiaron.
      En las notas de trámite y de institución reemplaza las propiedades del portal y el bloque entre
      <!-- portal:inicio --> y <!-- portal:fin -->. Conserva "Notas propias" y cualquier propiedad que agregués.
   3. Genera _Sistema/Equivalencias de instituciones.md para que confirmés la relación con tu catálogo.
 
-Reglas: solo escribe dentro de "10 Trámites del Estado", nunca borra, no toca una nota que editaste hace
+Reglas: solo escribe dentro de "10 Trámites del Estado" y "11 Normativa", nunca borra, no toca una nota que editaste hace
 menos de 10 minutos y deja constancia en ~/Library/Application Support/CaseDeck/logs/puente_tramites.log.
 Solo usa la biblioteca estándar de Python.
 """
@@ -30,6 +30,7 @@ SOPORTE = os.path.expanduser("~/Library/Application Support/CaseDeck")
 CONFIG = os.path.join(SOPORTE, "puente_tramites.json")
 ESTADO = os.path.join(SOPORTE, "puente_tramites_estado.json")
 CARPETA = "10 Trámites del Estado"
+CARPETAS = [CARPETA, "11 Normativa"]
 INICIO = "<!-- portal:inicio -->"
 FIN = "<!-- portal:fin -->"
 EXTENSIONES = (".md", ".base")
@@ -41,7 +42,12 @@ PROPIEDADES_TRAMITE = [
     "estado_portal", "no_aparece_desde",
 ]
 PROPIEDADES_INSTITUCION = ["tipo", "nombre", "siglas_comparador", "id_portal_institucion", "url_listado", "tramites_en_portal"]
-GESTIONADAS = set(PROPIEDADES_TRAMITE) | set(PROPIEDADES_INSTITUCION)
+# Propiedades que administra el crawler de La Gaceta (gaceta/texto.py)
+PROPIEDADES_NORMA = [
+    "tipo", "tipo_acto", "numero", "titulo", "emisor", "gaceta_numero", "gaceta_fecha", "gaceta", "paginas", "sumario",
+    "url_pdf", "url_detalle", "extraido", "huella", "paginas_seccion_a", "paginas_seccion_b", "actos",
+]
+GESTIONADAS = set(PROPIEDADES_TRAMITE) | set(PROPIEDADES_INSTITUCION) | set(PROPIEDADES_NORMA)
 
 CONFIG_POR_DEFECTO = {
     "repositorio": "~/tramites-estado",
@@ -224,11 +230,11 @@ def dentro_de(base, ruta):
     return ruta == base or ruta.startswith(base + os.sep)
 
 
-def sincronizar(repo, boveda, estado, gracia_min=10, ahora=None):
+def sincronizar(repo, boveda, estado, gracia_min=10, ahora=None, carpeta=CARPETA):
     """Copia las notas que cambiaron. Devuelve un resumen."""
     ahora = ahora or time.time()
-    origen = os.path.join(repo, CARPETA)
-    destino = os.path.join(boveda, CARPETA)
+    origen = os.path.join(repo, carpeta)
+    destino = os.path.join(boveda, carpeta)
     res = {"nuevas": 0, "actualizadas": 0, "iguales": 0, "en_edicion": 0, "sin_marcadores": [], "rechazadas": []}
     if not os.path.isdir(origen):
         log(f"AVISO no existe {origen}; nada que copiar.")
@@ -250,7 +256,7 @@ def sincronizar(repo, boveda, estado, gracia_min=10, ahora=None):
                 continue
             contenido = leer(src)
             h = sha_texto(contenido)
-            clave = CARPETA + "/" + rel.replace(os.sep, "/")
+            clave = carpeta + "/" + rel.replace(os.sep, "/")
             existe = os.path.exists(dst)
             previo = estado.get(clave) or {}
             if previo.get("huella") == h and existe:
@@ -311,7 +317,14 @@ def main():
             estado = json.load(f)
     except (OSError, ValueError):
         estado = {}
-    res = sincronizar(repo, boveda, estado.setdefault("aplicadas", {}), int(cfg.get("minutos_de_gracia", 10)))
+    res = None
+    for carpeta in CARPETAS:
+        r = sincronizar(repo, boveda, estado.setdefault("aplicadas", {}), int(cfg.get("minutos_de_gracia", 10)), carpeta=carpeta)
+        if res is None:
+            res = r
+        else:
+            for k, v in r.items():
+                res[k] += v
     hoy = dt.date.today().isoformat()
     if res["nuevas"] or res["actualizadas"] or estado.get("equivalencias") != hoy:
         ruta = os.path.join(boveda, CARPETA, "_Sistema", "Equivalencias de instituciones.md")
