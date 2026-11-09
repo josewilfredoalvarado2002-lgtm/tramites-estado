@@ -1,0 +1,54 @@
+name: Extraer trámites del Estado
+
+on:
+  schedule:
+    # Día 3 de cada mes a las 09:17 UTC, que son las 03:17 en Honduras (UTC-6), de madrugada para no cargar el portal
+    - cron: "17 9 3 * *"
+  workflow_dispatch:
+    inputs:
+      modo:
+        description: "sonda = prueba el acceso; piloto = institución 11060 y fichas 142 y 1051; completo = todo el portal"
+        type: choice
+        options:
+          - sonda
+          - piloto
+          - completo
+        default: sonda
+
+permissions:
+  contents: write
+
+concurrency:
+  group: extraer-tramites
+  cancel-in-progress: false
+
+jobs:
+  extraer:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      MODO: ${{ github.event_name == 'schedule' && 'completo' || inputs.modo }}
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v6
+
+      - name: Pruebas con HTML guardado del portal
+        run: python3 -m unittest discover -s pruebas -v
+
+      - name: Extracción (${{ env.MODO }})
+        run: python3 -m crawler.extraer --modo "$MODO"
+
+      - name: Guardar los cambios en el repositorio
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for ruta in "10 Trámites del Estado" estado pruebas/html/crudo; do
+            if [ -e "$ruta" ]; then git add -A -- "$ruta"; fi
+          done
+          if git diff --cached --quiet; then
+            echo "Sin cambios que guardar."
+            exit 0
+          fi
+          git commit -m "Extracción $MODO $(TZ=America/Tegucigalpa date '+%Y-%m-%d %H:%M')"
+          git push
