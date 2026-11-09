@@ -1,0 +1,430 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Asesor Legal-SG"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "a. Cumplir con el mandato constitucional de las Fuerzas Armadas",
+    "b. Proteger la soberanía de la Republica con relación a la presencia de funcionarios extranjeros armados en el territorio nacional.",
+    "c. Coadyuvar las funciones de las autoridades de seguridad pública."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "a. Ministerios de Relaciones Exteriores",
+    "b. Embajadas acreditadas en Honduras",
+    "c. Embajadas concurrentes para Honduras",
+    "d. Equipos de seguridad extranjeros para dignatarios en visita oficial en la República de Honduras",
+    "e. Administración Aduanera de Honduras",
+    "f. Autoridades de seguridad publica"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Autorizaciones otorgadas con relación a la necesidad de solicitudes presentadas ante la Secretaría de Relaciones Exteriores y Cooperación Internacional (SRECI) por parte de Embajadas acreditadas en Honduras o concurrentes, así como también por parte de Ministerios de Relaciones Exteriores."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 1016,
+ "institucion": "Secretaría de Defensa Nacional",
+ "modalidad": "Presencial",
+ "numero": "1016",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Sección de Atención al Ciudadano-SEDENA"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Recepción de Solicitud"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Asignación de Solicitud a un Oficial Legal"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Remisión a unidad técnica para Dictamen"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Emisión de Dictamen Técnico"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Elaboración de Autorización"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Revisión Oficial Legal"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Firma Secretaria General"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Sub Despacho"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Firma Sub Secretario de Estado"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "9",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Entrega de Autorización"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "1. Fecha de solicitud"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "2. Solicitado por (País, Organismo Internacional)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "3. Nombres de los agentes"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "4. Pasaporte (anexar copias)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "5. Marca"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "6. Tipo de armas"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "7. Modelo"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "8. Calibre"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "9. Serie"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "10. Cantidad de cargadores"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "11. Cantidad de municiones"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "12. Propósito del uso de las armas en territorio nacional"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "13. Fecha de inicio"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "14. Fecha de finalización"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "15. Nombre, firma, cargo y sello del solicitante."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa, Francisco Morazán."
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Centro Cívico Gubernamental José Cecilio del Valle, Blvd. Juan Pablo II, intersección con calle República de Corea. Torre número 2, Piso 18/19."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "504-2242-7950, 504-2242-7951"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Secretaría de Defensa Nacional (SEDENA)"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Autorización de Resolución"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "enlaces": [],
+    "lineas": [
+     "No hay enlaces registrados",
+     "No se han agregado enlaces adicionales para este trámite"
+    ],
+    "tipo": "texto"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Autorización para portación de armas para delegaciones diplomáticas"
+}

@@ -1,0 +1,269 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://admin.comercia.hn/#/auth/signup"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Unidad de comercio electrónico"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Tener una administración eficiente de los productos que el usuario exponga dentro de la plataforma Comercia.hn."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Emprendedores, MIPYMES, Empresas del Sector Social de la Economía."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Permite a todos los emprendedores registrarse dentro de una página de comercio electrónico para ofertar y vender sus productos, haciendo posible tener un control digital de las ventas generadas, ordenes recibidas y el movimiento que su producto hagan dentro de la plataforma."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 949,
+ "institucion": "Servicio Nacional de Emprendimiento y de Pequeños Negocios",
+ "modalidad": "En línea",
+ "numero": "949",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Comercia.hn"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Hacer un registro de usuario"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Acceso a Mercados"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Llenar formulario y enviar solicitud con documentación requerida a través de la plataforma"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Comercia.hn"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "En caso de que sea aprobado, el usuario puede comenzar a gestionar su tienda"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Comercia.hn"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Registrar productos en tienda virtual. Para acceder a la Tienda Virtual pulsar el botón Más información e ir al enlace Aplicación"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Crear cuenta de usuario usando tu correo electrónico"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Documento Nacional de Identidad y copia"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Registro Tributario Nacional Natural"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "RTN Empresarial"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Fotografía de la persona junto a su tarjeta de identidad"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Centro Cívico Gubernamental, torre 2, piso 12"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2242-8101, 2242-8102, 2242-8104, 2242-8105, 2242-8106"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "SENPRENDE"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Se notificará mediante correo electrónico cuando el usuario sea generado."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Aplicación",
+       "https://comercia.hn/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://comercia.hn/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://admin.comercia.hn/#/auth/signup",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://admin.comercia.hn/#/auth/signup"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Comercia.hn. Registro, página de comercio electrónico"
+}

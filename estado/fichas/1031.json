@@ -1,0 +1,257 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Encargado de la Unidad de Derechos Humanos"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Atender y brindar respuesta oportuna a los casos que se reciben por presunta violación de derechos humanos a la población docente participante del sistema (activos, pensionados y jubilados) y beneficiarios de los servicios sociales que brinda el Instituto Nacional de Previsión del Magisterio (INPREMA), mediante el establecimiento de un mecanismo de casos gestionado por el Departamento de Derechos Humanos."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Participantes del sistema que pueden ser: docentes activos, jubilados y pensionados y sus beneficiarios."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Recepción de presunta violación de derechos humanos cometidos por el personal del Interno del Instituto hacía participantes del sistema que pueden ser docentes activos, jubilados y pensionados y sus beneficiarios."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 1031,
+ "institucion": "Instituto de Previsión del Magisterio",
+ "modalidad": "Presencial",
+ "numero": "1031",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Departamento de Derechos Humanos"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Recepción y registro de la denuncia"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Departamento de Derechos Humanos"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Evaluación"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Departamento de Derechos Humanos"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Investigación"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Departamento de Derechos Humanos"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Elaborar informe de hallazgos y recomendaciones"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Departamento de Derechos Humanos"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Analizar el informe y dar dictamen"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Departamento de Derechos Humanos"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Dar seguimiento al caso"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Departamento de Derechos Humanos"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Darle solución y archivar el caso"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "DNI"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Boulevard Centroamérica"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "22901400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina Principal"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "enlaces": [],
+    "lineas": [
+     "No hay entregables registrados",
+     "No se han definido entregables para este trámite"
+    ],
+    "tipo": "texto"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://inprema.gob.hn/contacto/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://inprema.gob.hn/contacto/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Registro y atención a denuncias"
+}

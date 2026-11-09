@@ -1,0 +1,683 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://sol.pdihonduras.gob.hn/inprema/web/ciudadano/#/inicio"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Jefe del Departamento de Atención al Docente"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Brindar a los participantes (activos del sector oficial/ jubilados o pensionados) un pré-análisis del monto a otorgar del préstamo rapibono."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Docentes activos del sector oficial y docentes jubilados o pensionados"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Brindar a los participantes (activos del sector oficial/ jubilados o pensionados) un pré-análisis del monto a otorgar del préstamo rapibono."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 1058,
+ "institucion": "Instituto de Previsión del Magisterio",
+ "modalidad": "En línea",
+ "numero": "1058",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Ingrese al portal Sol de INPREMA y seleccione el trámite \"Preanálisis para el otorgamiento de préstamo Rapibono\"."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Si no tiene un usuario, debe crearlo por única vez dando clic en \"Persona Natural\", llenar los datos solicitados y confirmar el registro a través del enlace enviado a su correo electrónico."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Ingrese su usuario (correo electrónico) y su contraseña, y haga clic en \"Iniciar\"."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Llene todos los datos solicitados en el formulario de preanálisis (los campos con asterisco son obligatorios)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Una vez llenos todos los campos, haga clic en \"Presentar para revisión\" y luego \"Confirmar\"."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Seguimiento y Comunicación (Opcional): Manténgase pendiente de su plataforma Sol, ya que el estado del trámite cambiará (pasará de gestión ha aprobado). Si necesita comunicarse con el funcionario a cargo, dé doble clic en el trámite, haga clic en \"Hacer consulta\", redacte el mensaje y haga clic en \"Enviar\"."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Una vez que el estado cambie a \"Aprobado\", dé doble clic en el trámite y vaya a la sección del resultado del preanálisis para ver la información necesaria y presentarse en las ventanillas de INPREMA para solicitar su préstamo."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Imagen frontal y reverso del Documento Nacional de Identificación (DNI) del solicitante."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Indicar número de cuenta e Institución bancaria"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Bulevar Centroamerica"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina Principal"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "San Pedro Sula"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "2 calle, 10 avenida N.O."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina regional S.P.S."
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Santa Rosa de Copán"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio el Centro, Centro Comercial Uniplaza"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina regional S.R.C."
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "La Ceiba"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Ave. Morazan, Centro Comercial Uniplaza"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina regional La Ceiba"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Ocotepeque"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio Concepción, frente a Escuela Normal Mixta Ángel Chonchilla Solís."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina Ocotepeque"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Lempira"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Alcostado del parque central, en la parte trasera de la iglesia, sobre la calle de la esquina del café Jireth"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Ventanilla Lempira"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Santa Bárbara"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio Las Galeras, frente a la Dirección Departamental de Educación Santa Bárbara"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina Santa Bárbara"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Yoro"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Cuarta avenida suroeste B° Santiago, contiguo al Jardín de Niños José Trinidad Reyes, esquina opuesta al campo de futbol La Lomita de Santiago"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Ventanilla Yoro"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Comayagua"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Premium Plaza, Blvd. Roberto Romero Larios, Comayagua 12101"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina Comayagua"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "La Esperanza"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio El Way, Plaza David, primer nivel."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina La Esperanza"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Marcala"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Plaza La Concepción, frente al Hotel Ágape."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina Marcala"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Nacaome"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Plaza Centro, frente a la Dirección Municipal de Educación, contiguo al Centro Asociado del Sur."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina Nacaome"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Choluteca"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Edificio COLPEDAGOGOSH, carretera hacía Marcovia, 16 avenida noreste a 200 metros de Diálisis de Honduras hacía el sur"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina Choluteca"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Danlí"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Centro Comercial Paseo Las Colinas"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina Danlí"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Juticalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Edificio del PRICPMHA, barrio Belén, dos cuadras antes de la Región Sanitaria, contiguo a la Iglesia Mormona"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina Juticalpa"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tocoa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Colonia 18 de Septiembre, Plaza Cityplace, contiguo a Supermercados La Colonia."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina Tocoa"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Roatán"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Distrito Coxen Hole, 2da. planta, Edificio Blue Plaza"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina Roatán"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Puerto Lempira"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio el Centro, frente a Cancha de baloncesto, esquina opuesta a los juzgados"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina Puerto Lempira"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Resultado del Preanálisis. es una visualización directa en pantalla dentro de la plataforma SOL de INPREMA, le permite conocer el monto a otorgar del préstamo Rapibono. Para ver los detalles, debe dar doble clic en el trámite y luego ver el resultado del preanálisis en la sección correspondiente."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://sol.pdihonduras.gob.hn/inprema/web/ciudadano/#/inicio",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sol.pdihonduras.gob.hn/inprema/web/ciudadano/#/inicio"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.youtube.com/watch?v=Xj1ZI1TaLxI",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.youtube.com/watch?v=Xj1ZI1TaLxI"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Pre-análisis para Otorgamiento de Préstamo Rapibono"
+}

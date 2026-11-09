@@ -1,0 +1,266 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Jefe de Departamento de Afiliaciones"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Entregar documento legal que certifique la afiliación de un docente del sector publico, privado, PROHECO y pedagógica."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Docentes Activos"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Entrega de Constancia de Afiliación una vez realizado el tramite correspondiente"
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 1034,
+ "institucion": "Instituto de Previsión del Magisterio",
+ "modalidad": "Presencial",
+ "numero": "1034",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "INPREMA"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Validar que el docente se ecuentre afiliado en el INPREMA"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "INPREMA"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Si el docente se encuentra afilaido, emitir la constancia de afiliacion"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638781482763839534.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638781482763839534.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Estar Afiliado en el INPREMA"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Bulevar Centroamerica"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina Principal"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "San Pedro Sula"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "2 calle, 10 avenida N.O."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina regional S.P.S."
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Santa Rosa de Copán"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio el Centro, Centro Comercial Uniplaza"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina regional S.R.C."
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "La Ceiba"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Avenida Morazan, Centros Comercial Centroamerica"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina regional La Ceiba"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de Afiliación Docente"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://inprema.gob.hn/contacto/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://inprema.gob.hn/contacto/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Constancia de Afiliación"
+}

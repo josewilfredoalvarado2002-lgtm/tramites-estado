@@ -1,0 +1,274 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Jefe del Departamento de Atención al Docente"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Brindar una constancia a los docentes activos en las que se indique el período de cotización y el saldo acumulado a la fecha"
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Docentes activos"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Docentes activos se presentan a los diferentes puntos de atención o canales virtuales a solicitar una constancia que indique el período de cotización y el saldo acumulado a la fecha"
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 1023,
+ "institucion": "Instituto de Previsión del Magisterio",
+ "modalidad": "Presencial",
+ "numero": "1023",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Ventanilla de Atención al Docente"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Recibir al solicitante y verificar tipo de gestión."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Ventanilla de Atención al Docente"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Analizar la información de la solicitud contra datos del sistema."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Ventanilla de Atención al Docente"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Generar información y notificar al solicitante."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Fotocopia DNI"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Blv Centro América"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "22901400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina principal"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "San Pedro Sula"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "2 calle, 10 avenida N.O"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "22901400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina regional S.P.S"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Santa Rosa de Copán"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio Miraflores, Centro Comercial Uniplaza"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "22901400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina regional S.R.C."
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "La Ceiba"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Ave. Morazán, Centro Comercial Uniplaza"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "22901400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina regional La Ceiba"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de cotizaciones"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://inprema.gob.hn/contacto/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://inprema.gob.hn/contacto/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Constancia de cotizaciones"
+}

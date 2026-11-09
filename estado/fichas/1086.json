@@ -1,0 +1,277 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://sigob.org/hn/SDE/ciudadano/#/inicio"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Dirección General de Integración Económica y Política Comercial a través de la Unidad de Contingentes y Licencias Arancelarias"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Es un servicio con el cual se busca registrar como importadores de arroz ante la Secretaría de Desarrollo Económico, las sociedades mercantiles y comerciantes individuales,",
+    "que lo solicitan; para que se les extienda una licencia de",
+    "importación de arroz, y así realizar el proceso",
+    "del ingreso del producto al país, en la Aduana",
+    "correspondiente."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Los Apoderados legales de las",
+    "sociedades que cuentan con un Número",
+    "de Registro de Importador de Arroz",
+    "(NRIA) extendido por la Secretaría de",
+    "Desarrollo Económico."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "La licencia permite ordenar la importación de arroz; así como contar con información oportuna sobre el flujo de importaciones de los mencionados productos."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 1086,
+ "institucion": "Secretaría de Desarrollo Económico",
+ "modalidad": "En línea",
+ "numero": "1086",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Crea tu Usuario: Si es tu primera vez en el Portal Digital de Inversiones (PDI), busca la opción de \"Registrar\" y completa el formulario de registro con los datos solicitados. Debes validar tu cuenta a través de un enlace enviado a tu correo electrónico."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Inicia Sesión: Utiliza tu usuario y contraseña creados ingresa al Portal Digital de Inversiones."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Revisa Requisitos: Verifica los requisitos necesarios para la solicitud. Asegúrate de tener toda la información lista."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Completa el Formulario: Llena la solicitud digital con la información requerida de manera precisa."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Adjunta Documentos: Sube los documentos solicitados en el formato digital que se te indique."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Envía la Solicitud: Una vez completados los pasos, envía tu solicitud a través del Portal Digital de Inversiones."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Realiza Seguimiento: El PDI cuenta con una sección para hacer seguimiento al estado de tu trámite, lo que te permite ver el progreso y si se requiere alguna acción adicional de tu parte."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Recibe el Documento: Una vez aprobado, el documento será emitido digitalmente y podrás descargarlo desde el portal."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "SOLICITUD DE NÚMERO DE REGISTRO DE IMPORTADOR DE ARROZ (NRIA)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "SOLICITUD DE UNA LICENCIA DE IMPORTACIÓN"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa, M.D.C.., Honduras, C.A."
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Centro Cívico Gubernamental, Torre 1, Piso No 8 y No.9, Boulevard Juan Pablo II"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "+(504) 2242-8341; [email protected]"
+        ]
+       }
+      ],
+      "enlaces": [
+       {
+        "texto": "[email protected]",
+        "url": "/cdn-cgi/l/email-protection"
+       }
+      ],
+      "titulo": [
+       "Secretaría de Desarrollo Económico"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Licencia Digital de Importación de Arroz"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://sigob.org/hn/SDE/ciudadano/#/inicio",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sigob.org/hn/SDE/ciudadano/#/inicio"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Aplicación",
+       "https://pdihonduras.gob.hn/consulta/navigate/process/27",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://pdihonduras.gob.hn/consulta/navigate/process/27"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.youtube.com/watch?v=rULlLDv9pRw",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.youtube.com/watch?v=rULlLDv9pRw"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Licencia de Importación de Arroz"
+}

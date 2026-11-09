@@ -1,0 +1,444 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Departamento de Créditos"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Mejorar las alternativas de Créditos a los afiliados del Régimen de Riesgos Especiales, para garantizar de manera sostenible los beneficios a la Población Afiliada."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Afiliados, Pensionados de IPM"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Otorgamiento de créditos de vivienda solicitados por los afiliados y beneficiarios al Régimen de Riesgos Especiales que cumplen con los requisitos del Reglamento de Créditos de IPM."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 449,
+ "institucion": "Instituto de Previsión Militar",
+ "modalidad": "Presencial",
+ "numero": "449",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "División de Control Financiero"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Recepción de la Solicitud de Crédito presentada por el afiliado"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "División de Control Financiero"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Análisis del Crédito."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "División de Control Financiero"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Aprobación de Junta Directiva (Montos mayores a L. 1,000,000.00)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "División de Control Financiero"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Liquidación del Crédito"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "División de Control Financiero"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Elaboración de Planilla"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "División de Control Financiero"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Carga de Planilla en plataforma Bancaria"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "División de Control Financiero"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Revisión y validación de información y carga en plataforma por parte de la Unidad de Control Interno."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "División de Control Financiero"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Solicitud de firmas previo a desembolso (Firma de Sub Gerente Técnico Financiero, Jefe del Departamento de Tesorería)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "9",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "División de Control Financiero"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Desembolso del Crédito."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Estar comprendido entre los 21 y 65 años de edad"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Tener actualizado el expediente en afiliación y registro"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Cotizaciones al día"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Tiempo de haber cotizado( 1 mes oficiales y Sub Oficiales y 12 meses mínimo auxiliares)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Tener Capacidad Pago"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "El bien inmueble deberá estar comprendido en el manual de políticas de garantía"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Avaluó"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Documentos personales del Vendedor y Comprador"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Planos y Croquis del Inmueble"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Bulevar Centroamérica, contiguo al edificio INPREMA."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2239-1441"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "IPM"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "San Pedro Sula"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Avenida Circunvalación, contiguo a la 105 Brigada."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2552-4364, 2552-3437"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "IPM"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Danlí, El Paraiso"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Instalaciones de la Armenia, plaza San Miguel colonia Los Gualiquemes, Bulevar La Democracia."
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "IPM"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "La Ceiba"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "La Armería, Calle 9."
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "IPM"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "crédito otorgado al solicitante"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.grupoipm.hn",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.grupoipm.hn"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Otorgamiento de Crédito de Vivienda"
+}

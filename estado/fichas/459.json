@@ -1,0 +1,321 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Gerente de Operaciones/Secretario General"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Reposición de Permiso de Explotación y Certificado de Operación"
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Concesionario"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Reposición de Permiso de Explotación y Certificado de Operación"
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 459,
+ "institucion": "Instituto Hondureño de Transporte Terrestre",
+ "modalidad": "Presencial",
+ "numero": "459",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Gerencia de Operaciónes"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "El apoderado legal presenta la solicitud con todos sus requisitos a nuestras ventanillas"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Gerencia de Operaciones"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "La solicitud se revisa, escanea y envia a trabajo para secretaria general"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaria General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Secretaria General realiza una resolución favorable o un requerimiento para subsanar errores"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Unidad de emisión"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Notificación al concesionario"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Unidad de Cobranza"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Generación de Aviso de cobro"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Gerencia de Operaciones"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Entrega del Permiso de Explotación o Certificado de Operación"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638766743448592133.png"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "1. Solicitud o formulario presentada por el interesado (En el cual deberá otorgar poder a un profesional del derecho para continuar tramitando su solicitud) o a través de apoderado legal que acredite carta poder o fotocopia de escritura de poder que faculte gestiones administrativas, ambas debidamente autenticadas. Solicitud que deberá contener los datos de: teléfono móvil, jo y correo electrónico del solicitante, representante legal y del apoderado legal, así como de los demás requisitos establecidos en la ley de procedimiento administrativo"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638766743618546774.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638766743618546774.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "2. Fotocopias de documentos constitutivos del concesionario. a. Comerciante Individual; i. Documento Nacional de Identidad (DNI), RTN Numérico y Escritura de Constitución como Comerciante Individual. b. Empresa Constituida como Sociedad Mercantil; i. Documento Nacional de Identidad (DNI) y RTN del representante legal, RTN de la empresa mercantil, Escritura de Constitución de Sociedad Mercantil. (Documento en el cual conste el poder otorgado por la sociedad mercantil a su representante legal). c. Cooperativa i. Documento Nacional de Identidad (DNI) y RTN del representante legal, RTN de la Cooperativa y resolución donde se otorga la personalidad jurídica de la cooperativa."
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638766743940638336.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638766743940638336.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "3. Fotocopia del Certificado de Operación y Permiso de explotación o Permiso Especial Vigente."
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638766785893027116.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638766785893027116.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "4. Denuncia ante la Inspectoría General del IHTT, del robo o extravió del Permiso de Explotación o Certificado de Operación."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa, Francisco Morazán"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Boulevard Juan Pablo II, frente a INDUFESA"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2240-4400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Instituto Hondureño del Transporte Terrestre"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Permiso de Explotación"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificado de operacion"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://transporte.gob.hn/Contactanos.php",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://transporte.gob.hn/Contactanos.php"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "REPOSICIÓN DE PERMISO DE EXPLOTACION Y CERTIFICADO DE OPERACIÓN O PERMISO ESPECIAL PARA TODAS LAS MODALIDADES DEL SERVICIO DE TRANSPORTE PÚBLICO O ESPECIAL."
+}

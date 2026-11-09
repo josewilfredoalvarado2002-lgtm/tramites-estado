@@ -1,0 +1,236 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "http://prechequeo.inm.gob.hn"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Gerente de Coordinación"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Tener información anticipada que permita realizar un control migratorio biométrico de la persona mas expedito."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Nacionales y extranjeros"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Es un pre registro de los datos generales del viajero, así como la descripción del motivo ,lugar, fechas y medio de viaje . Este puede ser de tanto de ingreso y salida del país."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 574,
+ "institucion": "Instituto Nacional de Migración",
+ "modalidad": "En línea",
+ "numero": "574",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Ciudadano"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Ingresar a la la pagina del prechequeo inm.gob.hn"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Ciudadano"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Ingresar usuario y contraseña"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Ciudadano"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Ingresa y llenar formato establecido"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Coordinación Delegaciones/COM"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Recibe confirmación de prechequeo elaborado a su correo"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Documento de viaje"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Documento de viaje"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Centro Cívico Gubernamental, Cuerpo Bajo C"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2232-7800"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina central"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Documento de confirmación del prechequeo"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Formulario de prechequeo INM para nacionalidad de Nicaragua"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "http://prechequeo.inm.gob.hn",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "http://prechequeo.inm.gob.hn"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Prechequeo Migratorio"
+}

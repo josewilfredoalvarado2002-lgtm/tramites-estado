@@ -1,0 +1,395 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://tramitedigital.sgjd.gob.hn/SimpleA/tramites/disponibles"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Director(a) de la DIRRSAC"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "DIRRSAC es el ente responsable del Registro de todas las Asociaciones Civiles y el seguimiento de que las mismas cumplan con los fines y objetivos para las cuales fueron constituidas y autorizadas."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Organizaciones de Sociedad Civil"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Es para Nuevas Asociaciones Civiles inscritas conforme las solicitadas que cumplen requisitos.",
+  "• Registro de Personería Jurídica",
+  "• Registro de Primera Junta Directiva",
+  "• Informe de Registro de Personería Jurídica",
+  "• Firma del Informe por parte de la directora de DIRRSAC",
+  "• Emisión de la Constancia de Registro",
+  "• Apertura de Expediente de DIRRSAC de Nuevas Asociaciones"
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 267,
+ "institucion": "Secretaría de Gobernación, Justicia y Descentralización",
+ "modalidad": "En línea",
+ "numero": "267",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección de Regulación, Registro y Seguimiento de Asociaciones Civiles. (DIRRSAC)"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Ingreso de información Registro de Solicitud"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección de Regulación, Registro y Seguimiento de Asociaciones Civiles. (DIRRSAC)"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Carga de Requisitos en plataforma"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección de Regulación, Registro y Seguimiento de Asociaciones Civiles. (DIRRSAC)"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Generación de comprobante de Ingreso"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección de Regulación, Registro y Seguimiento de Asociaciones Civiles. (DIRRSAC)"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Revisión de información y requisitos de DIRRSAC"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección de Regulación, Registro y Seguimiento de Asociaciones Civiles. (DIRRSAC)"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "No cumple: Presenta Irregularidad (extemporánea, información incompleta o incorrecta, sin recibo TGR)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección de Regulación, Registro y Seguimiento de Asociaciones Civiles. (DIRRSAC)"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Notificaciones al usuario"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección de Regulación, Registro y Seguimiento de Asociaciones Civiles. (DIRRSAC)"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Si cumple: Sin Irregularidad"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección de Regulación, Registro y Seguimiento de Asociaciones Civiles. (DIRRSAC)"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Firma y autorización de Constancia"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "9",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección de Regulación, Registro y Seguimiento de Asociaciones Civiles. (DIRRSAC)"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Entrega de Constancia"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Recibo TGR-1 de Secretaria de Finanzas."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Revisión en el Sistema de control de expedientes (CODEX) de cumplimiento de tales requisitos: Denominación de la asociación civil (tal como se encuentra registrada en la DIRRSAC), - Numero de registro de la asociación civil en DIRRSAC."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Boulevard Juan Pablo, Centro Cívico Gubernamental \"José Cecilio del Valle\", Torre 2."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2242-8236"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina regional Tegucigalpa"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Copan"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Edificio de la Gobernación Departamental, Calle Real Centenario, Frente al Parqueo de Pizza Hut"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "9525-2223"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Regional Copan"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Choluteca"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Calle Rusbel, Media cuadra al este del Registro de las Personas."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2782-0404"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina regional Choluteca"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "San Pedro Sula"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Edificio Gloria 16 ave. 8 calle S.O. Barrio Suyapa"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2558-4015, 2558-4018"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Regional San Pedro Sula"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de Registro"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://tramitedigital.sgjd.gob.hn/SimpleA/tramites/disponibles",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://tramitedigital.sgjd.gob.hn/SimpleA/tramites/disponibles"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Constancia de Registro de Asociaciones Civiles"
+}

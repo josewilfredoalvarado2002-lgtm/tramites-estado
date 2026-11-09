@@ -1,0 +1,314 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://sigob.arsa.hn/ciudadano/"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Dirección de Dispositivos Médicos"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Garantizar el control sanitario y la autorización correspondiente para la importación, distribución o utilización de reactivos de uso exclusivo para investigación y fines forenses, asegurando que su empleo se limite a actividades científicas, analíticas y criminalísticas, conforme a la normativa vigente y evitando su uso indebido en productos destinados al consumo humano o comercialización general."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Personas naturales y jurídicas"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Reactivos de uso exclusivo para investigación y forense son sustancias químicas, reactivos o compuestos que están destinados específicamente para su empleo en actividades científicas, de análisis o en el ámbito forense. Este tipo de reactivos no están destinados al consumo humano ni a la producción de bienes de consumo, sino que se utilizan exclusivamente para la realización de investigaciones, análisis de muestras, estudios y pruebas en áreas como la biología, la química, la medicina, y la criminalística."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 1131,
+ "institucion": "Agencia de Regulación Sanitaria",
+ "modalidad": "En línea",
+ "numero": "1131",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Crea tu Usuario: Si es tu primera vez en el Portal Digital de Inversiones (PDI), busca la opción de \"Registrar\" y completa el formulario de registro con los datos solicitados. Debes validar tu cuenta a través de un enlace enviado a tu correo electrónico."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Inicia Sesión: Utiliza tu usuario y contraseña creados ingresa al Portal Digital de Inversiones."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Revisa Requisitos: Verifica los requisitos necesarios para la solicitud. Asegúrate de tener toda la información lista."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Completa el Formulario: Llena la solicitud digital con la información requerida de manera precisa."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Adjunta Documentos: Sube los documentos solicitados en el formato digital que se te indique."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Envía la Solicitud: Una vez completados los pasos, envía tu solicitud a través del Portal Digital de Inversiones."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Realiza Seguimiento: El PDI cuenta con una sección para hacer seguimiento al estado de tu trámite, lo que te permite ver el progreso y si se requiere alguna acción adicional de tu parte."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Recibe el Documento: Una vez aprobado, el documento será emitido digitalmente y podrás descargarlo desde el portal."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Fotocopia de la escritura de constitución de la sociedad, comerciante individual, inscrita en el registro mercantil."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Etiquetas de empaque primario, secundario y/o terciario."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Inserto y ficha técnica del dispositivo"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Fotocopia del carné vigente de colegiación profesional cuando la solicitud sea presentada por un apoderado legal."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Poder otorgado al profesional del derecho cuando la solicitud sea presentada por un apoderado legal."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Documento o fotocopia del carné vigente del profesional que lo acredite como profesional técnico del establecimiento, cuando aplique."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Comprobante del pago de cuota de recuperación por servicios prestados"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Comayagüela"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Calle Los Alcaldes, frente a City Mall"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2270-6603"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Agencia de Regulación Sanitaria"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Nueva autorización para Importación de Productos para el Control de Calidad"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Aplicación",
+       "https://pdihonduras.gob.hn/consulta/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://pdihonduras.gob.hn/consulta/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://sigob.arsa.hn/ciudadano/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sigob.arsa.hn/ciudadano/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.youtube.com/watch?v=k9i-HsYguKw",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.youtube.com/watch?v=k9i-HsYguKw"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Nueva Autorización para Importación de Productos para el Control de Calidad"
+}

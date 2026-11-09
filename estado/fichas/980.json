@@ -1,0 +1,366 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://sol.pdihonduras.gob.hn/ihcine/web/ciudadano/#/inicio"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Oficial Jurídico"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Inscribir a toda persona jurídica que esté interesado en el rubro de la actividad cinematográfica y audiovisual nacional para ser beneficiario del Fondo para el Desarrollo Cinematográfico."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Toda persona jurídica que se encuentre comprendida dentro de la definición de Agente Participante a que hace referencia la Ley de Cinematografía de Honduras y su Reglamento."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "La inscripción en el Registro Nacional de Cinematografía es un proceso administrativo mediante el cual se inscriben las personas interesadas en la actividad cinematográfica siendo denominado como Agentes Parcipantes.",
+  "La Agentes Participantes son los que se encuentran legalmente inscritos en la Dirección General de cinematografía (DGC) y los mismos pueden ser beneficiados del Fondo para el Desarrollo Cinematográfico(FONDECI).",
+  "Los beneficios de los Agentes Participantes que se inscriben en el Registro Nacional de Cinematografía (RNC), son los siguientes:",
+  "1) Obtener la Identificación de Agente Participante;",
+  "2) Ser incluidos en los catálogos, directorios y guías que elabore la Dirección General de Cinematografía (DGC);",
+  "3) Adquirir el reconocimiento de la categoría que corresponda a la calidad de sus servicios, así como solicitar su modificación cuando",
+  "reúnan para ello los requisitos establecidos en el Reglamento respectivo;",
+  "4) Recibir el asesoramiento de la Dirección General de Cinematografía (DGC) respecto a la información general, promoción y",
+  "ejecución de los proyectos, investigaciones de mercado y campañas de difusión de la cinematografía;",
+  "5) Recibir la ayuda que proceda por parte de la Dirección",
+  "General de Cinematografía (DGC) para la obtención de créditos, estímulos y facilidades de diversa índole, destinados a la",
+  "instalación, ampliación y mejoras de los servicios cinematográficos;",
+  "6) Obtener de la Dirección General de Cinematografía (DGC) cuando proceda su intervención y respaldo en las gestiones que realicen",
+  "ante otras Autoridades;",
+  "7) Tener acceso a programas de promoción y capacitación cinematográfica que promueva o lleve a cabo la Dirección General de",
+  "Cinematografía (DGC)"
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 980,
+ "institucion": "Dirección General de Cinematografía",
+ "modalidad": "En línea",
+ "numero": "980",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Acceder al Portal: Ingrese al portal Sol de IHCINE y haga clic en el trámite a solicitar."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Registrarse: Si no tiene un usuario, dé clic en \"Registrar\" y complete todos los datos solicitados."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Validar Cuenta: Revise su correo electrónico y haga clic en el enlace de verificación para validar su cuenta."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Una vez que su cuenta ha sido verificada, ingrese a la plataforma Sol de IHCINE con su correo electrónico y contraseña."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Seleccionar Trámite: Dentro del portal, seleccione el trámite \" y dé clic en \"Empezar\"."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Verifique los requisitos necesarios."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Llenar Formulario."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Adjuntar Documentos."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "9",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Una vez completado, haga clic en \"Guardar los cambios\"."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "10",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Confirmar Envío."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "11",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Esté atento a la plataforma Sol y a su correo electrónico, ya que recibirá notificaciones con cada cambio de estado del trámite."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "12",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Espere hasta que el estado del trámite sea \"Aprobado\"."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Documento Nacional de Identificación"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Registro Tributario Nacional"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Hoja de Vida"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Comprobante de pago de TGR a nombre de la Dirección General Cinematografía. Codigo de Institución 404"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Carta Poder o Poder en Escritura Pública"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Copia de la Escritura de Declaración de Comerciante Individual"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Solvencia Fiscal (SAR)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Copia del Permiso de Operación vigente"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa M.D.C."
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Edificio Florezca Plaza, Colonia Florencia Oeste, Costado sur de Mall Multiplaza, contiguo a Farmacia Simán"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2235-9374"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Dirección General de Cinematografia"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de Inscripción en el Registro Nacional de Cinematografía"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://ihcine.gob.hn/registro/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://ihcine.gob.hn/registro/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://sol.pdihonduras.gob.hn/ihcine/web/ciudadano/#/inicio",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sol.pdihonduras.gob.hn/ihcine/web/ciudadano/#/inicio"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Inscripción en el Registro Nacional de Cinematografía Persona Jurídica"
+}

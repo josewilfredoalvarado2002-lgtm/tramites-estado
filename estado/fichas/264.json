@@ -1,0 +1,286 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://proteccion-usuario.conatel.gob.hn/"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Director de Regulación Económica y de Mercados"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Brindar asesoramiento sobre la prestación de los servicios de comunicaciones en caso que los usuarios perciban inconvenientes con el o los servicios contratados a una empresa prestadora de servicios de telecomunicaciones."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Usuarios de servicios de telecomunicaciones"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Solicitud de denuncia de usuarios de servicios de telecomunicaciones ante CONATEL, para recibir asesoramiento en caso que se perciba inconvenientes con el o los servicios contratados a una empresa prestadora de servicios de telecomunicaciones"
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 264,
+ "institucion": "Comisión Nacional de Telecomunicaciones",
+ "modalidad": "En línea",
+ "numero": "264",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficinas / agencias de operador de servicios de telecomunicaciones"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Presentar reclamo ante operador"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "No aplica (lo realiza el solicitante)"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Ingreso módulo protección al usuario (en caso que el operador de servicios no responda en 10 días hábiles o su respuesta fue desfavorable)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Página wed de CONATEL (http://sitae.conatel.gob.hn:146/)"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Generar denuncia"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección de Regulación Económica y de Mercados a través de la Unidad de Protección al Usuario"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Solicitar forma 750 (en caso que usuario no realice solicitud a través del módulo de protección al usuario)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección de Regulación Económica y de Mercados a través de la Unidad de Protección al Usuario"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Llenar forma 750 y adjuntar información soporte"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección de Regulación Económica y de Mercados a través de la Unidad de Protección al Usuario"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Presentar denuncia ante CONATEL"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección de Regulación Económica y de Mercados a través de la Unidad de Protección al Usuario"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Gestión interna de resolución de denuncia"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Reclamo ante operador de servicios de telecomunicaciones"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637993520543720470.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637993520543720470.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Completar forma 750"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Comayagüela"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Edificio CONATEL, 6ta. Ave. S.O., colonia Modelo, Comayagüela, M.D.C."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2232-9600"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Edificio CONATEL"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Resolución de denuncia ante usuario de servicios de telecomunicaciones"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://proteccion-usuario.conatel.gob.hn/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://proteccion-usuario.conatel.gob.hn/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Denuncia protección al usuario de servicios de telecomunicaciones"
+}

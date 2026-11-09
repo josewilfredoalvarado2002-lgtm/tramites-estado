@@ -1,0 +1,171 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Director Técnico"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Gestionar con las instituciones gubernamentales correspondientes las solicitudes emitidas por las comisiones municipales de juventudes y/o juventudes en general respecto a necesidades comunitarias."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Comisiones Municipales de Juventud y/o juventudes en general"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "El trámite Gestiona tu comunidad permite a las comisiones municipales de juventud (CMJ) realizar solicitudes sobre temas que consideren pertinentes a nivel comunitario para ser solventadas y/o remitidas a las instancias correspondientes a través del Instituto Nacional de la Juventud (INJUVE)."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 1014,
+ "institucion": "Instituto Nacional de la Juventud",
+ "modalidad": "Presencial",
+ "numero": "1014",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección Técnica"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Solicitudes dirigidas a diferentes instituciones del estado y canalizadas a través del INJUVE"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638773863563680072.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638773863563680072.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Documento solicitud firmada y sellada"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Distrito Central"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Centro Cívico Gubernamental (CCG) Piso 24"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "+504 22427890"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Principal del Instituto Nacional de la Juventud (INJUVE)"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Correo de recibido de su solicitud"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.injuve.gob.hn/formulario",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.injuve.gob.hn/formulario"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Gestiona tu comunidad"
+}

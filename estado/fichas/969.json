@@ -1,0 +1,286 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Director DGSR"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Registrar a todos los prestadores de servicios técnicos en protección radiológica que cumplan con los requisitos de conformidad a lo establecido en el marco regulatorio vigente."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "El presente procedimiento se aplicará para regular el registro de prestadores de servicios técnicos en protección radiológica a nivel nacional."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Registrar a todos los prestadores de servicios técnicos en protección radiológica que cumplan con los requisitos de conformidad a lo establecido en el marco regulatorio vigente."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 969,
+ "institucion": "Secretaría de Energía",
+ "modalidad": "Presencial",
+ "numero": "969",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección General de Seguridad Radiológica"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Descargar y llenar formulario"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección General de Seguridad Radiológica"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Proporcionar documentación soporte"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638768652142619651.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638768652142619651.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Formulario de registro de prestadores de servicio"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638768653912210197.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638768653912210197.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Hoja de Vida"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Hoja de antecedentes penales"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Copia del Documento Nacional de Identificación (DNI)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Hoja de antecedentes policiales"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Fotografías tamaño Carnet."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Solvencia extendida por el colegio profesional"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Declaración Jurada"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638768660372969884.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638768660372969884.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Presentación Recibo TGR-1"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Distrito Central"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Edificio Altamira, 500 metros antes del desvio a Valle de Angeles, anillo periferico."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2232-8500"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Secretaría de Energía Dirección General de Seguridad Radiológica DGSR"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia y carné de registro"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.sen.hn/tramites-dgsr",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.sen.hn/tramites-dgsr"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Registro de prestadores de servicios técnicos en protección radiológica"
+}

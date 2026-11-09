@@ -1,0 +1,359 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://box.cnbs.gob.hn/"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Gerente GPUF"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Resolver inconformidad con el producto o servicio financiero contratado con una institución supervisada"
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Público en general (personas naturales mayores de 18 años y personas jurídicas)"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Presentación de Reclamo contra una institución supervisada"
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 179,
+ "institucion": "Comisión Nacional de Bancos y Seguros",
+ "modalidad": "En línea",
+ "numero": "179",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Pasos para la Presentación de Reclamos"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "1. Digitalización de Documentos: Escanea o fotografía claramente los siguientes documentos (preferiblemente en formato PDF): Documento Nacional de Identidad (DNI) o pasaporte vigente del reclamante. Hoja de Reclamación presentada originalmente ante la institución. Respuesta de la Institución Supervisada (o una nota explicando la ausencia de respuesta). Documentación de Soporte (estados de cuenta, contratos, comprobantes de pago, notas de débito/crédito, etc.) que sustenten tu reclamo."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "2. Acceso a la Ventanilla Electrónica (Recomendado): Ingresa a la Ventanilla Electrónica de Correspondencia (BOX) de la CNBS (ubicada en el sitio web oficial de la CNBS). Este es el canal oficial y más seguro para la recepción de documentos."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "3. Envío del Reclamo: Sigue las instrucciones del BOX para adjuntar todos los documentos requeridos. Deberás incluir una descripción clara y concisa de los hechos, el motivo del reclamo y la solución que esperas."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [
+       {
+        "texto": "[email protected]",
+        "url": "/cdn-cgi/l/email-protection"
+       }
+      ],
+      "marca": "5",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Opción Alterna (Correo Electrónico):: Como alternativa al BOX, puedes enviar el reclamo y todos los documentos adjuntos al correo electrónico oficial de la Gerencia de Protección al Usuario Financiero: [email protected]."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "4. Acuse de Recibo: La CNBS te enviará un correo electrónico de confirmación o un acuse de recibo de la Ventanilla Electrónica, con un número de referencia para tu expediente."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "5. Seguimiento del Trámite: La CNBS notificará a la Institución Supervisada para que presente su descargo. Podrás realizar consultas sobre el estado de tu reclamo utilizando el número de referencia, contactando a la GPUF."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Pasos para Cancelación del Registro de Remesadoras"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "9",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "1. Acceso a la Ventanilla Electrónica: Ingresar al Sistema de Gestiones Electrónicas (BOX) de la CNBS. Esta es la vía oficial para la recepción de correspondencia y trámites digitales de las entidades supervisadas."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "10",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "2. Creación y Clasificación de Trámite: Crear una nueva solicitud en el BOX, clasificándola como \"Trámite\" o \"Solicitud de Cancelación de Registro\" (según las opciones de la plataforma) e indicando la Gerencia de Protección al Usuario Financiero (GPUF) como destinataria."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "11",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "3. Carga de Documentos (Anexos): Adjuntar todos los documentos listados en la Sección I (Solicitud, Acta de Cancelación, Solvencias, Declaraciones Juradas, DNI/RTN, etc.) en el formato requerido (PDF)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "12",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "4. Envío y Acuse de Recibo: Enviar la gestión a través del BOX. El sistema generará un Acuse de Recibo Electrónico con un número de expediente o gestión. Este número es crucial para el seguimiento."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "13",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "5. Revisión y Resolución: La GPUF y el Departamento de Registros Públicos revisarán la documentación. Si todo está en orden, la CNBS emitirá la Resolución de Cancelación del Registro."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "14",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "6. Notificación y Finalización: La sociedad será notificada de la Resolución a través del mismo BOX o el medio de notificación oficial que haya establecido. Con esta resolución, la cancelación se hace efectiva y se publica en los registros de la CNBS."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637992762658778534.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637992762658778534.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Hoja de Reclamación"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637992764496927188.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637992764496927188.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Respuesta de la institución supervisada"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637992766964024989.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637992766964024989.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Fotocopia del Documento Nacional de Identidad (DNI) persona natural o RTN persona jurídica"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637992790962289273.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637992790962289273.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Escritura de Representación para persona jurídica o Carta poder para persona natural"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa, M.D.C."
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Colonia Palmira, Calle Colombia, Edificio Castillo Poujol, Contiguo al Colegio de Enfermeras"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-4500 Ext. 7111"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Gerencia de Protección al Usuario Financiero (GPUF"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Resolución"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://box.cnbs.gob.hn/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://box.cnbs.gob.hn/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Presentación de Reclamos de Usuarios Financieros"
+}

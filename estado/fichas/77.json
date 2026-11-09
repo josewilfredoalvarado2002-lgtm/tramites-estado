@@ -1,0 +1,847 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://transitohonduras.gob.hn/system/"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Director Nacional de Vialidad y Transporte"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Extender el permiso de conducir a fin de que se reduzca la incidencia vial, garantizando que las personas que conducen tienen la capacidad física y psicológica."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Todo conductor con el permiso de conducir vencido."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Todo conductor hondureño o extranjero con carnet de residencia, mayor de 18 años debe portar su permiso de conducir. Este trámite te permite hacer la renovación de tu licencia completamente en línea."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 77,
+ "institucion": "Secretaría de Seguridad",
+ "modalidad": "En línea",
+ "numero": "77",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Centro Médico Certificado por la DNVT"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Realizar los exámenes médicos (físicos, psicológico y de la vista) en centros médicos certificados (solamente serán aceptados exámenes procedentes de centros certificados)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Agencias de banco autorizadas: Banco Atlántida, Ficohsa Banpaís o Banco de Occidente"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Comprar cita en el banco."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección Nacional de Vialidad y Transporte"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Completar la información solicitada en el formulario."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección Nacional de Vialidad y Transporte"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Seleccionar el tipo de licencia que deseas renovar y adjuntar la documentación solicitada."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección Nacional de Vialidad y Transporte"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Verificar el correo electrónico proporcionado en la información para la programación de la cita con el agente de tránsito que se realizará vía zoom."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección Nacional de Vialidad y Transporte"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Reclamar la licencia en la sede de tránsito indicada en la entrevista"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "También puede acceder a la página: https://www.youtube.com/watch?v=0Z-kmjNzWGE"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Ver tutorial de como tomarse la fotografía para solicitar la renovación de la licencia de conducir, pulsar el botón mas información e ir al enlace Informativo"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Documento Nacional de Identificación (DNI) o Carnet de Residencia."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Recibo de servicios públicos donde conste el domicilio actual del solicitante de la renovación."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Presentar exámenes médicos y psicológicos realizados en una clínica médica certificada."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Copia de permiso de conducir anterior."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Efectuar el pago en el Banco Atlántida, Ficohsa Banpaís o Banco de Occidente."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Realizar entrevista vía zoom, notificada por correo electrónico"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638403918287837405.png"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "En caso de hacer la renovación por robo o extravío, considerar la siguiente información:"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Boulevard Fuerzas Armadas, Colonia San Ángel, contiguo al INFOP"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2236-1200"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Dirección Nacional de Vialidad y Transporte"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Trujillo"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio El Centro, frente al Parque Central"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UMEP-19 Trujillo, Colón"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Puerto Cortés"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Carretera CA-5 que conduce a San Pedro Sula, a 200 metros antes del peaje, Barrio Caridad del Cobre"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP-5 Puerto Cortés, Cortés"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Las Casitas, Fco. Morazán"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Aldea Las Casitas, contiguo al Cementerio San Miguel Arcángel"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Centro de Capacitación Vial y Evaluación de Conductores"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Ocotepeque"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Colonia Las Flores"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP-14 Ocotepeque, Ocotepeque"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Danlí"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio Buenos Aires, contiguo a Escuela Gabriela Mistral"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP -7 Danlí, El Paraíso"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Santa Bárbara"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Edificio Principal UDEP-16 carretera RN-20 Ceibita Sur"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP-16 Santa Bárbara, Santa Bárbara"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Roatán"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Sector Monte Placentero, Barrio Los Fuertes, Calle Principal"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP-11 Islas de la Bahía"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "El Progreso"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Primera Calle, Barrio Los Pinos"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP-18 El Progreso, Yoro"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Catacamas"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio el Campo, frente al Polideportivo, contiguo a los Juzgados de Letras"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UMEP-15 Catacamas, Olancho"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Olanchito"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Colonia el Metizal, salida hacia Aldea Coyoles, Frente al Cementerio Municipal"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UMEP-17 Olanchito, Yoro"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Las Vegas"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Colonia Pedregal, 3 cuadras arriba de la Municipalidad, contiguo a la Estación de los Bomberos"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UMEP-13 Las Vegas, Santa Bárbara"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Juticalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Jefatura Policial de Juticalpa, ubicada en el Barrio Belén"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP-15 Juticalpa, Olancho"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "La Paz"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio San Antonio contiguo al INFOP"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP-12 La Paz, La Paz"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Nacaome"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio María Auxiliadora"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP-17 Nacaome, Valle"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Gracias"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Colonia Moreno"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP-13 Gracias, Lempira"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Choloma"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio el Centro, primera calle, frente a BAC Credomatic"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UMEP-10 Choloma, Cortés"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Choluteca"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio las Cumbres, anillo periférico, contiguo a la Universidad Metropolitana, salida al Municipio de Orocuína"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP-6 Choluteca, Choluteca"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "San Pedro Sula"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Colonia Municipal, Pasaje Los Cedros, contiguo a Ciudad Mujer"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Jefatura Regional Noroccidental de Vialidad y Transporte"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Siguatepeque"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio San Juan, contiguo al Club de Leones"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UMEP-16 Siguatepeque, Comayagua"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Santa Rosa de Copán"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio Divina Providencia, frente al Ministerio Público"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP-4 Santa Rosa de Copán, Copán"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Intibucá"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio El Centro, frente al Parque López, edificio principal de la Policía Nacional"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP-10 Intibucá, Intibucá"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tocoa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Carretera CA-13, Barrio la Ceiba, 3 cuadras al sureste del comedor rincón Garífuna"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP-2 Tocoa, Colón"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "La Ceiba"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio el Dorado contiguo a las instalaciones del INFOP"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP-1 La Ceiba, Atlántida"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Yoro"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio Santiago , contigo al Centro Penal"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP-18 Yoro, Yoro"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Talanga, Fco. Morazán"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio la Granja, Talanga, F.M, contiguo a La Clínica Municipal, frente a Bigos"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP-8 Centro de Capacitación Vial y Evaluación de Conductores"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Permiso de Conducir"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://transitohonduras.gob.hn/system/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://transitohonduras.gob.hn/system/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.youtube.com/watch?v=0Z-kmjNzWGE",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.youtube.com/watch?v=0Z-kmjNzWGE"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Renovación de permiso de conducir en línea"
+}

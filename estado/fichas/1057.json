@@ -1,0 +1,764 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://sol.pdihonduras.gob.hn/inprema/web/ciudadano/#/inicio"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Jefe de Departamento de Atención al Docente"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Brindar a los participantes (activos de cualquier sector/ jubilados o pensionados) un pré-análisis del monto a otorgar, plazo máximo, cuota estimada para un préstamo hipotecario"
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Docentes activos",
+    "Docentes Jubilados o pensionados."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Brindar a los participantes (activos de cualquier sector/ jubilados o pensionados) un pré-análisis del monto a otorgar, plazo máximo, cuota estimada para un préstamo hipotecario, sin necesidad de que el docente se presente a una oficina del INPREMA."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 1057,
+ "institucion": "Instituto de Previsión del Magisterio",
+ "modalidad": "En línea",
+ "numero": "1057",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Ingrese al portal Sol de INPREMA y seleccione el trámite \"Preanálisis para el otorgamiento del préstamo hipotecario\". Si no tiene un usuario, debe crearlo dando clic en \"Persona Natural\", llenar los datos, confirmar el registro a través del correo electrónico, e ingresar con su usuario y contraseña."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Llene todos los datos del primer formulario de preanálisis."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Seleccione y cargue tres archivos en formato PDF: el voucher de pago, su constancia de trabajo y el acuerdo de su nombramiento."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Autorice la revisión de sus datos en la central de información crediticia haciendo clic en \"Autorizo\"."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Indique la información de la solicitud, incluyendo el destino del préstamo y el valor del inmueble (expresado en lempiras)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Registrar Deudas a Consolidar (si aplica): Si el préstamo es para consolidar deudas, registre cada una dando clic en el signo \"+\". Para cada deuda, indique su nombre completo, el acreedor (institución), el tipo de deuda, el saldo en lempiras, si se deduce por planilla o se paga por ventanilla, y el monto del aporte mensual. Luego haga clic en \"Guardar Cambios\"."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Descargar, Firmar y Adjuntar Autorización: Descargue el formato editable de la autorización para revisión en su buró (formato Word), imprímalo, fírmelo y coloque su huella. Guárdelo en formato PDF y súbalo a la plataforma con el botón \"Seleccionar\"."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Haga clic en \"Presentar para revisión\" y luego \"Confirmar\" para que el trámite sea enviado a un funcionario de INPREMA."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "9",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Esté atento a las notificaciones de cambio de estado. Si necesita contactar al funcionario, dé doble clic en el trámite, haga clic en \"Hacer Consulta\", redacte el mensaje y haga clic en \"Enviar\"."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "10",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Una vez que el estado cambie a \"Aprobado\", dé doble clic en el trámite, desplácese hacia la información del preanálisis y revise el resultado para presentarse en las ventanillas de INPREMA."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Imagen frontal y reverso del Documento Nacional de Identificación (DNI) del solicitante."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Para docentes activos del sector oficial: voucher de pago emitido por la Secretaría de Educación, así como copia de los acuerdos de nombramiento, constancia de trabajo indicando la antigüedad."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Para docentes activos del sector privado y UPNFM: voucher de pago emitido por el Patrono en la que se indique el tipo de contrato, la antigüedad, el sueldo nominal, deducciones aplicadas y el salario neto mensual."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Indicar el valor estimado del bien que se ofrecerá como garantía."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Si el destino del préstamo es para construcción de vivienda, o mejoras, brindar el monto total del presupuesto de la obra."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Si el destino del préstamo es para consolidación de deudas, indicar los saldos de las instituciones a las que adeuda."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Autorización completada y firmada para la revisión en las Centrales de Información Crediticia (Central de Riesgos)."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Bulevar Centroamerica"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina Principal"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "San Pedro Sula"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "2 calle, 10 avenida N.O."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina regional S.P.S."
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Santa Rosa de Copán"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio el Centro, Centro Comercial Uniplaza"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina regional S.R.C."
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "La Ceiba"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Ave. Morazan, Centro Comercial Uniplaza"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina regional La Ceiba"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Ocotepeque"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio Concepción, frente a Escuela Normal Mixta Ángel Chonchilla Solís."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina Ocotepeque"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Lempira"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Alcostado del parque central, en la parte trasera de la iglesia, sobre la calle de la esquina del café Jireth"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Ventanilla Lempira"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Santa Bárbara"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio Las Galeras, frente a la Dirección Departamental de Educación Santa Bárbara"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina Santa Bárbara"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Yoro"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Cuarta avenida suroeste B° Santiago, contiguo al Jardín de Niños José Trinidad Reyes, esquina opuesta al campo de futbol La Lomita de Santiago"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Ventanilla Yoro"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Comayagua"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Premium Plaza, Blvd. Roberto Romero Larios, Comayagua 12101"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina Comayagua"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "La Esperanza"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio El Way, Plaza David, primer nivel."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina La Esperanza"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Marcala"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Plaza La Concepción, frente al Hotel Ágape."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina Marcala"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Nacaome"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Plaza Centro, frente a la Dirección Municipal de Educación, contiguo al Centro Asociado del Sur."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina Nacaome"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Choluteca"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Edificio COLPEDAGOGOSH, carretera hacía Marcovia, 16 avenida noreste a 200 metros de Diálisis de Honduras hacía el sur"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina Choluteca"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Danlí"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Centro Comercial Paseo Las Colinas"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina Danlí"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Juticalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Edificio del PRICPMHA, barrio Belén, dos cuadras antes de la Región Sanitaria, contiguo a la Iglesia Mormona"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina Juticalpa"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tocoa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Colonia 18 de Septiembre, Plaza Cityplace, contiguo a Supermercados La Colonia."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina Tocoa"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Roatán"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Distrito Coxen Hole, 2da. planta, Edificio Blue Plaza"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina Roatán"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Puerto Lempira"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio el Centro, frente a Cancha de baloncesto, esquina opuesta a los juzgados"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina Puerto Lempira"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Resultado del Preanálisis. es la visualización directa en pantalla de la información pre-aprobada para su préstamo hipotecario, la cual incluye el monto a otorgar, el plazo máximo y la cuota estimada."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://sol.pdihonduras.gob.hn/inprema/web/ciudadano/#/inicio",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sol.pdihonduras.gob.hn/inprema/web/ciudadano/#/inicio"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.youtube.com/watch?v=aKtuPywy8jg",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.youtube.com/watch?v=aKtuPywy8jg"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Pre-análisis para el Otorgamiento de Préstamo Hipotecario"
+}

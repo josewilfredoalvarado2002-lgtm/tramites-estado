@@ -1,0 +1,623 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://sol.pdihonduras.gob.hn/sag/web/ciudadano/#/inicio"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Gissela Kaina Alvarado Nuñez"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Regular el comercio de los productos pesqueros y acuícolas, verificando que cumplan con los estándares establecidos según la normativa pesquera (tallas establecidas, producto permitido en época, según cuota establecida y veda (caracol, pepino de mar), productos de la temporada y calidad."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Centros de comercialización como ser: Restaurantes, Pescaderías, Hoteles, Supermercados y vendedores ambulantes como ser: Compraventa Mayorista y Compraventa Minorista."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "El trámite lo realizan los comercializadores de productos pesqueros y acuícolas con el fin de obtener el permiso para realizar la actividad de manera legal, el mismo se puede realizar en cualquier oficina regional o central, mediante el llenado de la ficha de solicitud, pago de recibo TGR-1, toma de fotografía para emisión del carnet."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 379,
+ "institucion": "Secretaría de Agricultura y Ganadería",
+ "modalidad": "En línea",
+ "numero": "379",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Departamento de Control y Fiscalización"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Llenar la Ficha de Solicitud"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Departamento de Control y Fiscalización"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "generar TGR-1 para que el usuario realice el pago en el banco"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Departamento de Control y Fiscalización"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Verificar documentación"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Departamento de Control y Fiscalización"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Tomar Fotografía del solicitante"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Departamento de Control y Fiscalización"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Se registran los datos del solicitante en el sistema RGP y se imprime el carnet"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Departamento de Control y Fiscalización"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Se anota el número de carnet, fecha y quien recibe en el libro de salidas"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Departamento de Control y Fiscalización"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Entrega del carnet al solicitante"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Copia de la Tarjeta de identidad de la persona natural"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Copia del RTN Persona Jurídica/Identidad de representante de la empresa"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Fotografía tamaño carnet"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Llenar solicitud"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Pagar TGR-1 en el banco"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Bulevar Centroamérica, Ave. La FAO. Apto. Postal 309"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2239-3843"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Central Tegucigalpa"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Trujillo, Colon"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio Rio Negro frente al muelle Municipal."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2434-4540"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Regional Trujillo"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "La Ceiba, Atlantida"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Calle # 4, ave. # 1. Ba la barra, frente a restaurante Sea Wacht."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2442-0068"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Regional La Ceiba"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tela, Atlántida"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio San Antonio, calle principal, atrás del Estadio Municipal, contiguo al INA, media cuadra del Cementerio General."
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Regional Tela"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "San Pedro Sula, Cortes"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "20 y 17 calle, 1 y 2 ave. Barrio las Palmas, contiguo al viejo Molino Harinero Sula."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2556-5455"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Regional San Pedro Sula"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Santa Cruz de Yojoa, Cortes"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Aldea la Bolsita en la Unidad de Manejo de Cuencas de la ENEE"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Inspectoría El Cajón"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Roatán, Islas de la Bahía"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Loma French Harbour al par del Cementerio Viejo Calle primer Puente. Apartamentos Familia Gordon."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2445-0600"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Regional de Roatán"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Guanaja, Islas de la Bahía"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Edificio verde de Marina Mercante al lado izquierdo del Muelle Municipal, el Cayo."
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Inspectoria de Guanja"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "San Lorenzo, Valle"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio Plaza Marina contiguo al Hotel Bella Mar Belicoso."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2781-2333"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Regional de San Lorenzo"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Puerto Lempira, Gracias a Dios"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio la Mora, esquina opuesta del edifico de Masta."
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Regional de Puerto Lempira"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Choluteca"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Lotificadora Carranza, salida Guasable, frente a mega viveros."
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Regional de Choluteca"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Brus Laguna"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio el centro, predios de Municipalidad de Brus Laguna"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Inspectoría de Brus Laguna"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Licencia Comercio Restaurante"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Licencia Comercio Hotel"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Licencia Comercio Supermercado"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Licencia Comercio Pescadería"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Licencia Comercio Cafetería"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.digepesca.sag.gob.hn/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.digepesca.sag.gob.hn/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://sol.pdihonduras.gob.hn/sag/web/ciudadano/#/inicio",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sol.pdihonduras.gob.hn/sag/web/ciudadano/#/inicio"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Aplicación",
+       "https://pdihonduras.gob.hn/consulta/navigate/process/1117",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://pdihonduras.gob.hn/consulta/navigate/process/1117"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Comercialización de productos pesqueros y acuícolas"
+}

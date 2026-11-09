@@ -1,0 +1,230 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Gerente de Investigación y análisis"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Cumplir con la ley de Migración y Extranjería"
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Se ingresa a ciudadanos Nacionales como Extranjeros."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Descarte de Alertas de Homónimo al ciudadano afectado."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 291,
+ "institucion": "Instituto Nacional de Migración",
+ "modalidad": "Presencial",
+ "numero": "291",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficial de atención al ciudadano."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Se recibe la Constancia de Homónimo en la ventanilla de atención al ciudadano."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficial de Alerta."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Se le asigna a un Oficial de Alerta."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficial de Alerta."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Se ingresa en el modulo de Alertas de Homónimos con todos los datos y se procede al descarte."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficial de Alerta."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Se escanea la documentación para visualizar el documentos en todas los puntos Migratorios."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637995416740522968.JPG"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Constancia de Homónimo emitida por el juzgado competente."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificación de no estar alertado."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "A nivel Nacional en las Delegaciones."
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Tegucigalpa, San Pedro Sula, La Ceiba y todos los departamentos donde hay Delegaciones de Migracion."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2242-8792"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Instituto Nacional de Migracion"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificación de no estar alertado."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://inm.gob.hn/contactenos.html",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://inm.gob.hn/contactenos.html"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Alertas de Homónimo"
+}

@@ -1,0 +1,322 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Coordinación de Atención Integral en Salud a Persona con Discapacidad."
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Garantizar el acceso continuo y permanente a los beneficios que el carnet PCD brinda a las Personas con Discapacidad; y, empoderar a las personas con discapacidad sobre los derechos estipulados en la ley."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Se Incluyen aquellas personas que tengan deficiencias físicas, mentales, intelectuales o sensoriales y organicas a largo plazo. (Pulsar el botón Requisitos para conocer más detalles)"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "La DIGEDEPDI identifica legalmente a las personas con discapacidad haciendo entrega del Carnet de PCD en cuanto que la Ley de Equidad y Desarrollo Integral para las Personas con Discapacidad, Decreto 160-2005, en el Cap. IV: establece los Beneficios que el Carnet proporciona.",
+  "Desde SEDESOL brindamos el servicio de identificación para Personas con Discapacidad de manera permanente y continua, con el propósito de contribuir a la visibilización, reconocimiento, respeto y promoción de la equidad de las personas con discapacidad. (Pulsar el botón Requisitos para conocer más detalles)"
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 960,
+ "institucion": "Secretaría de Desarrollo Social",
+ "modalidad": "Presencial",
+ "numero": "960",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "SEDESOL"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Entrega de Ticket de visitante en la recepción Piso 1 de la Torre 2, Centro Cívico Gubernamental. (obligatorio para poder ingresar al edificio)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "DIGEDEPDI - Tecnico de educacion y sensibilzacion"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Recibir las charlas sobre \" Educación y Sensibilización en enfoque de Discapacidad\" y \"Beneficios y Uso del Carnet de Personas con Discapacidad\" Piso2 Torre 2 , Centro Cívico Gubernamental. (las charlas deben ser recibidas por pacientes y sus familiares)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "DIGEDEPDI - Médico General y/o Psicólogo"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Entrevista al paciente, revisión de documentos e ingreso al sistema de identificaron SIDIS."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "DIGEDEPDI-Tecnico en carnetizacion"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Toma de Fotografía."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Coordinancion de atencion integral en salud para PCD"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Entrega de Carnet tras firmar comprobante de atención y recibido."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Para hacer Reposición del Carnet se debe interponer una denuncia en la DPI por extravío de Documentos de Identificación)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Para solicitar o actualizar el Carnet se requiere copia de Documento Nacional de Identificación (DNI), si es menor de edad: Partida de Nacimiento y DNI de los padres o tutor(es); carnet de discapacidad anterior en caso de poseerlo; constancia médica que indique diagnóstico de discapacidad; fotografía para carnet, sin lentes u otro accesorio (en caso de que el paciente no se haga presente)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Requisito específico para Carnet por Discapacidad Sensorial Auditiva: Examen De Audiometría (Método mas frecuente para medir la audición)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Requisito específico para Carnet por Discapacidad Psicosocial: Constancia Médica emitida por Psiquiatra, que especifique tipo de Trastorno Mental)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Requisito específico para Carnet por Discapacidad Sensorial Visual (Baja Visión), Constancia emitida por oftalmólogo o oftalmologa que indique porcentaje de visibilidad no tratable."
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638415386017552631.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638415386017552631.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "TIPOS DE DISCAPACIDAD Y PROTOCOLO. Información Importante, por favor leer antes de realizar el tramite."
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638417075821339387.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638417075821339387.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "DÓNDE APLICAN LOS DECUENTOS POR LEY. Información Importante, por favor leer antes de realizar el tramite."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa MDC"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Centro Cívico Gubernamental, Torre 2, Boulevard Juan Pablo II"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "3217-0022"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Principal"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Carnet de persona con discapacidad"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://sedesol.gob.hn/direccion-general-de-desarrollo-para-las-personas-con-discapacidad/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sedesol.gob.hn/direccion-general-de-desarrollo-para-las-personas-con-discapacidad/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://sedesol.gob.hn/wp-content/uploads/2022/07/Folleto-de-Fondo-Solidario.pdf",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sedesol.gob.hn/wp-content/uploads/2022/07/Folleto-de-Fondo-Solidario.pdf"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Carnet de Persona con Discapacidad (PCD)"
+}

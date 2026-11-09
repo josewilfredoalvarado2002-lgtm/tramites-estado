@@ -1,0 +1,284 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://sol.pdihonduras.gob.hn/IHTT/web/ciudadano/#/inicio"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Enlace de entes investigativos"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Certificar que la información que se brinda es cierta, por ser la que consta tanto en los archivos físicos (en primer orden) como en los respaldos electrónicos de este instituto."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Personas naturales y jurídicas"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "El ciudadano genera una solicitud en el que se requiere Certificación de ser Concesionario, acreditando poder debidamente autenticado (si este no consta en el expediente relacionado) y TGR-1 por el pago de la misión de certificación, se verifica que el solicitante no tenga saldos pendientes a favor del IHTT, de tener saldos pendientes se emite providencia para que previo a la emisión de la certificación se realice el pago de dichos saldos; se verifica las concesiones que se le han autorizado y de las mismas se procede a informar en la certificación de ser concesionario."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 966,
+ "institucion": "Instituto Hondureño de Transporte Terrestre",
+ "modalidad": "En línea",
+ "numero": "966",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Crea tu Usuario: Si es tu primera vez en el Portal Digital de Inversiones (PDI), busca la opción de \"Registrar\" y completa el formulario de registro con los datos solicitados. Debes validar tu cuenta a través de un enlace enviado a tu correo electrónico."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Inicia Sesión: Utiliza tu usuario y contraseña creados ingresa al Portal Digital de Inversiones."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Revisa Requisitos: Verifica los requisitos necesarios para la solicitud. Asegúrate de tener toda la información lista"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Completa el Formulario: Llena la solicitud digital con la información requerida de manera precisa"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Adjunta Documentos: Sube los documentos solicitados en el formato digital que se te indique"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Envía la Solicitud: Una vez completados los pasos, envía tu solicitud a través del Portal Digital de Inversiones."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Realiza Seguimiento: El PDI cuenta con una sección para hacer seguimiento al estado de tu trámite, lo que te permite ver el progreso y si se requiere alguna acción adicional de tu parte."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Recibe el Documento: Una vez aprobado, el documento será emitido digitalmente y podrás descargarlo desde el portal."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Recibo TGR-1 a favor del IHTT en la cuenta 12121"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Carta poder debidamente autenticada"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Carnet de colegiación, del apoderado legal."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Documento Nacional de Identificación (DNI), del beneficiario o representante legal."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Col. Tepeyac, Boulevard Juan Pablo II, frente a Indufesa Doit Center."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "9999-3080"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Ventanilla Unica del edificio anexo del Instituto Hondureño de Transporte Terrestre"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificación de ser concesionario"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://sol.pdihonduras.gob.hn/IHTT/web/ciudadano/#/inicio",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sol.pdihonduras.gob.hn/IHTT/web/ciudadano/#/inicio"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Aplicación",
+       "https://pdihonduras.gob.hn/consulta/navigate/process/1108",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://pdihonduras.gob.hn/consulta/navigate/process/1108"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.youtube.com/watch?v=0j3STaEIzug",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.youtube.com/watch?v=0j3STaEIzug"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Certificación de ser concesionario"
+}

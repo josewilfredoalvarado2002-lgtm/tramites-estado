@@ -1,0 +1,417 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://sigob.arsa.hn/ciudadano/"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Director Unidad de Alimentos y Bebidas"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Obtener el registro sanitario que permita la venta o distribución de suplementos nutricionales, garantizando que sean seguros y aptos para el consumo humano."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Importadores"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Trámite mediante el cual se obtiene la autorización sanitaria para la fabricación, importación y comercialización de suplementos nutricionales, verificando que cumplan con los requisitos de calidad, seguridad y etiquetado establecidos por la normativa vigente."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 1124,
+ "institucion": "Agencia de Regulación Sanitaria",
+ "modalidad": "En línea",
+ "numero": "1124",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Crea tu Usuario: Si es tu primera vez en el Portal Digital de Inversiones (PDI), busca la opción de \"Registrar\" y completa el formulario de registro con los datos solicitados. Debes validar tu cuenta a través de un enlace enviado a tu correo electrónico."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Inicia Sesión: Utiliza tu usuario y contraseña creados ingresa al Portal Digital de Inversiones."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Revisa Requisitos: Verifica los requisitos necesarios para la solicitud. Asegúrate de tener toda la información lista."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Completa el Formulario: Llena la solicitud digital con la información requerida de manera precisa."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Adjunta Documentos: Sube los documentos solicitados en el formato digital que se te indique."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Envía la Solicitud: Una vez completados los pasos, envía tu solicitud a través del Portal Digital de Inversiones."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Realiza Seguimiento: El PDI cuenta con una sección para hacer seguimiento al estado de tu trámite, lo que te permite ver el progreso y si se requiere alguna acción adicional de tu parte."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Recibe el Documento: Una vez aprobado, el documento será emitido digitalmente y podrás descargarlo desde el portal."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificado de libre venta"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Formula cualitativa y cuantitativa completa, firmada y sellada por el químico farmacéutico responsable (Original)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Método general de elaboración"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Especificaciones del producto terminado"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Monografía"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Etiquetas originales o sus proyectos del envase primario"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Etiquetas originales o sus proyectos del envase secundario (en caso de que aplique)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Inserto"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Informe de estudio de estabilidad"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificado de BPM fabricante"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificado de BPM acondicionador"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Contrato o documento que avale la manufactura"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Documento que acredite su condición (profesional responsable)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Licencia Sanitaria de distribuidores y del fabricante en caso de que sea nacional"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Cuota de recuperación"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Adicionalmente si actúa como apoderado legal deberá presentar, además: Carta Poder Original"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Comayagüela"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Distrito Central, calle Los alcaldes."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "+(504) 2270-6600"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Agencia de Regulación Sanitaria"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificado de nuevo registro sanitario para suplementos nutricionales"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Aplicación",
+       "https://pdihonduras.gob.hn/consulta/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://pdihonduras.gob.hn/consulta/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://sigob.arsa.hn/ciudadano/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sigob.arsa.hn/ciudadano/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Aplicación",
+       "https://arsa.gob.hn/calculadora-de-alimentos-y-bebidas",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://arsa.gob.hn/calculadora-de-alimentos-y-bebidas"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.youtube.com/watch?v=qwot609DEgE",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.youtube.com/watch?v=qwot609DEgE"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Nuevo Registro Sanitario de Nuevos Suplementos Nutricionales"
+}

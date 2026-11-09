@@ -1,0 +1,371 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://sol.pdihonduras.gob.hn/sag/web/ciudadano/#/inicio"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Gissela Kaina Alvarado Nuñez"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Emitir un control de la trazabilidad de producto de origen para exportación Caracol rosado (Aliger gigas) que debe ser capturado a través de las embarcaciones pesqueras autorizadas y según la cuota establecida mediante el acuerdo vigente emitido."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Plantas Procesadoras."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "La emisión de la constancia se otorga a las plantas procesadoras para tener un control de producto capturado conforme a la cuota establecida en el acuerdo, dicha constancia detalla a que embarcación le compro el producto, registro de la nave, el banco de pesca que lo capturo, país de destino, valor del producto y las libras que va a exportar."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 1037,
+ "institucion": "Secretaría de Agricultura y Ganadería",
+ "modalidad": "En línea",
+ "numero": "1037",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Crea tu Usuario: Si es tu primera vez en el Portal Digital de Inversiones (PDI), busca la opción de \"Registrar\" y completa el formulario de registro con los datos solicitados. Debes validar tu cuenta a través de un enlace enviado a tu correo electrónico."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Inicia Sesión: Utiliza tu usuario y contraseña creados ingresa al Portal Digital de Inversiones."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Revisa Requisitos: Verifica los requisitos necesarios para la solicitud. Asegúrate de tener toda la información lista."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Completa el Formulario: Llena la solicitud digital con la información requerida de manera precisa."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Adjunta Documentos: Sube los documentos solicitados en el formato digital que se te indique."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Envía la Solicitud: Una vez completados los pasos, envía tu solicitud a través del Portal Digital de Inversiones."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Realiza Seguimiento: El PDI cuenta con una sección para hacer seguimiento al estado de tu trámite, lo que te permite ver el progreso y si se requiere alguna acción adicional de tu parte."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Recibe el Documento: Una vez aprobado, el documento será emitido digitalmente y podrás descargarlo desde el portal."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638787703651779414.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638787703651779414.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Acta de desembarque"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638787704021582309.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638787704021582309.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Listado de compraventa del producto"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638787704479546672.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638787704479546672.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Factura de control"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638787705534474044.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638787705534474044.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Factura Comercial de Cuota Nacional (Se debe presentar a partir de la solicitud de Certificados CITES del Segundo viaje de pesca)"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638787706093546187.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638787706093546187.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "No se aceptarán documentos si vienen espacios sin la información respectiva o tachados e información alterada"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638787706623785949.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638787706623785949.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Comprobante de pago del canon contributivo correspondiente al producto capturado"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Boulevard Centroamérica, Avenida la FAO, Contiguo a INJUPEM"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2239-1982"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Principal DIGEPESCA"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de trazabilidad de origen para comercio local de Caracol rosado (Aliger gigas)"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://sol.pdihonduras.gob.hn/sag/web/ciudadano/#/inicio",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sol.pdihonduras.gob.hn/sag/web/ciudadano/#/inicio"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.digepesca.sag.gob.hn/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.digepesca.sag.gob.hn/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Aplicación",
+       "https://pdihonduras.gob.hn/consulta/navigate/process/1121",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://pdihonduras.gob.hn/consulta/navigate/process/1121"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://sigob.org/guias/HN/SAG/SOL/Solicitud_de_constancia_de_trazabilidad_de_origen_para_comercio_local_de_Caracol_rosado_Aliger_gigas.html",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sigob.org/guias/HN/SAG/SOL/Solicitud_de_constancia_de_trazabilidad_de_origen_para_comercio_local_de_Caracol_rosado_Aliger_gigas.html"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Trazabilidad de origen para comercio local de Caracol rosado (Aliger gigas)"
+}

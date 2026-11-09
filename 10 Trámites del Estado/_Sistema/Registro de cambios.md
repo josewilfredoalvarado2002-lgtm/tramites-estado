@@ -8,6 +8,301 @@ Cambios detectados en el portal, por corrida. La entrada más reciente va arriba
 
 <!-- registro:entradas -->
 
+## 2026-11-09 14:42 · Catálogo completo
+
+- Nuevo: TR-23 Solicitud de Préstamo de Consumo
+- Nuevo: TR-25 Solicitud de Préstamo Hipotecario
+- Nuevo: TR-26 Solicitud de Vaucher
+- Nuevo: TR-27 Solicitud de Beneficios Previsionales
+- Nuevo: TR-28 Nueva Licencia Sanitaria de Establecimiento para Alimentos y Bebidas
+- Nuevo: TR-34 PRIMERA VEZ DE PERMISO DE EXPLOTACION Y CERTIFICADO DE OPERACIÓN PARA EL SERVICIO DE TRANSPORTE PÚBLICO O PERMISO ESPECIAL (PRIVADO) DE CARGA GENERAL
+- Nuevo: TR-36 Nuevo Certificado de Registro Sanitario para Alimentos y Bebidas
+- Nuevo: TR-42 Modificación de Licencia Sanitaria para Establecimiento de Dispositivos Médicos
+- Nuevo: TR-47 PRIMERA VEZ PARA OBTENER PERMISO DE EXPLOTACIÓN Y CERTIFICADO DE OPERACIÓN PARA EL SERVICIO DE TRANSPORTE PÚBLICO DE PERSONAS EN LA MODALIDAD DE MOTOTAXI
+- Nuevo: TR-51 PRIMERA VEZ DE PERMISO ESPECIAL PARA TODAS LAS MODALIDADES DEL SERVICIO DE TRANSPORTE ESPECIAL DE PERSONAS
+- Nuevo: TR-53 Renovación de Licencia Sanitaria de Transporte de Alimentos y Bebidas
+- Nuevo: TR-55 Certificado de homologación
+- Nuevo: TR-56 RENOVACIÓN DE PERMISO DE EXPLOTACION Y CERTIFICADO DE OPERACIÓN PARA EL SERVICIO DE TRANSPORTE PUBLICO DE PERSONAS EN LA MODALIDAD DE MOTOTAXI.
+- Nuevo: TR-57 Constancia de Antecedentes Policiales
+- Nuevo: TR-60 Modificación de Licencia Sanitaria para Establecimiento de Dispositivos Médicos
+- Nuevo: TR-61 Modificación de Certificado de Registro Sanitario para Alimentos y Bebidas
+- Nuevo: TR-63 RENOVACIÓN PARA PERMISO DE EXPLOTACIÓN Y CERTIFICADO DE OPERACIÓN O PERMISO ESPECIAL, PARA EL SERVICIO DE TRANSPORTE PÚBLICO O ESPECIAL DE CARGA GENERAL.
+- Nuevo: TR-64 Permisos de Conducir por primera vez en categoría A (motocicletas) y B (vehículos livianos)
+- Nuevo: TR-67 INCREMENTO DE UNIDAD EN EL PERMISO DE EXPLOTACIÓN O PERMISO ESPECIAL PARA EL SERVICIO DE TRANSPORTE PÚBLICO O ESPECIAL DE CARGA GENERAL Y REMOLQUE.
+- Nuevo: TR-71 PRIMERA VEZ DE PERMISO DE EXPLOTACIÓN Y CERTIFICADO DE OPERACIÓN O PERMISO ESPECIAL PARA EL SERVICIO DE TRANSPORTE PUBLICO O ESPECIAL (PRIVADO)DE CARGA ESPECIALIZADA.
+- Nuevo: TR-72 Permisos de Conducir para vehículo en las categorías C1, C y C+E (vehículos de carga pesada) y D1 y D para vehículo de transporte de pasajeros.
+- Nuevo: TR-74 RENOVACION PARA PERMISO DE EXPLOTACIÓN Y CERTIFICADO DE OPERACIÓN O PERMISO ESPECIAL PARA EL SERVICIO DE TRANSPORTE PÚBLICO “STPCE” O ESPECIAL “STECE” DE CARGA ESPECIALIZADA
+- Nuevo: TR-75 RENOVACION DE PERMISO DE EXPLOTACION Y CERTIFICADO DE OPERACIÓN O PERMISO ESPECIAL PARA TODAS LAS MODALIDADES DEL SERVICIO DE TRANSPORTE PÚBLICO DE PERSONAS O ESPECIAL DE PERSONAS.
+- Nuevo: TR-77 Renovación de permiso de conducir en línea
+- Nuevo: TR-84 INCREMENTO DE UNIDAD EN EL PERMISO DE EXPLOTACIÓN O PERMISO ESPECIAL PARA EL SERVICIO DE TRANSPORTE PÚBLICO DE CARGA ESPECIALIZADA
+- Nuevo: TR-86 Antecedentes Policiales en Pasivo
+- Nuevo: TR-89 Denuncia Presencial en DPI
+- Nuevo: TR-138 Solicitud de inscripción en el Registro de Auditores Externos (RAE)
+- Nuevo: TR-148 Solicitud de inscripción de Persona Jurídica en el Registro de Valuadores de Activos Muebles e Inmuebles, Otros Activos y Garantías de Créditos de las Instituciones Supervisadas
+- Nuevo: TR-170 Modificación de Registro Sanitario de Dispositivos Médicos
+- Nuevo: TR-179 Presentación de Reclamos de Usuarios Financieros
+- Nuevo: TR-183 Pasaporte en el Exterior
+- Nuevo: TR-200 Inscripción de Cooperativas y Otorgamiento de Personalidad Juridica
+- Nuevo: TR-202 Nueva Licencia Sanitaria para Establecimiento de Dispositivos Médicos
+- Nuevo: TR-214 Nuevo Registro Sanitario de Dispositivos Médicos
+- Nuevo: TR-224 Renovación de Registro Sanitario de Dispositivos Médicos
+- Nuevo: TR-227 Certificación de Defunción
+- Nuevo: TR-236 Certificación de Matrimonio
+- Nuevo: TR-247 Certificación de Divorcio
+- Nuevo: TR-249 Registro de Obras (Literarias, Artística, Musicales, Fonogramas, Softwares, Cinematográficas/Audiovisuales)
+- Nuevo: TR-254 Inscripción de Gerente General
+- Nuevo: TR-257 Visas de Permanencia Diplomáticas, Oficiales y Especiales
+- Nuevo: TR-263 Poder Especial
+- Nuevo: TR-264 Denuncia protección al usuario de servicios de telecomunicaciones
+- Nuevo: TR-267 Constancia de Registro de Asociaciones Civiles
+- Nuevo: TR-268 Solicitud de información de becas internacionales
+- Nuevo: TR-272 Constancia de Juntas Directivas de Asociaciones Civiles Registradas
+- Nuevo: TR-278 Inscripción de una Residencia / Permiso Especial de Permanencia
+- Nuevo: TR-281 Constancia de Estados Financieros de Asociaciones Civiles Registradas en sistema de DIRRSAC
+- Nuevo: TR-286 Registro de Naturalizados
+- Nuevo: TR-288 Alertas Migratorias
+- Nuevo: TR-289 Permiso para portación de armas (persona natural)
+- Nuevo: TR-290 Prórrogas de Estadía
+- Nuevo: TR-291 Alertas de Homónimo
+- Nuevo: TR-293 Renovación de Carné de Extranjero Residente
+- Nuevo: TR-294 Permiso para portación de armas (persona jurídica)
+- Nuevo: TR-296 Reposición de Carné de Residencia
+- Nuevo: TR-299 Reposición de Certificación de Inscripción
+- Nuevo: TR-300 Sellos de permanencia
+- Nuevo: TR-310 Incorporación al Régimen de Zonas Libres (ZOLI) de Operadoras y Operadoras Usuarias
+- Nuevo: TR-319 MODIFICACIÓN POR CAMBIO DE PLACA DE UNA UNIDAD PARA EL SERVICIO DE TRANSPORTE PÚBLICO O ESPECIAL EN TODAS LAS MODALIDADES Y CATEGORIAS
+- Nuevo: TR-322 Licencia para Registro de vehículo Blindado persona Natural /Jurídica
+- Nuevo: TR-323 Nuevo Permiso Sanitario Temporal de Alimentos y Bebidas
+- Nuevo: TR-327 Certificación de inscripción de junta directiva y junta de vigilancia
+- Nuevo: TR-330 Citas de emergencia para emisión de pasaporte
+- Nuevo: TR-343 Licencia de Operación de Servicios de Seguridad Privada
+- Nuevo: TR-351 Solicitud de permiso especial de viaje
+- Nuevo: TR-352 Inscripción de Sistema Contable
+- Nuevo: TR-367 Solicitud de pasaportes
+- Nuevo: TR-368 Solicitud de Registro de Marcas
+- Nuevo: TR-379 Comercialización de productos pesqueros y acuícolas
+- Nuevo: TR-384 Postulación para becas internacionales
+- Nuevo: TR-388 Nueva Autorización de Importación de materia prima y aditivos alimentarios
+- Nuevo: TR-404 Otorgamiento de créditos Consumo
+- Nuevo: TR-421 CESIÓN DE DERECHOS POR MUERTE O INCAPACIDAD LEGAL DEL TITULAR DE LA CONCESIÓN EN TODAS SUS MODALIDADES Y CATEGORÍAS
+- Nuevo: TR-446 Registro Inscripción de Intermediación de Seguros y Fianzas Correduría de Seguros.
+- Nuevo: TR-449 Otorgamiento de Crédito de Vivienda
+- Nuevo: TR-456 Órdenes de Compra Exenta
+- Nuevo: TR-457 Registro de Exonerados (PAMEH)
+- Nuevo: TR-459 REPOSICIÓN DE PERMISO DE EXPLOTACION Y CERTIFICADO DE OPERACIÓN O PERMISO ESPECIAL PARA TODAS LAS MODALIDADES DEL SERVICIO DE TRANSPORTE PÚBLICO O ESPECIAL.
+- Nuevo: TR-465 Inscripción de Firmas de Auditorias Externas
+- Nuevo: TR-469 Solicitud de información en el Archivo Nacional Antonio Ramón Vallejo
+- Nuevo: TR-470 Firma Electrónica
+- Nuevo: TR-494 Registro de Beneficiarios Inscritos en el Sistema Integrado de Administración Financiera (SIAFI), Persona Natural
+- Nuevo: TR-502 Solicitud de información en la Hemeroteca Nacional Ramón Rosa
+- Nuevo: TR-504 Afiliación de docentes del sector publico y privado y designación de beneficiarios (INPREMA)
+- Nuevo: TR-505 Modificación de Licencia Sanitaria para Establecimientos Proveedores de Servicios de Salud y Otros
+- Nuevo: TR-520 Nueva Licencia Sanitaria de Transporte de Alimentos y Bebidas
+- Nuevo: TR-521 Solicitud de información en la Biblioteca Nacional Juan Ramón
+- Nuevo: TR-525 Constitución de Mi Empresa en Línea
+- Nuevo: TR-530 Nueva Licencia Sanitaria para Establecimientos Proveedores de Servicios de Salud y Otros
+- Nuevo: TR-536 Renovación de Licencia Sanitaria para Establecimientos Proveedores de Servicios de Salud y Otros
+- Nuevo: TR-539 Auténtica Sección Consular
+- Nuevo: TR-540 Solicitud de Permiso Especial de Permanencia en el país y Renovación.
+- Nuevo: TR-541 Autorización para el registro de huéspedes
+- Nuevo: TR-543 Solicitud de Movimientos Migratorios Persona Natural
+- Nuevo: TR-551 Solicitud de Constancia de no violación, carné vigente y de estar inscrito en el Registro Nacional de Extranjero
+- Nuevo: TR-556 Denuncia Presencial por Extorsión
+- Nuevo: TR-559 Solicitud Visa Consultada
+- Nuevo: TR-561 Solicitud de Movimientos Migratorios Institucionales
+- Nuevo: TR-574 Prechequeo Migratorio
+- Nuevo: TR-607 Licencia de Importación de Productos Lácteos
+- Nuevo: TR-616 Licencia de Importación de Cebolla
+- Nuevo: TR-694 Solicitud de cancelación del Registro de Sociedades Remesadoras de Dinero
+- Nuevo: TR-703 Atención de denuncias en materia de inquilinato
+- Nuevo: TR-711 Solicitudes de información atendidas en SIELHO
+- Nuevo: TR-721 Licencia de experto en explosivos
+- Nuevo: TR-730 Dictamen técnico y mapa correspondiente al municipio y sus colindantes.
+- Nuevo: TR-733 Naturalización por tiempo de residir.
+- Nuevo: TR-740 Carta Poder
+- Nuevo: TR-764 Autorizaciones
+- Nuevo: TR-785 Requisitos para autorización de compra local y directa, traslado, almacenaje, manipuleo y uso de material explosivo industrial
+- Nuevo: TR-791 Pago de Pensiones
+- Nuevo: TR-798 Apertura de Expedientes
+- Nuevo: TR-799 Solicitud de autorización de exportación de fuegos artificiales o juegos pirotécnicos y materiales controlados
+- Nuevo: TR-803 Solicitud de autorización para la importación, tránsito, almacenaje, manipuleo y uso de fuegos artificiales o juegos pirotécnicos y materiales controlados
+- Nuevo: TR-818 Solicitud de Construcción de Parque y canchas multiusos
+- Nuevo: TR-823 Autorización de tránsito de material explosivo de uso comercial o juegos pirotécnicos
+- Nuevo: TR-839 Matricula Consular
+- Nuevo: TR-840 Licencias de Conducir
+- Nuevo: TR-843 Renovación de Licencia Sanitaria para Establecimiento de Dispositivos Médicos
+- Nuevo: TR-858 Reconocimiento Mutuo De Registro Sanitario / Alimentos y Bebidas
+- Nuevo: TR-917 Registro de Beneficiarios Inscritos en el Sistema Integrado de Administración Financiera (SIAFI), Persona Juridica
+- Nuevo: TR-918 Registro de Beneficiarios Inscritos en el Sistema Integrado de Administración Financiera (SIAFI), Ente Gubernamental
+- Nuevo: TR-919 Recibo TGR-1 en línea
+- Nuevo: TR-926 Solicitud de Exoneraciones
+- Nuevo: TR-930 Formalización de Cajas Rurales de Ahorro y Crédito, Cajas de Ahorro y Crédito, Empresas de Servicios Múltiples y Asociaciones
+- Nuevo: TR-935 Planes de Pago en línea (por mora de matrícula)
+- Nuevo: TR-942 Registro de Plaguicida Sintetico
+- Nuevo: TR-943 Registro de Fertilizante
+- Nuevo: TR-944 Registro de Enmienda Agrícola
+- Nuevo: TR-945 Registro de Plaguicidas y Sustancias Afines
+- Nuevo: TR-946 Registro de Plaguicidas Microbiológicos
+- Nuevo: TR-947 Registro de Almacenadores de Plaguicidas y Fertilizantes
+- Nuevo: TR-949 Comercia.hn. Registro, página de comercio electrónico
+- Nuevo: TR-950 Registro de Productores Orgánicos Independientes
+- Nuevo: TR-951 Solicitud de Registro y Renovación de Organización de Productores Orgánicos
+- Nuevo: TR-953 Solicitud de Registro de Importador y Exportador de Productos Insumos Orgánicos
+- Nuevo: TR-954 Solicitud Inicial del Registro de Organismo de Certificación
+- Nuevo: TR-955 Solicitud de Registro de Inspectores para la Producción Orgánica
+- Nuevo: TR-959 Reporte Telefónico por Extorsión
+- Nuevo: TR-960 Carnet de Persona con Discapacidad (PCD)
+- Nuevo: TR-961 Registro de Plaguicida Botanico
+- Nuevo: TR-962 Registro de Coadyuvantes
+- Nuevo: TR-963 Registro y Renovación de Expendedor de Plaguicidas
+- Nuevo: TR-964 Registro y Renovacion de Fabricante
+- Nuevo: TR-965 Registro y Renovación de Distribuidor de Plaguicidas
+- Nuevo: TR-966 Certificación de ser concesionario
+- Nuevo: TR-967 Inscripción de empresas suplidoras de sistemas y equipos de energía solar
+- Nuevo: TR-968 Certificación de código aduanero
+- Nuevo: TR-969 Registro de prestadores de servicios técnicos en protección radiológica
+- Nuevo: TR-970 CANCELACION DE PERMISO DE EXPLOTACION, CERTIFICADO DE OPERACION Y PERMISO ESPECIAL DE CARGA PUBLICA Y PRIVADA
+- Nuevo: TR-971 SOLICITUD DE DESISTIMIENTO TOTAL DEL EXPEDIENTE
+- Nuevo: TR-979 Inscripción en el Registro Nacional de Cinematografía Persona Natural
+- Nuevo: TR-980 Inscripción en el Registro Nacional de Cinematografía Persona Jurídica
+- Nuevo: TR-981 Solicitud de Fondos de Apoyo Financiero y Patrocino
+- Nuevo: TR-982 Autorización mediante registro de equipos de radiodiagnóstico dental de tipo intraoral
+- Nuevo: TR-990 Inscripción de Reforma de Estatutos
+- Nuevo: TR-994 Emisión de Constancias
+- Nuevo: TR-995 Venta de Resmas de Papel Seguridad
+- Nuevo: TR-996 Petición de cálculo de aporte
+- Nuevo: TR-998 Constancia de solvencia de cooperativas
+- Nuevo: TR-1000 Solicitud de Participante Voluntario / Reintegro de Valores
+- Nuevo: TR-1001 Solicitud de Historial de Cotizaciones Individuales
+- Nuevo: TR-1003 Servicio de Internet o Acceso a Redes Informáticas
+- Nuevo: TR-1005 Inscripción en la cadena de comercialización de hidrocarburos bajo la figura de estación de servicio de combustibles líquidos
+- Nuevo: TR-1006 Inscripción De La Sociedad Mercantil o Comerciante Individual En la Cadena De Comercialización De Hidrocarburos bajo La Figura De Bombas de Patio para Consumo Propio y/o; Depósitos o Tanques de Petróleo, Hidrocarburos Instalados en Cuerpos de Agua Aéreos y/o Soterrados para Consumo Propio o Industrial de Cualquier Capacidad.
+- Nuevo: TR-1007 Servicio de Radioaficionados
+- Nuevo: TR-1008 Servicio Móvil Aeronáutico
+- Nuevo: TR-1011 Gestión de solicitudes, denuncias y/o PQRS.
+- Nuevo: TR-1012 Comercializador Tipo Revendedor
+- Nuevo: TR-1013 Inscripción Centro de Atención de Llamadas
+- Nuevo: TR-1014 Gestiona tu comunidad
+- Nuevo: TR-1015 Autorización para sobrevuelo y/o aterrizaje
+- Nuevo: TR-1016 Autorización para portación de armas para delegaciones diplomáticas
+- Nuevo: TR-1018 Seguimiento a Resolución de Gestiones Operaciones
+- Nuevo: TR-1019 Emisión de estados de cuenta de préstamos
+- Nuevo: TR-1020 Emisión de estados de cuenta de cotizaciones
+- Nuevo: TR-1022 Constancia No Afiliado
+- Nuevo: TR-1023 Constancia de cotizaciones
+- Nuevo: TR-1024 Constancia de Jubilado/ Pensionado
+- Nuevo: TR-1025 Constancia de Datos Generales de Préstamos
+- Nuevo: TR-1026 Constancia de Saldos Proyectados
+- Nuevo: TR-1029 Constancia de Renuncia CAP
+- Nuevo: TR-1030 Otorgamiento de Préstamo Personal "Rapibono"
+- Nuevo: TR-1031 Registro y atención a denuncias
+- Nuevo: TR-1033 Actualización de Datos Docentes
+- Nuevo: TR-1034 Constancia de Afiliación
+- Nuevo: TR-1035 Consulta de Beneficiarios Inscritos
+- Nuevo: TR-1036 Trazabilidad de origen para exportación de pepino de mar
+- Nuevo: TR-1037 Trazabilidad de origen para comercio local de Caracol rosado (Aliger gigas)
+- Nuevo: TR-1044 Solicitud de Agrupaciones Artísticas
+- Nuevo: TR-1046 Registro de Matricula en la Academia Nacional de Danza "Mercedes Agurcia Membreño"
+- Nuevo: TR-1048 Solicitud de reclasificación del Registro de Auditores Externos (RAE)
+- Nuevo: TR-1049 Solicitud de actualización en el Registro de Auditores Externos (RAE)
+- Nuevo: TR-1050 Solicitud de Constancias
+- Nuevo: TR-1052 Registro de Matricula Anual Academia Nacional de Arte Dramático "Santiago Fernández Toffé"
+- Nuevo: TR-1053 Solicitud de Artes Plásticas y Visuales, y Artes Audiovisuales
+- Nuevo: TR-1055 Emisión de constancia de inscripción de cooperativas
+- Nuevo: TR-1056 Pre-análisis para el Otorgamiento de Préstamo Personal Consolidación de Deudas
+- Nuevo: TR-1057 Pre-análisis para el Otorgamiento de Préstamo Hipotecario
+- Nuevo: TR-1058 Pre-análisis para Otorgamiento de Préstamo Rapibono
+- Nuevo: TR-1059 Pre-análisis para el Otorgamiento de Préstamo Personal
+- Nuevo: TR-1060 Protocolo de atención de casos externos
+- Nuevo: TR-1061 Contrato de adhesión persona jurídica
+- Nuevo: TR-1062 Contrato de adhesión comerciante individual
+- Nuevo: TR-1063 Contrato de adhesión persona natural
+- Nuevo: TR-1064 Registro de conductor de transporte terrestre
+- Nuevo: TR-1065 Registro de unidades de transporte terrestre bajo contratos de compra venta y otros
+- Nuevo: TR-1066 Registro de unidades de transporte terrestre
+- Nuevo: TR-1067 Usuario SARAH para transportista terrestre
+- Nuevo: TR-1068 Inspecciones para Espectáculos Públicos
+- Nuevo: TR-1069 Inspecciones para Establecimientos
+- Nuevo: TR-1073 Renovación de Licencia Sanitaria para Establecimientos de Hospedaje o Centro Recreativo
+- Nuevo: TR-1074 Renovación en el registro nacional de turismo: Prestadores de servicios de transporte y arrendadoras de vehículos
+- Nuevo: TR-1075 Certificación de Traducción
+- Nuevo: TR-1076 Renovación de Registro de Empresa Importadora de Sustancias Controladas
+- Nuevo: TR-1077 Registro de Empresa Importadora de Sustancias Controladas
+- Nuevo: TR-1078 Nuevo Registro de comprador autorizado para la manipulación de sustancias sujetas a fiscalización especial
+- Nuevo: TR-1079 Renovación en el registro nacional de turismo: Guías turísticos
+- Nuevo: TR-1080 Notificación de eventos adversos serios sobre dispositivos médicos para profesionales de la salud
+- Nuevo: TR-1081 Notificación de eventos adversos serios sobre dispositivos médicos para pacientes y usuarios en general
+- Nuevo: TR-1082 Notificación de eventos adversos serios sobre dispositivos médicos para la industria
+- Nuevo: TR-1083 Notificación de eventos adversos serios sobre dispositivos médicos para investigación clínica
+- Nuevo: TR-1084 Modificación de Registro de Empresa Importadora de Sustancias Controladas
+- Nuevo: TR-1085 Modificación de Licencia Sanitaria para Establecimientos de Hospedaje o Centro Recreativo
+- Nuevo: TR-1086 Licencia de Importación de Arroz
+- Nuevo: TR-1087 Renovación en el registro nacional de turismo: Servicios intermediación y facilitación turística
+- Nuevo: TR-1088 Certificado de libre venta de dispositivos médicos
+- Nuevo: TR-1089 Nueva Autorización Sanitaria de Ensayos Clínicos para Dispositivos Médicos
+- Nuevo: TR-1091 Autorización de equipos biomédicos usados
+- Nuevo: TR-1092 Autorización de equipo biomédico repotenciado
+- Nuevo: TR-1093 Precalificación de solicitud de vivienda (Banca de Primer Piso)
+- Nuevo: TR-1094 Licencia de Importación de Carne de Pollo
+- Nuevo: TR-1095 Presentación de Información Estadística ZOLI o Declaración Jurada de RIT, Call Center y Servicios Tercerizados
+- Nuevo: TR-1096 Prorroga de Licencia de Importación de Cebolla
+- Nuevo: TR-1097 Renovación de Permiso Sanitario Temporal de Alimentos y Bebidas
+- Nuevo: TR-1098 Nuevo Informe de Clasificación por Riesgo Sanitario
+- Nuevo: TR-1099 Nuevo Certificado para Comercializar Bebidas Alcohólicas
+- Nuevo: TR-1100 Nuevo Certificado para Comercializar Productos Derivados del Tabaco
+- Nuevo: TR-1101 Renovación de Certificado para Comercializar Productos Farmacéuticos
+- Nuevo: TR-1102 Inscripción en el registro nacional de turismo: Servicios de hospitalidad, recreación, y espacios para eventos
+- Nuevo: TR-1103 Incorporación al Régimen de Zonas Libres (ZOLI) de Usuarias
+- Nuevo: TR-1104 Nuevo Certificado para Comercializar Productos Farmacéuticos
+- Nuevo: TR-1105 Modificación de Licencia Sanitaria de Transporte de Alimentos y Bebidas
+- Nuevo: TR-1107 Inscripción en el registro nacional de turismo: Prestadores de servicios de transporte y arrendadoras de vehículos
+- Nuevo: TR-1108 Prórroga de Informe de Clasificación por Riesgo Sanitario
+- Nuevo: TR-1109 Modificación de Informe de Clasificación por Riesgo Sanitario
+- Nuevo: TR-1110 Renovación de Licencia Sanitaria de Establecimiento para Alimentos y Bebidas
+- Nuevo: TR-1111 Nueva Licencia Sanitaria para Transporte de Dispositivos Médicos
+- Nuevo: TR-1112 Renovación de Certificado para Comercializar Bebidas Alcohólicas
+- Nuevo: TR-1114 Renovación de Licencia Sanitaria de Transporte de Alimentos y Bebidas
+- Nuevo: TR-1115 Renovación de Licencia Sanitaria para Transporte de Dispositivos Médicos
+- Nuevo: TR-1116 Renovación de Certificado para Comercializar Productos Derivados del Tabaco
+- Nuevo: TR-1117 Notificación de Suplementos Nutricionales
+- Nuevo: TR-1118 Preinscripción en el RTN de comerciante individual
+- Nuevo: TR-1119 Modificación de Licencia Sanitaria para Transporte de Dispositivos Médicos
+- Nuevo: TR-1120 Nueva Autorización de Informe de Exoneración de Registro Sanitario de Dispositivos de Médicos
+- Nuevo: TR-1121 Preinscripción en el RTN de Persona Jurídica
+- Nuevo: TR-1122 Inscripción en el registro nacional de turismo: Guías turísticos
+- Nuevo: TR-1123 Modificación de la Autorización de Importación de materia prima y aditivos alimentarios
+- Nuevo: TR-1124 Nuevo Registro Sanitario de Nuevos Suplementos Nutricionales
+- Nuevo: TR-1125 Renovación de Certificación de Suplementos Nutricionales
+- Nuevo: TR-1126 Modificación de Autorización de Informe de Exoneración de Registro Sanitario de Dispositivos de Médicos
+- Nuevo: TR-1127 Cancelación del Régimen de Zonas Libres (ZOLI) de Operadoras y Operadoras Usuarias
+- Nuevo: TR-1128 Cancelación del Régimen de Zonas Libres (ZOLI) de Usuarias
+- Nuevo: TR-1129 Constancia de beneficios de Regímenes Especiales (ZOLI y RIT)
+- Nuevo: TR-1130 Modificación al Régimen de Zonas Libres (ZOLI) de Operadoras y Operadoras Usuarias
+- Nuevo: TR-1131 Nueva Autorización para Importación de Productos para el Control de Calidad
+- Nuevo: TR-1132 Modificación al Régimen de Zonas Libres (ZOLI) de Usuarias
+- Nuevo: TR-1133 Renovación de Autorización para Importación de Productos para el Control de Calidad
+- Nuevo: TR-1134 Inscripción en el registro nacional de turismo: Operadoras de turismo receptivo y agencias de viaje
+- Nuevo: TR-1135 Modificación de Autorización para Importación de Productos para el Control de Calidad
+- Nuevo: TR-1136 Nueva Autorización de Dispositivos de Uso Exclusivo para Investigación y Forense
+- Nuevo: TR-1137 Renovación en el registro nacional de turismo: Servicios de hospitalidad, recreación, y espacios para eventos
+- Nuevo: TR-1138 Certificación o constancia de documentos emitidos por la SDE
+- Nuevo: TR-1139 Renovación de Autorización de Dispositivos de Uso Exclusivo para Investigación y Forense
+- Nuevo: TR-1140 Modificación de Autorización de Dispositivos de Uso Exclusivo para Investigación y Forense
+- Nuevo: TR-1141 Inscripción de empresas
+- Nuevo: TR-1142 Nuevo Certificado de Libre Venta de Alimentos y Bebidas
+- Nuevo: TR-1143 Modificación de Registro Sanitario de Suplementos Nutricionales
+- Nuevo: TR-1144 Solicitud de Liberación de Productos de Interés Sanitario
+- Nuevo: TR-1145 Solicitud de Fiscalización de sustancias Controladas y Control Especial
+- Nuevo: TR-1146 Solicitud de Liberación Con Compromiso de Destrucción
+- Nuevo: TR-1147 Emisión de constancia de solvencia
+- Nuevo: TR-1148 Verificación de Destrucción de Productos de Interés Sanitario
+- Nuevo: TR-1149 Solicitud de Orden de Inspección Sanitaria
+- Nuevo: TR-1150 Solicitud de Liberación Condicionada
+- Nuevo: TR-1151 Nueva Licencia Sanitaria para Establecimiento de Hospedaje o Centro Recreativo
+- Nuevo: TR-1152 Renovación de carnet de extranjería para menor
+- Nuevo: TR-1160 Renovación de Registro de Comprador Autorizado para la Manipulación de Sustancias Sujetas a Fiscalización Especial
+- Nuevo: TR-1161 Modificación de Registro de Comprador Autorizado para la Manipulación de Sustancias Sujetas a Fiscalización Especial
+
 ## 2026-11-09 14:32 · Prueba piloto
 
 - Nuevo: TR-142 Autenticas y Apostillas

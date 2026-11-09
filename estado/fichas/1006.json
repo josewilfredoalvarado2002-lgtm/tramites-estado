@@ -1,0 +1,342 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Director DGHB"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Inscripción de las personas naturales o jurídicas que se dedique al almacenamiento y/o abastecimiento de hidrocarburos, para uso propio o industrial en tanques y/o bombas de patio, cuya finalidad no es la comercialización."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Empresas o Industrias."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Tramite de inscripción para personas naturales o jurídicas que se dedique al almacenamiento y/o abastecimiento de hidrocarburos, para uso propio o industrial en tanques y/o bombas de patio, cuya finalidad no es la comercialización."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 1006,
+ "institucion": "Secretaría de Energía",
+ "modalidad": "Presencial",
+ "numero": "1006",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección General de Hidrocarburos y Biocombustibles."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Proporcionar documentación soporte conforme a requisitos."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Escrito de solicitud"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Escritura de constitución de sociedad o comerciante individual con sus modificaciones debidamente inscritas."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Poder del Representante Legal"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Documento Nacional de Identificación del Representante Legal."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Poder del apoderado legal"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Carné vigente del Apoderado Legal, emitido por el Colegio de Abogados de Honduras."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Registro Tributario Nacional de la persona Natural o Jurídica que solicita la inscripción."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Registro Tributario Nacional del Representante Legal."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de Solvencia vigente emitida por el Servicio de Administración de Rentas a favor del solicitante, vigente a la fecha de presentación de la solicitud."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Dirección exacta del establecimiento principal con croquis y georreferenciación (Universal Transverse Mercator UTM o latitud y longitud)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Dirección exacta de todos los establecimientos que opera la sociedad como propietario o arrendatario con croquis y georreferenciación (Universal Transverse Mercator UTM o latitud y longitud)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Escritura, contrato o documento que acredite la propiedad, arrendamiento o subarrendamiento donde opera u operará el establecimiento principal."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de Solvencia vigente emitida por la Procuraduría General de la República de Honduras."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Carta de intención y/o contrato de suministro, emitida por el proveedor de Hidrocarburos debidamente inscrito bajo las figuras de Mayorista y/o Revendedor ante esta Secretaría"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Declaración jurada (1. justificar la necesidad de operar de manera independiente a las estaciones de servicio ya establecidas; 2. Declarar que operan dentro de un predio o plantel de operación industrial, generación eléctrica, o dedicada al transporte debidamente inscrito; 3. Declarar los vehículos o maquinaria que consume el combustible; 4. Presentar un cuadro de consumo mensual proyectado para todo el año por tipo de combustible, capacidad de almacenamiento proyectado a 3 años.)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Recibo TGR con su comprobante de pago en concepto de Registro bajo la Figura de Tanque de Almacenamiento y/o Bomba de Patio. Institución Código 310 Secretaría de Energía, Rubro 12209 Otras Licencias, Monto L. 10,000.00."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Recibo TGR con su comprobante de pago en concepto de Emisión de Certificación. Institución Código 310 Secretaría de Energía, Rubro 12121 Emisión constancias, certificaciones, otros; Monto L. 200.00"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificado de Autenticidad de Fotocopias.(Incluir todos los documentos/requisitos que presente en Fotocopias)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificado de Autenticidad de Firmas. (Incluir todos los documentos/requisitos con firma original)."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa, M.D.C."
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Edificio Altamira, 500 metros antes del desvio a Valle de Angeles, anillo periferico."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2232-8500"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Secretaría de Energía/Dirección General de Hidrocarburos y Biocombustibles."
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificación de Resolución de Inscripción bajo la Figura de Bomba de Patio para Consumo Propio y/o; Depósitos o Tanques de Petróleo, Hidrocarburos Instalados en Cuerpos de Agua Aéreos y/o Soterrados para Consumo Propio o Industrial de Cualquier Capacidad en la Cadena de Comercialización de Hidrocarburos."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://sen.hn/tramites-sen/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sen.hn/tramites-sen/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Inscripción De La Sociedad Mercantil o Comerciante Individual En la Cadena De Comercialización De Hidrocarburos bajo La Figura De Bombas de Patio para Consumo Propio y/o; Depósitos o Tanques de Petróleo, Hidrocarburos Instalados en Cuerpos de Agua Aéreos y/o Soterrados para Consumo Propio o Industrial de Cualquier Capacidad."
+}

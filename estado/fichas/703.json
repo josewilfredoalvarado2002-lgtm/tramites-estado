@@ -1,0 +1,374 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Director (a) del DAI"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Conciliar extrajudicialmente entre arrendadores y arrendatarios."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Arrendadores y Arrendatarios."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "El proceso de atención de denuncias tiene como fin la celebración de audiencias, las cuales son programadas con las partes involucradas (Arrendador y Arrendatario), buscando en la resolución de los problemas enunciados la conciliación entre las partes en forma imparcial."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 703,
+ "institucion": "Secretaría de Gobernación, Justicia y Descentralización",
+ "modalidad": "Presencial",
+ "numero": "703",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Departamento Administrativo de Inquilinato"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Interponer Denuncia"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Departamento Administrativo de Inquilinato"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Emitir Auto de Admisión"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Departamento Administrativo de Inquilinato. (Inspectoría)"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Asignación de Inspector"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Departamento Administrativo de Inquilinato."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Celebración de Audiencia"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Departamento Administrativo de Inquilinato"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Recurso de Reposición"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Departamento Administrativo de Inquilinato"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Apelación"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637994442949053487.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637994442949053487.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Contrato de arrendamiento"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Copia DNI"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Recibo de pago de Alquiler."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Recibo de pago de Servicio"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Boulevard Juan Pablo, Centro Cívico Gubernamental \"José Cecilio del Valle\", Torre 2. Piso 9."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2242-8238"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina regional Tegucigalpa"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "San Pedro Sula"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio Suyapa, 16 avenida, séptima calle “A” una cuadra antes de la Panadería Moderna."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2558-4014"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Regional de San Pedro Sula"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "La Ceiba"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio El Centro, primera calle, edificio biblioteca Municipal Juan Ramon Molina, segunda planta."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "8886-7786"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Regional de la Ceiba"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Santa Rosa de Copan"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Calle Real Centenario Frente a Paqueo de Pizza Hut, casa color rosada de 2 plantas Santa Rosa Copan."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "3169-0174"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Regional Santa Rosa de Copán"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Acta de Compromiso"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Acta de Cierre Administrativo"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.sgjd.gob.hn/servicios-y-gestiones-web/requisitos/departamento-administrativo-inquilinato/1777-requisitos-para-interponer-denuncia/file",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.sgjd.gob.hn/servicios-y-gestiones-web/requisitos/departamento-administrativo-inquilinato/1777-requisitos-para-interponer-denuncia/file"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Atención de denuncias en materia de inquilinato"
+}

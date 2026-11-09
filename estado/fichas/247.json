@@ -1,0 +1,247 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Cónsul General, Cónsul y Vice Cónsul"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "El documento legal que da fe de la disolución de un matrimonio por sentencia judicial"
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Hondureño en el extranjero"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Es el documento emitido por el Registrador Civil del Registro Nacional de las Personas (RNP) de Honduras que finaliza la relación matrimonial. Contiene los nombres de los separados, lugar, fecha y está regido por el Código de Familia."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 247,
+ "institucion": "Secretaría de Relaciones Exteriores y Cooperación Internacional",
+ "modalidad": "Presencial",
+ "numero": "247",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficina Consular"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Agendar cita en la página: citaconsular.sreci.gob.hn"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficina Consular"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Presentar Registro en Honduras: Requisito Principal/Certificado de Divorcio original emitida por la Oficina Consular. Poder Especial otorgado al Apoderado Legal."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Ventanilla de Autenticas y Apostilla"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Autenticar la documentación en la Unidad de Autenticas. Tiempo del Tramite: Un día."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Corte Suprema de Justicia"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Presentar la documentación autenticada ante el Juzgado de la Familia quien hará reconocimiento y a su vez emitirá resolución para que el Registro Nacional de las Personas proceda con la inscripción del divorcio. Costo del Tramite: Arancel del Profesional del Derecho. Tiempo del Tramite: 90 a 120 días aproximadamente."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "cita consular en: http://citaconsular.sreci.gob.hn/citaconsular/pages/layout/CitaConsular.php"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Tarjeta de identidad o Pasaporte hondureño vigente de ambos divorciados (si uno de los divorciados es extranjero deberá presentar su Pasaporte vigente). Sentencia del divorcio original del país en donde ocurrió el divorcio. Comprobante de pago"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Uno o ambos divorciados deben acudir obligatoriamente a la Oficina Consular. Uno o ambos divorciados deberán realizar una Poder Especial en la Oficina Consular para que un Apoderado Legal en Honduras realice los trámites del reconocimiento de la sentencia emitido por el juzgado extranjero ante la Corte Suprema de Justicia y el Registro Nacional de las Personas."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "En donde se cuente oficina consular de Honduras"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Consular"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa M.D.C."
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Tegucigalpa, Honduras, Bulevar Kuwait, antigua casa presidencial, contiguo a la Corte Suprema de Justicia."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2236-0200, ext 3009"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Secretaria de Relaciones exteriores y cooperación internacional, en la sección de autenticas"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificado de Divorcio"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Aplicación",
+       "http://citaconsular.sreci.gob.hn/citaconsular/pages/layout/CitaConsular.php",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "http://citaconsular.sreci.gob.hn/citaconsular/pages/layout/CitaConsular.php"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Certificación de Divorcio"
+}

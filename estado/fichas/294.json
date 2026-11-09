@@ -1,0 +1,380 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Jefe del departamento de Registro de Balística"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Extender licencias de portación de armas para las personas jurídicas que utilizan armas permitidas en el país."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Personas Jurídicas, que utilizan armas permitidas en el país."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Al amparo de lo establecido en la LEY DE CONTROL DE ARMAS DE FUEGO, MUNICIONES EXPLOSIONES Y OTROS SIMILARES corresponde a la Secretaría de Estado en el Despacho de Seguridad efectuar el registro de armas en el cuál estarán depositadas las evidencias balísticas de todas las armas que circulen en el país, a tal efecto se extenderán licencias de portación de armas legales en el país, a las personas naturales y jurídicas."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 294,
+ "institucion": "Secretaría de Seguridad",
+ "modalidad": "Presencial",
+ "numero": "294",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría de Seguridad."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Haber obtenido la Licencia emitida por parte de la Secretaría de seguridad."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección Policial de Investigaciones"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Programar cita en el departamento de balística."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección Policial de Investigaciones, departamento de Balística."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Revisión de documentación correcta y completa, para creación de expediente y toma de fotografía."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección Policial de Investigaciones, departamento de Balística."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Recolección de muestra (Se realiza recolección de muestra consistente en disparo de las armas y toma de fotografías)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección Policial de Investigaciones, departamento de Balística."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Emisión y entrega del carnet"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Original y Copia del documento que acredite la personalidad jurídica"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Plan de Actividades que pretende realizar con el material autorizado."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de Antecedentes penales de los Integrantes del Directorio"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Indicación del lugar de guarda del material autorizado."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Copia y Original de un plan general de Seguridad del manejo y almacenamiento de los materiales controlados."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Crear un fondo de contingencia no menor al 1% de su planilla, o acreditar la contratación de un seguro"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Listado de personal a quien se asignará las armas (cada uno de ellos con todas las constancias y exámenes solicitados a de personas naturales)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Pago de TGR 1"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Estar habilitado para el registro de armas en la Dirección de Control de Empresas de Seguridad."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Licencia para operar en los Servicios de seguridad Privada original y copia"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Pago de impuesto municipal de cada arma de fuego."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Carnet de portación de armas original y copia (en caso de renovación)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Traspaso del arma autenticado con firma y huella del propietario anterior."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Permiso de operación extendido por la Alcaldía Municipal."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Copia del RTN de la empresa de seguridad."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Copia de recibo de pago de canon."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Dirección Policial de Investigaciones, oficina de Registro Balístico, a nivel nacional."
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Tegucigalpa, San Pedro Sula, La Ceiba, Santa Rosa de Copán y Choluteca, horario de atención 8:00 am - 4:00 pm lunes a viernes."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2236-1200"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Dirección Policial de Investigaciones, oficina de Registro Balístico, a nivel nacional."
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Permiso para portar armas"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://policianacional.gob.hn/requisitos-para-portar-armas/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://policianacional.gob.hn/requisitos-para-portar-armas/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Permiso para portación de armas (persona jurídica)"
+}

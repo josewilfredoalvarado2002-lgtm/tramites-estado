@@ -1,0 +1,220 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://www.sirrs.sieca.int/"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Director Unidad de Alimentos y Bebidas"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Facilitar la comercialización de productos que ya se comercializan en los países miembros de la RTCA"
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Distribuidores e Importadores"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Reconocer el registro sanitario de un producto fabricado en los países que forma parte de la RTCA, para que se puedan comercializar sus productos en nuestro país, respaldados por los estudios sanitarios de su país de origen. La vigencia del trámite esta sujeta a la del Registro Sanitario (por ejemplo, si al registro le quedan 2 años este reconocimiento es por ese tiempo, si le quedan 6 meses entonces esta sera la vigencia)."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 858,
+ "institucion": "Agencia de Regulación Sanitaria",
+ "modalidad": "En línea",
+ "numero": "858",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "La solicitud se debe ingresar a https://www.sirrs.sieca.int/"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637997987532722052.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637997987532722052.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Certificado Libre de Venta (CLV) del pais de origen del producto que se desea importar"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Cuota de Recuperación por servicios prestados por (L. 150.00 / por cada Producto que se desea reconocer)"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637997988953886585.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637997988953886585.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Licencia Sanitaria Vigente"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637997995031570032.PNG"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Usuario en el Sistema Regional SIRRS"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Comayagüela"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Calle los Alcaldes, Frente a City Mall, Antiguo Edificio de Migración."
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "ARSA"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Reconocimiento Mutuo"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://www.sirrs.sieca.int/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.sirrs.sieca.int/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Aplicación",
+       "https://arsa.gob.hn/alimentos-y-bebidas/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://arsa.gob.hn/alimentos-y-bebidas/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Reconocimiento Mutuo De Registro Sanitario / Alimentos y Bebidas"
+}

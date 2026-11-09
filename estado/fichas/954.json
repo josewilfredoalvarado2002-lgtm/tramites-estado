@@ -1,0 +1,205 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Oficial Técnico de Agricultura Orgánica"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Registrar los Organismos de Certificación de Productos Orgánicos sobre la producción orgánicos de producción vegetal y animal según el reglamento Técnico Centroamericano 67.06.74:16."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Sectores dedicados a la Agricultura y Ganadería"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Permite el registro de organismos de certificación de operadores orgánicos para dar garantía de sus productos."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 954,
+ "institucion": "Servicio Nacional de Sanidad e Inocuidad Agroalimentaria",
+ "modalidad": "Presencial",
+ "numero": "954",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Departamento de Agricultura Orgánica"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Hacer solicitud presencial en las oficinas de SENASA"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Departamento de Agricultura Orgánica"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Revisión técnica"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Departamento de Agricultura Orgánica"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Registro en base de datos"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638363239091548399.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638363239091548399.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Los requisitos de detallan en documento adjunto"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Loma linda norte, frente a la secretaria de la SAG."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2232-6213"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "SENASA"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificado de registro"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://senasa.gob.hn/agricultura+organica/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://senasa.gob.hn/agricultura+organica/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Solicitud Inicial del Registro de Organismo de Certificación"
+}

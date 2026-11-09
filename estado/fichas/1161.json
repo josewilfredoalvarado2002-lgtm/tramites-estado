@@ -1,0 +1,308 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://sigob.arsa.hn/ciudadano/"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Director de Productos Farmacéuticos"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Permitir que las entidades autorizadas actualicen su información registrada para seguir operando legalmente en la compra y manipulación de sustancias controladas, cumpliendo con los requisitos establecidos en la normativa vigente. Esto contribuye al control sanitario, la trazabilidad y el uso seguro de dichas sustancias, con el fin de prevenir desvíos y proteger la salud pública."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Representantes legales de personas naturales o jurídicas"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Es el proceso mediante el cual las personas naturales o jurídicas que ya cuentan con autorización vigente solicitan modificar o actualizar la información registrada como compradores autorizados para la manipulación de sustancias sujetas a fiscalización especial. Esto incluye cambios en el responsable técnico, dirección del establecimiento, listado de sustancias autorizadas, entre otros. El trámite garantiza que las actividades se realicen de forma legal, segura y conforme a la normativa nacional, asegurando el control, trazabilidad y uso seguro de las sustancias controladas para prevenir desvíos y proteger la salud pública."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 1161,
+ "institucion": "Agencia de Regulación Sanitaria",
+ "modalidad": "En línea",
+ "numero": "1161",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Acceder al portal SOL de ARSA: Ingresa al portal digital SOL de ARSA y busca el trámite que deseas realizar."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Registrarse o iniciar sesión: Si es tu primera vez, crea un usuario completando el formulario de registro y valida tu cuenta mediante el enlace enviado a tu correo electrónico. Si ya tienes usuario, inicia sesión con tu correo y contraseña."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Seleccionar el trámite: Elige el trámite correspondiente (por ejemplo, Renovación de Registro o Modificación de Registro) y haz clic en Iniciar."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Revisar requisitos: Verifica los requisitos y asegúrate de tener la documentación necesaria en formato digital."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Completar el formulario: Ingresa la información solicitada en el formulario del trámite."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Adjuntar documentos: Sube los documentos requeridos como identificación, carta poder o comprobantes."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Guardar y presentar la solicitud: Guarda los cambios y haz clic en Presentar para revisión, luego confirma el envío."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Monitorear el estado: Consulta el estado del trámite en el portal SOL y revisa tu correo electrónico para recibir notificaciones."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "9",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Descargar el documento: Una vez aprobado, descarga el documento desde la sección Documentos adjuntos."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Escritura de constitución de la sociedad o del comerciante individual, debidamente inscrita en el Registro Mercantil, en caso de sociedades mercantiles."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Poder notarial debidamente otorgado y autenticado, requerido cuando la solicitud sea presentada por un apoderado legal."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Carnet vigente de colegiación profesional, aplicable cuando la solicitud sea gestionada por un apoderado legal"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Fotografías del establecimiento internas y externas."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Coquis de establecimiento."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Documento que acredite el cambio."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Comprobante de pago de la cuota de recuperación, correspondiente a los servicios prestados."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Otros documentos que la ARSA considere."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Calle Los Alcaldes frente al City Mall, antiguo Local de Migración"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "+(504) 2270-6600"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Agencia de Regulación Sanitaria"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Autorización"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://sigob.arsa.hn/ciudadano/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sigob.arsa.hn/ciudadano/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Modificación de Registro de Comprador Autorizado para la Manipulación de Sustancias Sujetas a Fiscalización Especial"
+}

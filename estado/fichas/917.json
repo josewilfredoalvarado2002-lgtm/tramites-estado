@@ -1,0 +1,246 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Jefe de Registro de Beneficiario"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Tener control de los beneficiarios de Pago o Acreedores del Estado (Persona Jurídica) a través del registro en el Sistema SIAFI."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Persona Jurídica"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Permite tener registro y control financiero de los Beneficiarios de Pago o Acreedores del Estado (Persona Jurídica) mediante su registro en el Sistema Integrado de Administración Financiera SIAFI a través del cual se gestionan los pagos que efectúan las Instituciones del Estado en depósitos directos a la cuenta bancaria del beneficiario o acreedor correspondiente a pago."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 917,
+ "institucion": "Secretaría de Finanzas",
+ "modalidad": "Presencial",
+ "numero": "917",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Tesorería General de la República/ Registro de Beneficiario"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Presentarse en ventanilla de solicitudes en las Oficinas de la Secretaría de Finanzas con la documentación requerida"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Tesorería General de la República/ Registro de Beneficiario"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Una vez recibida la documentación en ventanilla, se proporciona una cita a través de un Tickect indicando la fecha de entregara su PIN SIAFI"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Tesorería General de la República/ Registro de Beneficiario"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "El Beneficiario se presenta a la ventanilla de entrega en las oficinas de la Secretaría de Finanzas, el día de la cita para la recepción y firma del PIN SIAFI"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Solicitud en papel membretado firmado y con sello de la empresa, por parte del Presidente del Consejo de Administración o el Gerente de la Empresa dirigida al Tesorero (a) General de la República, donde solicita su ingreso al Registro de Beneficiarios y anota un correo electrónico designado por su persona, el domicilio de la Empresa, teléfono y actividad que realiza"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Original y copia Legible de la Escritura de Constitución y sus modificaciones si las hubiera"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia Bancaria Original de cuenta en la que se acreditará el pago solicitado, dirigida al SIAFI (Vigente: no mayor a 2 meses de emitida)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Original y copia del RTN numérico de la Empresa"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Copia de DNI del Presidente del Consejo de Administración o Gerente de la Empresa que aparece en la Personería Jurídica"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "De no traer Escritura y RTN originales, para su cotejo deberán autenticarse las copias que presenten"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Avenida Cervantes, Barrio El Jazmín, Centro Histórico"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2222-8714"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Secretaría de Finanzas Edificio Principal. Dependencia de la TGR-Registro de Beneficiario"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de Registro de Beneficiario SIAFI"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.sefin.gob.hn/faq-items/donde-me-pueden-ayudar-con-temas-de-siafi/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.sefin.gob.hn/faq-items/donde-me-pueden-ayudar-con-temas-de-siafi/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Registro de Beneficiarios Inscritos en el Sistema Integrado de Administración Financiera (SIAFI), Persona Juridica"
+}

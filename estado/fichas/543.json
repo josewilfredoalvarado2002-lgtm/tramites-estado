@@ -1,0 +1,243 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Secretario General"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Obtención la Certificación de los Movimientos Migratorios"
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Todo persona natural nacional o extranjeros que requieran utilizar dicho trámite. (Trámite de residencia, Trámite para solicitud de visas, solicitudes en el Registro Nacional de las Personas, entre otros."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Solicitud de movimientos migratorios a toda persona natural para verificar las entradas y salidas del país"
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 543,
+ "institucion": "Instituto Nacional de Migración",
+ "modalidad": "Presencial",
+ "numero": "543",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Presentación de solicitud en ventanilla de Atención al Ciudadano"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Elaboración y firma de auto de remisión para la Gerencia Correspondiente"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Elaboración y firma de movimientos migratorios"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Entrega de movimientos migratorios"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Solicitud inicial"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Copia del pasaporte o Documento Nacional de Identificación"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Carta Poder si el trámite es mediante Apoderado Legal"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Pago correspondiente a la Certificación (L.200.00)"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Centro Cívico Gubernamental, Cuerpo Bajo C"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2232-7800"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina central"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificación de movimientos migratorios"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://inm.gob.hn/contactenos.html",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://inm.gob.hn/contactenos.html"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Solicitud de Movimientos Migratorios Persona Natural"
+}

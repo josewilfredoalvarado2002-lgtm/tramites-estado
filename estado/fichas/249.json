@@ -1,0 +1,390 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Oficina Administrativa del Derecho De Autor y de los Derechos Conexos"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Garantizar los derechos que le asisten a los autores, creadores, artistas y titulares."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Toda persona natural o jurídica."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Registro de obras con independencia del género o categorías como ser:",
+  "-Literarias (Obras de carácter escrito incluyendo el guion cinematográfico/audiovisual).",
+  "-Artística (Pinturas, esculturas, fotografías, dibujos, planos, croquis, mapas, grabados, litografías, arquitectura, geográficas, topográficas, bosquejos, o las ciencias).",
+  "-Musical (Cualquier tipo de género musical).",
+  "-Fonogramas",
+  "-Software (Programas de ordenador).",
+  "-Cinematográficas/Audiovisuales (Imágenes con sonidos)."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 249,
+ "institucion": "Instituto de la Propiedad",
+ "modalidad": "Presencial",
+ "numero": "249",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección General de Propiedad Intelectual"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Descargar el formulario de registro de obras desde la página web del Instituto de la Propiedad)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección General de Propiedad Intelectual"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Llenar el formulario usando el instructivo adjunto. (Los campos no pueden ser llenados desde el Internet)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección General de Propiedad Intelectual"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Descargar e imprimir formulario de registro obras, una vez que lo ha llenado desde su dispositvo."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "https://aplicaciones.sinap.hn/cas/"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Imprimir recibo de pago por registro de contrato desde la pagina web del Instituto de la Propiedad."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficinas del Instituto de la Propiedad / Dirección General de Propiedad Intelectual"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "5. Presentar la solicitud con los documentos requeridos (Acompañar 2 ejemplares de la obra, Carta Poder y Recibo de Pago). / **Cuando se trate de un software, de debe de acompañar el manual de usuario. / ** Si se tratase de una escultura se deberán acompañar fotografías de la parte frontal y lateral de la escultura. / **Nota: En caso de que el autor ceda sus derechos patrimoniales, deberá acompañar un documento privado con la auténtica de la respectiva firma."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficinas del Instituto de la Propiedad / Dirección General de Propiedad Intelectual"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "6. Esperar la emisión del certificado por parte del IP."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637992849509228012.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637992849509228012.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Formulario de Obras Literarias (Se registra todo lo escrito)."
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637992850086670627.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637992850086670627.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Formulario de Obras Artísticas"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637992850445439807.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637992850445439807.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Formulario de Obras Musicales"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637992850733742598.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637992850733742598.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Formulario de Fonograma"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637992851165297612.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637992851165297612.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Formulario de Software (Programa de Ordenador o Computadoras / Aplicaciones)."
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637992851534354941.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637992851534354941.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Formulario de Obras Cinematográficas / Audiovisuales."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "El registro debe hacerse a través de un profesional del derecho con carta de poder autenticada"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "En caso de transferencia de derechos patrimoniales presentar carta poder autenticada"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Centro Cívico Gubernamental, Primer Nivel, Cuerpo Bajo C."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "22428897"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Instituto de la Propiedad / Dirección General de Propiedad Intelectual"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificación"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.ip.gob.hn/direcciones/propiedad-intelectual/menu-propiedad-intelectual/derechos-de-autor",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.ip.gob.hn/direcciones/propiedad-intelectual/menu-propiedad-intelectual/derechos-de-autor"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Aplicación",
+       "https://aplicaciones.sinap.hn/cas/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://aplicaciones.sinap.hn/cas/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Registro de Obras (Literarias, Artística, Musicales, Fonogramas, Softwares, Cinematográficas/Audiovisuales)"
+}

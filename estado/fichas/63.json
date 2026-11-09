@@ -1,0 +1,361 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Gerente de Operaciones/Secretario General"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Regular el rubro de Transporte Publico y Especial de Carga General"
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "La renovación del Permiso de Explotación donde se autoriza la prestación del servicio de transporte terrestre conforme a Ley. El Certificado de Operación es el documento que acredita la autorización para explotar el Servicio. Todo esto incluye: a) Carga No Especializada, traslado de productos y mercancías que no requieran de un manejo especial y no representen una amenaza para la seguridad de las personas y los bienes. El servicio de transporte especial, es aquel que se presta mediante Permiso a aquellas personas naturales o jurídicas cuyo giro no es la prestación del servicio de transporte público, pero que tienen la necesidad de movilizar carga. El servicio de transporte publico de carga es el que tiene como servicio principal la movilización de carga."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Renovación del Permiso de Explotación y Certificado de Operación."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 63,
+ "institucion": "Instituto Hondureño de Transporte Terrestre",
+ "modalidad": "Presencial",
+ "numero": "63",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaria General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "El apoderado legal presenta la solicitud con todos sus requisitos a la plataforma en linea"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaria General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "La solicitud se revisa y se asigna a area de trabajo para secretaria general"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaria General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Secretaria General realiza una resolución favorable o un requerimiento para subsanar errores"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaria General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Notificación al concesionario"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Unidad de Cobranza"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Generacion de Aviso de cobro"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Gerencia de Operaciones"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Entrega del Permiso de Explotación o Certificado de Operación"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638766059578164754.png"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Solicitud o formulario presentada por el interesado (En el cual deberá otorgar poder a un profesional del derecho para continuar tramitando su solicitud) o a través de apoderado legal que acredite carta poder o fotocopia de escritura de poder que faculte gestiones administrativas, ambas debidamente autenticadas. Solicitud que deberá contener los datos de: teléfono móvil, jo y correo electrónico del solicitante, representante legal y del apoderado legal, así como de los demás requisitos establecidos en la ley de procedimiento administrativo."
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638766059795935352.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638766059795935352.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Fotocopias de documentos constitutivos del concesionario. a. Comerciante Individual; i. Documento Nacional de Identidad (DNI), RTN Numérico y Escritura de Constitución como Comerciante Individual b. Empresa Constituida como Sociedad Mercantil; i. Documento Nacional de Identidad (DNI) y RTN del representante legal, RTN de la empresa mercantil, Escritura de Constitución de Sociedad Mercantil. (Documento en el cual conste el poder otorgado por la sociedad mercantil a su representante legal) c. Cooperativa i. Documento Nacional de Identidad (DNI) y RTN del representante legal, RTN de la Cooperativa y resolución donde se otorga la personalidad jurídica de la cooperativa."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638766059891920078.png"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Fotocopia del comprobante Tasa Única Anual Vehicular (boleta de revisión) vigente de la unidad propuesta, Dicha unidad debe de cumplir con lo establecido en la ley de Transporte Terrestre de Honduras, artículo 23 referente a los límites de antigüedad de los vehículos que se autorizan para la prestación del servicio de transporte terrestre, así como lo dispuesto en el artículo 48 párrafo primero para la revisión físico-mecánico, además de lo establecido en el párrafo tercero reformado en el que se establece que la unidad que ingresa a brindar el servicio debe ser menos antigua y en mejores condiciones que la que sustituye."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638766060109378278.png"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Fotocopia del Permiso de Explotación y Certificado de Operación o Permiso Especial."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638766060429171815.png"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Cuando el propietario del vehículo es persona diferente a la del titular del certificado de operación deberá presentar contrato de arrendamiento con opción a compra (se exceptúa a las unidades que sean de propiedad de los socios de las cooperativas de transporte)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638763505776695239.png"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Guía de Revisión física, técnica y mecánica de la unidad de transporte terrestre (Formulario F-TT-03 correspondiente al tipo unidad)."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa, Francisco Morazán"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Boulevard Juan Pablo II, frente a INDUFESA"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2240-4400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Instituto Hondureño del Transporte Terrestre"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Permiso de Explotación"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificado de Operación (Renovado)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Permiso Especial"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://transporte.gob.hn/Contactanos.php",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://transporte.gob.hn/Contactanos.php"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "RENOVACIÓN PARA PERMISO DE EXPLOTACIÓN Y CERTIFICADO DE OPERACIÓN O PERMISO ESPECIAL, PARA EL SERVICIO DE TRANSPORTE PÚBLICO O ESPECIAL DE CARGA GENERAL."
+}

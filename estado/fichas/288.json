@@ -1,0 +1,220 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Gerente de Investigación y análisis"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Contribuir en materia migratoria con las políticas de seguridad interna y defensa nacional al cumplir la orden emitida por los juzgados de salir o entrar del país."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Contribuir a la seguridad del país al prohibir la salida o entrada de personas nacionales o extranjeras que por una orden del juzgado no lo pueden hacer"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Ingreso de Impedimentos de salida e ingreso al país."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 288,
+ "institucion": "Instituto Nacional de Migración",
+ "modalidad": "Presencial",
+ "numero": "288",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficial de atención al ciudadano en el INM"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Se recibe Oficio de alerta en la ventanilla de atención al ciudadano."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficial de Alerta."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Se le asigna a un Oficial de Alerta"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficial de Alerta."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Se ingresa en el modulo de Alertas con todos los datos."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficial de Alerta."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Se escanea la documentación para visualizar el documentos en todas los puntos Migratorios."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637995408720671555.JPG"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Oficio de la alerta emitido por el Juzgado"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "A nivel Nacional en las Delegaciones Interiores."
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Tegucigalpa, San Pedro Sula, La Ceiba y todos los departamentos donde hay Delegaciones interiores de Migración"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2242-8792"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Instituto Nacional de Migraci"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Oficio de alerta de juzgado o Corte Suprema"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://inm.gob.hn/contactenos.html",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://inm.gob.hn/contactenos.html"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Alertas Migratorias"
+}

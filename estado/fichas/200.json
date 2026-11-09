@@ -1,0 +1,452 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Registrador Nacional de Cooperativas"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Conceder a las Cooperativas la Personalidad Jurídica e inscribirlas, para que sean reconocidas legalmente, tal y como lo establece el Artículo 11 de la Ley de Cooperativas de Honduras."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Cooperativas de Honduras a Nivel Nacional (Ahorro y Crédito y Otros Sub Sectores) en formación"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Emisión de un documento legal de personalidad jurídica, para ofrecer servicios cooperativos ante terceros en cumplimiento a la Ley de Cooperativas de Honduras, promoviendo el mejoramiento económico y social del sector cooperativo."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 200,
+ "institucion": "Consejo Nacional Supervisor de Cooperativas",
+ "modalidad": "Presencial",
+ "numero": "200",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaria General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Presentar solicitud de Inscripción y Otorgamiento de Personalidad Jurídica junto a sus requisitos de forma digital en archivo pdf a excepción de los estatutos que deben ser en formato word por medio de la ventanilla electronica/física"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Registro Nacional de Cooperativas"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Asignación de la solicitud de personalidad jurídica y sus requisitos al Registro Nacional de Cooperativas"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Registro Nacional de Cooperativas"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Revisión y Analisis de los documentos presentados"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaria General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "En caso de tener que subsanar algún requisito, se le requerirá al solicitante por medio de la Secretaria General a traves de la ventanilla electronica/correo electrónico"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Registro Nacional de Cooperativas"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Emisión de certificación de Inscripción y Otorgamiento de personalidad jurídica, junto a la inscripción registral y estatutos autorizados e inscritos"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Registro Nacional de Cooperativas"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Entrega de los documentos finales en fisico al solicitante"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638768677659046458.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638768677659046458.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Solicitud de Personalidad Jurídica e inscripción en el Registro Nacional de Cooperativas presentada por medio de Apoderado Legal debidamente colegiado. Indicando generales de Ley completas y correo electrónico y Números de Teléfono"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638767712755133949.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638767712755133949.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Solicitar la búsqueda de nombres de Cooperativas ya existentes y cancelar su Constancia en el RNC"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638768677959615378.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638768677959615378.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Original y Fotocopia del Acta de Constitución con FIRMAS Y HUELLAS debidamente autenticadas."
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638768678141169187.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638768678141169187.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Lista de Afiliados (as), especificando nombre completo, domicilio, estado civil, ocupación, nacionalidad, capital suscrito, pagado y número de tarjeta de identidad"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638768678392147001.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638768678392147001.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Certificación del (la) secretario (a) de los nombres completos y direcciones de los directivos (as) electos, con sus cargos correspondientes."
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638768680351784315.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638768680351784315.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Presentar la propuesta de Estatutos en USB y/o Disco Compacto (CD). en formato word"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638768685640555128.jpeg"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Poder otorgado por el presidente/a de la Cooperativa al Apoderado Legal, debidamente autenticado"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638768729485118935.jpeg"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Constancia de Capacitación o Curso Básico de cooperativismo extendido por la CHC o alguna Federación de Cooperativas."
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638769407463231506.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638769407463231506.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Constancia de Haber Social extendida por la Institución bancaria o Cooperativa donde se encuentre el deposito."
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638768717702308096.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638768717702308096.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Cancelar la inscripción de la Personalidad Jurídica por una cantidad de Dos Mil lempiras (Lps. 2,000.00), más cuatro ciento Cincuenta lempiras (Lps. 450.00) de impresión de Estatutos. Si el Pago es mediante Cheque deberá hacerse a nombre de CONSUCOOP, o presentar copia del depósito Bancario a nombre de este."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Datos generales de la Cooperativa, número de teléfono, dirección exacta y correo electrónico, para futuras notificaciones. (OBLIGATORIO)"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638769392423654492.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638769392423654492.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Pago de timbres cooperativo de L50, (1) por cada documento presentado."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa M.D.C"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Boulevard Kuwait, Edificio San José, Contiguo a Comisión Nacional de los Derechos Humanos."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2235-9281, 2235-9279, 2235-9275 y 2235-9276"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Principal CONSUCOOP"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "certificación de Inscripción y Otorgamiento de personalidad jurídica, junto a la inscripción registral y estatutos autorizados e inscritos"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://consucoop.hn/requisitos/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://consucoop.hn/requisitos/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Inscripción de Cooperativas y Otorgamiento de Personalidad Juridica"
+}

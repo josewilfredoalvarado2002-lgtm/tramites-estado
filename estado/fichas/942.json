@@ -1,0 +1,298 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://ger.senasa.gob.hn/Identity/Account/Register?returnUrl=/authentication/login"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Oficial de Registro y Fiscalización de Plaguicidas"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Extender certificado de registro que garantice que el producto es optimo a la comercializacion."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Sectores dedicados a la Agricultura y la Industria Agropecuaria."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "El Certificado de Registro de Plaguicidas Sintéticos utilizados para la agricultura e industria agropecuaria, garantiza las condiciones óptimas de los productos para su comercialización."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 942,
+ "institucion": "Servicio Nacional de Sanidad e Inocuidad Agroalimentaria",
+ "modalidad": "En línea",
+ "numero": "942",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Sistema GER en linea"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Hacer solicitud en línea con documentación adjunta"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Sistema GER en linea"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Asignación del expediente"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Departamento legal"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Revisión legal de expediente"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Sistema de Pagos TGR-1: https://sistemadepagostgr1.senasa.gob.hn/#/"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Para poder registrarte en el sistemas de pagos en línea, pulsar el botón Más Información, ir al enlace Aplicación y seguir las instrucciones de registro, si ya tienes registro solo debes iniciar sesión. (Ver video tutorial al pulsar el botón Más Información, ir al enlace Informativo)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Sistema de Pagos TGR-1: https://sistemadepagostgr1.senasa.gob.hn/#/"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Puedes generar tu recibo de pago TGR-1 sin registro al pulsar el botón Más Información, ir al enlace Aplicación y completar la información solicitada. (Ver video tutorial al pulsar el botón Más Información, ir al enlace Informativo)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Sistema GER en linea"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Se otorga Certificado de Registro"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638363255609448441.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638363255609448441.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Los requisitos se detallan en documento adjunto"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Loma linda norte, frente a la secretaria de la SAG."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2232-6213"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "SENASA"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificado de registro"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://ger.senasa.gob.hn/Identity/Account/Register?returnUrl=/authentication/login",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://ger.senasa.gob.hn/Identity/Account/Register?returnUrl=/authentication/login"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Aplicación",
+       "https://sistemadepagostgr1.senasa.gob.hn/#/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sistemadepagostgr1.senasa.gob.hn/#/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.youtube.com/watch?v=5-t-RvGwn34",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.youtube.com/watch?v=5-t-RvGwn34"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.youtube.com/watch?v=eOKwQWXl6G0&t=1s",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.youtube.com/watch?v=eOKwQWXl6G0&t=1s"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Registro de Plaguicida Sintetico"
+}

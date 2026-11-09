@@ -1,0 +1,190 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Dirección de la Biblioteca Nacional Juan Ramón Molina"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Brindar servicios de información a la población general sobre la documentación literaria y patrimonial resguardada en la institución."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Población general"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  ": El servicio que brinda la Biblioteca Nacional es la entrega de información literaria, e información documental patrimonial que se encuentra dentro de las diferentes salas de la Biblioteca Nacional; dicha información es utilizada por la población para investigaciones académicas, investigaciones generales, gusto de índole personal. La información se encuentra dividida en las diferentes colecciones: colección hondureña, colección extranjera, colección infantil, fondo antiguo"
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 521,
+ "institucion": "Secretaría de las Culturas, las Artes y los Patrimonios de los Pueblos de Honduras",
+ "modalidad": "Presencial",
+ "numero": "521",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Biblioteca Nacional"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "1. El Ciudadano/a llega a solicitar información"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Biblioteca Nacional"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "2. Se realiza la búsqueda de la información solicitad por el ciudadano/a"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Biblioteca Nacional"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "3. Entrega de información al ciudadano/a"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Llenado de Solicitud"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Avenida cervantes, centro de Tegucigalpa"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Biblioteca Nacional"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "El ciudadano/a encuentra la información solicitada"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://secapph.gob.hn/contacto-secapph",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://secapph.gob.hn/contacto-secapph"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Solicitud de información en la Biblioteca Nacional Juan Ramón"
+}

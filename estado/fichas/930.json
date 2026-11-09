@@ -1,0 +1,687 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://sse.senprende.hn/auth/login"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Sub directora de Formalización"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Otorgar la Personería Jurídica a las empresas del Sector Social de la Economía"
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Todas las empresas del sector social de la economía, para la formalización de Cajas Rurales de Ahorro y Crédito, Cajas de Ahorro y Crédito, Empresas de Servicios Múltiples y Asociaciones."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Mediante la plataforma SSE, un apoderado legal en representación de una caja rural, solicita la inscripción de la caja rural, el representante legal, registra en la plataforma la denominación de la caja, los miembros de esta con la identificación de cada uno, además de registrar las juntas directivas y junta fiscalizadora, seguir los pasos que indica la aplicación hasta obtener la personería juridica."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 930,
+ "institucion": "Servicio Nacional de Emprendimiento y de Pequeños Negocios",
+ "modalidad": "En línea",
+ "numero": "930",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Sub dirección de Formalización"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Creacion de usuario y contraseña del apoderado legal"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Sistema SSE"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Ingreso de datos de usuarios en plataforma"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Sistema SSE"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Escaneo de documentos de la solicitud de otorgamiento de personeria juridica"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría Genera"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Remision de solicitud a secretaria general para asignacion de expediente y auto de impulso adminitrativo"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Formalización"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Recepcion de solicitud por parte de la subdireccion de formalizacion por parte de secretaria general para analisis ya sea favorable o no favorable"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Formalización"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Si no es favorable se realiza requerimiento y se envia correo electrónico al usuario junto con la notificación de secretaria general para que subsane"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Formalización"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Si el apoderado legal subsana se remite la solicitud a la subdirrccion de formalización para que nuevamente se pronuncie con análisis favorable o no favorable"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Formalización"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Si procede se realiza dictamen tecnico-legal favorable y resolucion"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "9",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría Genera"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Se notifica la resolución por parte de secretaria general al usuario a través de correo electrónico"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "10",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Formalización"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "El usuario puede renunciar al termino para reclamar la Certificación de la personería jurídica o dejar pasar los 10 días hábiles para poder retirarla"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "11",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría Genera"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Si renuncia el usuario o si vence el plazo secretaria general remite nuevamente el expediente con la certificacion respectiva para que formalización realice la inscripción en tomo y folio de la personería jurídica"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "12",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Sub dirección de Formalización"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Inscrita la personería jurídica en tomo y folio subdirección de formalización realiza la generación de la constancias solicitadas"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "13",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Sub dirección de Formalización"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Al estar todos los documentos firmados el usuario de manera presencial debe notificar en las oficinas de SENPRENDE quien es la persona encargada de la custodia de los expedientes y entrega la documentación original para que le sea entregada la resolución y se realice la aprobación del acta de constitución, estatutos y libros administrativos"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638266592608216553.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638266592608216553.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Carta Poder"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638266600582134450.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638266600582134450.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Certificación de actas de constitución de una asociación de Producción"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638266600997322985.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638266600997322985.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Certificacion de Acta de Constitucion de una Caja de Ahorro"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638266601248981609.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638266601248981609.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Certificación de Acta de Constitución de una Empresa de Servicios Múltiples"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638266602978345094.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638266602978345094.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Convocatoria Asamblea General Extraordinaria"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638266603437409396.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638266603437409396.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Convocatoria Asamblea General Ordinaria"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638266603681647908.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638266603681647908.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Declaración Jurada"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638266603983254190.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638266603983254190.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Listado de Asistencia a Asamblea Constitutiva"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638266604231928128.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638266604231928128.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Listado de Asistencia a Asamblea General Extraordinaria"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638266604468024402.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638266604468024402.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Listado de Asistencia a Asamblea General Ordinaria"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638266666037905613.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638266666037905613.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Punto de Acta Asamblea General Extraordinaria"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638266666900178637.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638266666900178637.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Punto de Acta Asamblea General Ordinaria"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638266667189545038.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638266667189545038.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Formatos estatus de asociación"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638266667658052493.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638266667658052493.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Estatutos de Caja o Asociación"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638266668027352652.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638266668027352652.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Estatutos de Empresa"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Centro Cívico Gubernamental, torre 2, piso 12"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2242-8101, 2242-8102, 2242-8104, 2242-8105, 2242-8106"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "SENPRENDE"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificado de personería jurídica"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de inscripcion de cuerpos directivos y fiscalizadores"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de de registro de socios vigentes"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de registro de personería jurídica"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://sse.senprende.hn",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sse.senprende.hn"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://sse.senprende.hn/auth/login",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sse.senprende.hn/auth/login"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Formalización de Cajas Rurales de Ahorro y Crédito, Cajas de Ahorro y Crédito, Empresas de Servicios Múltiples y Asociaciones"
+}

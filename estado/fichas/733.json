@@ -1,0 +1,417 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Secretario General"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Es el trámite que se lleva a cabo en la Secretaría General en los despachos de la Secretaría de Gobernación, Justicia y Descentralización, con el objeto de otorgar la naturalización legal de extranjeros en el país."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Extranjeros que residen en el país"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Trámite para otorgar la naturalización legal de extranjeros en el país."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 733,
+ "institucion": "Secretaría de Gobernación, Justicia y Descentralización",
+ "modalidad": "Presencial",
+ "numero": "733",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaria General (Unidad de Atención al Ciudadano)."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Recepción de documentación."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaria General (Unidad de Atención al Ciudadano)."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Estructurar expediente."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaria General (Unidad de Atención al Ciudadano)."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Asignación de expediente."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaria General (Unidad de Atención al Ciudadano)."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Resolución Administrativa."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaria General (Unidad de Atención al Ciudadano)."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Culminación Resolución Administrativa."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaria General (Unidad de Atención al Ciudadano)."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Digitalización de Resolución."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Presentar solicitud de naturalización se ante la Secretaría General de la Secretaría de Gobernación, Justicia y Descentralización."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Carta Poder autenticada por Notario expresando las generales del apoderado legal, las facultades con las cuales se le inviste, su dirección y número telefónico, fax o correo electrónico, en su caso"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Copia de la primera página del pasaporte autenticada por notario."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Fotografía reciente del solicitante de seis (6) centímetros de alto por cinco (5) centímetros de ancho, tomada de frente, consignando en el reverso el nombre del titular"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificación original de nacimiento del solicitante debidamente legalizado para surtir efecto legal en Honduras."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Consignar en la solicitud el número y fecha de la resolución de residencia o del permiso especial de permanencia y copia de los mismos."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificación original de inscripción en el Registro Nacional de Extranjeros."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de no haber cometido violaciones a la Ley de Migración y Extranjería y el presente Reglamento."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificación de movimiento migratorio extendida por el Instituto Nacional de Migración y Extranjería."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificación Médica."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia original de no tener denuncias, extendida por la Dirección Policial de Investigación, DPI."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancias originales de los juzgados de sus domicilios en Honduras de no tener antecedentes penales."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Acreditar que posee patrimonio, profesión, oficio, actividad o industria lícitos, que le permitan al solicitante vivir independientemente, o que depende económicamente de su cónyuge o de sus padres."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Declaración jurada en los términos referidos en el artículo 64 de la Ley de Migración y Extranjería, debiéndose autenticar la firma del declarante por Notario."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancias actuales de solvencia de impuestos municipales e impuesto sobre la renta."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de solvencia del IHSS e INFOP en caso de ser propietario de empresas o negocios."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Acreditar tarifa establecida en el Art. 126 del Reglamento de Ley de Migración y Extranjería."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Timbre de contratación según nacionalidad."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa."
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Centro Cívico Gubernamental."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2242-8236"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Central de Tegucigalpa."
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificación de Naturalización por tiempo de Residir."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.sgjd.gob.hn/servicios-y-gestiones-web/requisitos/servicios-de-atencion-al-ciudadano/extranjeria",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.sgjd.gob.hn/servicios-y-gestiones-web/requisitos/servicios-de-atencion-al-ciudadano/extranjeria"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Naturalización por tiempo de residir."
+}

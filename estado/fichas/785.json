@@ -1,0 +1,402 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Secretario de Estado en Despacho de Defensa Nacional."
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Controlar el uso de explosivos industriales autorizados a las empresas solicitantes según la Ley de Control de Armas de Fuego, Municiones, Explosivos y Materiales Relacionados, garantizando que las mismas cumplan con los mecanismos de control establecidos."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Empresas dedicadas a la explotación geológica, minera, construcción, demolición y otras similares."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Licencias para la adquisición, uso y manejo de explosivos industriales a empresas dedicadas a la explotación geológica, minera, construcción, demolición y otras similares."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 785,
+ "institucion": "Secretaría de Defensa Nacional",
+ "modalidad": "Presencial",
+ "numero": "785",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Sección de atención al ciudadano de la Secretaría de Defensa Nacional, ubicada en el Centro Cívico Gubernamental Blvd. Juan Pablo II, Torre número 2 planta baja."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Recepción de solicitud y documentación soporte."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "La Secretaría General elabora el expediente y asigna un número correlativo, revisa que el expediente contenga los documentos requeridos, en caso de contener los requisitos, elabora auto de admisión y procede a remitir el expediente a las oficinas involucradas para realizar inspección y emisión de opinión legal y técnica correspondiente, si no cumple con los requisitos se elabora un Auto de Previo y se notifica al Apoderado Legal para subsanar."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficinas involucradas"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Completados los requisitos las oficinas involucradas envían los dictámenes legales y técnicos a Secretaría General, si el dictamen es favorable, se emite resolución declarando con lugar la solicitud, caso contrario se emite resolución declarando sin lugar la solicitud."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Se notifica al Apoderado Legal la Resolución para que retire la Autorización."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637998918644230755.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637998918644230755.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Solicitud de autorización de compra local y directa, traslado, almacenaje, manipuleo y uso de material explosivo industrial dirigida al Secretario de Estado en el Despacho de Defensa Nacional."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Carta Poder o Poder General debidamente autenticado."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Factura proforma original de la compra del material explosivo emitido por La Armería."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Carta porte emitida por La Armería (descripción detallada de los vehículos y conductores que transportarán el material explosivo)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Fotocopia autenticada de la escritura de constitución de la empresa."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Fotocopia autenticada del documento nacional de identificación o pasaporte del Representante Legal de la empresa, así como la acreditación de su representación."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Fotocopia autenticada del Registro Tributario Nacional de la empresa y de su Representante Legal."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Original de constancia de antecedentes penales y policiales del Representante Legal de la empresa."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Fotocopia autenticada del permiso de operación vigente de la empresa."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Fotocopia autenticada de Licencia Ambiental."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Fotocopia autenticada de los documentos que acrediten el propósito de la compra y aquellos que justifiquen el uso de los explosivos."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Fotocopia autenticada de póliza de seguro colectivo de vida a favor de los empleados."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Fotocopia autenticada de póliza de seguro médico hospitalario a favor de los empleados de la empresa."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Fotocopia autenticada de póliza de seguro con cobertura de daños a terceros en su persona y bienes."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Copia debidamente autenticada del listado del personal debidamente capacitado que manipulará los explosivos (Por categoría)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Plan de consumo de explosivos autorizado por el encargado de la obra."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Plan de seguridad y contingencia autorizado por el cuerpo de bomberos."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Recibo de pago de ingresos corrientes (TGR-1), debiendo colocar en la casilla respectiva Secretaría de Defensa Nacional (12121), efectuando el pago según lo establecido el artículo 103 de la Ley de Control de Armas de Fuego, Municiones, Explosivos y Materiales Relacionados."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Copia autenticada de carné de Colegio de Abogados de Honduras."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa, Francisco Morazán, Honduras, Centro América."
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Centro Cívico Gubernamental José Cecilio del Valle, Blvd. Juan Pablo II, intersección con calle República de Corea. Torre número 2, planta baja."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "504-2242-7950, 504-2242-7951"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Sección de atención al ciudadano de Secretaría de Defensa Nacional."
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Autorización de Resolución"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://sedena.gob.hn/tramites-servicios",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sedena.gob.hn/tramites-servicios"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Requisitos para autorización de compra local y directa, traslado, almacenaje, manipuleo y uso de material explosivo industrial"
+}

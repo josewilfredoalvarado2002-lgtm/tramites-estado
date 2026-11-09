@@ -1,0 +1,294 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Secretario (a) General"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "-"
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Personas noturales o jurídicas"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Es una forma particular de servicios de radiocomunicaciones que tiene por objeto la instrucción individual, la intercomunicación y los estudios técnicos efectuados por aficionados; esto es, por personas debidamente autorizadas que se interesan en la radiotécnica con carácter exclusivamente personal y sin fines de lucro."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 1007,
+ "institucion": "Comisión Nacional de Telecomunicaciones",
+ "modalidad": "Presencial",
+ "numero": "1007",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Unidad de Atención al Ciudadano"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Recepción y revisión de requisitos"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección de Gestión del Espectro Radioeléctrico"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Análisis técnico"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Elaboración de licencia"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Presidencia CONATEL"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Autorización de licencia"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Refrendo licencia"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Unidad de Atención al Ciudadano"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Entrega de licencia"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638777945832629369.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638777945832629369.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Solicitud de servicio"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638777947497938196.doc"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638777947497938196.doc"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Aplicación servicio radioaficionados"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638778850640517060.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638778850640517060.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Requisítos legales para licencias del servicio radioaficionados"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Comayagüela"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Edificio CONATEL, 6ta. Ave. S.O., colonia Modelo, Comayagüela, M.D.C."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2232-9600"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Edificio CONATEL"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Licencia de Radioaficionado"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.conatel.gob.hn/formas-y-requisitos/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.conatel.gob.hn/formas-y-requisitos/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Servicio de Radioaficionados"
+}

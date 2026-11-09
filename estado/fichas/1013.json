@@ -1,0 +1,330 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Secretario (a) General"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Emitir la autorización de Inscripción para operar legalmente de acuerdo a la Ley Marco del Sector de Telecomunicaciones y su Reglamento."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Persona natural o jurídica legalmente constituida"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Es un servicio que permite asistencia relacionada entre otros, con el suministro de información comercial, de promoción y venta o técnica sobre productos y/o servicios, recepción de pedidos, atención de reclamos, reservaciones y/o confirmaciones, saldos de cuentas, telemercadeo y cualquier otra actividad análoga."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 1013,
+ "institucion": "Comisión Nacional de Telecomunicaciones",
+ "modalidad": "Presencial",
+ "numero": "1013",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Unidad de Atención al Ciudadano"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Recepción y revisión de requisitos"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Admisión de solicitud"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección de Servicios de Telecomunicaciones"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Análisis técnico"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Elaboración de inscripción"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Presidencia CONATEL"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Autorización de inscripción"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Refrendo inscripción"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Unidad de Atención al Ciudadano"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Entrega de inscripción"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638777566750409062.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638777566750409062.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Solicitud de servicio"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638777566942757467.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638777566942757467.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Clasificación servicios de telecomunicaciones"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638777567135482124.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638777567135482124.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Aplicación centro de atención de llamadas"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638778851778990674.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638778851778990674.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Requisítos legales para inscripción centro de atención de llamadas"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Comayagüela"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Edificio CONATEL, 6ta. Ave. S.O., colonia Modelo, Comayagüela, M.D.C."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2232-9600"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Edificio CONATEL"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Inscripción de Centro de Atención de Llamadas"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.conatel.gob.hn/formas-y-requisitos/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.conatel.gob.hn/formas-y-requisitos/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Inscripción Centro de Atención de Llamadas"
+}

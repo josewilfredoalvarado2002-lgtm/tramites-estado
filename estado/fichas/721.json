@@ -1,0 +1,535 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Asesor Legal-SG"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "a. Cumplir con el mandato constitucional de las Fuerzas Armadas",
+    "b. Coadyuvar la seguridad interior del Estado",
+    "c. Asegurar el manejo correcto del material explosivo a fin de evitar daños a las personas y el medio ambiente",
+    "d. Mantener control y base de datos de personal experto en explosivos."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "a. Personas naturales con las competencias en el manejo y uso de explosivos industriales que de acuerdo con las capacidades y especialidad del solicitante se otorga en las categorías: “A”, “B” y “C”"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Autorizaciones otorgadas con relación a la necesidad de solicitudes presentadas ante la Secretaria de Estado en el Despacho de Defensa Nacional por parte de las personas jurídicas o naturales que se les otorga autorización para el manejo de explosivos comerciales y materiales relacionados, dedicadas a la minería construcción, canteras, carreteras y otros afines."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 721,
+ "institucion": "Secretaría de Defensa Nacional",
+ "modalidad": "Presencial",
+ "numero": "721",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Sección de Atención al Ciudadano-SEDENA"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Recepción de Solicitud"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Asignación de Trabajo"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Providencia de Admisión"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Remisión a unidad técnica para Dictamen"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Evaluación de Solicitante"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Emisión de Dictamen Técnico"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Resolución"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Firma Secretaria General"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "9",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Sub Despacho"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Firma Sub Secretario de Estado"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "10",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Notificación de Resolución"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "11",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Constancia de Notificación"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "1. Empresa"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "2. Asunto"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "3. Número de Expediente"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "4. Fecha de entrada"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "5. Apoderado legal"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "6. Identificación"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "7. Solicitud dirigida al Señor Secretario de Estado en el Despacho de Defensa Nacional."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "8. Carta poder o Poder General (poder de representación debidamente autenticado)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "9. Copia de documento nacional de identificación del solicitante."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "10. Copia de Registro Tributario Nacional del solicitante."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "11. Fotografías tamaño carné. (2 fotografías)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "12. Constancia laboral emitida por la empresa solicitante."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "13. Constancia de antecedentes penales."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "14. Constancia de antecedentes policiales."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "15. Examen psicológico."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "16. Exámenes toxicológicos"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "17. Certificaciones de preparación académica en uso, manipuleo, transporte, almacenamiento, y plantilla de malla de voladuras."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "18. Copia de carné de colegiación del Apoderado Legal."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "19. Recibo de pago de ingresos corrientes (TGR-1), debiendo colocar en la casilla respectiva Secretaría de Defensa Nacional (12121) y efectuar el pago correspondiente según lo establecido en el artículo 103 de la Ley de control de Armas de fuego, municiones."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "20. Realizar presentación para evaluación, que demuestre conocimiento en temas de explosivos de acuerdo con la categoría solicitada."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "21. Constancia de experiencia laboral en el uso, manejo, transporte y almacenamiento de trabajo de campo de empresa donde se haya desempeñado anteriormente."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa, Francisco Morazán, Honduras, Centro América"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Centro Cívico Gubernamental José Cecilio del Valle, Blvd. Juan Pablo II, intersección con calle República de Corea. Torre número 2, planta baja"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "504-2242-7950, 504-2242-7951"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Sección de atención al ciudadano de la Secretaría de Defensa Nacional"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Autorización de Resolución."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://sedena.gob.hn/tramites-servicios",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sedena.gob.hn/tramites-servicios"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Licencia de experto en explosivos"
+}

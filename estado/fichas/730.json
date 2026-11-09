@@ -1,0 +1,228 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Director(a) de la Comisión"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Elaborar el mapa de colindancia que trazará la línea jurisdiccional correspondiente al municipio."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Alcaldías y pobladores."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Revisar y analizar documentación de respaldo y datos de la inspección de campo para conformar el dictamen técnico y el mapa correspondiente, en coordinación con el Instituto de la Propiedad, Instituto Nacional Agrario."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 730,
+ "institucion": "Secretaría de Gobernación, Justicia y Descentralización",
+ "modalidad": "Presencial",
+ "numero": "730",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Comisión de Delimitación Territorial."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Recepción de la solicitud de la Municipalidad interesada."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Comisión de Delimitación Territorial"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Realización de inspección in situ"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Comisión de Delimitación Territorial"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Elaboración del dictamen técnico y mapa de colindancia."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Comisión de Delimitación Territorial"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Remisión de Dictamen técnico y mapa de colindancia a Secretaria General de la SGJD."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificación de acuerdo de elección, o carta poder, respectivamente."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificación de Acta de la Corporación Municipal en que se autorizo al Alcalde Municipal, para suscribir el acuerdo de solución de conflicto."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificación del acta final de la sesión especial de la corporación sobre el resultado del plebiscito"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Titutos de tierras, certificaciones de acuerdos ejecutivos o de Decretos Legislativos, relacionados con creación del municipio, mapas y cualesquiera otros documentos fehacientes sobre el origen del municipio."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Boulevard Juan Pablo, Centro Cívico Gubernamental \"José Cecilio del Valle\", Torre 2."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "22428161"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina regional Tegucigalpa"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Dictamen Técnico y mapa de colindancia."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "enlaces": [],
+    "lineas": [
+     "No hay enlaces registrados",
+     "No se han agregado enlaces adicionales para este trámite"
+    ],
+    "tipo": "texto"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Dictamen técnico y mapa correspondiente al municipio y sus colindantes."
+}

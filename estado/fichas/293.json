@@ -1,0 +1,345 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://alam.inm.gob.hn/appALAMcliente"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Gerente de Extranjería"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Legalizar la estadía de los extranjeros del país, mediante la renovación del carné de residentes."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Extranjeros residentes o con permiso especial de permanencia."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "La renovación de carné es el proceso que realiza un extranjero Residente o con Permiso Especial de Permanencia mediante una solicitud por escrito en la Gerencia de Extranjería."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 293,
+ "institucion": "Instituto Nacional de Migración",
+ "modalidad": "En línea",
+ "numero": "293",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Usuario"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Crear usuario en ALAM y completar la solicitud"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Gerencia de Extranjería"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Recibir y verificar documentación del extranjero, enviar correo de confirmación de aprobado o falta de documentosdatos para renovación"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Gerencia de Extranjería"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Impresión de carné de extranjero residente"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Gerencia de Extranjería"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Entrega de carné de extranjero residente"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637997852777817736.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637997852777817736.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Formulario de solicitud de renovación"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637997854837417327.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637997854837417327.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Carné de residente anterior"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Recibo TGR-1 (pagado). Para generar tu recibo TGR-1 pulsar el botón Más Información e ir al enlace Aplicación"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Centro Cívico gubernamental, cuerpo bajo c"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2232-7800"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Central de extranjería"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "San Pedro Sula"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Colonia universidad, boulevard Roberto Micheletti a 30 metros del gran Bazar"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2232-7800"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Regional Extranjería"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "La Ceiba"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Centro comercial Uniplaza, frente a hospital Dantony"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2232-7800"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Regional Extranjería"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Roatán"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Roatan Islas de la Bahia, Coxen Hole, edifico plaza mar 2do Nivel"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2232-7800"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Regional Extranjería"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Carné de residente para permanecer en el país"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://alam.inm.gob.hn/appALAMcliente",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://alam.inm.gob.hn/appALAMcliente"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Aplicación",
+       "https://tgr1.sefin.gob.hn/tgr1/tgr",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://tgr1.sefin.gob.hn/tgr1/tgr"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Renovación de Carné de Extranjero Residente"
+}

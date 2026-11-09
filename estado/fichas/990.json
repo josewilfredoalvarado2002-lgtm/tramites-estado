@@ -1,0 +1,296 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Registrador Nacional de Cooperativas"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Legalizar y adecuar el Estatuto de la Cooperativa en cumplimiento a los Acuerdos tomados en Asamblea General Extraordinaria o en cumplimiento a requerimientos normativos en CONSUCOOP, fundamentado en Articulo 24-A, Literal A)."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Cooperativas a Nivel Nacional"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Emisión de un documento legal de la inscripción de reforma de estatuto para dar cumplimiento a las modificaciones realizadas en la Ley de Cooperativas de Honduras, su reglamento y/o normativas emitidas por el Consejo Nacional Supervisor de Cooperativas."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 990,
+ "institucion": "Consejo Nacional Supervisor de Cooperativas",
+ "modalidad": "Presencial",
+ "numero": "990",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaria General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Presentar la Solicitud Inscripción de Reforma de Estatutos, a través de la ventanilla electrónica/físico."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Registro Nacional de Cooperativas"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Remisión de solicitud de Inscripción de la Reforma de Estatutos y adjuntar los requisitos"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Registro Nacional de Cooperativas"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Subsanación de requisitos si es necesario."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Registro Nacional de Cooperativas"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Emisión de la Certificación de Inscripción de la Reforma de Estatutos."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Registro Nacional de Cooperativas"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Entrega de la Certificación de Inscripción de Reforma de Estatutos."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638769339313531895.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638769339313531895.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Solicitud firmada por el Representante Legal, o Apoderado Legal (en caso de ser mediante Apoderado Legal se deberá de acompañar poder que acredite su condición como tal)"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638769339627448592.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638769339627448592.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Certificación del punto de acta de la Asamblea General Extraordinaria, donde aprobaron la reforma y detallar los artículos reformados."
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638769339945633476.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638769339945633476.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "CD/USB con el proyecto de Estatuto, señalando las modificaciones, el proyecto de estatuto deberá de venir de forma ordenada, sin cuadros insertos."
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638769340737630722.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638769340737630722.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Pago de L.1500.00 y 5 timbres cooperativos de 50."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa M.D.C"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Boulevard Kuwait, Edificio San José, Contiguo a Comisión Nacional de los Derechos Humanos."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2235-9281, 2235-9279, 2235-9275 y 2235-9276"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Principal CONSUCOOP"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificación de Inscripción de Reforma de Estatuto"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://consucoop.hn/requisitos/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://consucoop.hn/requisitos/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Inscripción de Reforma de Estatutos"
+}

@@ -1,0 +1,336 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Departamento de Afiliación"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Contar con la información de cada afiliado al Sistema del IPM, manteniendo actualizados sus datos para garantizarles sus derechos"
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "afiliados al IPM/Régimen de Riesgos Especiales"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Recolección de información de cada persona que se afilie el IPM/Régimen de Riesgos Especiales"
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 798,
+ "institucion": "Instituto de Previsión Militar",
+ "modalidad": "Presencial",
+ "numero": "798",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "División de Beneficios"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Afiliado presenta documentación requerida para apertura de expediente"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "División de Beneficios"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Verificación de documentación completa"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "División de Beneficios"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Se completa formularios conozca a su cliente, historial medico, hoja de datos personales y la hoja de designación de beneficiarios"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "División de Beneficios"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Registro de la información del afiliado"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "División de Beneficios"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Se le extiende constancia de expediente completo, la que tiene vigencia de dos años"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Acta de nacimiento de afiliado y beneficiarios designados"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Acta de matrimonio o acta de divorcio"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Identificación del Afiliado"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Fotografía tamaño carnet del afiliado"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Acuerdo de ascenso (en caso de ser oficial o suboficial)"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Bulevar Centroamérica, contiguo al edificio INPREMA."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2239-1441"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "IPM"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "San Pedro Sula"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Avenida Circunvalación, contiguo a la 105 Brigada."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2552-4364, 2552-3437"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "IPM"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Danlí, El Paraiso"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Instalaciones de la Armenia, plaza San Miguel colonia Los Gualiquemes, Bulevar La Democracia."
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "IPM"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "La Ceiba"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "La Armería, Calle 9."
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "IPM"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de expediente completo"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://grupoipm.hn/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://grupoipm.hn/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Apertura de Expedientes"
+}

@@ -1,0 +1,263 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Secretario Ejecutivo DPI"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Pasar a pasivo los antecedentes Policiales."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Todo los ciudadanos que se le genere antecedentes policiales"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "En caso que un ciudadano genere antecedentes policiales, puede realizar el procedimiento para limpiar su historial y pasar los antecedentes a pasivo."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 86,
+ "institucion": "Secretaría de Seguridad",
+ "modalidad": "Presencial",
+ "numero": "86",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección Policial de Investigaciones"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Recepción de documentos en ventanilla"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección Policial de Investigaciones"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Emisión de Resolución"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección Policial de Investigaciones"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Notificación de Resolución"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección Policial de Investigaciones"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Solicitar Antecedente Policial actualizado."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Copia de Documento Nacional de Identificación."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de Antecedentes Policiales"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de Antecedentes Penales"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Recibo de Pago TGR-1 Tramite de pasivo de antecedentes"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Haber concluido cualquier proceso penal pendiente y acreditarlo mediante, sobreseimiento definitivo, carta de libertad definitiva, sentencia absolutoria, en caso de violencia doméstica constancia emitida por el juzgado contra la violencia doméstica, si el caso no fue judicializado auto de cierre o constancia proporcionado por el Ministerio Público."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Llenar formulario de solicitud a título personal o escrito por medio de representante legal."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa, San Pedro Sula, La Ceiba, Choluteca, Santa Rosa de Copán y Danlí."
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Oficinas de la Dirección Policial de Investigaciones, en un horario de 8:00 am a 4:00 pm de lunes a sábado."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2236-1200"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Asesoría Legal de la Dirección Policial de Investigaciones"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de Antecedentes Policiales actualizada"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://policianacional.gob.hn/wp-content/uploads/2024/02/Requisitos-para-Dejar-en-Pasivo.pdf",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://policianacional.gob.hn/wp-content/uploads/2024/02/Requisitos-para-Dejar-en-Pasivo.pdf"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Antecedentes Policiales en Pasivo"
+}

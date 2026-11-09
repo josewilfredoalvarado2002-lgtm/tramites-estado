@@ -1,0 +1,336 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Gerente de Extranjería"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Legalizar la estadía de los extranjeros del país, mediante la reposición del carné de residentes extraviados."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Extranjeros residentes o con permiso especial de permanencia"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Reposición de carné de extranjero residente o con Permiso Especial de Permanencia."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 296,
+ "institucion": "Instituto Nacional de Migración",
+ "modalidad": "Presencial",
+ "numero": "296",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Usuario"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Crear usuario en ALAM y completar la solicitud"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Gerencia de Extranjería"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Recibir y verificar documentación del extranjero, enviar correo de confirmación de aprobado o falta de documentos datos para reposición"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Gerencia de Extranjería"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Impresión de carné de extranjero residente"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Gerencia de Extranjería"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Entrega de carné de extranjero residente"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637997856257142607.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637997856257142607.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Formulario de solicitud de reposición"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637997856088377401.jpg"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Denuncia de extravió (Original)"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637997856425133009.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637997856425133009.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Recibo TGR-1 (pagado)"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Centro Cívico gubernamental, cuerpo bajo c"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2232-7800"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Central de extranjería"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "San Pedro Sula"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Colonia universidad, boulevard Roberto Micheletti a 30 metros del gran Bazar"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2232-7800"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Regional Extranjería"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "La Ceiba"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Centro comercial Uniplaza, frente a hospital Dantony"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2232-7800"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Regional Extranjería"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Roatán"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Roatan Islas de la Bahia, Coxen Hole, edifico plaza mar 2do Nivel"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2232-7800"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Regional Extranjería"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Carné de residente para permanecer en el país"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://alam.inm.gob.hn/appALAMcliente",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://alam.inm.gob.hn/appALAMcliente"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Reposición de Carné de Residencia"
+}

@@ -1,0 +1,209 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Dirección de la Hemeroteca Nacional Ramón Rosa"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Brindar servicios de información a la población general sobre la documentación patrimonial resguardada en la institución."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Población General"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Entrega de información que se encuentra dentro de periódicos, gacetas, revistas, y documentación relacionada; dicha información es utilizada por la población para asuntos legales, investigaciones académicas, investigaciones generales, y de índole personal. La información se encuentra dividida en dos órdenes de salas: sala general y fondo antiguo."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 502,
+ "institucion": "Secretaría de las Culturas, las Artes y los Patrimonios de los Pueblos de Honduras",
+ "modalidad": "Presencial",
+ "numero": "502",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Recepción de la Hemeroteca Nocional"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "1. Llenado de Solicitud por parte del Ciudadano/a"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Encargada de la Hemeroteca Nocional"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "2. Búsqueda de la información solicitada por el Ciudadanos/a"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Recepción de la Hemeroteca Nocional"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "3. Entrega al ciudadano el documento solicitado"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Solicitud de Préstamo de Material"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Contiguo Antigua Casa Presidencial, dentro de Tegucigalpa."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2237-9035"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Hemeroteca Nacional"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "El ciudadano/a toma fotografía de la información solicitada."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://cdihh.ihah.hn/coleccion-hemerografica/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://cdihh.ihah.hn/coleccion-hemerografica/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://secapph.gob.hn/contacto-secapph",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://secapph.gob.hn/contacto-secapph"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Solicitud de información en la Hemeroteca Nacional Ramón Rosa"
+}

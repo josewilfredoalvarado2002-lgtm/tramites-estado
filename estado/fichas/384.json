@@ -1,0 +1,247 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Especialista en Gestión de Becas"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Otorgar becas de los cooperantes internacionales a la ciudadanía que cumpla con los requisitos."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Público en general"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Todo ciudadano interesado en aplicar en una beca internacional deberá consultar por medio del correo de [email protected] y se le brindará la información detallada."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 384,
+ "institucion": "Secretaría de Relaciones Exteriores y Cooperación Internacional",
+ "modalidad": "Presencial",
+ "numero": "384",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [
+       {
+        "texto": "[email protected]",
+        "url": "/cdn-cgi/l/email-protection"
+       }
+      ],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Unidad de Becas"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Ciudadanos consultan por medio de correo electrónico [email protected]"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Unidad de Becas"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Especialistas en Gestión de Becas envía respuesta el mismo día en que se hace la consulta vía correo electrónico"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Unidad de Becas"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Si se es postulante a una beca se recibe y revisa documentación en las oficinas de la Secretaría de Relaciones Exteriores y Cooperación Internacional."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Unidad de Becas"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Se trabaja en las postulaciones dentro de la fecha límite de la SRECI."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Unidad de Becas"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Si la documentación está completa, se informa al postulante sobre el estado de su solicitud. Se envían las postulaciones al Cooperante Internacional. El Cooperante Internacional hace la selección final y notifica al candidato si fue aceptado."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [
+       {
+        "texto": "[email protected]",
+        "url": "/cdn-cgi/l/email-protection"
+       }
+      ],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637993564882539714.PNG"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Enviar los documentos al Punto Focal Nacional (SRECI), de forma digital al correo [email protected]"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa M.D.C."
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Tegucigalpa, Honduras, Bulevar Kuwait, antigua casa presidencial, contiguo a la Corte Suprema de Justicia."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2236-0200"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Secretaria de Relaciones exteriores y cooperación internacional."
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Otorgamiento de Beca de parte del Cooperantes"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://sreci.gob.hn/contactenos",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sreci.gob.hn/contactenos"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Postulación para becas internacionales"
+}

@@ -1,0 +1,337 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://sigob.arsa.hn/ciudadano/"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Dirección de Dispositivos Médicos"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Es la autorización otorgada por la ARSA, para que un vehículo pueda transportar dispositivos médicos una vez que este cumpla con todos los requisitos técnicos y legales."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Personas naturales y jurídicas"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Es la autorización otorgada por la ARSA, para que un vehículo pueda transportar dispositivos médicos una vez que este cumpla con todos los requisitos técnicos y legales."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 1119,
+ "institucion": "Agencia de Regulación Sanitaria",
+ "modalidad": "En línea",
+ "numero": "1119",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Crea tu Usuario: Si es tu primera vez en el Portal Digital de Inversiones (PDI), busca la opción de \"Registrar\" y completa el formulario de registro con los datos solicitados. Debes validar tu cuenta a través de un enlace enviado a tu correo electrónico."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Inicia Sesión: Utiliza tu usuario y contraseña creados ingresa al Portal Digital de Inversiones."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Revisa Requisitos: Verifica los requisitos necesarios para la solicitud. Asegúrate de tener toda la información lista."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Completa el Formulario: Llena la solicitud digital con la información requerida de manera precisa."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Adjunta Documentos: Sube los documentos solicitados en el formato digital que se te indique."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Envía la Solicitud: Una vez completados los pasos, envía tu solicitud a través del Portal Digital de Inversiones."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Realiza Seguimiento: El PDI cuenta con una sección para hacer seguimiento al estado de tu trámite, lo que te permite ver el progreso y si se requiere alguna acción adicional de tu parte."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Recibe el Documento: Una vez aprobado, el documento será emitido digitalmente y podrás descargarlo desde el portal."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Solicitud titulada: “SE SOLICITA MODIFICACIÓN DE LICENCIA SANITARIA DE TRANSPORTE DE DISPOSITIVOS MÉDICOS Y OTROS DISPOSITIVOS DE INTERÉS SANITARIO” la cual deberá de incluir como mínimo los siguientes datos: a. Órgano al que se dirige: Agencia de Regulación Sanitaria; b. Nombre y generales del representante legal; c. Nombre del apoderado legal solicitante (cuando aplique); d. Nombre y generales del profesional técnico del establecimiento; e. Razón o denominación social de la sociedad mercantil; f. Nombre comercial del establecimiento; g. Dirección exacta del establecimiento, incluyendo el número de teléfono y correo electrónico; h. Número de Licencia Sanitaria de transporte a modificar; i. Lugar y fecha de la solicitud; j. Firma y huella del solicitante (sello profesional cuando aplique)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Declaración jurada de modificación de Licencia Sanitaria de transporte de dispositivos médicos y otros dispositivos de interés sanitario en formato establecido por la ARSA"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Modificaciones efectuadas a la escritura de constitución de la sociedad mercantil y/o de comerciante individual, inscritas en el registro mercantil (cuando aplique)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Poder otorgado al profesional del derecho junto con su certificado de autenticidad, cuando la solicitud sea presentada por un apoderado legal, cuando no conste en el expediente."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Copia legible de la boleta de revisión vigente del medio de transporte"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Fotografías internas, laterales, frontales y posteriores del vehículo donde se observe el número de placa vehicular."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Comprobante del pago de cuota de recuperación por servicios prestados de cada modificación."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Adicionalmente, según el tipo de modificación, se deberá presentar la documentación específica correspondiente: 1. Modificación por cambio de representante legal: a. Documento original firmado y sellado, emitido por la empresa registrante que acredite el cambio del representante legal, si el documento viene del extranjero deberá venir debidamente apostillado o autenticado, si la empresa registrante es de nacionalidad hondureña, el documento se presentará en fotocopia con su certificado de autenticidad. 2. Modificación de la razón o denominación social de la sociedad: a. Fotocopia de la modificación a la escritura de constitución, donde se refleje el cambio. 3. Modificación del nombre del establecimiento: a. Fotocopia de la modificación a la escritura de constitución, donde se refleje el cambio."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Comayagüela, Calle Los Alcaldes, frente a City Mall, Honduras."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2270-6603"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "ARSA"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Autorización sanitaria de nueva licencia de transporte para Dispositivos médicos."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Aplicación",
+       "https://pdihonduras.gob.hn/consulta/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://pdihonduras.gob.hn/consulta/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://sigob.arsa.hn/ciudadano/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sigob.arsa.hn/ciudadano/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Aplicación",
+       "https://arsa.gob.hn/calculadora-dispositivos-medicos/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://arsa.gob.hn/calculadora-dispositivos-medicos/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.youtube.com/watch?v=m2ZZ3e4g_zg",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.youtube.com/watch?v=m2ZZ3e4g_zg"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Modificación de Licencia Sanitaria para Transporte de Dispositivos Médicos"
+}

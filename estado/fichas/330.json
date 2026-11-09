@@ -1,0 +1,259 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://alam.inm.gob.hn/appALAMcliente"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Gerente de Pasaportes"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Proporcionar servicio de adelantar cita en caso de urgencia por motivos de trabajo, educación y salud."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Población hondureña"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Solicitud de cita de emergencia adelantando su cita normal, por motivos de trabajo, educación y salud."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 330,
+ "institucion": "Instituto Nacional de Migración",
+ "modalidad": "En línea",
+ "numero": "330",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Ciudadano"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Crear usuario de ALAM"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Ciudadano"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Llenar la solicitud"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficial de Pasaporte"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Esperar aprobación de su cita de emergencia"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficial de pasaportes"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Se carga en el sistema la cita de emergencia para realizar el pago"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Ciudadano"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Realiza su pago de su cita de emergencia"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Ciudadano"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Presentarse al INM a realizar su tramite de pasaporte si la solicitud fue aprobada"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637997816145028781.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637997816145028781.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Documentación requerida en documento adjunto (por motivos de Trabajo, educación o salud): DNI Original y copia, Constancia de Trabajo, Carta de Invitación según el ejemplo, Certificado Médico, Becas de estudio"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Centro Cívico Gubernamental José Cecilio del Valle, cuerpo bajo C"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "504 2232-7800"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Central"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de confirmación de cita"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://alam.inm.gob.hn/appALAMcliente",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://alam.inm.gob.hn/appALAMcliente"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Citas de emergencia para emisión de pasaporte"
+}

@@ -1,0 +1,331 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Gerente Administrativo y Financiero"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Proveer resmas de papel a las Cooperativas que las requieran para su documentación, tanto interna o externa, asegurando así la confiabilidad y precisión en la gestión de su información."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Está dirigido a los miembros de las cooperativas, específicamente a aquellos que tienen la responsabilidad de la gestión operativa y la seguridad de la información."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Brindar al sistema cooperativo a nivel nacional que puedan adquirir las resmas de papel mediante una solicitud en línea."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 995,
+ "institucion": "Consejo Nacional Supervisor de Cooperativas",
+ "modalidad": "Presencial",
+ "numero": "995",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Gerencia Administrativa"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Presentar una solicitud en línea para la compra de resmas de Papel Seguridad."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Gerencia Administrativa"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Por cada resma de papel, deberá realizar el pago correspondiente a dos timbres de L 50.00 cada uno, además de L 150.00 por autorización y L 250.00 por resma."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Cooperativas"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Realizar Depósito a las siguientes cuentas de Banco Cuscatlán: 11-105-0000276 Consucoop, 11-101-0032318 Consucoop"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Departamento de Contabilidad"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Verificación del Deposito"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficial de Tesoreria"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Emisión de la factura"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficial de Tesoreria"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Entrega de las Resmas solicitadas"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638769424339602110.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638769424339602110.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Presentar Solicitud de Resmas de Papel Seguridad debidamente completado."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Comprobante del Depósito a las cuentas de CONSUCOOP que se pueda apreciar de forma clara y legible."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa M.D.C"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Boulevard Kuwait, Edificio San José, Contiguo a Comisión Nacional de los Derechos Humanos."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2235-9281, 2235-9279, 2235-9275 y 2235-9276"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Principal CONSUCOOP"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "San Pedro Sula"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio Paz Barahona, cuarta avenida, entre 15 y 16 calle continuo a las bodegas de CADELGA"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2557-2577, 2557-2578, 2557-2630, 2557-8907"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Regional CONSUCOOP"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Choluteca"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio el Centro, Plaza Bella Vista segundo nivel, una cuadra debajo de la terminal de buses Mi Yelvita."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2780-2556"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Regional CONSUCOOP"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Factura de la Venta de Resma de Seguridad"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://consucoop.hn/sdm_downloads/circular-01-2015-uso-de-papel-de-seguridad/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://consucoop.hn/sdm_downloads/circular-01-2015-uso-de-papel-de-seguridad/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://consucoop.hn/sdm_downloads/procedimiento-para-autorizar-libros-legales-y-papel-de-seguridad/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://consucoop.hn/sdm_downloads/procedimiento-para-autorizar-libros-legales-y-papel-de-seguridad/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Venta de Resmas de Papel Seguridad"
+}

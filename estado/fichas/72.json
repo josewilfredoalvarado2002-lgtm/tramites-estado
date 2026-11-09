@@ -1,0 +1,823 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Director Nacional de Vialidad y Transporte"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Emitir permiso de conducir en el área de transporte de carga y de pasajeros vigente, según lo establece la Ley de Tránsito."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Ciudadano Hondureño mayor de 21 (C1 y D1) y 23 (C, D y C+E) años o extranjeros con permiso de residencia."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Permiso de conducir para Hondureños y extranjeros con permiso de residencia, para vehículos pesados."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 72,
+ "institucion": "Secretaría de Seguridad",
+ "modalidad": "Presencial",
+ "numero": "72",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Banco Atlántida"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Presentarse a las oficinas de la Dirección Nacional de Vialidad y Transporte con la documentación requerida para emisión de recibo en concepto de padrón fotográfico.."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección Nacional de Vialidad y Transporte."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Presentarse a Banco Atlántida, Ficohsa o Banpaís a efectuar el pago del permiso de conducir en la categoría requerida para vehículos de carga o de transporte de pasajeros."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección Nacional de Vialidad y Transporte."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Recepción de la documentación requerida para el cambio de permiso de conducir."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección Nacional de Vialidad y Transporte."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Toma de Fotografía y actualización de datos personales."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Tener experiencia mínima de 2 años en conducción de vehículos tipo B, para optar al permiso de conducir C1 y D1, y para optar a la categoría C, D y C+E deberá contar con 2 años de experiencia en conducción de vehículos tipo C1 y D1."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Tener 21 años (C1 y D1) y tener 23 años (C, D y C+E)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Documento Nacional de Identificación."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Diploma de Educación Primaria (Mínimo)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Récord de manejo y padrón fotográfico de la DNVT, (costo L. 200.00)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de Antecedentes Penales vigente."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Exámenes Médicos."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Presentar permiso de conducir anterior."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificado del Instituto Hondureño de Transporte Terrestre."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Llenar formulario de cambio de permiso de conducir de categoría tipo B a tipo C1, C, D1, D y C+E."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Efectuar el pago de cambio de categoría de permiso."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Copia de recibo de servicio público en la que conste el domicilio actual (ENEE, SANAA, HONDUTEL)."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "A Nivel Nacional"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Boulevard Fuerzas Armadas, Colonia San Ángel, contiguo al INFOP"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2236-1200"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Dirección Nacional de Vialidad y Transporte"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Trujillo"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio El Centro, frente al Parque Central"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UMEP-19 Trujillo, Colón"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Puerto Cortés"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Carretera CA-5 que conduce a San Pedro Sula, a 200 metros antes del peaje, Barrio Caridad del Cobre"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP-5 Puerto Cortés, Cortés"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Las Casitas, Fco. Morazán"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Aldea Las Casitas, contiguo al Cementerio San Miguel Arcángel"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Centro de Capacitación Vial y Evaluación de Conductores"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Ocotepeque"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Colonia Las Flores"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP-14 Ocotepeque, Ocotepeque"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Danlí"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio Buenos Aires, contiguo a Escuela Gabriela Mistral"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP -7 Danlí, El Paraíso"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Santa Bárbara"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Edificio Principal UDEP-16 carretera RN-20 Ceibita Sur"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP-16 Santa Bárbara, Santa Bárbara"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Roatán"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Sector Monte Placentero, Barrio Los Fuertes, Calle Principal"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP-11 Islas de la Bahía"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "El Progreso"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Primera Calle, Barrio Los Pinos"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP-18 El Progreso, Yoro"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Catacamas"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio el Campo, frente al Polideportivo, contiguo a los Juzgados de Letras"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UMEP-15 Catacamas, Olancho"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Olanchito"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Colonia el Metizal, salida hacia Aldea Coyoles, Frente al Cementerio Municipal"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UMEP-17 Olanchito, Yoro"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Las Vegas"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Colonia Pedregal, 3 cuadras arriba de la Municipalidad, contiguo a la Estación de los Bomberos"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UMEP-13 Las Vegas, Santa Bárbara"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Juticalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Jefatura Policial de Juticalpa, ubicada en el Barrio Belén"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP-15 Juticalpa, Olancho"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "La Paz"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio San Antonio contiguo al INFOP"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP-12 La Paz, La Paz"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Nacaome"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio María Auxiliadora"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP-17 Nacaome, Valle"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Gracias"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Colonia Moreno"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP-13 Gracias, Lempira"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Choloma"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio el Centro, primera calle, frente a BAC Credomatic"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UMEP-10 Choloma, Cortés"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Choluteca"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio las Cumbres, anillo periférico, contiguo a la Universidad Metropolitana, salida al Municipio de Orocuína"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP-6 Choluteca, Choluteca"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "San Pedro Sula"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Colonia Municipal, Pasaje Los Cedros, contiguo a Ciudad Mujer"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Jefatura Regional Noroccidental de Vialidad y Transporte"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Siguatepeque"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio San Juan, contiguo al Club de Leones"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UMEP-16 Siguatepeque, Comayagua"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Santa Rosa de Copan"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio Divina Providencia, frente al Ministerio Público"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP-4 Santa Rosa de Copán, Copán"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Intibucá"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio El Centro, frente al Parque López, edificio principal de la Policía Nacional"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP-10 Intibucá, Intibucá"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tocoa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Carretera CA-13, Barrio la Ceiba, 3 cuadras al sureste del comedor rincón Garífuna"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP-2 Tocoa, Colón"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "La Ceiba"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio el Dorado contiguo a las instalaciones del INFOP"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP-1 La Ceiba, Atlántida"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Yoro"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio Santiago , contigo al Centro Penal"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP-18 Yoro, Yoro"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Talanga, Fco. Morazán"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio la Granja, Talanga, F.M, contiguo a La Clínica Municipal, frente a Bigos"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DNVT UDEP-8 Centro de Capacitación Vial y Evaluación de Conductores"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Permiso de Conducir."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://transitohonduras.gob.hn/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://transitohonduras.gob.hn/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Permisos de Conducir para vehículo en las categorías C1, C y C+E (vehículos de carga pesada) y D1 y D para vehículo de transporte de pasajeros."
+}

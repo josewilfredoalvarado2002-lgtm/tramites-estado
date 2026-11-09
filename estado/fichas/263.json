@@ -1,0 +1,230 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Cónsul General, Cónsul y Vice Cónsul"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Realizar toda clase de actos y operaciones que puedan ser necesarios o convenientes para inscribir las operaciones mencionadas en este Poder en cualquier registro público que corresponda."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Hondureño en el extranjero"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Es aquel que sirve para que lo represente en un asunto ESPECÍFICO y hasta terminar el trámite. Ejemplo: un Poder para divorcio, pleitos, representación."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 263,
+ "institucion": "Secretaría de Relaciones Exteriores y Cooperación Internacional",
+ "modalidad": "Presencial",
+ "numero": "263",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficina Consular"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Agendar cita consular en: https://citaconsular.sreci.gob.hn/citaconsular/pages/layout/CitaConsular.php"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficina Consular"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Revisión de documentos requeridos por parte del funcionario(a) asignado en oficina(s)/sección(es) consular(es), para brindar el servicio solicitado por el interesado(a)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Ventanilla de Autenticas y Apostilla"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Autenticar el Poder Especial original emitido por la Oficina Consular, en la Unidad de Autenticas."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Tarjeta de identidad hondureña vigente o Pasaporte hondureño vigente de quien otorga el Poder"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "En el caso que el Poder Especial sea para venta o compra de un terreno o casa deberá presentar copia de la Escritura o Título de Propiedad del bien inmueble o en su defecto, una descripción del bien inmueble y sobre su ubicación exacta."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Cita consular"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "En donde se cuente oficina consular de Honduras"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Consular"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa M.D.C."
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Tegucigalpa, Honduras, Bulevar Kuwait, antigua casa presidencial, contiguo a la Corte Suprema de Justicia."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2236-0200, ext 3009"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Secretaria de Relaciones exteriores y cooperación internacional, en la sección de autenticas"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Poder Especial"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Aplicación",
+       "http://citaconsular.sreci.gob.hn/citaconsular/pages/layout/CitaConsular.php",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "http://citaconsular.sreci.gob.hn/citaconsular/pages/layout/CitaConsular.php"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Poder Especial"
+}

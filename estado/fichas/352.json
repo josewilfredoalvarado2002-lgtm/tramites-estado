@@ -1,0 +1,348 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Registrador Nacional de Cooperativas"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Autorizar Sistemas Contables de acuerdo a lo requerido por la Cooperativa y supervisiones del Consejo Nacional Supervisor de Cooperativas, dando cumplimiento a lo establecido en el artículo 36 de la Ley de Cooperativas de Honduras."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Cooperativas a Nivel Nacional"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Autorizar Sistemas Contables en el que las cooperativas ingresan sus operaciones, que vayan acordes a lo requerido por la Cooperativa y supervisiones del Consejo Nacional Supervisor de Cooperativas, dando cumplimiento a lo establecido en el artículo 36 de la Ley de Cooperativas de Honduras."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 352,
+ "institucion": "Consejo Nacional Supervisor de Cooperativas",
+ "modalidad": "Presencial",
+ "numero": "352",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaria General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Presentar la Solicitud de Inscripción de Sistema Contable por medio de Ventanilla electrónica /físico"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Registro Nacional de Cooperativas"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Remisión de solicitud de Inscripción de Sistema Contable y adjuntar los requisitos en formato PDF"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Registro Nacional de Cooperativas"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Subsanación de requisitos en caso de que estén incompletos."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Registro Nacional de Cooperativas"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Emisión de la Certificación Inscripción del Sistema Contable."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Registro Nacional de Cooperativas"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Entrega de la Certificación de Inscripción del Sistema Contable"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638768734879688511.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638768734879688511.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Solicitud firmada por el Presidente de Junta Directiva de la Cooperativa ó en su defecto por medio de apoderado legal dirigida al Señor Director Ejecutivo de CONSUCOOP. Indicando generales de ley completas y correo electrónico o números de teléfono para notificarles si es que existen observaciones al documento."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638768735550650511.jpeg"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Carta poder o copia del poder, otorgado por el presidente de la cooperativa, (debidamente Autenticado en caso de Apoderado Legal)"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638768771831799982.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638768771831799982.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Certificación del Acta de Junta Directiva donde aprueban la implementación del Sistema y copia del acta respectiva."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638768738802037355.jpeg"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Manual del sistema de manera digital."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638768744360304618.jpeg"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Pagar directamente con la administración la autorización e inscripción del Sistema de Computo por un monto de MIL LEMPIRAS (L 1,000.00). Si el pago es mediante cheque deberá hacerse a nombre de CONSUCOOP. o con copia del depósito Bancario a nombre de este."
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638768754470725736.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638768754470725736.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "En cada documento deberá llevar un timbre de L. 50.00."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Contrato o acuerdo de la adquisición del Sistema Contable."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Estados Financieros de la Cooperativa originales, o presentar el convenio para ser auditadas por una firma auditora"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa M.D.C"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Boulevard Kuwait, Edificio San José, Contiguo a Comisión Nacional de los Derechos Humanos."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2235-9281, 2235-9279, 2235-9275 y 2235-9276"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Principal CONSUCOOP"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificación de Inscripción de Sistema Contable"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://consucoop.hn/requisitos/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://consucoop.hn/requisitos/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Inscripción de Sistema Contable"
+}

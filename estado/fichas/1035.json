@@ -1,0 +1,267 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Jefe de Departamento de Afiliaciones"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Que cada docente pueda consultar sus beneficiarios y validar que todos los datos estén correctos en los sistemas del INPREMA, de lo contario debe presentarse a la oficina mas cercana para que realice su proceso de designación o actualización de beneficiarios."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Docentes Activos, Jubilados y Pensionados"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Cpnsultar por medio de la plataforma los beneficiarios que un docente tiene designados en el Instituto Nacional de Previsión del Magisterio"
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 1035,
+ "institucion": "Instituto de Previsión del Magisterio",
+ "modalidad": "Presencial",
+ "numero": "1035",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "INPREMA"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Presentar Documento Nacional de Identificacion DNI"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "INPREMA"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Realizar búsqueda en el sistema con el numero de identidad del docente afiliado."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "INPREMA"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Visualización en el sistema el registro de los beneficiarios designados."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Estar Afiliado en el INPREMA"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Bulevar Centroamerica"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina Principal"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "San Pedro Sula"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "2 calle, 10 avenida N.O."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina regional S.P.S."
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Santa Rosa de Copán"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio el Centro, Centro Comercial Uniplaza"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina regional S.R.C."
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "La Ceiba"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Avenida Morazan, Centros Comercial Centroamerica"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-1400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina regional La Ceiba"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "enlaces": [],
+    "lineas": [
+     "No hay entregables registrados",
+     "No se han definido entregables para este trámite"
+    ],
+    "tipo": "texto"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://inprema.gob.hn/contacto/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://inprema.gob.hn/contacto/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Consulta de Beneficiarios Inscritos"
+}

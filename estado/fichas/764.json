@@ -1,0 +1,221 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Cónsul General/Cónsul/Vicecónsul"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Emitir autorizaciones cuando uno o ambos padres de un menor de edad no pueden acompañarlo y obtener pasaporte para un menor de edad ante el Instituto Nacional de Migración de Honduras o en una de nuestras Oficinas Consulares. Representar a una persona ante la Embajada de los Estados Unidos de América en Tegucigalpa y obtener una visa o documento migratorio para algún menor de edad de manera eficiente."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Hondureño en el extranjero"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Una autorización se emite cuando uno o ambos padres de un menor de edad no pueden acompañarlo y desean que: Una persona determinada gestione y obtenga el pasaporte para un menor de edad ante el Instituto Nacional de Migración de Honduras o en una de nuestras Oficinas Consulares."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 764,
+ "institucion": "Secretaría de Relaciones Exteriores y Cooperación Internacional",
+ "modalidad": "Presencial",
+ "numero": "764",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficina Consular"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Agendar cita en la página: citaconsular.sreci.gob.hn"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficina Consular"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Registro en Honduras: Autorización original emitida por la Oficina Consular."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Unidad de Autentica"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Autenticar la documentación en la Unidad de Autenticas."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Unidad Legal"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Comprobante de pago facturado por el sistema integrado de gestión consular (SIGEC)"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Autorizaciones"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Autorizacion"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Autorizacion"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Lugar geográfico que se cuente con representación de Honduras en el exterior"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Consulado General/Consulado/Sección Consular"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Autorizaciones"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Aplicación",
+       "http://citaconsular.sreci.gob.hn/citaconsular/pages/layout/CitaConsular.php",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "http://citaconsular.sreci.gob.hn/citaconsular/pages/layout/CitaConsular.php"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Autorizaciones"
+}

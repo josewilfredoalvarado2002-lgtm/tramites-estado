@@ -1,0 +1,222 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Jefe de Unidad de Atención al Ciudadano"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Atender las solicitudes de la ciudadaia en general, sobre denuncias peticiones, quejas, reclamos y sugerencias (PQRS); con la finalidad de satisfacer las inquietudes y necesidades de los ciudadanos respecto al ambito de competencia de la Comisión Nacional de Telecomunicaciones."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Ciudadania en general"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Recibir, re-asignar, tramitar y responder por competencias las denuncias, peticiones, quejas, reclamos y sugerencias (PQRS) de los solicitantes, para garantizar una atención con calidad, contribuyendo de esta manera a su completa satisfacción."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 1011,
+ "institucion": "Comisión Nacional de Telecomunicaciones",
+ "modalidad": "Presencial",
+ "numero": "1011",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Unidad de Atención al Ciudadano / Coordinación de Transparencia"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Recepcionar y registrar solicitudes, denuncias y/o PQRS."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Unidad de Atención al Ciudadano / Coordinación de Transparencia"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Direccionar solicitudes, denuncias y/o PQRS"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Área interna institucional asignada"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Dar tratamiento y seguimiento a las solicitudes, denuncias y/o PQRS direccionadas."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Unidad de Atención al Ciudadano / Coordinación de Transparencia"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Entregar servicio y seguimiento de retroalimentación de satisfacción."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638783219933299625.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638783219933299625.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Registro solicitud de denuncia y/o PQRS"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Comayagüela"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Edificio CONATEL, 6ta. Ave. S.O., colonia Modelo, Comayagüela, M.D.C."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2232-9600"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Edificio CONATEL"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Solicitud gestionada por CONATEL de Solicitud, denuncia o PQRS."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "http://sitae.conatel.gob.hn:90/Principal.aspx",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "http://sitae.conatel.gob.hn:90/Principal.aspx"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Gestión de solicitudes, denuncias y/o PQRS."
+}

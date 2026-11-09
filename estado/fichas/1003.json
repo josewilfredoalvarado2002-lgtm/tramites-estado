@@ -1,0 +1,436 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Secretario (a) General"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Emitir la autorización de Registro para operar legalmente de acuerdo a la Ley Marco del Sector de Telecomunicaciones y su Reglamento, el Servicios de Internet o Acceso a Redes Informáticas."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Empresas operadoras del Servicio de Internet o Acceso a Redes Informáticas en cuanto a la prestación, comercialización y contribución en especie."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Servicio que brinda el acceso y conexión a redes informáticas y bases de datos mediante protocolos determinados para el uso de las redes de Internet, entre el equipo terminal de usuario y la interfase usuario-red del operador de este servicio."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 1003,
+ "institucion": "Comisión Nacional de Telecomunicaciones",
+ "modalidad": "Presencial",
+ "numero": "1003",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Unidad de Atención al Ciudadano"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Recepción y revisión de requisitos"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Admisión de solicitud"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección de Servicios de Telecomunicaciones, en caso de requrir espectro Dirección de Gestión del Espectro Radioeléctrico"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Análisis técnico"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Departamento de Administración de Cartera y Cobranzas"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Facturación derecho de registro"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Elaboración de registro"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Presidencia CONATEL"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Autorización de registro"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Refrendo registro"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Unidad de Atención al Ciudadano"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Entrega de registro"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638777548623504520.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638777548623504520.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Solicitud de servicio"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638777548888540377.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638777548888540377.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Clasificación servicios de telecomunicaciones"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638777549009804921.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638777549009804921.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Aplicación servicio valor agregado"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638777549161393736.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638777549161393736.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Uso del espectro radioeléctrico y/o infraestructuras propias para servicios de valor agregado"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638777549287117030.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638777549287117030.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Aplicación sistemas fijo por satélite"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638777549408756602.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638777549408756602.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Memoria económica / financiera"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638777549530204739.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638777549530204739.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Memoria económica / financiera - para servicios varios simplificada"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638778849376784410.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638778849376784410.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Requisítos legales para registro de internet o acceso a redes informáticas"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Comayagüela"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Edificio CONATEL, 6ta. Ave. S.O., colonia Modelo, Comayagüela, M.D.C."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2232-9600"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Edificio CONATEL"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Registro de Internet o Acceso a Redes Informáticas"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.conatel.gob.hn/formas-y-requisitos/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.conatel.gob.hn/formas-y-requisitos/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.conatel.gob.hn/doc/simplificacion/requisitos/22.%20REQUISITOS%20DE%20SERVICIO%20DE%20INTERNET.pdf",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.conatel.gob.hn/doc/simplificacion/requisitos/22.%20REQUISITOS%20DE%20SERVICIO%20DE%20INTERNET.pdf"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Servicio de Internet o Acceso a Redes Informáticas"
+}

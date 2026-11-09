@@ -1,0 +1,377 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://sigob.arsa.hn/ciudadano/"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Dirección de Dispositivos Médicos"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Es la notificación de eventos adversos serios asociados al uso de dispositivos médicos, por parte de la Industria, con el fin de garantizar la seguridad, calidad y desempeño en el uso de estos dispositivos médicos."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Personas naturales y jurídicas"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Es la notificación de eventos adversos serios asociados al uso de dispositivos médicos, por parte de la Industria, con el fin de garantizar la seguridad, calidad y desempeño en el uso de estos dispositivos médicos."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 1089,
+ "institucion": "Agencia de Regulación Sanitaria",
+ "modalidad": "En línea",
+ "numero": "1089",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Crea tu Usuario: Si es tu primera vez en el Portal Digital de Inversiones (PDI), busca la opción de \"Registrar\" y completa el formulario de registro con los datos solicitados. Debes validar tu cuenta a través de un enlace enviado a tu correo electrónico."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Inicia Sesión: Utiliza tu usuario y contraseña creados ingresa al Portal Digital de Inversiones."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Revisa Requisitos: Verifica los requisitos necesarios para la solicitud. Asegúrate de tener toda la información lista."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Completa el Formulario: Llena la solicitud digital con la información requerida de manera precisa."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Adjunta Documentos: Sube los documentos solicitados en el formato digital que se te indique."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Envía la Solicitud: Una vez completados los pasos, envía tu solicitud a través del Portal Digital de Inversiones."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Realiza Seguimiento: El PDI cuenta con una sección para hacer seguimiento al estado de tu trámite, lo que te permite ver el progreso y si se requiere alguna acción adicional de tu parte."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Recibe el Documento: Una vez aprobado, el documento será emitido digitalmente y podrás descargarlo desde el portal."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Poder otorgado del profesional del derecho cuando la solicitud sea presentada por un apoderado legal, autenticado o debidamente legalizado."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Versión más reciente del protocolo de investigación en español aprobado por el CEC, que incluya como mínimo lo siguiente: a) Índice, b) Resumen, c) Información general, descripción del problema y antecedentes, d) Introducción, justificación y marco teórico, e) Hipótesis (cuando aplique), f) Objetivos, g) Tipo de investigación: diseño, muestra y lugar donde se realizará el ensayo, h) Selección de los sujetos de investigación (criterios de inclusión y exclusión), i) Intervención (descripción del tratamiento), j) Variables de evaluación, k) Cronograma de visitas (plan operativo), l) Procesamiento y análisis de los datos, m) Aspectos éticos, n) Referencias bibliográficas, o) Anexos y apéndices."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Versión más reciente del manual (Brochure) del Investigador en español ya aprobado por el CEC, que contenga los datos preclínicos y clínicos relevantes obtenidos en todas las fases previas hasta la fecha y que sustentan el avance hasta fase actual del ensayo del dispositivo médico."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Carta de aceptación del patrocinador del ensayo donde describa: las actividades delegadas a otras instituciones o empresas, del patrocinio o forma de remuneración, medidas para evitar conflictos de interés del investigador principal en relación a la protección de los sujetos de investigación, obligaciones, y derechos del patrocinador."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Documento de Consentimiento Informado o Asentamiento Informado y carta anexa conteniendo el \"Proceso de Toma del Consentimiento Informado\" en el sitio de investigación, debiendo haber sido aprobados todos previamente por el CEC."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Versión más reciente aprobada por el CEC de todas las herramientas accesorias a ser usadas con los participantes del ensayo clínico como ser: a) encuestas, b) cuestionarios, c) diarios de medicamentos diarios de pacientes, d) escalas, entre otros."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de compromiso del Investigador Principal y su equipo para cumplir con las Buenas Prácticas Clínicas."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Copia del Acuerdo de Confidencialidad firmado entre el patrocinador u Organización de Investigación por contrato (CRO) y el Investigador Principal. En el que se debe declarar las obligaciones, compromisos y metodología del patrocinador respecto a la documentación y datos generados del ensayo."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "En caso de que la solicitud provenga de una institución de salud cuyo giro principal no sea la investigación, esta deberá presentarse con la información actualizada y estar firmada por la máxima autoridad de la institución donde se llevará a cabo el estudio. Además, deberá adjuntar todos los documentos que se detallan a continuación, los cuales deberán contar con la aprobación de un Comité de Ética Científico (CEC) debidamente registrado ante la ARSA."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "a) Información sobre la póliza de seguro para los sujetos en investigación que otorga el patrocinador, especificando el mecanismo de aplicabilidad en Honduras, b) Currículum vitae actualizado del investigador principal y sub-investigadores, que constate sus competencias en investigación clínica, c) Empaque primario, secundario o terciario del dispositivo médico con: 1) nombre del dispositivo, 2) titular, 3) fecha de vencimiento, 4) lote y leyenda de uso en investigación, d) Herramientas auxiliares para uso de ensayos clínicos en los sujetos de investigación solicitados en el protocolo,"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "e) Informe de resultados de estudio y pruebas técnicas (biocompatibilidad, seguridad eléctrica, etc.), f) Informe sobre seguridad y funcionamiento del dispositivo médico, incluyendo resultados preclínicos y certificaciones de cuerpos acreditados, g) Certificado de Buenas Prácticas de Manufactura (BPM) del fabricante, h) Carta del investigador principal firmada y sellada que indique qué laboratorio procesará las muestras, i) Manual de uso del dispositivo médico, j) Licencia Sanitaria del Sitio de Investigación (para entidades de salud no gubernamentales)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Comprobante de cuota de recuperación por servicios prestados según la fase del ensayo y el plazo de resolución."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Comayagüela"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Calle Los Alcaldes, frente a City Mall, Honduras."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2270-6603"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Agencia de Regulación Sanitaria"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Autorización"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Aplicación",
+       "https://pdihonduras.gob.hn/consulta/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://pdihonduras.gob.hn/consulta/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://sigob.arsa.hn/ciudadano/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sigob.arsa.hn/ciudadano/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Aplicación",
+       "https://arsa.gob.hn/calculadora-dispositivos-medicos/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://arsa.gob.hn/calculadora-dispositivos-medicos/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.youtube.com/watch?v=n3_dUfNDqAI",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.youtube.com/watch?v=n3_dUfNDqAI"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Nueva Autorización Sanitaria de Ensayos Clínicos para Dispositivos Médicos"
+}

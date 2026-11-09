@@ -1,0 +1,443 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "http://juno.sefin.gob.hn/PAMEH/"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Jefe de Exoneraciones"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Otorgar el beneficio de exoneración a un obligado tributario a través de una resolución otorgada por la Dirección General de Control de Franquicias Aduaneras."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Todos los obligados tributarios que esten amparados al beneficio de exoneración que les asiste o se les concede mediante una Ley un Decreto Legislativo."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "El trámite permite la emisión de la Resolución para que el obligado tributario pueda gozar del beneficio del No pago de un impuesto determinado."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 926,
+ "institucion": "Secretaría de Finanzas",
+ "modalidad": "En línea",
+ "numero": "926",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección General y Control de Franquicias Aduaneras"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Creación de usuario en el sistema PAMEH."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección General y Control de Franquicias Aduaneras"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Creación del pedido en el sistema PAMEH, en el perfil anónimo."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección General y Control de Franquicias Aduaneras"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Creación de la solicitud de exoneración, en el sistema PAMEH, en el perfil anónimo la cual cuenta con tres pasos."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección General y Control de Franquicias Aduaneras"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Presentación del obligado tributario de la información en ventanilla."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección General y Control de Franquicias Aduaneras"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Revisión y elaboración de la certificación por parte de la unidad de exoneraciones fiscales."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección General y Control de Franquicias Aduaneras"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Entrega de la certificación al obligado tributario en ventanilla de la Secretaría de Finanzas."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Todas las solicitudes deberán ser presentadas aseguradas mediante fastener en su respectivo folder y debidamente foliadas."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Generar el Reporte de PAMEH firmado por el Apoderado Legal (Formulario)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Acompañarlo con información de Proyecto de inversión inicial su vigencia a ejecutar; debe Presentar dicha información anualizada."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Acompañarlo con información Sueldos y salarios por categoría y respectivas retenciones en la fuente del Impuesto Sobre la Renta incluyendo los no sujetos a retención por el mínimo exento; Presentación Anualizada por tipo de proyecto. . Detalle mensual de sueldos de empleados permanentes o temporales, (último año, desglosando la cantidad de empleados por mes con el monto de sueldos totalizado)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Escrito de Solicitud de Inscripción del Registro (Incluir RTN, Teléfono y Correo Electrónico del Apoderado Legal)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Carta Poder o Poder general o especial para pleitos, debidamente autenticado."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Solvencia Fiscal Vigente"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "RTN de la Institución"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "RTN del Representante Legal"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "RTN Apoderado Legal"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Carné de colegiación vigente (CAH)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Personalidad jurídica, debidamente autenticada (cuando es inscripción por primera vez o cuando se produzca la modificación, caso segundo, el cual deberá presentarse a su renovación)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Personalidad jurídica, debidamente autenticada (cuando es inscripción por primera vez o cuando se produzca la modificación, caso segundo, el cual deberá presentarse a su renovación)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancias de Junta Directiva vigente de DIRRSAC."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Comprobante de pago del Tgr1 por la cantidad de 200 lempiras (casilla 12121)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Autentica de copias (cuando es inscripción por primera vez)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "CD que incluya todos los documentos escaneados en PDF."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Avenida Cervantes, Barrio El Jazmín, Centro Histórico"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2222-1811"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Secretaría de Finanzas Edificio Principal"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "San Pedro Sula"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Oficinas de la SAR. Barrio el Centro, 1 calle 1 avenida frente al Ferrocarril Nacional"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Regional S.P.S- Secretaría de Finanzas"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificación de Resolución"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "http://juno.sefin.gob.hn/PAMEH/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "http://juno.sefin.gob.hn/PAMEH/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.sefin.gob.hn/exoneraciones-y-franquicias-pameh/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.sefin.gob.hn/exoneraciones-y-franquicias-pameh/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Solicitud de Exoneraciones"
+}

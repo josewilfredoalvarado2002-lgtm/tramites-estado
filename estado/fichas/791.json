@@ -1,0 +1,326 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "División de Beneficios"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Realizar el pago oportuno de las pensiones a su población afiliada y beneficiaria."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Afiliados al IPM / Régimen de Riesgos Especiales"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Otorgamiento de pago de pensiones a los afiliados del Régimen de Riesgos Especiales que han cumplido con los requisitos establecidos en la Ley del Instituto de Previsión Militar"
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 791,
+ "institucion": "Instituto de Previsión Militar",
+ "modalidad": "Presencial",
+ "numero": "791",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "División de Beneficios"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Presentar documentación requerida"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "División de Beneficios"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Verificación de documentación completa"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "División de Beneficios"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Registro de nuevas deducciones a los pensionados"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "División de Beneficios"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Elaboración de Planilla"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "División de Beneficios"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Acreditación del monto de pensión a la cuenta bancaria del pensionado"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Pension por retiro (pre-existentes): Edad 22 años de cotización (oficiales y suboficiales) y alcanzar 55 años de edad (unicamente auxiliares)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Pension por retiro : 25 años de cotización y alcanzar 58 años de edad (auxiliares de instituciones afiliadas) y 50 años (demás servidores con riesgo especial)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Pensión por Discapacidad: haber sido declarado por un Comité Especial sobre una incapacidad permanente"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Pensión por Sobrevivencia/Montepío: Acta de defunción del afiliado"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Bulevar Centroamérica, contiguo al edificio INPREMA."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2239-1441"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "IPM"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "San Pedro Sula"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Avenida Circunvalación, contiguo a la 105 Brigada."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2552-4364, 2552-3437"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "IPM"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Danlí, El Paraiso"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Instalaciones de la Armenia, plaza San Miguel colonia Los Gualiquemes, Bulevar La Democracia."
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "IPM"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "La Ceiba"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "La Armería, Calle 9."
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "IPM"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Pension Otorgada"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.grupoipm.hn",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.grupoipm.hn"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Pago de Pensiones"
+}

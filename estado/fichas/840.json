@@ -1,0 +1,194 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Subdirección de Asuntos Consulares."
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Que los hondureños que están en el exterior puedan solicitar un permiso de licencia de conducir en el exterior."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Hondureños en el extranjero."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "La Licencia de Conducir es un documento que los compatriotas necesitan en el extranjero, por lo cual en Cancillería se verifica en Vialidad y Tránsito si han tenido licencias de conducir para poder extenderle su documento de licencia."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 840,
+ "institucion": "Secretaría de Relaciones Exteriores y Cooperación Internacional",
+ "modalidad": "Presencial",
+ "numero": "840",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficina Consular"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "El Consulado manda un oficio donde solicitan la colaboración para solicitar la verificación de licencia de conducir del ciudadano, el cual adjuntan fotocopia de licencia de conducir o documento nacional de identificación (DNI) de la persona."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficina Consular"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Se envía un oficio a la Secretaria de Vialidad y Transporte solicitando verificación de licencia de conducir del ciudadano, adjunta documentación que envía el consulado."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficina Consular"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Al momento de recibir una respuesta se envía por medio de correo electrónico al consulado que corresponde dicha información de la verificación de la licencia de conducir."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Tarjeta de identidad o Pasaporte/ Partida de Nacimiento/ licencia de conducir."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Money Order."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "En donde se cuente oficina consular de Honduras"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "En los diferentes consulados de Honduras en EE.UU."
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de verificación de Licencia de Conducir."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://sreci.gob.hn/contactenos",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sreci.gob.hn/contactenos"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Licencias de Conducir"
+}

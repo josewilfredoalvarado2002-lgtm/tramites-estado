@@ -1,0 +1,426 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Gerente de Operaciones/Secretario General"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Legalizar el rubro de Transporte Publico y Especial de Carga General"
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Requieren Permiso de Explotación:",
+    "a) Los servicios de carga en general;",
+    "b) a) Carga No Especializada, traslado de productos y mercancías que no requieran de un manejo especial y no representen una amenaza para la seguridad de las personas y los bienes. El servicio de transporte especial, es aquel que se presta mediante Permiso a aquellas personas naturales o jurídicas cuyo giro no es la prestación del servicio de transporte público, pero que tienen la necesidad de movilizar carga. El servicio de transporte publico de carga es el que tiene como servicio principal la movilización de carga."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Permiso de Explotación es el acto administrativo del Instituto, por medio del cual, se autoriza la prestación del servicio de transporte terrestre conforme esta Ley y sus Reglamentos. Certificado de Operación es el documento necesario para operar legalmente un vehículo automotor o uno sin tracción propia, destinado al servicio de transporte público o especial."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 34,
+ "institucion": "Instituto Hondureño de Transporte Terrestre",
+ "modalidad": "Presencial",
+ "numero": "34",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaria General/Gerencia de operaciones"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "El apoderado legal presenta la solicitud con todos sus requisitos en la plataforma SOL"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Gerencia de Operaciones/Secretaria General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Ingreso a portal de apoderados legales en la plataforma IHTT"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaria General/Gerencia de operaciones"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Asignacion y revision de documentos por oficial juridico de Secretaria General/Gerencia de Operaciones"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaria General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Resolucion de acto administrativo y revision de resolucion."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaria General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Notificacion de resolucion"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Unidad de cobranza"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Generacion de Aviso de cobro"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Unidad de Emisiones"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Gestion tecnica, impresion y firma de permiso de explotacion, certificado de operacion o permisos especiales"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Gerencia de Operaciones"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Entrega de permiso de explotacion. certificado de operacion o permiso especial"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "9",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaria General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Archivo de las diligencias"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638765862718968716.png"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Solicitud o formulario presentada por el interesado (En el cual deberá otorgar poder a un profesional del derecho para continuar tramitando su solicitud) o a través de apoderado legal que acredite carta poder o fotocopia de escritura de poder que faculte gestiones administrativas, ambas debidamente autenticadas. Solicitud que deberá contener los datos de: teléfono móvil, fijo y correo electrónico del solicitante, representante legal y del apoderado legal, así como de los demás requisitos establecidos en la ley de procedimiento administrativo."
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638765910605964980.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638765910605964980.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Fotocopias de documentos constitutivos del solicitante. a. Comerciante Individual; i. Documento Nacional de Identidad (DNI) , RTN Numérico y Escritura de Constitución como Comerciante Individual b. Empresa Constituida como Sociedad Mercantil; i. Documento Nacional de Identidad (DNI) y RTN del representante legal, RTN, Constancia de Solvencia Tributaria emitido por El Servicio de Administración de Renta SAR y Constancia de no tener cuentas pendientes con el estado vigente extendida por la Procuraduría General de la Republica. PGR, de la empresa mercantil, Escritura de Constitución de Sociedad Mercantil. (Documento en el cual conste el poder otorgado por la sociedad mercantil a su representante legal) c. Cooperativa i. Documento Nacional de Identidad (DNI) y RTN del representante legal, RTN de la Cooperativa y resolución donde se otorga la personalidad jurídica de la cooperativa."
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638765910705734833.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638765910705734833.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "El Solicitante (persona natural), o el representante legal de la empresa mercantil deberán acreditar: a. Constancia de no poseer Antecedentes penales emitidos por el poder Judicial, en caso de Solicitud para Permiso Especial deberá además presentar Constancia de antecedentes Policiales. b. Constancia de Solvencia Tributaria emitido por El Servicio de Administración de Renta SAR. c. Constancia de no tener cuentas pendientes con el estado vigente extendida por la Procuraduría General de la Republica. PGR."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638765910831231700.png"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Fotocopia del comprobante Tasa Única Anual Vehicular (boleta de revisión) vigente de la unidad propuesta, Dicha unidad debe de cumplir con lo establecido en la ley de Transporte Terrestre de Honduras, artículo 23 referente a los límites de antigüedad de los vehículos que se autorizan para la prestación del servicio de transporte terrestre, así como lo dispuesto en el artículo 48 párrafo primero para la revisión físico-mecánico, además de lo establecido en el párrafo tercero reformado en el que se establece que la unidad que ingresa a brindar el servicio debe ser menos antigua y en mejores condiciones que la que sustituye."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638765911022421512.png"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Cuando el propietario del vehículo es persona diferente a la del titular del certificado de operación deberá presentar contrato de arrendamiento con opción a compra (se exceptúa a las unidades que sean de propiedad de los aliados de las cooperativas de transporte)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638763485058019813.png"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Guía de Revisión física, técnica y mecánica de la unidad de transporte terrestre (Formulario F-TT-03 correspondiente al tipo unidad)"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa, Francisco Morazan"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Boulevard Juan Pablo II, frente a INDUFESA"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2240-4400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Instituto Hondureño del Transporte Terrestre"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Permiso de Explotación"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificado de operacion"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Permiso Especial"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Contrato de concesion"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://transporte.gob.hn/Contactanos.php",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://transporte.gob.hn/Contactanos.php"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "PRIMERA VEZ DE PERMISO DE EXPLOTACION Y CERTIFICADO DE OPERACIÓN PARA EL SERVICIO DE TRANSPORTE PÚBLICO O PERMISO ESPECIAL (PRIVADO) DE CARGA GENERAL"
+}

@@ -1,0 +1,278 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Especialistas en Gestión de Becas"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Informar a los hondureños sobre las becas internacionales"
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Ciudadanía en general"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Los ciudadanos hondureños se abocan a la Ventanilla de becas de forma presencial y hacen sus consultas sobre las ofertas académicas que ofrecen los cooperantes internacionales."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 268,
+ "institucion": "Secretaría de Relaciones Exteriores y Cooperación Internacional",
+ "modalidad": "Presencial",
+ "numero": "268",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "SRECI-Ventanilla de Becas"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Ciudadano se aboca a la Ventanilla de Becas de forma presencial para hacer sus consultas"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "SRECI-Ventanilla de Becas"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Encargado de la Ventanilla, brinda la información"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "SRECI-Ventanilla de Becas"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Ciudadano recibe la información de becas"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Consultas e Información de Becas de Doctorado"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Consultas e Informacion de Becas de Maesrtría"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Consultas e Informacion de Becas de Pregrado"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Consultas e Informacion de Becas de Cursos o Seminarios Virtuales"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa M.D.C."
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Blvd Kuwait contiguo a la Corte Suprema de Justicia , Antigua Casa Presidencial, Tegucigalpa, Honduras"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "22360200"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Secretaria de Relaciones Exteriores y Cooperación Internacional"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Información general sobre becas"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://sreci.gob.hn/becas-doctorados",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sreci.gob.hn/becas-doctorados"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://sreci.gob.hn/becas-maestrias",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sreci.gob.hn/becas-maestrias"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://sreci.gob.hn/becas-pregrados",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sreci.gob.hn/becas-pregrados"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://sreci.gob.hn/becas-seminarios-cursos",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sreci.gob.hn/becas-seminarios-cursos"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://sreci.gob.hn/contactenos",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sreci.gob.hn/contactenos"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Solicitud de información de becas internacionales"
+}

@@ -1,0 +1,171 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Oficial de Beneficios"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Otorgar en base a la normativa vigente los beneficios previsionales que el INPREUNAH ofrece a sus participantes, atendiendo de manera oportuna las solicitudes presentadas."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Participantes Activos, Voluntarios, Beneficiarios"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Corresponde a la solicitud que presentan los participantes del INPREUNAH para el otorgamiento de los diferentes beneficios previsionales que otorga el Instituto, debiendo cumplir los requisitos mínimos que establece el Reglamento General vigente."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 27,
+ "institucion": "Instituto de Previsión Social de los Empleados de la Universidad Nacional Autónoma de Honduras",
+ "modalidad": "Presencial",
+ "numero": "27",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficina Principal INPREUNAH"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Solicitud de Beneficios Previsionales y carga de documentación requerida"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638773730932383185.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638773730932383185.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Documentación Requerida"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Col. Alameda 3ra. Ave. Tiburcio Carias Andino, sendero suberina, Edificio Warren Valdemar Ochioa"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2235-3261; 2235-3265; 2235-3267"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREUNAH"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Resolución de Aceptación o Denegacion del Beneficio Previsional"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://inpreunah.hn/inpreunah/beneficios-previsionales/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://inpreunah.hn/inpreunah/beneficios-previsionales/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Solicitud de Beneficios Previsionales"
+}

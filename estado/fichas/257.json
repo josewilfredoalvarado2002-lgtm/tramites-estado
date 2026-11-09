@@ -1,0 +1,198 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Secretaría General"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "La visa de permanencia Diplomática, oficial y especial, es una facilidad que se les otorga a los funcionarios internacionales para simplificar su permanencia en el país, sus entradas y salidas de Honduras, en el marco de la Convención de Viena de Relaciones Diplomáticas, en el tiempo de la vigencia de la visa."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Miembros del Cuerpo Diplomático y de Organismos Internacionales acreditados en Honduras"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Sello de Visa de permanencia Diplomática, Oficial y Especial para los Funcionarios Diplomáticos y miembros de Organismos Internacionales acreditados en Honduras"
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 257,
+ "institucion": "Secretaría de Relaciones Exteriores y Cooperación Internacional",
+ "modalidad": "Presencial",
+ "numero": "257",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Recepción y revisión de la documentación , Registro de número de visa en el Drive, Sellado del Pasaporte"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Firma de la Visa de Permanencia por la autoridad, Secretaría General."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Nota Verbal de la Embajada u Organismos, solicitando la Permanencia especial"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637992860449909158.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637992860449909158.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Nota Verbal de la Embajada u Organismos, solicitando la Permanencia especial"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa M.D.C."
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Blvd Kuwait contiguo a la Corte Suprema de Justicia , Antigua Casa Presidencial, Tegucigalpa, Honduras"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "22360200,223603"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina de la Unidad de Pasaportes, SRECI /Secretaria de Relaciones Exteriores y Cooperación Internacional"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Visa de Permanencia Especial, estampada en el pasaporte del funcionario"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://sreci.gob.hn/contactenos",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sreci.gob.hn/contactenos"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Visas de Permanencia Diplomáticas, Oficiales y Especiales"
+}

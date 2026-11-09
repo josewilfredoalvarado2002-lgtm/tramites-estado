@@ -1,0 +1,524 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Jefe del Departamento de Atención al Docente"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Otorgar un préstamo de consumo pre aprobado a participantes activos o pensionados, con oportunidad de cancelación en un solo pago de capital, correspondiente al décimo tercer o décimo cuarto mes de salario."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Docentes activos del sector oficial y docentes jubilados o pensionados"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Docentes se presentan a los diferentes puntos de atención a nivel nacional a solicitar el préstamo personal \"Rapibono\", el cual es el adelanto del bono que se percibirá en los meses de junio o diciembre, según el ciclo que corresponda."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 1030,
+ "institucion": "Instituto de Previsión del Magisterio",
+ "modalidad": "Presencial",
+ "numero": "1030",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Ventanilla de Atención al Docente"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Recibir al solicitante y verificar tipo de gestión."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Ventanilla de Atención al Docente"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Validar precalificación de la solicitud en el sistema."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Ventanilla de Atención al Docente"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Verificar el estatus en precalificado y notificar al solicitante."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Ventanilla de Atención al Docente"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Notificar al Docente el monto de préstamo y datos de la liquidación del préstamo Rapibono."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Ventanilla de Atención al Docente"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Generar los documentos de préstamo y solicitar firma del prestatario."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Ventanilla de Atención al Docente"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Elaborar y digitalizar el expediente de préstamo Rapibono."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Ventanilla de Atención al Docente"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Revisar expediente de préstamo Rapibono."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Ventanilla de Atención al Docente"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Recibir y revisar reporte de lote de expedientes de préstamo Rapibono otorgados."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "9",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Ventanilla de Atención al Docente"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Revisar en el canal de documentos el expediente digital de préstamo y contra reporte."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "10",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Departamento de Operaciones"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "El Depto. de Operaciones apertura el préstamo en el sistema byte y elabora solicitud de transferencia que remite a Tesorería"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "11",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Unidad de Tesorería"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "La Unidad de Tesorería debe remitir al cierre diario, el reporte de transferencias y cheques correspondientes a desembolso de préstamos al Departamento de Atención al Docente y sus Oficinas Regionales"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "12",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Ventanilla de Atención al Docente"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Remitir Pagaré Original y Documento de Privado original a Custodia de Valores."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "13",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Ventanilla de Atención al Docente"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Remitir expediente de préstamo al Departamento de Archivo y Digitalización."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Fotocopia legible del Documento Nacional de Identificación (DNI)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Fotocopia de la libreta de banco (solo docentes del sector oficial)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Tener más de doce (12) cotizaciones al momento de solicitar el préstamo en EL INPREMA."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "No tener mora en otro tipo de préstamos"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "No tener un rapibono activo"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Contar con un ingreso mensual del sistema educativo o planilla de pensionados y jubilados."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Blv Centro América"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "22901400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina principal"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "San Pedro Sula"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "2 calle, 10 avenida N.O"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "22901400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina regional S.P.S"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Santa Rosa de Copán"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio Miraflores, Centro Comercial Uniplaza"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "22901400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina regional S.R.C."
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "La Ceiba"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Ave. Morazán, Centro Comercial Uniplaza"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "22901400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREMA Oficina regional La Ceiba"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Liquidación"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Pagaré"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Documento Privado"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Solicitud"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://inprema.gob.hn/contacto/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://inprema.gob.hn/contacto/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Otorgamiento de Préstamo Personal \"Rapibono\""
+}

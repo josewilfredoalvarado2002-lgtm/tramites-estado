@@ -1,0 +1,333 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Gerente de Pasaportes"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Que el solicitante pueda regresar a su país de residencia"
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Población hondureña"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Emisión de permiso especial de viaje"
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 351,
+ "institucion": "Instituto Nacional de Migración",
+ "modalidad": "Presencial",
+ "numero": "351",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Instituto Nacional de Migración"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Presentarse al INM"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Instituto Nacional de Migración"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Presentar los requisitos establecidos"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Instituto Nacional de Migración"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Emitir permiso"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Instituto Nacional de Migración"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Entrega de permiso especial de viaje"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637998763566761891.jpg"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Carnet de residencia"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637997821644073914.jpg"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Pasaporte expirado"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637997821450464247.jpg"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Recibo de enrolamiento"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637997821139597674.jpg"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Boleto aéreo"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637997820787552427.jpg"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Partida de nacimiento"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637997820647351937.jpg"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Fotografías"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637997820484605732.jpg"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Pago en Banco de T.G.R"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637997820223661417.jpg"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Solicitud del permiso"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "CCG, cuerpo bajo C"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Centro Cívico Gubernamental"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Permiso especial de viaje en papel de seguridad"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://inm.gob.hn/contactenos.html",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://inm.gob.hn/contactenos.html"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Solicitud de permiso especial de viaje"
+}

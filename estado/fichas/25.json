@@ -1,0 +1,418 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Gerente de Prestamos y Seguros"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Prestamos: Iniciar la gestión de prestamos para lograr un preanálisis / Previsión Social: Atender Gestiones a los participantes del INPREUNAH"
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Participa Activos , Jubilados, Pensionados"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Prestamos: Solicitar Prestamos Personales, Alivio de Deuda e Hipotecarios / Previsión Social: Gestionar Beneficios previsionales, participante voluntario, reintegro de valores, historial de cotizaciones y constancias"
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 25,
+ "institucion": "Instituto de Previsión Social de los Empleados de la Universidad Nacional Autónoma de Honduras",
+ "modalidad": "Presencial",
+ "numero": "25",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Atención al cliente"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Realizar cita en el sistema, para que se le asigne un Ticket, llene las casillas con la información solicitada"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Atención al cliente"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Llenar solicitud con los datos completos y adjuntar documentación solicitada"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Atención al cliente"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Análisis de documentación y solicitud"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Gerencia de Préstamos"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Aprobación de la solicitud"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638398908666793606.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638398908666793606.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Llenar y firmar solicitud de préstamo de hipotecario y adjuntar copia"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Ser mayor de 21 y menor de 65 años"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Haber cotizado como mínimo tres (3) años al INPREUNAH"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia original actualizada de sueldo con deducciones (UNAH), con vigencia de un mes"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Autorización firmada de solicitud para consultar la central de riesgos del sistema bancario nacional"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Llenar formato de identificación del afiliado"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia original actualizada de Liberación de Gravamen del inmueble, con vigencia de tres meses, (Inst. de la propiedad)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Autorización para Escriturar con notario personal (En caso de no realizar dicho trámite con INPREUNAH)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Croquis de la ubicación del bien a hipotecar, el cual deberá incluir fotografía de la vivienda y en el caso de compra de terreno fotografía de una referencia próxima al mismo"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Estado de cuenta de aportaciones (IPU)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Estados de cuenta de Prestamos vigentes IPU. (En caso de tenerlos)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Solicitud de seguros, vida y daños (Formatos entregados en INPREUNAH)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Pago de avaluó L. 1,800.00. (No son reintegrables si los ingenieros realizan dicho proceso; en caso de ser construcción o mejoras, deberá pagar a los Ingenieros L. 600.00 adicionales por cada visita realizada a la obra). Si el bien se encuentre fuera de la Ciudad, el prestatario deberá pagar en efectivo a los Ingenieros valuadores L 1,000.00 por concepto de viáticos, (valor puede variar dependiendo el lugar)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Pago de Gastos de trámite, (Valor 0.50% sobre el monto a otorgar)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Pago de Escrituración (En coso de realizar escrituración con INPREUNAH, se realizara una vez haya sido aprobado por las dependencia correspondientes)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Si el bien inmueble fue adquirido con fondos de FOSOVI, debe adjuntar autorización de FOSOVI para vender"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Si el bien inmueble fue adquirido con fondos de FOSOVI, debe adjuntar autorización de FOSOVI para vender"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Si el préstamo es mancomunado, debe presentar una solicitud por cada uno y adicionar constancia de sueldo con deducciones, acta de matrimonio, fotocopia de la identidad y el RTN numérico del cónyuge"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Col. Alameda 3ra. Ave. Tiburcio Carias Andino, sendero suberina, Edificio Warren Valdemar Ochoa"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2235-3261; 2235-3265; 2235-3267"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREUNAH"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Otorgamiento de prestamos Hipotecarios"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://inpreunah.hn/inpreunah/prestamos/prestamos-hipotecarios/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://inpreunah.hn/inpreunah/prestamos/prestamos-hipotecarios/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://inpreunah.hn/inpreunah/prestamos/calculo-cat/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://inpreunah.hn/inpreunah/prestamos/calculo-cat/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://inpreunah.hn/inpreunah/prestamos/formato-para-prestamos/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://inpreunah.hn/inpreunah/prestamos/formato-para-prestamos/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Solicitud de Préstamo Hipotecario"
+}

@@ -1,0 +1,408 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "http://juno.sefin.gob.hn/PAMEH/"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Jefe de Registro Exonerados"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Hacer constar que los obligados tributarios inscritos puedan gozar de una exoneración."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Los obligados tributarios amparados en las diferentes Leyes Tributarios del pais, asi como en convenios Internacionales."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Es el registro donde se encuentran inscritos todos los obligados Tributarios que gozan de los beneficios fiscales establecidos en el Marco Legal vigente."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 457,
+ "institucion": "Secretaría de Finanzas",
+ "modalidad": "En línea",
+ "numero": "457",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección General y Control de Franquicias Aduaneras"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Solicitar la creación de usuario, en las oficinas de la Dirección General y Control de Franquicias Aduaneras (DGCFA), para Ingresar la información en el sistema PAMEH."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección General y Control de Franquicias Aduaneras"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Presentar documentación en ventanilla de la DGCFA"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección General y Control de Franquicias Aduaneras"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Revisión y elaboración de la constancia de registro de exonerados por parte de la unidad de registro de exonerados."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección General y Control de Franquicias Aduaneras"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Entrega de la constancia de registro de exonerados al obligado tributario, en ventanilla de la DGCFA"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Todas las solicitudes deberán ser presentadas aseguradas mediante fastener en su respectivo folder y debidamente foliadas."
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638279724877087192.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638279724877087192.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Generar el Reporte de PAMEH firmado por el Apoderado Legal (Formulario)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Acompañarlo con información de Proyecto de inversión inicial su vigencia a ejecutar; debe Presentar dicha información anualizada."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Acompañarlo con información sueldos y salarios por categoría y respectivas retenciones en la fuente del Impuesto sobre la Renta incluyendo los no sujetos a retención por el mínimo exento; presentar información actualizada por tipo de proyecto con el detalle mensual de sueldos de empleados permanentes o/y temporales, (último año, desglosando la cantidad de empleados por mes con el monto de sueldos totalizado)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Escrito de Solicitud de Inscripción del Registro (Incluir RTN, Teléfono y Correo Electrónico del Apoderado Legal)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Carta Poder o Poder general o especial para pleitos, debidamente autenticado."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Solvencia Fiscal Vigente"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "RTN de la Institución"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "RTN del Representante Legal"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "RTN Apoderado Legal"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Carné de colegiación vigente (Colegio de Abogados de Honduras)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Personería jurídica, debidamente autenticada (cuando es inscripción por primera vez o cuando se produzca la modificación, caso segundo, el cual deberá presentarse a su renovación)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancias de Junta Directiva vigente de DIRRSAC."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Comprobante de pago del TGR-1 por la cantidad de 200.00 lempiras (Rubro: 12121). Para generar el recibo de pago pulsar el botón Más Información e ir al enlace Aplicación."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Autentica de copias (cuando es inscripción por primera vez)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "CD que incluya todos los documentos escaneados en PDF."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Avenida Cervantes, Barrio El Jazmín, Centro Histórico"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2222-1811"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Secretaría de Finanzas Edificio Principal"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "San Pedro Sula"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Oficinas de la SAR. Barrio el Centro, 1 calle 1 avenida frente al Ferrocarril Nacional"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Regional S.P.S- Secretaría de Finanzas"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "http://juno.sefin.gob.hn/PAMEH/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "http://juno.sefin.gob.hn/PAMEH/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Aplicación",
+       "https://tgr1.sefin.gob.hn/tgr1/tgr",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://tgr1.sefin.gob.hn/tgr1/tgr"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Registro de Exonerados (PAMEH)"
+}

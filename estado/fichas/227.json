@@ -1,0 +1,211 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Cónsul General, Cónsul y Vice Cónsul"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Este documento sirve para hacer gestiones como la preparación del entierro y funeral, arreglar la pensión, gestiones legales como herencias y registros estadísticos en el país."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Hondureños en el Extranjero"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "El certificado de defunción es un documento oficial, expedido por las autoridades competentes en las que consta el día y hora de la muerte de la persona."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 227,
+ "institucion": "Secretaría de Relaciones Exteriores y Cooperación Internacional",
+ "modalidad": "Presencial",
+ "numero": "227",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficina Consular"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Agendar cita en la página: http://citaconsular.sreci.gob.hn/citaconsular/pages/layout/CitaConsular.php"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficina Consular"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "El solicitante deberá acudir obligatoriamente a la Oficina Consular./ En el caso que una tercera persona es quien efectuará la inscripción de defunción ante el Registro Nacional de Honduras, el solicitante deberá realizar una Carta Poder en la Oficina Consular."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficina Consular"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Certificado de Defunción original emitida por la Oficina Consular./ Carta Poder (cuando la inscripción la realice una tercera persona) Secretaría de Relaciones Exteriores y Cooperación Internacional Autenticar la documentación en la Unidad de Autenticas. Tiempo del Tramite: Un día NO SE REQUIERE DE TRAMITADORES"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Registro Nacional de las Personas"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Ir al Registro Nacional de las Personas, Presentar la documentación autenticada ante el Registro Civil Municipalidad de su jurisdicción Costo: Gratuito Tiempo del Tramite: Inmediato."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Presentación de Documentos Legales."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Agendar cita consular en: citaconsular.sreci.gob.hn"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "En donde se cuente oficina consular de Honduras"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Consulado General/Consulado/Sección Consular"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificación de Defunción"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Aplicación",
+       "http://citaconsular.sreci.gob.hn/citaconsular/pages/layout/CitaConsular.php",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "http://citaconsular.sreci.gob.hn/citaconsular/pages/layout/CitaConsular.php"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Certificación de Defunción"
+}

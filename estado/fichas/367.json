@@ -1,0 +1,273 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Gerente de Pasaportes"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Emitir el documento de viaje a toda la población hondureña que constituye uno de los medios probatorios de la nacionalidad hondureña y de la identidad del titular."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Población hondureña"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "El Pasaporte es el documento de viaje aceptado internacionalmente y que en el extranjero constituye uno de los medios probatorios de la nacionalidad hondureña y de la identidad del titular."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 367,
+ "institucion": "Instituto Nacional de Migración",
+ "modalidad": "Presencial",
+ "numero": "367",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Agencia bancaria"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Comprar la cita en el banco"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Instituto Nacional de Migración"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Presentarse el día que corresponda la cita"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficial de pasaportes"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Aprobación de solicitud"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficial de pasaportes"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Personalización y control de calidad"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficial de pasaporte"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Entrega de pasaporte"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Tramite de pasaporte para mayores de 21 años. DNI ( original y copia) y Recibo de pago realizado en el banco de su elección"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Tramite de pasaporte para menores de 21 años. DNI original y copia de ambos padres, DNI del menor solicitante y recibo de pago efectuado en el banco de su elección"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637997837878591022.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637997837878591022.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Tramite de pasaporte para menores de 18 años. Partida de nacimiento origina del menor solicitante"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "CCG, cuerpo bajo C"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Centro Cívico Gubernamental"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "San Pedro Sula"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Boulevard del norte colonia jardines del norte frente al gran bazar"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Regional San Pedro Sula"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Libreta de pasaporte personalizada"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://inm.gob.hn/pasaportes.html",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://inm.gob.hn/pasaportes.html"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Solicitud de pasaportes"
+}

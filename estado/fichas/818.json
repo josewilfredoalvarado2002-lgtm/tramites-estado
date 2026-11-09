@@ -1,0 +1,312 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Oficial de presupuesto y planificación"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Generar espacios públicos para que niños, jóvenes y adultos mayores puedan recrearse y realizas actividades físicas, creando un ambiente de sana convivencia en seguridad ciudadana."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Municipalidades, Patronatos y Pobladores Organizados."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Solicitud del interesado dirigida al Director Nacional presentando por escrito firmada y sellada, que contenga especificaciones técnicas del terreno o lugar propuesto para la construcción del parque, documentos legales del predio e información general de la comunidad beneficiada con la obra."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 818,
+ "institucion": "Dirección Nacional de Parques y Recreación",
+ "modalidad": "Presencial",
+ "numero": "818",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Municipalidades o patronatos"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Solicitud para construcción de parque o cancha multiusos por parte de municipalidades o patronatos organizdos"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección Nacional de Parques y Recreación"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Inspección del terreno por parte de los ingenieros de la Unidad Técnica institucional de la Dirección Nacional de Parques y Recreación"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección Nacional de Parques y Recreación"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Elaboración de planos y presupuesto"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección Nacional de Parques y Recreación"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Socialización de aceptación de términos para la construcción de parques y áreas recreativas con enfoque de inclusión de genero, dirigido a patronatos, municipalidades, lideresas de municipios, red de hombres, consejos territoriales, etc."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección Nacional de Parques y Recreación"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Acta de aceptación de planos, diseño y presupuesto para parques y áreas recreativas"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección Nacional de Parques y Recreación"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Actas de Compromiso para la administración, mantenimiento y señalización de áreas recreativas"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección Nacional de Parques y Recreación"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Licitación y adjudicación de proyectos para la construcción y supervisión de obra de áreas recreativas construidas y recuperación y habilitación de espacios públicos"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección Nacional de Parques y Recreación"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Firma de contrato o convenio"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "9",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Empresa adjudicada"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Inicio de obra"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637995447846483049.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637995447846483049.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Acta de Compromiso firmada"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Solicitud del interesado dirigida al Director Nacional de Parques y Recreación, por escrito, firmada y sellada"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Adjuntar a la solicitud especificaciones técnicas del terreno propuesto para la construcción del parque, documentos legales del predio e información general de la comunidad beneficiada con la obra"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Col. Ruben Dario, Distrito Choluteca, Casa 2109"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "22358129"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Dirección Nacional de Parques y Recreación"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Parque Recreativo. Obra finalizada"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "enlaces": [],
+    "lineas": [
+     "No hay enlaces registrados",
+     "No se han agregado enlaces adicionales para este trámite"
+    ],
+    "tipo": "texto"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Solicitud de Construcción de Parque y canchas multiusos"
+}

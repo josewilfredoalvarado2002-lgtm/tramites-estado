@@ -1,0 +1,260 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://tgr1.sefin.gob.hn/tgr1/tgr"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Jefe de Ingresos"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Contribuir al fortalecimiento y operación institucional por medio de las recaudaciones de Ingresos varios, contando con el servicio del pago electrónico puesto en la plataforma del TGR-1 a disposición para que los ciudadanos puedan efectuar sus pagos por medio de tarjetas de crédito o débito, simplificando el proceso para facilitar al ciudadano el pago del TGR-1"
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Son todas aquellas personas que requieren un servicio del estado y este se da atravez de un pago de un recibo del TGR-1"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Este servicio le permitirá realizar los pagos de los recibos TGR-1 para aquellas instituciones que trabajen bajo la modalidad del TGR-1 electrónico.",
+  "Los ciudadanos que utilicen el medio de pago TGR-1 en LINEA, deben aceptar las condiciones de pago de costos por el uso del servicio de pago por medio electrónico, debe considerar que esta dando su consentimiento y queda sujeto, tras haber leído, entendido y aceptado los términos establecidos. Es necesario hacer el trámite dentro de los horarios de atención establecidos. Pulsar el botón Más Información e ir al enlace Informativo, para ver video instructivo para pago de TGR-1 por medios electrónicos."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 919,
+ "institucion": "Secretaría de Finanzas",
+ "modalidad": "En línea",
+ "numero": "919",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Tesorería General de la República"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Buscar en el motor de búsqueda como TGR-1 o Ingresar directamente en el navegador a: www.sefin.gob.hn. Ubicarse en la pestaña SEFIN EN LÍNEA y seleccionar GENERAR TGR1"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Tesorería General de la República"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Llenar los campos con los datos solicitados y seleccione AGREGAR RUBRO"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Tesorería General de la República"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Pulse el botón GENERAR, ubicado en la parte superior derecha de su pantalla"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Tesorería General de la República"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Al verificar que la información ingresada en correcta, se genera el recibo el cual se debe imprimir para pagar en una sucursal bancaria o puede realizar su pago en línea con tarjeta de crédito o débito"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Solicita el servicio o tramite, por el que se efectuó el pago, en el ente gubernamental correspondiente"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Contar con conexión a internet"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Avenida Cervantes, Barrio El Jazmín, Centro Histórico"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2220-0111"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Secretaría de Finanzas Edificio Principal"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "San Pedro Sula"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Oficinas de la SAR. Barrio el Centro, 1 calle 1 avenida frente al Ferrocarril Nacional"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Regional S.P.S- Secretaría de Finanzas"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Recibo TGR-1"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://tgr1.sefin.gob.hn/tgr1/tgr",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://tgr1.sefin.gob.hn/tgr1/tgr"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.youtube.com/watch?v=OBE1vm0qYK0",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.youtube.com/watch?v=OBE1vm0qYK0"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Recibo TGR-1 en línea"
+}

@@ -1,0 +1,392 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://sol.pdihonduras.gob.hn/consucoop/web/ciudadano/#/inicio"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Gerente Administrativo y Financiero"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "El objetivo de este proceso es garantizar que las cooperativas cumplan con sus obligaciones financieras de manera transparente y conforme a lo establecido en el artículo 105 de la Ley de Cooperativas de Honduras"
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Cooperativas a Nivel Nacional"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Determinar en base a las cifras definitivas de los Estados de Situación Financiera, el valor que las cooperativas deben transferir a CONSUCOOP."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 996,
+ "institucion": "Consejo Nacional Supervisor de Cooperativas",
+ "modalidad": "En línea",
+ "numero": "996",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Pasos para la Solicitud de Cálculo de Aporte Obligatorio"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "1. Acceso y Solicitud en Línea: La cooperativa o su representante legal debe acceder a la plataforma de trámites digitales de CONSUCOOP y seleccionar el trámite."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "2. Llenado del Formulario: Completar el formulario de solicitud en línea con todos los datos de la cooperativa, incluyendo su información de contacto, registro y el periodo fiscal para el cual se solicita el cálculo del aporte."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "3. Carga de Documentos: Cargar los documentos previamente preparados en formato digital."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "4. Envío de la Petición: Una vez verificada la información y cargados los documentos, enviar la solicitud a través del sistema. El sistema generará un número de expediente o de seguimiento."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "5. Revisión y Cálculo: El área responsable del CONSUCOOP (Gerencia Administrativa y Financiera) recibe la solicitud y los estados financieros para realizar el cálculo del aporte obligatorio."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "6. Notificación y Pago: Una vez determinado el monto, la cooperativa será notificada por el medio que determine la plataforma (correo electrónico o a través del mismo portal de trámites) para proceder con el pago del aporte obligatorio."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Pasos para Certificación de Cuerpos Directivos"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "9",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "1. Acceso al Portal: El Representante Legal o apoderado ingresa al sistema de trámites en línea de CONSUCOOP o al PDI."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "10",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "2. Inicio del Trámite: Selecciona el trámite de \"Inscripción y Emisión de Certificación de Cuerpos Directivos\"."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "11",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "3. Carga de Documentos: Carga todos los documentos listados en la sección I, asegurándose de que el tamaño y formato de cada archivo sea el correcto."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "12",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "4. Solicitud y Pago: Envía la solicitud y genera la orden de pago (tasa de emisión de Certificación, que suele ser de L. 150.00, más timbres adicionales por documento)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "13",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "5. Pago y Comprobante: Realiza el pago en línea o en el banco autorizado (el sistema no lo valida automáticamente por lo que debes carga el comprobante de pago)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "14",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "6. Seguimiento y Emisión: Se realiza el seguimiento del expediente en línea. Una vez aprobado, el sistema de CONSUCOOP emite la certificación."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "15",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "7. Descarga del Documento: La cooperativa puede descargar la Certificación de la Junta Directiva/Vigilancia directamente desde el portal. Estos documentos emitidos digitalmente suelen contar con un código QR para su validación en línea."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638769441092127696.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638769441092127696.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Presentar solicitud para la realización del cálculo de Aporte Obligatorio debidamente completado."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Estados Financieros firmados y sellados por las autoridades de la cooperativa y el contador"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Los Estados Financieros deberán incluir el timbre Cooperativista y timbre del Colegio de Peritos Mercantiles o Colegio de Licenciados en Contaduría Pública COHPUCP"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa M.D.C"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Boulevard Kuwait, Edificio San José, Contiguo a Comisión Nacional de los Derechos Humanos."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2235-9281, 2235-9279, 2235-9275 y 2235-9276"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Principal CONSUCOOP"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "San Pedro Sula"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio Paz Barahona, cuarta avenida, entre 15 y 16 calle continuo a las bodegas de CADELGA"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2557-2577, 2557-2578, 2557-2630, 2557-8907"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Regional CONSUCOOP"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Choluteca"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio el Centro, Plaza Bella Vista segundo nivel, una cuadra debajo de la terminal de buses Mi Yelvita"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2780-2556"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Regional CONSUCOOP"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Cálculo de Aporte Obligatorio"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://sol.pdihonduras.gob.hn/consucoop/web/ciudadano/#/inicio",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sol.pdihonduras.gob.hn/consucoop/web/ciudadano/#/inicio"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.sigob.org/guias/HN/CONSUCOOP/SOL/Solicitud_calculo_aportes_CONSUCOOP.html",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.sigob.org/guias/HN/CONSUCOOP/SOL/Solicitud_calculo_aportes_CONSUCOOP.html"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Petición de cálculo de aporte"
+}

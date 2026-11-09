@@ -1,0 +1,303 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Oficina de Firma Electrónica"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Autorizar el funcionamiento de las autoridades que prestan servicios de creación y emisión de firmas y certificados electrónicos."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Toda persona natural o jurídica."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Acreditación de las empresas prestadoras de servicios de certificación."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 470,
+ "institucion": "Instituto de la Propiedad",
+ "modalidad": "Presencial",
+ "numero": "470",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Página web del IP."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "1. Completar, firmar y descargar el formulario de acreditación en pdf."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Depende el usuario."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "2. Adjuntar documentos necesarios e indispensables para la autorización enmarcados en el artículo 11 de la ley, 23 del reglamento de la Ley Sobre Firmas Electrónicas."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Página web del IP."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "3. Descargar, imprimir y pagar el recibo por la presentación de la solicitud."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficinas del Instituto de la Propiedad / Dirección General de Propiedad Intelectual"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "4. Presentación de la solicitud en físico."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficinas del Instituto de la Propiedad / Dirección General de Propiedad Intelectual"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "5. Espera la evaluación de los requisitos y de la competencia técnica."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficinas del Instituto de la Propiedad / Dirección General de Propiedad Intelectual"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "6. Pago por acreditación (dicho pago sólo se realizará al haber obtenido resolución favorable de acreditación)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficinas del Instituto de la Propiedad / Dirección General de Propiedad Intelectual"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "7. Retiro del certificado de acreditación."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "1. Capacidad económica y financiera (solidez y solvencia), recurso humano idóneo."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "2. Capacidad y elementos técnicos (equipos, programas informáticos y centro de datos)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "3. Disponibilidad de la información para los firmantes (acceso)."
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637993706502740287.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637993706502740287.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Formulario de Acreditación PSC."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Centro Cívico Gubernamental, Primer Nivel, Cuerpo Bajo C."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "22428897"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Instituto de la Propiedad / Dirección General de Propiedad Intelectual"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificado de acreditación de PSC."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.ip.gob.hn/direcciones/propiedad-intelectual/menu-propiedad-intelectual/firmas-electronicas",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.ip.gob.hn/direcciones/propiedad-intelectual/menu-propiedad-intelectual/firmas-electronicas"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Firma Electrónica"
+}

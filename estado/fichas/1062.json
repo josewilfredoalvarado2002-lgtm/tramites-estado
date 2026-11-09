@@ -1,0 +1,234 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://sistemas.aduanas.gob.hn/Pech/#/plataforma/contrato_adhesion/comerciante_individual"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Sección de Servicio al Obligado Tributario"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Formalizar la relación entre el usuario (importador, exportador, AFPAS, OEA, etc.) y la Administración Aduanera, estableciendo los términos y condiciones para el uso de los servicios y sistemas aduaneros."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Obligados Tributarios"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "El contrato de adhesión permite el acceso a plataformas como la Plataforma Electrónica de Comercio de Honduras (PECH). A través de esta plataforma, los usuarios pueden realizar diversas operaciones aduaneras de manera digital. Su propósito es formalizar la relación entre el usuario (importador, exportador, AFPAS, OEA, etc.) y la Administración Aduanera, estableciendo los términos y condiciones para el uso de los servicios y sistemas aduaneros."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 1062,
+ "institucion": "Administración Aduanera de Honduras",
+ "modalidad": "En línea",
+ "numero": "1062",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "enlaces": [],
+    "lineas": [
+     "No hay pasos registrados",
+     "Aún no se han definido los pasos para este trámite"
+    ],
+    "tipo": "texto"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Escritura de Constitución de Sociedad y sus modificaciones si las hubiera"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Poder de Representación, (Comerciante Individual o Persona Jurídica)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Registro Tributario Nacional de la Empresa (Comerciante Individual o Persona Jurídica)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Documento nacional de identificación (DNI)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Registro Tributario Nacional (RTN) del Representante Legal de la Empresa (Comerciante Individual o Persona Jurídica)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Nota: La documentación anterior debe estar en formato PDF previo a la generación del contrato de adhesión."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Distrito Central"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Centro Cívico Gubernamental, Torre 1, Piso 3, 13, 14, 15 BLVR. Juan Pablo II, Esquina República de Corea"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2240-0800"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Centro Cívico Gubernamental, Torre 1, Piso 3."
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "San Pedro Sula"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barriio Rio de Piedras 19 Avenida Sur Oeste, 8 calle, Corporativo 1908."
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Barriio Rio de Piedras"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Contrato de adhesión"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://sistemas.aduanas.gob.hn/Pech/#/plataforma/contrato_adhesion/comerciante_individual",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sistemas.aduanas.gob.hn/Pech/#/plataforma/contrato_adhesion/comerciante_individual"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Aplicación",
+       "https://pdihonduras.gob.hn/consulta/navigate/process/1124",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://pdihonduras.gob.hn/consulta/navigate/process/1124"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Contrato de adhesión comerciante individual"
+}

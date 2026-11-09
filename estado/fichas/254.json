@@ -1,0 +1,328 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Registrador Nacional de Cooperativas"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Inscribir a los Gerentes Generales de las Cooperativas que los posean para que las Cooperativas cuenten con la inscripción legal del Gerente General y todos sus requisitos legales debidamente cumplidos."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Cooperativas a nivel nacional"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Inscribir a los Gerentes Generales de las Cooperativas que los posean, verificando que cumplan con los requisitos necesarios de Ley y en aplicación a la Normativa prudencial para ellos emanada por Superintendencia de Ahorro y Crédito dependiente de CONSUCOOP."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 254,
+ "institucion": "Consejo Nacional Supervisor de Cooperativas",
+ "modalidad": "Presencial",
+ "numero": "254",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Registro Nacional de Cooperativas"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Presentar la solicitud de Inscripción de Gerente General mediante ventanilla electrónica/ físico."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Registro Nacional de Cooperativas"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Remisión de solicitud de Inscripción de Gerente General y adjuntar los requisitos en PDF"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Registro Nacional de Cooperativas"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Subsanación de requisitos faltantes."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Registro Nacional de Cooperativas"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Emisión de Certificación de Inscripción de Gerente General"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Registro Nacional de Cooperativas"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Entrega de la Certificación de Inscripción de Gerente General"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638768755427668181.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638768755427668181.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Solicitud de inscripción presentada por el representante o apoderado legal (en caso de ser mediante apoderado legal se deberá acompañar poder que acredite su condición como tal)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638768757858716705.jpeg"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Poder de administración otorgado por la junta directiva (original y copia)."
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638768770898954644.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638768770898954644.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Certificación de la sesión de junta directiva en la cual se nombró al gerente."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638768759146795371.jpeg"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Copia de la fianza (autenticada), “el monto de la caución debe ser establecida por la Junta Directiva, la cual no debe ser mayor del 20% de la póliza de dinero y valores para las cooperativas de ahorro y crédito y los otros subsectores un mínimo de diez mil lempiras y un máximo de quinientos mil lempiras; pudiéndolo rendir bajo un Título Valor a favor de la Cooperativa”."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638768759697770308.jpeg"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Pago en concepto de la emisión de la certificación de la inscripción del gerente. (L150.00)"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638768760294593628.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638768760294593628.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Pago de timbres cooperativo de L50, (1) por cada documento presentado."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa M.D.C"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Boulevard Kuwait, Edificio San José, Contiguo a Comisión Nacional de los Derechos Humanos."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2235-9281, 2235-9279, 2235-9275 y 2235-9276"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Principal CONSUCOOP"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificación de Inscripción de Gerente General"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://consucoop.hn/requisitos/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://consucoop.hn/requisitos/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Inscripción de Gerente General"
+}

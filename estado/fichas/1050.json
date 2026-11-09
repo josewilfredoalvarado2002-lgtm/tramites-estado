@@ -1,0 +1,291 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://sol.pdihonduras.gob.hn/inpreunah/web/ciudadano/#/inicio"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Área de Atención y Servicio al Participante."
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Entregar a los pensionados solicitantes su Constancia solicitada"
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Participantes activos, voluntarios y pensionados."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "El Instituto atiende las solicitudes de participantes a través de la emisión de constancias."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 1050,
+ "institucion": "Instituto de Previsión Social de los Empleados de la Universidad Nacional Autónoma de Honduras",
+ "modalidad": "En línea",
+ "numero": "1050",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Acceder y Seleccionar Trámite: Ingrese al portal de INPREUNAH y seleccione \"Solicitud de constancia\"."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Registrarse: Si no tiene usuario, haga clic en \"Persona natural\" para registrarse."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Completar y Validar: Llene los datos de registro, luego revise su correo electrónico y use el enlace de verificación para validar su cuenta."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Ingresar e Iniciar Trámite: Ingrese al portal Sol con su usuario y contraseña, e inicie un nuevo trámite indicando \"Solicitud de constancias\"."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Seleccione si actúa a nombre propio o con apoderado legal (si es apoderado, suba la carta de poder en PDF y datos)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Redacte la idea principal de su solicitud en el campo \"Detalle\". Suba la imagen de la parte frontal de su DNI."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Registre la foto del reverso de su DNI."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Complete los demás datos personales."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "9",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Su trámite estará \"sin presentar\". Dé doble clic, luego haga clic en \"Presentar para revisión\" y \"Confirmar\"."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "10",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Esté atento a la plataforma Sol y a su correo electrónico, donde recibirá notificaciones sobre el estado del trámite."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "11",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Espere hasta que el estado del trámite cambie a \"Aprobado\"."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "12",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Descargar Documento: Dé doble clic en el trámite, vaya a \"documentos adjuntos\" y dé clic en \"descargar\" para obtener su constancia."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Imagen de su Documento Nacional de Identificación (DNI)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Carnet de residencia o pasaporte"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa, municipio del Distrito Central"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Col. Alameda tercera avenida Tibúrcio Carias Andino, sendero Subirana, edificio Warren Valdemar Ochoa, Tegucigalpa M.D.C., Honduras C.A."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2239-9706"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Principal INPREUNAH"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia solicitada."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://sol.pdihonduras.gob.hn/inpreunah/web/ciudadano/#/inicio",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sol.pdihonduras.gob.hn/inpreunah/web/ciudadano/#/inicio"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.youtube.com/watch?v=orO2WwhWi3Y",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.youtube.com/watch?v=orO2WwhWi3Y"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Solicitud de Constancias"
+}

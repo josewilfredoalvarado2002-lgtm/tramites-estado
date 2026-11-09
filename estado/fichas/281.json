@@ -1,0 +1,427 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://tramitedigital.sgjd.gob.hn/SimpleA/tramites/disponibles"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "DIRECTOR(A) DIRRSAC"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "DIRRSAC es el ente responsable del Registro de todas las Asociaciones Civiles y el seguimiento de que las mismas cumplan con los fines y objetivos para las cuales fueron constituidas y autorizadas."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Organizaciones de Sociedad Civiles"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "• Revisión de solicitud en Plataforma Digital de la SGJD",
+  "• Si cumple con todos los requisitos se registra en sistema CODEX de DIRRSAC",
+  "• Si no tiene irregularidades la solicitud se procede a emitir la constancia y se le envía al apoderado legal de la Asociación a su plataforma."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 281,
+ "institucion": "Secretaría de Gobernación, Justicia y Descentralización",
+ "modalidad": "En línea",
+ "numero": "281",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección de Regulación, Registro y Seguimiento de Asociaciones Civiles. (DIRRSAC)"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Ingreso de información Registro de Solicitud"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección de Regulación, Registro y Seguimiento de Asociaciones Civiles. (DIRRSAC)"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Carga de Requisitos"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección de Regulación, Registro y Seguimiento de Asociaciones Civiles. (DIRRSAC)"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Generación de comprobante de Ingreso"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección de Regulación, Registro y Seguimiento de Asociaciones Civiles. (DIRRSAC)"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Revisión de información y requisitos de DIRRSAC"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección de Regulación, Registro y Seguimiento de Asociaciones Civiles. (DIRRSAC)"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Notificaciones al usuario"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección de Regulación, Registro y Seguimiento de Asociaciones Civiles. (DIRRSAC)"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Firma y autorización de Constancia"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección de Regulación, Registro y Seguimiento de Asociaciones Civiles. (DIRRSAC)"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Entrega de Constancia"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Solicitud de Registro de presentación de estados financieros e informe narrativo de actividades"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Denominación de la asociación civil"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Número de Registro de la asociación en DIRRSAC"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Carta Poder"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Estado de Resultado del periodo fiscal que reporta"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Balance General del periodo fiscal que reporta"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Informe Narrativo de actividades del año que reporta"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "RTN de la Asociación Civil"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Recibo TGR-1 por la cantidad de L. 200.00 para la emisión de la constancia solicitada, el cual debe ser pagado a nombre de la Asociación Civil."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Boulevard Juan Pablo, Centro Cívico Gubernamental \"José Cecilio del Valle\", Torre 2."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2242-8236"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "DIRRSAC"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Copan"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Edificio de la Gobernación Departamental, Calle Real Centenario, Frente al Parqueo de Pizza Hut"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "9525-2223"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "REGIONAL DIRRSAC"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Choluteca"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Calle Rusbel, Media cuadra al este del Registro de las Personas"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2782-0404"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "REGIONAL DIRRSAC"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "San Pedro Sula"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Edificio Gloria 16 ave. 8 calle S.O. Barrio Suyapa"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2558-4015, 2558-4018"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "REGIONAL DIRRSAC"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de Estado Financiero"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://tramitedigital.sgjd.gob.hn/SimpleA/tramites/disponibles",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://tramitedigital.sgjd.gob.hn/SimpleA/tramites/disponibles"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Constancia de Estados Financieros de Asociaciones Civiles Registradas en sistema de DIRRSAC"
+}

@@ -1,0 +1,377 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Gerente de Operaciones/Secretario General"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Regularizacion de flotas vehicular de los concesionarios de transporte publico de carga."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Concesionarios"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Incremento de unidades al permiso de explotacion en la modalidad de carga publica para la emision de certificados de operacion."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 67,
+ "institucion": "Instituto Hondureño de Transporte Terrestre",
+ "modalidad": "Presencial",
+ "numero": "67",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaria General/Gerencia de operaciones"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "1) El apoderado legal presenta la solicitud con todos sus requisitos en la plataforma SOL"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Gerencia de Operaciones/Secretaria General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "2) Ingreso a portal de apoderados legales en la plataforma IHTT"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaria General/Gerencia de operaciones"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "3) Asignacion y revision de documentos por oficial juridico de Secretaria General/Gerencia de Operaciones"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaria General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "4) Resolución de acto administrativo y revisión de resolución"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Unidad de cobranza"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "5) Generación de Aviso de cobro"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Unidad de Emisiones"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "6) Gestión técnica, impresión certificado de operación"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Gerencia de Operaciones"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "7) Entrega de certificado de operacion"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaria General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "8) Archivo de las diligencias"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638766719719239687.png"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Solicitud o formulario presentada por el interesado (En el cual deberá otorgar poder a un profesional del derecho para continuar tramitando su solicitud) o a través de apoderado legal que acredite carta poder o fotocopia de escritura de poder que faculte gestiones administrativas, ambas debidamente autenticadas. Solicitud que deberá contener los datos de: teléfono móvil, correo electrónico del solicitante, representante legal y del apoderado legal, así como de los demás requisitos establecidos en la ley de procedimiento administrativo."
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638766719877441984.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638766719877441984.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Fotocopias de documentos constitutivos del concesionario. a. Comerciante Individual; i. Documento Nacional de Identidad (DNI), RTN Numérico y Escritura de Constitución como Comerciante Individual b. Empresa Constituida como Sociedad Mercantil; i. Documento Nacional de Identidad (DNI) y RTN del representante legal, RTN de la empresa mercantil, Escritura de Constitución de Sociedad Mercantil. (Documento en el cual conste el poder otorgado por la sociedad mercantil a su representante legal) c. Cooperativa i. Documento Nacional de Identidad (DNI) y RTN del representante legal, RTN de la Cooperativa y resolución donde se otorga la personalidad jurídica de la cooperativa"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638766720052120241.png"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Fotocopia del comprobante Tasa Única Anual Vehicular (boleta de revisión) vigente de la unidad propuesta, Dicha unidad debe de cumplir con lo establecido en la ley de Transporte Terrestre de Honduras, artículo 23 referente a los límites de antigüedad de los vehículos que se autorizan para la prestación del servicio de transporte terrestre, así como lo dispuesto en el artículo 48 párrafo primero para la revisión físico-mecánico, además de lo establecido en el párrafo tercero reformado en el que se establece que la unidad que ingresa a brindar el servicio debe ser menos antigua y en mejores condiciones que la que sustituye."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638767848744323028.png"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Fotocopia Permiso de Explotación."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638766720587451727.png"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Cuando el propietario del vehículo es persona diferente a la del titular del certicado de operación deberá presentar contrato de arrendamiento con opción a compra (rf se exceptúa a las unidades que sean de propiedad de los socios de las cooperativas de transporte)."
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638766731644594218.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638766731644594218.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Guía de Revisión física, técnica y mecánica de la unidad de transporte terrestre (Formulario F-TT-03 correspondiente al tipo unidad) Fotocopia clara y legible de la Declaración Única Aduanera (DUA) (aplica en el caso que el vehículo haya sido importado). Fotocopia clara y legible de la factura de compra original (En el caso que el vehículo haya sido adquirido localmente, comprado en distribuidoras de vehículos). Y demás documentos indicados en la página del Instituto de la propiedad"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa, Francisco Morazán"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Boulevard Juan Pablo II, frente a INDUFESA"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2240-4400"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Instituto Hondureño del Transporte Terrestre"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificado de Operación"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://transporte.gob.hn/Contactanos.php",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://transporte.gob.hn/Contactanos.php"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "INCREMENTO DE UNIDAD EN EL PERMISO DE EXPLOTACIÓN O PERMISO ESPECIAL PARA EL SERVICIO DE TRANSPORTE PÚBLICO O ESPECIAL DE CARGA GENERAL Y REMOLQUE."
+}

@@ -1,0 +1,215 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Cónsul General, Cónsul y Vice Cónsul"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Brindar un documento de viaje e identificación."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Hondureño en el extranjero"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "El pasaporte es un documento de viaje que la Secretaría de Relaciones Exteriores y Cooperación Internacional (SRECI) expide a las personas para acreditar su nacionalidad e identidad, así como para solicitar a las autoridades extranjeras que les permitan el libre paso."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 183,
+ "institucion": "Secretaría de Relaciones Exteriores y Cooperación Internacional",
+ "modalidad": "Presencial",
+ "numero": "183",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficina Consular"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Agendar cita en la página: http://citaconsular.sreci.gob.hn/citaconsular/pages/layout/CitaConsular.php"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficina Consular"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Revisión de documentos requeridos por parte del funcionario(a) asignado en oficina(s)/sección(es) consular(es), para brindar el servicio solicitado por el interesado(a)."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637992778272356569.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637992778272356569.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Tarjeta de identidad hondureña vigente."
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637992778821344134.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637992778821344134.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Si es mujer y desea que en su Pasaporte aparezca el apellido de casada, presentará el Acta de Matrimonio original"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Si la solicitud de su pasaporte es debido a que fue robado, dañado o extraviado, deberá presentar la denuncia interpuesta ante la Policía donde ocurrió el hecho o en su defecto realizar una Declaración Jurada en la Oficina Consular donde tramitará su Pasaporte"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "pasaporte vencido"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "En donde se cuente oficina consular de Honduras"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Consulado General/Consulado/Sección Consular"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Pasaporte"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Aplicación",
+       "http://citaconsular.sreci.gob.hn/citaconsular/pages/layout/CitaConsular.php",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "http://citaconsular.sreci.gob.hn/citaconsular/pages/layout/CitaConsular.php"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Pasaporte en el Exterior"
+}

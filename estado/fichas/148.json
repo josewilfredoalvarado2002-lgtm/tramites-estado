@@ -1,0 +1,334 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Gerente de Protección al Usuario Financiero (GPUF)"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Quedar inscrito en el Registro de Valuadores de Activos Muebles e Inmuebles, Otros Activos y Garantías de Créditos de las Instituciones Supervisadas para ofrecer servicios de valuación de bienes a las instituciones supervisadas por la Comisión Nacional de Bancos y Seguros."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Valuadores (persona Jurídica) con técnicos con formación profesional para valuar bienes dados en garantía al sistema supervisado por la Comisión Nacional de Bancos y Seguros"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Solicitud de inscripción de persona jurídica en el Registro de Valuadores de Activos Muebles e Inmuebles, Otros Activos y Garantías de Créditos de las Instituciones Supervisadas"
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 148,
+ "institucion": "Comisión Nacional de Bancos y Seguros",
+ "modalidad": "Presencial",
+ "numero": "148",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dpto. De Registros Públicos"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "1. Presentación de solicitud de Registro, Ventanilla Electrónica/físico"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dpto. De Registros Públicos"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "2. Dictamen Técnico y Proyecto de Resolución"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Prosecretaría"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "3. Notificación de Resolución al solicitante."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638353924305248578.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638353924305248578.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Solicitud por medio de apoderado Legal"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638353922885950731.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638353922885950731.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Constancia de antecedentes penales."
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638353921336971845.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638353921336971845.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Copia título universitario, adjunto a la hoja de vida"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637993696605866825.jpg"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Constancias de experiencia mínima de tres (3) años en el conocimiento para la valoración del tipo de bienes para los cuales desea ser calificado, previos a la fecha de inscripción"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638353920351068571.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638353920351068571.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Contar con el equipo y otros recursos materiales necesarios para efectuar la valuación del tipo de activos para los cuales desea ser calificado. LEGAL Escrito Anexo 6"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637993696746178380.jpg"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "No ser deudor directo o aval de créditos otorgados por las instituciones supervisadas calificados en las categorías III, IV ó V, de acuerdo con las Normas para la Evaluación y Clasificación de la Cartera Crediticia, o cuyos créditos hayan sido castigados contra reservas, al momento de la inscripción."
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638353918379897821.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638353918379897821.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Declaración jurada No haber sido condenado por delitos que impliquen falta de probidad; así como, no haber sido suspendido o cancelada su inscripción en el colegio profesional al cual pertenece."
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638353917263454957.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638353917263454957.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Aprobar con una nota mínima de setenta por ciento (70%) el examen de conocimientos sobre las disposiciones legales, reglamentarias y normativas que regulan la prestación de servicios de avalúos para las instituciones supervisadas, a ser aplicado por la Comisión. Este requisito deberá ser previo a la presentación de la solicitud para la inscripción en el Registro. Este requisito no aplicará en los casos de solicitudes de renovaciones. LEGAL Examen N/A"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Col. Palmira calle Colombia, Edificio Castillo Poujol"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-4500 ext.7115"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina de la Gerencia de Protección al Usuario Financiero"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Resolución"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.cnbs.gob.hn/registros-publicos/rvamioagcis/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.cnbs.gob.hn/registros-publicos/rvamioagcis/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Solicitud de inscripción de Persona Jurídica en el Registro de Valuadores de Activos Muebles e Inmuebles, Otros Activos y Garantías de Créditos de las Instituciones Supervisadas"
+}

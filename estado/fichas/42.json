@@ -1,0 +1,341 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://sigob.arsa.hn/ciudadano/"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Director Unidad de Alimentos y Bebidas"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Realizar modificaciones a la Licencia Sanitaria de Alimentos y Bebidas que cumplan con las regulaciones sanitarias vigentes en concordancia con los procedimientos administrativos y días de resolución establecidos por la Agencia de Regulación Sanitaria."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Población en General"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Es el acto por medio del cual la Agencia de Regulación Sanitaria aprueba modificaciones en la Licencia Sanitaria a solicitud del ciudadano. (Para calcular la cuota de recuperación pulsar el botón Más Información e ir al enlace Aplicación)."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 42,
+ "institucion": "Agencia de Regulación Sanitaria",
+ "modalidad": "En línea",
+ "numero": "42",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Crea tu Usuario: Si es tu primera vez en el Portal Digital de Inversiones (PDI), busca la opción de \"Registrar\" y completa el formulario de registro con los datos solicitados. Debes validar tu cuenta a través de un enlace enviado a tu correo electrónico."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Inicia Sesión: Utiliza tu usuario y contraseña creados ingresa al Portal Digital de Inversiones."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Revisa Requisitos: Verifica los requisitos necesarios para la solicitud. Asegúrate de tener toda la información lista."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Completa el Formulario: Llena la solicitud digital con la información requerida de manera precisa."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Adjunta Documentos: Sube los documentos solicitados en el formato digital que se te indique."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Envía la Solicitud: Una vez completados los pasos, envía tu solicitud a través del Portal Digital de Inversiones."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Realiza Seguimiento: El PDI cuenta con una sección para hacer seguimiento al estado de tu trámite, lo que te permite ver el progreso y si se requiere alguna acción adicional de tu parte."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Recibe el Documento: Una vez aprobado, el documento será emitido digitalmente y podrás descargarlo desde el portal."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Cambio de razón social de la empresa registrante: i) Documento original firmado y sellado, emitido por la empresa registrante que declara el cambio, con su certificado de autenticidad (cuando la empresa sea del territorio nacional). ii) Documento original firmado y sellado, emitido por la empresa registrante que declara el cambio, el mismo debe ser apostillado o autenticado (cuando la empresa sea extranjera)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Cambio en el período de vida útil: i) Documento original firmado y sellado, emitido por el titular del producto que declara el cambio, el mismo debe ser apostillado o autenticado (cuando la empresa sea extranjera). ii) Etiqueta de empaque primario, secundario o inserto donde se refleja el cambio."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Cambio en las condiciones de almacenamiento: i) Documento original firmado y sellado, emitido por el titular del producto que declara el cambio, el mismo debe ser apostillado o autenticado (cuando la empresa sea extranjera). ii) Etiqueta de empaque primario, secundario o inserto donde se refleja el cambio."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Cambio o ampliación de distribuidor: i) Manifestación escrita en papel membretado, firmada y sellada por el representante legal de la empresa registrante que declara el cambio. ii) Etiqueta complementaria donde aparecerá el cambio."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Cambio de especificaciones del producto: i) Documento original firmado y sellado, emitido por el titular del producto que declara el cambio, el mismo debe ser apostillado o autenticado. ii) Información científica en la que se apoya dicho cambio. iii) Etiqueta de empaque primario, secundario o inserto donde se refleja el cambio."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Cambio en el representante legal: i) Manifestación escrita en papel membretado, firmada y sellada por el representante legal de la empresa registrante que declara el cambio."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Ampliación en la presentación comercial: i) Manifestación escrita en papel membretado, firmada y sellada por el representante legal de la empresa registrante que declara el cambio. ii) Etiqueta de empaque primario, secundario o de los productos que realizarán la ampliación de la presentación comercial."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Cambio en la composición química: i) Manifestación escrita emitida por el titular del producto que declara el cambio en la composición química, apostillado o autenticado (cuando la empresa sea extranjera). ii) Ficha técnica del producto donde se declara el cambio. iii) Hoja de seguridad del producto donde se declara el cambio. iv) Inserto donde se refleja el cambio. v) IFU (Instrucciones de uso) donde se establece el cambio."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Descontinuación de presentaciones autorizadas: i) Manifestación escrita en papel membretado, firmada y sellada por el representante legal de la empresa registrante que declara el cambio."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Comayagüela"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Calle Los Alcaldes,frente a City Mall , antiguo edificio de Migración."
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "ARSA"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Autorización sanitaria de renovación de licencia sanitaria para establecimiento de Dispositivos médicos."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Aplicación",
+       "https://pdihonduras.gob.hn/consulta/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://pdihonduras.gob.hn/consulta/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://sigob.arsa.hn/ciudadano/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sigob.arsa.hn/ciudadano/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Aplicación",
+       "https://arsa.gob.hn/calculadora-dispositivos-medicos/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://arsa.gob.hn/calculadora-dispositivos-medicos/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.youtube.com/watch?v=MC-4W-G5Ytc",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.youtube.com/watch?v=MC-4W-G5Ytc"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Modificación de Licencia Sanitaria para Establecimiento de Dispositivos Médicos"
+}

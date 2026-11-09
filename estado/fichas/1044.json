@@ -1,0 +1,388 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://sol.pdihonduras.gob.hn/secapph/web/ciudadano/#/inicio"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Director de las artes"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Posibilitar el derecho cultural al disfrute del servicio de las artes, en los diferentes eventos de conmemoración o celebración de fechas espaciales."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Alcaldías municipales, Centros Educativos, Organismos internacionales, patronatos, Organizaciones No Gubernamentales, Instituciones públicas."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Recepción de la carta de solicitud en forma virtual o física, de parte del ente interesado en el servicio artístico cultural de uno o más de las agrupaciones artísticas que administra la Dirección General de las Artes. En la carta se debe especificar la siguiente información: Nombre de la agrupación, lugar del evento, fecha, hora y naturaleza del evento (público, privado, patronal). La Dirección analiza la pertinencia del evento, la disponibilidad de la agrupación y confirma la disponibilidad o no de la misma confirma la solicitud."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 1044,
+ "institucion": "Secretaría de las Culturas, las Artes y los Patrimonios de los Pueblos de Honduras",
+ "modalidad": "En línea",
+ "numero": "1044",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Ingresar al Portal SOL digital de la SECAP."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Seleccionar \"Solicitud de Agrupaciones artísticas\" de la lista de trámites disponibles."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Hacer clic en \"Iniciar Trámite\"."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Iniciar Sesión con su correo electrónico y contraseña. Si no tiene usuario, debe registrarse primero en la sección \"Registro de usuario\"."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Una vez validado el usuario, iniciar sesión nuevamente en la plataforma SOL."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Llenar el Formulario con: a. Los datos del solicitante y de la entidad solicitante, b. Los datos del evento, seleccionando la agrupación artística deseada (ej. Marimba Nacional Alma de Honduras)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Subir el RTN (Registro Tributario Nacional) de la entidad solicitante."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Hacer clic en el botón \"Presentar para revisión\" en la esquina superior derecha."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "9",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Confirmar la presentación haciendo clic en \"Sí\"."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "10",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Dar seguimiento al trámite, que estará en estado \"Gestión\"."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "11",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Revisar los mensajes del funcionario (dando doble clic en el trámite)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "12",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Una vez aprobado su evento, descargar la \"Nota de Confirmación\" adjunta, la cual certifica el grupo artístico."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "13",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Ejecutar el evento. La finalización del trámite ocurre solo después de que el evento se realiza y los funcionarios de SECAPPH levantan el \"Informe Final\"."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "14",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Cuando el trámite aparezca como \"Aprobado\" y cerrado, habrá finalizado el ciclo."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "15",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Contestar la \"Encuesta de servicio\" para ayudar a mejorar el servicio."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Registrar la Solicitud en línea."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Imagen del DNI del coordinador del evento."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "PDF del RTN de la Institución solicitante."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancias de público (entregadas de forma física durante el evento)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Listados de asistencia (entregadas de forma física durante el evento)."
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638985592264468245.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638985592264468245.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Para mayor información: Instructivo"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Bo Guadalupe, esquina opuesta al supermecado Delikatesen"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "[email protected]"
+        ]
+       }
+      ],
+      "enlaces": [
+       {
+        "texto": "[email protected]",
+        "url": "/cdn-cgi/l/email-protection"
+       }
+      ],
+      "titulo": [
+       "SECAPPH - Oficina Principal"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Nota de confirmación del evento"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://secapph.gob.hn/direccion-general-de-las-artes/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://secapph.gob.hn/direccion-general-de-las-artes/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://sol.pdihonduras.gob.hn/secapph/web/ciudadano/#/inicio",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sol.pdihonduras.gob.hn/secapph/web/ciudadano/#/inicio"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.youtube.com/watch?v=D933BsBP9Zs",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.youtube.com/watch?v=D933BsBP9Zs"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Solicitud de Agrupaciones Artísticas"
+}

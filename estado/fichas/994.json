@@ -1,0 +1,260 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Registrador Nacional de Cooperativas"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Extender y entregar un documento valido a favor de la Cooperativa o de la persona que haya solicitado este servicio."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Publico a nivel nacional"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Documento que se brinda a los afiliados para acreditar ante terceros la veracidad de la información."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 994,
+ "institucion": "Consejo Nacional Supervisor de Cooperativas",
+ "modalidad": "Presencial",
+ "numero": "994",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaria General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Presentar la solicitud de Constancia a través de la ventanilla electrónica/físico"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Registro Nacional de Cooperativas"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Remisión de solicitud de Constancia y adjuntar en formato PDF."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Registro Nacional de Cooperativas"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Emisión de Constancia"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Registro Nacional de Cooperativas"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Entrega de Constancia"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638769357083836174.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638769357083836174.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Solicitud firmada por el Presidente de Junta Directiva de la Cooperativa, en su defecto por medio de apoderado legal o Ciudadanos en General, dirigida al Registrador Nacional de Cooperativas. Indicando el objetivo de la constancia, generales de Ley completas y correo electrónico o números de teléfono para notificarse si es que existen observaciones al documento."
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638769369092786675.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638769369092786675.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Pagar directamente con la administración la Constancia por ciento cincuenta lempiras (150.00) mas un timbre de 10.00 que debe de llevar la Constancia a extender, si el pago es mediante cheque deberá hacerse a nombre de CONSUCOOP, o con copia del deposito Bancario a nombre de este"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638769368975027872.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638769368975027872.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "La solicitud deberá llevar un timbre de L.10.00"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa M.D.C"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Boulevard Kuwait, Edificio San José, Contiguo a Comisión Nacional de los Derechos Humanos."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2235-9281, 2235-9279, 2235-9275 y 2235-9276"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Principal CONSUCOOP"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://consucoop.hn/requisitos/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://consucoop.hn/requisitos/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Emisión de Constancias"
+}

@@ -1,0 +1,358 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://sol.pdihonduras.gob.hn/secapph/web/ciudadano/#/inicio"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Director de las artes"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Posibilitar el derecho cultural al disfrute del servicio de las artes, en los diferentes eventos de conmemoración o celebración de fechas espaciales."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Alcaldías municipales, Centros Educativos, Organismos internacionales, patronatos, Organizaciones No Gubernamentales, Instituciones públicas."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "En este espacio se solicitan los servicios de Artes Plásticas y Visuales, y Artes Audiovisuales"
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 1053,
+ "institucion": "Secretaría de las Culturas, las Artes y los Patrimonios de los Pueblos de Honduras",
+ "modalidad": "En línea",
+ "numero": "1053",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Ingresar a la Plataforma SOL de la SECAPPH."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Seleccionar el trámite \"Solicitud de Artes Plásticas y Visuales y Artes Audiovisuales\" y hacer clic en \"Iniciar Trámite\"."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Iniciar Sesión con su correo electrónico y contraseña. Si no tiene usuario, haga clic en \"Registro de Usuario\" para crearlo."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Llenar completamente el Formulario de Solicitud, seleccionando el \"Servicio de arte a solicitar\" y asegurándose de completar los campos obligatorios."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Subir el RTN (Registro Tributario Nacional) de la institución solicitante en formato PDF o imagen."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Hacer clic en \"Presentar para revisión\" y confirmar la presentación del trámite."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Monitorear la plataforma SOL o su correo electrónico para ver las notificaciones sobre el estado del trámite, que inicialmente estará en \"Gestión\"."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Revisar cualquier mensaje del funcionario (aparece con una burbuja de notificación) y marcarlo como revisado si la solicitud es procedente."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "9",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Ver el \"Nota de Confirmación\" cuando esté disponible en su bandeja."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "10",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Esperar la ejecución del evento y la elaboración del \"Informe Final\" por parte de la SECAPPH para que el trámite sea \"Aprobado\"."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "11",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Una vez aprobado, ingresar al trámite y contestar la \"Encuesta de servicio\"."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Registrar la Solicitud en línea"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Imagen del Documento Nacional de Identificación (DNI), del coordinador del evento."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Imagen del RTN de la Institución solicitante"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancias de público (entregadas de forma física durante el evento)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Listados de asistencia (entregadas de forma física durante el evento)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Nota: Sí el ente externo que solicita cuenta con los medios para poder brindar transporte y refrigerio, podría brindar estos servicios y en el caso de que el transporte que traslada a los artistas esté saturado."
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638985643584578619.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638985643584578619.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Para mayor información: Instructivo"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Bo. Guadalupe, esquina opuesta al supermecado Delikatesen"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "[email protected]"
+        ]
+       }
+      ],
+      "enlaces": [
+       {
+        "texto": "[email protected]",
+        "url": "/cdn-cgi/l/email-protection"
+       }
+      ],
+      "titulo": [
+       "SECAPPH - Oficina Principal"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Nota de confirmación del evento"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://sol.pdihonduras.gob.hn/secapph/web/ciudadano/#/inicio",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sol.pdihonduras.gob.hn/secapph/web/ciudadano/#/inicio"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.youtube.com/watch?v=mBmgqDlbAgk",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.youtube.com/watch?v=mBmgqDlbAgk"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://secapph.gob.hn/direccion-general-de-las-artes",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://secapph.gob.hn/direccion-general-de-las-artes"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Solicitud de Artes Plásticas y Visuales, y Artes Audiovisuales"
+}

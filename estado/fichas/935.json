@@ -1,0 +1,576 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://placas.ip.gob.hn/vehiculos"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Oficial de Ventanilla y Atención al Ciudadano"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Ofrecer al ciudadano mejores opciones para pagar saldos vencidos mediante nuevos canales de comunicación rápidos y eficientes."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Toda persona natural o jurídica que requiera realizar el trámite."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "El plan de pago es un convenio entre Registro Vehicular y el ciudadano para que pueda pagar la TUAV (Tasa Única Anual Vehicular) más el total de multas acumuladas redistribuidas según la cantidad de cuotas mensuales que le resulte más conveniente. (de 2 a 12 cuotas)."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 935,
+ "institucion": "Instituto de la Propiedad",
+ "modalidad": "En línea",
+ "numero": "935",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Infotecnología Depto. de Recaudación"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Ingresar a la pagina web del Instituto de la Propiedad (https://www.ip.gob.hn/), dar click en visitar el modulo de REGISTRO VEHICULAR"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Infotecnologia Depto. de Recaudación"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Ingresar al modulo de CONSULTAS TASA VEHICULAR Y PLAN DE PAGO"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Infotecnologia Depto. de Recaudación"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Ingresar el número de placa del vehículo, el cual debe contener al menos 6 caracteres y no exceder los 7 caracteres, posteriromente dar click en consultar,"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Infotecnologia Depto. de Recaudación"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Le aparecerá un rectángulo color azul Suscripción Plan de pago, darle click para iniciar la suscripción de plan de pago."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Infotecnologia Depto. de Recaudación"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Ingresar los últimos 4 dígitos de motor, VIN o chasis del vehiculo al cual desea subscribir el pago, Confirmar si el vehículo se encuentra registrado a su nombre, la identidad"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Infotecnologia Depto. de Recaudación"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "El solicitante debe confirmar sus datos e ingresar el plan de pago (numero de cuotas) de conveniencia, ya que el mismo selecciona el número de cuotas para su Plan de Pago (Puede ser de 2 a 12 cuotas), una vez seleccionado el numero de cuotas, confirma la distribución de cuotas."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Infotecnologia Depto. de Recaudación COAC"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Dar Click en Aceptar plan de pago"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Última boleta de revision del vehiculo, pagada."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Copia de Documento Nacional de Identificación, carné de residencia vigente, pasaporte vigente y/o licencia de conducir vigente de la persona que se presente a realizar el trámite."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Finca Los Laureles, La Cienega, Comayaguela, Tegucigalpa, Francisco Morazan."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "NT"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina de Revisión Física Vehicular de Tegucigalpa"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "San Pedro Sula"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Bulevar del este Kilometro 3 salida a la Lima, edificio administrativo de Parque Acuático ZIZIMA, SPS, Cortés."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "NT"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Centro de Orientación y Atención al Ciudadano de Registro Vehicular de San Pedro Sula"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "El Progreso"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio las Delicias, Plaza Paraiso, Local No. 8, a un costado de la Municipalidad, El Progreso, Yoro."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "NT"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Centro de Orientación y Atención al Ciudadano de Registro Vehicular de El Progreso"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Comayagua"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio Arriba, media cuadra antes de Clinicas del Valle, Comayagua, Comayagua."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "NT"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Centro de Orientación y Atención al Ciudadano de Registro Vehicular de Comayagua"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Choluteca"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio el Centro, contiguo a Reposteria el Cisne, Choluteca, Choluteca"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "NT"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Centro de Orientación y Atención al Ciudadano de Registro Vehicular de Choluteca"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Santa Rosa de Copan"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio Mercedes, Edificio de la Camara de Comercio, 2da. planta, Santa Rosa de Copan, Copan."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "NT"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Centro de Orientación y Atención al Ciudadano de Registro Vehicular de Santa Rosa de Copan"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Danli"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio Oriental, Frente a lavaderos públicos, Danlí, El Paraíso"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "NT"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Centro de Orientación y Atención al Ciudadano de Registro Vehicular de Danlí"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Santa Barbara"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio Abajo, calle Iris Esperanza Roza, contiguo al deposito de la Pepsi, Santa Barbara, Santa Barbara"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "NT"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Centro de Orientación y Atención al Ciudadano de Registro Vehicular de Santa Barbara"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "La Ceiba"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Edificio Hotel Molina, Bulevar La Amistad, La Ceiba, Atlantida."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "NT"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Centro de Orientación y Atención al Ciudadano de Registro Vehicular de La Ceiba"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Juticalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio La Hoya, frente a Comercial Valle de Agalta, esquina opuesta a Radio Juticalpa."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "NT"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Centro de Orientación y Atención al Ciudadano de Registro Vehicular de Juticalpa"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Roatán"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio El Ticket, Calle principal, Coxen Hole, Roatán, Islas de la Bahía"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "NT"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Centro de Orientación y Atención al Ciudadano de Registro Vehicular de Roatan"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Catacamas"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio La Trinidad, frente al jardin de niños Francisco Morazan"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "NT"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Centro de Orientación y Atención al Ciudadano de Registro Vehicular de Catacamas"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Convenio de Plan de Pago (por mora de matrícula)"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://placas.ip.gob.hn/vehiculos",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://placas.ip.gob.hn/vehiculos"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://www.ip.gob.hn/direcciones/registro-vehicular/menu-registro-vehicular",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.ip.gob.hn/direcciones/registro-vehicular/menu-registro-vehicular"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Planes de Pago en línea (por mora de matrícula)"
+}

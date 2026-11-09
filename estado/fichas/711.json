@@ -1,0 +1,293 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://sielho.iaip.gob.hn/inicio/"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Director(a) Unidad de Transparencia"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Garantizar el acceso la información pública."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Todas las personas naturales y jurídicas."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Solicitudes de la ciudadanía sobre información pública."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 711,
+ "institucion": "Secretaría de Gobernación, Justicia y Descentralización",
+ "modalidad": "En línea",
+ "numero": "711",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Unidad de Transparencia"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "INGRESAR LA SOLICITUD DE ACCESO A LA INFORMACIÓN PÚBLICA (SAIP)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Unidad de Transparencia"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Recepción de la Solicitud de Información Pública (SIP)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Unidad de Transparencia"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Análisis de Solicitud de información"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Unidad de Transparencia"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Emisión de acuse de Recibo"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Unidad de Transparencia"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Verifica si es Información de Oficio"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Unidad de Transparencia"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Traslado de la Solicitud a la Dependencia Correspondiente"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Unidad de Transparencia"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Solicitud de Prorroga"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Unidad de Transparencia"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Entrega o Envió de la Respuesta que otorga o deniega la información solicitada"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637994505575164746.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637994505575164746.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Ingresar solicitud de informacion."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Boulevard Juan Pablo, Centro Cívico Gubernamental \"José Cecilio del Valle\", Torre 2."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "22428213"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina regional Tegucigalpa"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Formato de respuesta"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://sielho.iaip.gob.hn/inicio/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sielho.iaip.gob.hn/inicio/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Solicitudes de información atendidas en SIELHO"
+}

@@ -1,0 +1,393 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Jefe de Balística Dirección Policial de Investigaciones"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Extender licencias de portación de armas de uso permitido en el país."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Personas naturales propietarias de armas de uso permitido en el país."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Al amparo de lo establecido en la LEY DE CONTROL DE ARMAS DE FUEGO, MUNICIONES EXPLOSIONES Y OTROS SIMILARES corresponde a la Secretaría de Estado en el Despacho de Seguridad efectuar el registro de armas en el cuál estarán depositadas las evidencias balísticas de todas las armas que circulen en el país, a tal efecto se extenderán licencias de portación de armas legales en el país, a las personas naturales y jurídicas."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 289,
+ "institucion": "Secretaría de Seguridad",
+ "modalidad": "Presencial",
+ "numero": "289",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección Policial de Investigaciones, departamento de Balística."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Programación de cita en la oficina de Balística"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección Policial de Investigaciones, departamento de Balística."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Presentarse a la cita con los requisitos que solicita la dependencia"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección Policial de Investigaciones, departamento de Balística."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Revisión de la documentación para elaboración de expediente y toma de fotografía del ciudadano."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección Policial de Investigaciones, departamento de Balística."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Recolección de muestra (Se realiza recolección de muestra consistente en disparo del arma y toma de fotografías)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección Policial de Investigaciones, departamento de Balística."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Emisión y entrega del permiso al ciudadano."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Ser mayor de 21 años de edad."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Exámenes médicos aprobados (psicológico, toxicológico) en las clínicas y laboratorios certificados por la Secretaría de Seguridad."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Capacitación para uso y manejo de armas de fuego impartido en las Oficinas de Registro Balístico de la DPI."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de Antecedentes penales"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Llenar el formulario de solicitud correcto y completo."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Documento o Factura que acredite la propiedad del arma de fuego."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Emisión de recibo de pago por registro de arma en las oficinas de Balística."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de Interpol con vigencia de 6 meses (en caso de ser ciudadano extranjero)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Pago de impuesto municipal por concepto de registro de arma."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Presentar el arma de fuego a registrar y cinco proyectiles sólidos (físicamente)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Traspaso firmado y con huella dactilar debidamente autenticado en caso de existir un registro anterior"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Copia del DNI de la persona que traspasa la propiedad del arma."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Presentar el carnet vencido original del arma"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Presentar DNI original y copia"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa, San Pedro Sula, La Ceiba, Choluteca y Santa Rosa de Copán."
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Tegucigalpa, San Pedro Sula, La Ceiba, Choluteca y Santa Rosa de Copán., horario de atención 8:00 am- 4:00 pm de lunes a viernes."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2236-1200"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Dirección Policial de Investigaciones, oficinas de Registro Nacional de Armas."
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Permiso para portar armas"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Ficha de solicitud para permiso de portación de armas"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Ficha de solicitud para permiso de portación de armas pg. 2"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://policianacional.gob.hn/requisitos-para-portar-armas/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://policianacional.gob.hn/requisitos-para-portar-armas/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://policianacional.gob.hn/wp-content/uploads/2024/02/Requisitos-para-Registro-de-Armas.pdf",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://policianacional.gob.hn/wp-content/uploads/2024/02/Requisitos-para-Registro-de-Armas.pdf"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Permiso para portación de armas (persona natural)"
+}

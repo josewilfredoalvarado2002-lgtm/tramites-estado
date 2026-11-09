@@ -1,0 +1,298 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Gerente de Prestamos y Seguros"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Iniciar la gestión de prestamos para lograr un preanálisis"
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Activos , jubilados , pensionados."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Solicitar Prestamos Personales, Alivio de Deuda e Hipotecarios / Previsión Social: Gestionar Beneficios previsionales, participante voluntario, reintegro de valores, historial de cotizaciones y constancias"
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 23,
+ "institucion": "Instituto de Previsión Social de los Empleados de la Universidad Nacional Autónoma de Honduras",
+ "modalidad": "Presencial",
+ "numero": "23",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Atención al cliente"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Realizar cita en el sistema, para que se le asigne un Ticket, llene las casillas con la información solicitada"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Atención al cliente"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Llenar solicitud con los datos completos y adjuntar documentación solicitada"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Atención al cliente"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Análisis de documentación y solicitud"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Gerencia de Préstamos"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Aprobación de la solicitud"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638398781356648008.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638398781356648008.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Llenar formulario de solicitud de préstamo de consumo y adjuntar copia"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Cotización del producto o servicio a adquirir con copia adjunta"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de Trabajo con copia adjunta"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Haber cotizado al Sistema como mínimo seis (6) meses"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Fotocopia legible y original de Tarjeta de Identidad"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Fotocopia y original de libreta de ahorro del Prestatario, emitida por el Banco respectivo, (Legible número de cuenta y Portada del Banco)"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Col. Alameda 3ra. Ave. Tiburcio Carias Andino, sendero suberina, Edificio Warren Valdemar Ochoa"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2235-3261; 2235-3265; 2235-3267"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREUNAH"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Otorgamiento de prestamos de consumo"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://inpreunah.hn/inpreunah/prestamos/prestamo-de-consumo/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://inpreunah.hn/inpreunah/prestamos/prestamo-de-consumo/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://inpreunah.hn/inpreunah/prestamos/calculo-cat/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://inpreunah.hn/inpreunah/prestamos/calculo-cat/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://inpreunah.hn/inpreunah/prestamos/formato-para-prestamos/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://inpreunah.hn/inpreunah/prestamos/formato-para-prestamos/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Solicitud de Préstamo de Consumo"
+}

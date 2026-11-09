@@ -1,0 +1,220 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Direccion de Libro y Documento"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Brindar servicios de información a la población general sobre la documentación patrimonial resguardada en la institución."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Población General"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "El servicio que brinda el Archivo Nacional es la entrega de información a las usuarias y usuarios, que se encuentra dentro de los documentos patrimoniales resguardados en las diferentes salas del mismo; dicha información es utilizada por la población para asuntos legales, investigaciones académicas, investigaciones generales, y de índole personal. Existe una sala de digitalización cuya finalidad es llegar a digitalizar todos los archivos de las diferentes salas, sin embargo, actualmente por falta de maquinaria adecuada no se está realizando dicho proceso. La información se encuentra dividida en salas: sala colonial, títulos de tierra, sala Hemerográfica, sala de digitalización."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 469,
+ "institucion": "Secretaría de las Culturas, las Artes y los Patrimonios de los Pueblos de Honduras",
+ "modalidad": "Presencial",
+ "numero": "469",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Recepción de Archivo Nacional"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "1. El Ciudadano/a llega a solicitar información"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Recepción de Archivo Nacional"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "2. El ciudadano/a llena el formato de solicitud de información"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Encargada de Archivo"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "3. Se realiza la búsqueda de la información solicitad por el ciudadano/a"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Recepción de Archivo Nacional"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "4. Entrega de información al ciudadano/a"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Llenado de Solicitud"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Antigua Casa Presidencial, dentro de Tegucigalpa."
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Archivo Nacional Antonio Ramón Vallejo"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "El ciudadano/a toma fotografía de la información solictada."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://secapph.gob.hn/contacto-secapph",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://secapph.gob.hn/contacto-secapph"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://cdihh.ihah.hn/archivo-nacional-de-honduras/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://cdihh.ihah.hn/archivo-nacional-de-honduras/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Solicitud de información en el Archivo Nacional Antonio Ramón Vallejo"
+}

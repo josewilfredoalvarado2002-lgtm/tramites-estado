@@ -1,0 +1,390 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Secretaría General"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Extender permiso para circulación con vehículo blindado en el país."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Personas Jurídicas y/o naturales que requieran circulación con vehículos blindados."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Consiste en el proceso que se lleva a cabo, para extender un permiso para circular con vehículos blindados en el país."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 322,
+ "institucion": "Secretaría de Seguridad",
+ "modalidad": "Presencial",
+ "numero": "322",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría de Seguridad"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Presentar toda la documentación requerida debidamente autenticada ante la Secretaría Genera de la Secretaría de Seguridad."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría de Seguridad"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Secretaría General revisa la solicitud a fin de elaborar la providencia de admisión de la solicitud."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría de Seguridad"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Notificación de providencia al apoderado legal de la empresa solicitante."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría de Seguridad"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Remisión de expediente a la Dirección de Control de Empresas de Seguridad a fin de efectuar inspección física del vehículo."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección de Control de Empresas de Seguridad"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "La Dirección de Control de Empresas de Seguridad efectúe la inspección y emite un informe."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría de Seguridad"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Remisión del expediente a la Dirección Legal"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría de Seguridad"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Dirección Legal emite dictámen"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría de Seguridad"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Secretaría General emite resolución, favorable o desfavorable al solicitante"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "9",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría de Seguridad"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Notificación de resolución al solicitante"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "10",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Banco privado"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Una vez notificado el apoderado legal procede al pago de TGR-1 por el monto de dos salarios mínimos en su categoría más alta."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "11",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría de Seguridad"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Emisión de permiso para circular con vehículo blindado."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Presentar Solicitud dirigida al Secretario de Estado en el Despacho de Seguridad"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Acreditación del poder con el que actúe el apoderado legal"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Acreditación de la actividad a la que se dedica el solicitante."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Presentar motivo por el que solicita el uso de vehículo blindado."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Presentar documentos del representante legal (Gerente General)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Presentar Documentos del solicitante (DNI, permiso para conducir, Antecedentes penales y antecedentes policiales, fotografía tamaño carnet)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Presentar documentos de la empresa (escritura de constitución, RTN, permiso de operación, dirección del solicitante, croquis, número de teléfono)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Presentar documentos del vehículo (boleta de revisión, factura de compra del vehículo, título de propiedad si es importado, traspaso del vehículo si es el caso, placas, cuatro fotografías del vehículo: frontal, lateral derecho, lateral izquierdo y trasera)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Presentar Datos generales del apoderado legal (correo electrónico, números telefónicos)"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Aldea Mateo, antiguas instalaciones de la ANAPO, Horario de 8:00 am a 4:00 pm de lunes a viernes."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2236-1200"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Secretaría de Estado en el Despacho de Seguridad"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "enlaces": [],
+    "lineas": [
+     "No hay entregables registrados",
+     "No se han definido entregables para este trámite"
+    ],
+    "tipo": "texto"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "enlaces": [],
+    "lineas": [
+     "No hay enlaces registrados",
+     "No se han agregado enlaces adicionales para este trámite"
+    ],
+    "tipo": "texto"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Licencia para Registro de vehículo Blindado persona Natural /Jurídica"
+}

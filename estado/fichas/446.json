@@ -1,0 +1,334 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Gerente de Protección al Usuario Financiero (GPUF)"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Establecer los lineamientos que serán aplicables a las personas naturales o jurídicas, que se dedican a la actividad de intermediación de seguros y/o fianzas"
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Intermediarios de Seguros y/o Fianzas"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Solicitud de inscripción de una Correduría de Seguros"
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 446,
+ "institucion": "Comisión Nacional de Bancos y Seguros",
+ "modalidad": "Presencial",
+ "numero": "446",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dpto. De Registros Públicos"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "1. Presentación de solicitud a través del portal de internet."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dpto. De Registros Públicos"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "2. Emisión de certificación de autorización e inscripción"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637993672867785018.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637993672867785018.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Escritura de Constitución y sus reformas, debidamente inscrita en el Registro Mercantil y la Cámara de Comercio correspondiente. Antes de registrar la Escritura pública, el interesado deberá verificar que la razón social que utilizará no es igual o similar a las ya registradas para evitar confusiones al público en general."
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637993673219021641.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637993673219021641.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Recibo de pago Ingresos Corrientes extendido por la Tesorería General de la República (Boleta TGR-1)"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637993673476744004.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637993673476744004.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Registro Tributario Nacional (RTN)"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637993673774480221.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637993673774480221.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Listado del personal técnico a inscribir que realizará la labor de intermediación de seguros y/o Fianzas, siendo requerido como mínimo para este personal un nivel de educación media"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637993673946354967.jpg"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Documento nacional de identificación para hondureños o carné de residencia para extranjeros"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637993674103219285.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637993674103219285.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Resumen de hoja de vida, que incluya copia de los títulos de formación académica y complementaria, siendo requerido como mínimo un nivel de educación media."
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637993674447983816.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637993674447983816.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Certificación extendida por una o más instituciones de seguros en las que éstas hagan constar que se tienen los conocimientos técnicos necesarios para actuar como agente, firmada por el Gerente de la Institución de Seguros. Esta nota deberá presentarse de conformidad al formato señalado en el Anexo No. 1 del Presente Reglamento."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637993674725637054.png"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Poder General del Representante Legal"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637993674903607811.JPG"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Fotografía reciente"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa, M.D.C., Honduras, C.A."
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Col. Palmira calle Colombia, Edificio Castillo Poujol"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-4500 ext.7115"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina de la Gerencia de Protección al Usuario Financiero"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificación de autorización e inscripción"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://registrospublicos.cnbs.gob.hn/IntermediariosSegurosFianzas",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://registrospublicos.cnbs.gob.hn/IntermediariosSegurosFianzas"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Registro Inscripción de Intermediación de Seguros y Fianzas Correduría de Seguros."
+}

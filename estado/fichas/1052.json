@@ -1,0 +1,514 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://sol.pdihonduras.gob.hn/secapph/web/ciudadano/#/inicio"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Director de educación artística"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Garantizar que todos los niños, niñas, adolescentes y personas adultas tengan la oportunidad de acceder al sistema educativo, promoviendo su inclusión, permanencia y continuidad en el proceso formativo"
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Personas hondureñas o extranjeras residentes en Honduras."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Ofrece programas artísticos integrales en actuación, dirección y producción escénica, así como formación en cine y procesos de",
+  "extensión."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 1052,
+ "institucion": "Secretaría de las Culturas, las Artes y los Patrimonios de los Pueblos de Honduras",
+ "modalidad": "En línea",
+ "numero": "1052",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Acceder a la Plataforma Sol de la SECAPPH: Ingresa a la plataforma Sol de la SECAPPH y selecciona el trámite \"Registro de Matrícula Anual de la Academia Nacional de Arte Dramático Santiago Fernández Tofé\"."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Iniciar Sesión o Crear Usuario: Ingresa tu correo electrónico y contraseña. Si no tienes usuario, regístrate en la sección de \"Registro de Usuario\", valida tu cuenta y luego inicia sesión."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Completar Datos Preliminares del Formulario: Dentro del formulario, en el grupo de datos preliminares, debes seleccionar: a) La calidad en la que actúas (ej. Estudiante), b) El tipo de matrícula (ej. Reingreso), c) El programa de matrícula requerido (ej. Programa profesional nivel uno)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Llenar el Formulario y Adjuntar Documentos: Completa todos los datos del formulario y adjunta los documentos requeridos en formato PDF (estos varían según tu selección en el paso anterior, por ejemplo, certificado de los últimos estudios realizados y la información complementaria del expediente). Puedes dar clic en \"ver PDF\" para asegurarte de que los documentos son correctos."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Presentar el Trámite para Revisión: Una vez completado, haz clic en \"Presentar Trámite\" y luego en \"Sí\" para confirmar que deseas presentarlo para revisión."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Estar Atento a las Notificaciones: Revisa constantemente tu plataforma Sol y tu correo electrónico para ser notificado de cualquier cambio de estado del trámite (el estado cambiará a \"En gestión\")."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Atender Requerimientos (Si Aplica): Si el funcionario a cargo intenta comunicarse (lo verás en una burbuja junto al código del trámite), lee el mensaje."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Si se te indica firmar el acuerdo de compromiso, ve a \"Documentos Adjuntos\", descarga el formato, léelo, fírmalo y adjúntalo nuevamente a la plataforma."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "9",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Luego, marca el mensaje como \"Revisado\" y haz clic en \"Volver\"."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "10",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Verificación de Aprobación: Una vez que el funcionario tenga todo lo necesario, el trámite será aprobado. Debes estar atento a la notificación."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "11",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Descargar Documentos Finales: Cuando el trámite sea aprobado, haz doble clic en él, ve a \"Documentos Adjuntos\" y descarga los dos nuevos documentos: el Horario de Clases y el Carnet (el cual puedes imprimir y laminar)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "12",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Contestar la Encuesta de Servicio (Opcional): Puedes calificar la gestión contestando la encuesta de servicio."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Registrar la solicitud en línea."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Firmar el acuerdo de compromiso."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Programa Profesional: Foto Digital tamaño carné."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Programa Profesional: Haber culminado sus estudios de educación media e ingresar el PDF del Certificado de estudios de último año de bachillerato o título de secundaria."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Programa Profesional: Constancia de aprobación de prueba de Admisión."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Programa Profesional: Presentar PDF Tarjeta de salud."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Programa Profesional: Presentar PDF del certificado de los últimos estudios realizados."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Programa Profesional: Presentar PDF del DNI (Mayores de 18 años) o partida de nacimiento (Menores)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Diplomado en Introducción al Teatro: Foto Digital tamaño carné."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Diplomado en Introducción al Teatro: Constancia de aprobación de prueba de admisión (Sí aprobó el curso de laboratorio creativo infantil no se requiere)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Diplomado en Introducción al Teatro: Presentar PDF Tarjeta de salud."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Diplomado en Introducción al Teatro: Presentar PDF del certificado de los últimos estudios realizados."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Diplomado en Introducción al Teatro: Presentar PDF del DNI (Mayores de 18 años) o partida de nacimiento (Menores)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Laboratorio Creativo Infantil 7-9 y 10-14: Foto Digital tamaño carné."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Laboratorio Creativo Infantil 7-9 y 10-14: Presentar PDF Tarjeta de salud."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Laboratorio Creativo Infantil 7-9 y 10-14: Presentar PDF del certificado de los últimos estudios realizados."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Laboratorio Creativo Infantil 7-9 y 10-14: Presentar PDF partida de nacimiento."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Laboratorio Creativo Infantil 7-9 y 10-14: Presentar imagen del DNI de la madre. el padre o la persona responsable."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Programa de Labor Actoral en el Cine: Foto Digital tamaño carné."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Programa de Labor Actoral en el Cine: PDF del título de egresado/a de la ANAD."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Programa de Labor Actoral en el Cine: Presentar imagen del DNI."
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638985631532528078.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638985631532528078.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Para mayor información: Instructivo"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Colonia San Ángel, frente a la Iglesia Católica “Nuestra Señora de los Ángeles”"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "+504 3141-4444"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Academia Nacional de Arte Drámatico \"Santiago F. Toffé\""
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de matrícula"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://sol.pdihonduras.gob.hn/secapph/web/ciudadano/#/inicio",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sol.pdihonduras.gob.hn/secapph/web/ciudadano/#/inicio"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.youtube.com/watch?v=mpAGWTM2Sc0",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.youtube.com/watch?v=mpAGWTM2Sc0"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://secapph.gob.hn/direccion-general-de-las-artes",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://secapph.gob.hn/direccion-general-de-las-artes"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Registro de Matricula Anual Academia Nacional de Arte Dramático \"Santiago Fernández Toffé\""
+}

@@ -1,0 +1,193 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://alam.inm.gob.hn/appALAMcliente"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Gerencia de Extranjería"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Renovación de carnet de extranjería para menor",
+    "Es el servicio para renovar el carnet de extranjero para menores de edad"
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Extranjeros"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Renovación de carnet de extranjería para menor",
+  "Es el servicio para renovar el carnet de extranjero para menores de edad"
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 1152,
+ "institucion": "Instituto Nacional de Migración",
+ "modalidad": "En línea",
+ "numero": "1152",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "enlaces": [],
+    "lineas": [
+     "No hay pasos registrados",
+     "Aún no se han definido los pasos para este trámite"
+    ],
+    "tipo": "texto"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Carné de extranjería original anterior"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de la persona de la que depende"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Copia de documento Nacional de Identidad (DNI) del adulto responsable, si es hondureño o Carnet de extranjero Residente"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "En función de la categoría migratoria a la que opta se le solicitan requisitos específicos y constancia"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Recibo TGR-1 pagado en Lempiras (de: $ 20.00 por cada año, máximo 5 años)."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa, M.D.C"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Centro Cívico Gubernamental, Cuerpo bajo C"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "(+504) 22327800"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Centro Cívico Gubernamental, Cuerpo bajo C"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Carnet de extranjero residente"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://alam.inm.gob.hn/appALAMcliente",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://alam.inm.gob.hn/appALAMcliente"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Renovación de carnet de extranjería para menor"
+}

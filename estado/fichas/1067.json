@@ -1,0 +1,244 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://sistemas.aduanas.gob.hn/Pech/#/plataforma/permisos/registrar_solicitud"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Seccion de Control de Registro de los Auxiliares (SCRA) / Sección de Transito Aduanero"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Crear usuario al sistema SARAh para los transportistas terrestres"
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "AFPA Autorizado en la modalidad de Transportista Terrestre"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "El proceso permite la creación de usuario para los transportistas terrestres para el ingreso al Sistema SARAH WEB 2.0 y realizar las operaciones, posteriormente se crea el usuario de SIECA el cual es notificado por la Sección de Transito Aduanero."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 1067,
+ "institucion": "Administración Aduanera de Honduras",
+ "modalidad": "En línea",
+ "numero": "1067",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "enlaces": [],
+    "lineas": [
+     "No hay pasos registrados",
+     "Aún no se han definido los pasos para este trámite"
+    ],
+    "tipo": "texto"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "REQUISITOS DE CONDUCTOR DE UNIDAD DE TRANSPORTE TERRESTRE"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Estar registrado como transportista terrestre."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Contar con un contrato de adhesión vigente."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "DOCUMENTOS A ESCANEAR FORMATO PDF Y/O JPG, PREVIO A LLENAR EL FORMULARIO SP048"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "DNI del Conductor."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Licencia de Conducir de carga Pesada Vigente."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Pasaporte (solamente en caso de que la unidad realice viajes a Costa Rica y Panamá."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Distrito Central"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Centro Cívico Gubernamental, Torre 1, Piso 3, 13, 14, 15 BLVR. Juan Pablo II, Esquina República de Corea"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2240-0800"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Centro Cívico Gubernamental, Torre 1, Piso 3."
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "San Pedro Sula"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barriio Rio de Piedras 19 Avenida Sur Oeste, 8 calle, Corporativo 1908."
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Barriio Rio de Piedras"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de Creación de Usuario Sarah para Transportista Terrestre"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://sistemas.aduanas.gob.hn/Pech/#/plataforma/permisos/registrar_solicitud",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sistemas.aduanas.gob.hn/Pech/#/plataforma/permisos/registrar_solicitud"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Aplicación",
+       "https://pdihonduras.gob.hn/consulta/navigate/process/1154",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://pdihonduras.gob.hn/consulta/navigate/process/1154"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Usuario SARAH para transportista terrestre"
+}

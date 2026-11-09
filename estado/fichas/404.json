@@ -1,0 +1,427 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Departamento de Créditos"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Brindar créditos de consumo a los afiliados y beneficiarios al Régimen de Riesgos Especiales que cumplen con los requisitos del Reglamento de Créditos de IPM, apoyándolos a cubrir sus necesidades y, a la vez, obtener rendimientos que garanticen al IPM la prestación de los beneficios conforme a la Ley."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "afiliados y beneficiarios al Régimen de Riesgos Especiales"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "créditos de consumo a los afiliados y beneficiarios al Régimen de Riesgos Especiales",
+  "Se brindan créditos consolidación de deuda, para educación, emprendedor, de inversión, para compra de vehículo"
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 404,
+ "institucion": "Instituto de Previsión Militar",
+ "modalidad": "Presencial",
+ "numero": "404",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "División de Control Financiero"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Recepción de la Solicitud de Crédito presentada por el afiliado"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "División de Control Financiero"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Análisis del Crédito."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "División de Control Financiero"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Aprobación de Comité de Préstamos Montos mayores a L. 500,000.00"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "División de Control Financiero"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Liquidación del Crédito"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "División de Control Financiero"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Elaboración de Planilla"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "División de Control Financiero"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Carga de Planilla en plataforma Bancaria"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "División de Control Financiero"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Revisión y validación de información y carga en plataforma por parte de la Unidad de Control Interno."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "División de Control Financiero"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Solicitud de firmas previo a desembolso (Firma de Sub Gerente Técnico Financiero, Jefe del Departamento de Tesorería)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "9",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "División de Control Financiero"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Solicitud de firmas previo a desembolso (Firma de Sub Gerente Técnico Financiero, Jefe del Departamento de Tesorería)"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637993636176300134.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637993636176300134.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Estar comprendido entre los 18 y 75 años de edad"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Cotizaciones Actualizadas"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Tener Capacidad Pago"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Cotizar al sistema como mínimo de tres meses"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Aval(en caso de ser viudo(a)"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Bulevar Centroamérica, contiguo al edificio INPREMA."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2239-1441"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "IPM"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "San Pedro Sula"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Avenida Circunvalación, contiguo a la 105 Brigada."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2552-4364, 2552-3437"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "IPM"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Danlí, El Paraiso"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Instalaciones de la Armenia, plaza San Miguel colonia Los Gualiquemes, Bulevar La Democracia."
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "IPM"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "La Ceiba"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "La Armería, Calle 9."
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "IPM"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Crédito otorgado al solicitante"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://grupoipm.hn/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://grupoipm.hn/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://calculadora-prestamos.grupoipm.hn/CalcularCuota.aspx",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://calculadora-prestamos.grupoipm.hn/CalcularCuota.aspx"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Otorgamiento de créditos Consumo"
+}

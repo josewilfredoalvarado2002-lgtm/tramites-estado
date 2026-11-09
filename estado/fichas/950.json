@@ -1,0 +1,205 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Oficial Técnico de Agricultura Orgánica"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Extender Certificado de registro de Productor Independiente que hace constar que se cumple la normativa vigente sobre la producción orgánicos de producción vegetal y animal detallada en el reglamento técnico Centroamericano 67.06.74:16."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Sectores dedicados a la Agricultura y Ganadería"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Registro de un productor independiente en producción orgánica garantiza las condiciones optimas del producto para su comercialización"
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 950,
+ "institucion": "Servicio Nacional de Sanidad e Inocuidad Agroalimentaria",
+ "modalidad": "Presencial",
+ "numero": "950",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Departamento de Agricultura Orgánica"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Hacer solicitud presencial en las oficinas de SENASA"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Departamento de Agricultura Orgánica"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Revisión técnica"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Departamento de Agricultura Orgánica"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Registro en base de datos"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638360744484885038.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638360744484885038.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Los requisitos de detallan en documento adjunto"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Loma linda norte, frente a la secretaria de la SAG."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2232-6213"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "SENASA"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificado de registro"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://senasa.gob.hn/agricultura+organica/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://senasa.gob.hn/agricultura+organica/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Registro de Productores Orgánicos Independientes"
+}

@@ -1,0 +1,266 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Jefe de Registro de Beneficiario"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Tener control de los beneficiarios de Pago o Acreedores del Estado (Ente Gubernamental) a través del registro en el Sistema SIAFI."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Ente Gubernamental"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Permite tener registro y control financiero de los Beneficiarios de Pago o Acreedores del Estado (Ente Gubernamental) mediante su registro en el Sistema Integrado de Administración Financiera SIAFI a través del cual se gestionan los pagos que efectúan las Instituciones del Estado en depósitos directos a la cuenta bancaria del beneficiario o acreedor correspondiente a pago."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 918,
+ "institucion": "Secretaría de Finanzas",
+ "modalidad": "Presencial",
+ "numero": "918",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Tesorería General de la República/ Registro de Beneficiario"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Presentarse en ventanilla de solicitudes en las Oficinas de la Secretaría de Finanzas con la documentación requerida"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Tesorería General de la República/ Registro de Beneficiario"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Una vez recibida la documentación en ventanilla, se proporciona una cita a través de un Tickect indicando la fecha de entregara su PIN SIAFI"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Tesorería General de la República/ Registro de Beneficiario"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "El Beneficiario se presenta a la ventanilla de entrega en las oficinas de la Secretaría de Finanzas, el día de la cita para la recepción y firma del PIN SIAFI"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Oficio en papel membretado firmado y sellado del Director o Ministro dirigido al Tesorero (a) General de la República donde solicitan la inscripción en el Registro de Beneficiarios, anotando dirección, correo electrónico asignado y teléfono"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Copia del Acuerdo de Nombramiento, Ley de Creación o Convenio de la Institución"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Fotocopia de Acuerdo o nombramiento del Director o Ministro"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Fotocopia de DNI del Director o Ministro"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Fotocopia de Acuerdo o nombramiento del Gerente Administrativo. (Opcional)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Fotocopia de DNI del Gerente Administrativo"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia Bancaria Original de cuenta en la que se acreditará el pago solicitado, conteniendo el Código Institucional como tipo de Identificación asignado por el sistema SIAFI (En sustitución del RTN)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Copia de RTN de la Institución"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Avenida Cervantes, Barrio El Jazmín, Centro Histórico"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2222-8714"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Secretaría de Finanzas Edificio Principal. Dependencia de la TGR-Registro de Beneficiario"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de Registro de Beneficiario SIAFI"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.sefin.gob.hn/faq-items/donde-me-pueden-ayudar-con-temas-de-siafi/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.sefin.gob.hn/faq-items/donde-me-pueden-ayudar-con-temas-de-siafi/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Registro de Beneficiarios Inscritos en el Sistema Integrado de Administración Financiera (SIAFI), Ente Gubernamental"
+}

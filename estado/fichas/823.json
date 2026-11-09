@@ -1,0 +1,362 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Secretario de Estado en Despacho de Defensa Nacional."
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "La autorización de tránsito por el territorio nacional de material explosivo de uso comercial tiene como finalidad garantizar que las empresas solicitantes cumplen con los requisitos exigidos en Ley y cuentan con la capacidad instalada en la materia."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Empresas dedicadas a la fabricación, elaboración y comercialización de explosivos, fuegos artificiales o juegos pirotécnicos y materiales controlados."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Autorización de tránsito por el territorio nacional de material explosivo de uso comercial o juegos pirotécnicos."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 823,
+ "institucion": "Secretaría de Defensa Nacional",
+ "modalidad": "Presencial",
+ "numero": "823",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Sección de atención al ciudadano de la Secretaría de Defensa Nacional, ubicada en el Centro Cívico Gubernamental Blvd. Juan Pablo II, Torre número 2 planta baja."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Recepción de la solicitud y documentación soporte"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "La Secretaría General elabora el expediente y asigna un número correlativo, revisa que el expediente contenga los documentos requeridos, en caso de contener los requisitos, elabora auto de admisión y procede a enviar para opinión legal y técnica, si no cumple con los requisitos se elabora un Auto de Previo y se notifica al Apoderado para subsanar."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Completados los requisitos las oficinas involucradas envían los dictámenes legales y técnicos a Secretaría General, si el dictamen es favorable, se emite resolución declarando con lugar la solicitud, caso contrario se emite resolución declarando sin lugar la solicitud."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría General"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Se notifica al Apoderado Legal la Resolución para que retire la Autorización."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/637998925817382792.docx"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "637998925817382792.docx"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Solicitud de autorización de tránsito de material explosivo de uso comercial o juegos pirotécnicos."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Carta poder o Poder General."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Licencia o autorización emitida a favor de la empresa del país receptor."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Factura proforma."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Original de carta porte (descripción detallada de los vehículos y conductores que transportarán el material solicitado, adjuntando boleta de revisión y licencia de conducir vigentes)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Escritura de constitución de la empresa."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Documento Nacional de Identificación o pasaporte del Representante Legal de la empresa."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Registro Tributario Nacional o su equivalente del Representante Legal y de la empresa"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de antecedentes penales y policiales del Representante Legal de la empresa."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Póliza de seguro con cobertura de daños a terceros en su persona y bienes."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Recibo de pago de ingresos corrientes (TGR-1), debiendo colocar en la casilla respectiva Secretaría de Defensa Nacional (12121) y efectuar el pago correspondiente según lo establecido en el artículo 103 de la Ley de Control de Armas de Fuego, Municiones, Explosivos y Materiales Relacionados."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Establecer en el escrito de solicitud la aduana de ingreso al territorio nacional, la ruta a seguir y la aduana de salida del territorio nacional."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Carné de Colegiación del Apoderado Legal."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Copia debidamente autenticada de certificado de patente comercial."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Permiso de operación vigente de la empresa."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa, Francisco Morazán, Honduras, Centro América."
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Centro Cívico Gubernamental José Cecilio del Valle, Blvd. Juan Pablo II, intersección con calle República de Corea. Torre número 2, planta baja."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "504-2242-7950, 504-2242-7951"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Sección de atención al ciudadano de la Secretaría de Defensa Nacional."
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Autorización de la Resolución"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://sedena.gob.hn/tramites-servicios",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sedena.gob.hn/tramites-servicios"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Autorización de tránsito de material explosivo de uso comercial o juegos pirotécnicos"
+}

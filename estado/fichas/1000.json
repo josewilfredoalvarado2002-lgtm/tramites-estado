@@ -1,0 +1,184 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Oficial de Cotizaciones y Pagos"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Aprobar las solicitudes de Participante Voluntario o Reintegro de Valores presentadas de manera oportuna en consideración a la reglamentación vigente"
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Participantes Activos, Voluntarios, Suspenso"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Corresponde a la solicitud que presentan los participantes del INPREUNAH para formar parte del Instituto como Participantes Voluntario o realizar Reintegro de Valores, según sea el caso."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 1000,
+ "institucion": "Instituto de Previsión Social de los Empleados de la Universidad Nacional Autónoma de Honduras",
+ "modalidad": "Presencial",
+ "numero": "1000",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficina Principal INPREUNAH"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Solicitud de Participante Voluntario / Reintegro de Valores y carga de documentación requerida"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638773841522459512.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638773841522459512.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Documentación Requerida"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa, municipio del Distrito Central"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Col. Alameda tercera avenida Tibúrcio Carias Andino, sendero Subirana, edificio Warren Valdemar Ochoa."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2235-3261; 2235-3265; 2235-3267"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Principal INPREUNAH"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Resolución de Aceptación o Denegacion de Participante Voluntario / Reintegro de Valores"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://inpreunah.hn/inpreunah/participante-voluntario/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://inpreunah.hn/inpreunah/participante-voluntario/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://inpreunah.hn/inpreunah/wp-content/uploads/2023/12/Solicitud-Participante-Voluntario-2.pdf",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://inpreunah.hn/inpreunah/wp-content/uploads/2023/12/Solicitud-Participante-Voluntario-2.pdf"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Solicitud de Participante Voluntario / Reintegro de Valores"
+}

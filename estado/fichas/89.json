@@ -1,0 +1,140 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Jefe del departamento de denuncias"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Interponer formal denuncia cuando un ciudadano es sujeto de un hecho delictivo, (robo, hurto, agresiones), con la finalidad de que la autoridad competente de inicio a las diligencias investigativas que permitan esclarecer el hecho y facilitar la correcta impartición de justicia."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Ciudadanía en General"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Denuncias Interpuesta por la Ciudadanía en General, cuando son objeto de delitos de parte de terceros, extravío o pérdida de documentos. Las denuncias pueden ser por delitos comunes contra la propiedad, o delitos especiales contra la mujer o la niñez ( maltrato, violencia contra la mujer, violencia doméstica, violencia sexual)."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 89,
+ "institucion": "Secretaría de Seguridad",
+ "modalidad": "Presencial",
+ "numero": "89",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección Policial de Investigaciones."
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Recepción de la denuncia y la documentación correspondiente."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "En caso de ser victima de un hecho criminal, pérdida o extravío de documentos, presentarse a las oficinas de la Dirección Policial de Investigaciones."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Oficinas de la Dirección Policial de Investigaciones a nivel nacional."
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Oficinas de la Dirección Policial de Investigaciones a nivel nacional, 24 horas del día 7 días de la semana."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2236-1200"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Dirección Policial de Investigaciones, con horario de atención las 24 horas del día los siete días de la semana."
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "enlaces": [],
+    "lineas": [
+     "No hay entregables registrados",
+     "No se han definido entregables para este trámite"
+    ],
+    "tipo": "texto"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "enlaces": [],
+    "lineas": [
+     "No hay enlaces registrados",
+     "No se han agregado enlaces adicionales para este trámite"
+    ],
+    "tipo": "texto"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Denuncia Presencial en DPI"
+}

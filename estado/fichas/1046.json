@@ -1,0 +1,397 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://sol.pdihonduras.gob.hn/secapph/web/ciudadano/#/inicio"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Director de educación artística"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Garantizar el acceso a la educación especializada en danza, promoviendo su permanencia y graduación."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Alumnas y alumnos de primer ingreso y reingreso."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Trata del proceso de matricula escolar que incluye procedimiento tales como entrega de ficha de atrícula y acta de compromiso para el llenado y conocimiento de la persona encargada del/ a estudiante, procediendo a la entrega de los horarios y del carnet estudiantil del año lectivo con la respectiva firma y sello de la máxima autoridad institucional."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 1046,
+ "institucion": "Secretaría de las Culturas, las Artes y los Patrimonios de los Pueblos de Honduras",
+ "modalidad": "En línea",
+ "numero": "1046",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Acceder a la Plataforma Sol de la SECAPPH: Ingresa a la plataforma, selecciona el trámite de \"Registro de Matrícula en la Academia Nacional de Danza Mercedes Agurcia Membreño\" y haz clic en \"Iniciar Trámite\"."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Iniciar Sesión o Crear Usuario: Ingresa tu correo electrónico y contraseña. Si no tienes usuario, regístrate, valida tu cuenta y luego inicia sesión."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Completar el Formulario y Reunir Documentos: Llena todos los datos del formulario. Reúne los documentos requeridos, que varían si es Primer Ingreso (constancia médica, partida de nacimiento, voucher de pago, constancia de prueba de admisión) o Reingreso (constancia de calificaciones del año anterior)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Subir Documentos y Fotografía: Sube tu fotografía, el documento de identidad de los responsables (si aplica) y todos los documentos de requisito en formato PDF usando el botón \"Seleccione y Subir PDF\"."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Presentar el Trámite para Revisión: Una vez que todo esté completo, haz clic en \"Presentar para Revisión\" y confirma tu acción."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Estar Pendiente de las Notificaciones: Revisa constantemente tu bandeja de entrada en la plataforma Sol y tu correo electrónico donde recibirás notificaciones sobre el estado del trámite."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Atender Requerimientos del Funcionario (Si Aplica): Si el funcionario lo solicita (verás una burbuja de mensaje), descarga los formatos de acta de compromiso y ficha de ingreso, llénalos, fírmalos y súbelos de vuelta a la plataforma en PDF."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Asistir a la Reunión Presencial Final: Espera la convocatoria a una reunión presencial para recibir las últimas instrucciones."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "9",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Trámite Aprobado y Descarga de Documentos: Una vez aprobado, accede al trámite en \"Documentos Adjuntos\" para descargar e imprimir tu Carnet y el Horario de Clases."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Para primer Ingreso:"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de aprobación de prueba de admisión."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Partida de nacimiento."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia Médica."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Fotografía tamaño carné."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Ficha de Ingreso firmada."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Acta de Compromiso firmada por los padres o la persona responsable."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Vaucher de pago a la asociación de padres de familia por el monto de L 200 en concepto de mensualidad de Febrero (BAC-#730495401)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Para reingreso:"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de Calificaciones del Año Lectivo Anterior."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Vaucher de pago a la asociación de padres de familia por el monto de L 200 en concepto de mensualidad de Febrero (BAC-#730495401)."
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638985614575281170.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638985614575281170.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Para mayor información: Instructivo"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Centro de Tegucigalpa, entre avenida Servantes y callejon el Olvido"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Bo Guadalupe, esquina opuesta al supermecado Delikatesen"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Escuela Nacional de Danza Mercedes Agurcio Membreño"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Carnet de estudiante"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Recibo de pago"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Horario de clase que acreditan su matrícula"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://secapph.gob.hn/direccion-general-de-formacion-y-educacion-artistica/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://secapph.gob.hn/direccion-general-de-formacion-y-educacion-artistica/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://sol.pdihonduras.gob.hn/secapph/web/ciudadano/#/inicio",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sol.pdihonduras.gob.hn/secapph/web/ciudadano/#/inicio"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.youtube.com/watch?v=G8abs28SVN4",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.youtube.com/watch?v=G8abs28SVN4"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Registro de Matricula en la Academia Nacional de Danza \"Mercedes Agurcia Membreño\""
+}

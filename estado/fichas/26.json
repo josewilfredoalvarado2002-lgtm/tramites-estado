@@ -1,0 +1,351 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://sol.pdihonduras.gob.hn/inpreunah/web/ciudadano/#/inicio"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Servicio al cliente , gerencia de prestamos, gerencia de previsión"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Entregar a los pensionados solicitantes su Vaucher de pago"
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Pensionados"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Corresponde a la solicitud que presentan los participantes del INPREUNAH para obtener un vaucher de estatus."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 26,
+ "institucion": "Instituto de Previsión Social de los Empleados de la Universidad Nacional Autónoma de Honduras",
+ "modalidad": "En línea",
+ "numero": "26",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Creación de Usuario (Solo si es la primera vez)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Acceder al Portal: Ingrese al portal Sol de INPREUNAH y haga clic en \"Solicitud de voucherer\"."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Registrarse: Si no tiene un usuario, dé clic en \"Registrar persona natural\" y complete todos los datos solicitados."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Validar Cuenta: Revise su correo electrónico y haga clic en el enlace de verificación para validar su cuenta."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Una vez que su cuenta ha sido verificada, ingrese a la plataforma Sol de INPREUNAH con su correo electrónico y contraseña."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Seleccionar Trámite: Dentro del portal, seleccione el trámite \"Solicitud de voucher\" y dé clic en \"Empezar\"."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Revisar Requisitos: Verifique los requisitos necesarios y especifique el detalle de cómo requiere su voucher."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Marcar Calidad: Marque la calidad en la que actúa (por ejemplo, a nombre propio)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "9",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Cargar Datos: Haga clic en \"Cargar datos\"."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "10",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Llenar Formulario: Complete el formulario de solicitud con los siguientes datos: Teléfono, Tipo y número de identificación, y Número de empleado (si aplica)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "11",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Adjuntar Documentos: Adjunte la imagen frontal y el reverso de su DNI."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "12",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Guardar Cambios: Una vez completado, haga clic en \"Guardar los cambios\"."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "13",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Su trámite aparecerá como \"sin presentar\". Dé doble clic sobre el trámite para ingresar."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "14",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Confirmar Envío: Haga clic en el botón \"Presentar para revisión\" y luego \"Confirmar\". En este momento, un funcionario recibe su solicitud."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "15",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Monitorear el Estado: Esté atento a la plataforma Sol y a su correo electrónico, ya que recibirá notificaciones con cada cambio de estado del trámite."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "16",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Espere hasta que el estado del trámite sea \"Aprobado\"."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "17",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Descargar Documento: Dé doble clic sobre el trámite, desplácese hasta la sección \"Documentos\" y haga clic en \"Descargar\" para obtener su voucher."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Imagen de su Documento Nacional de Identificación (DNI)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Carnet de residencia o pasaporte"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Explicar en el campo Detalle, la Información correspondiente del período de la solicitud."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Col. Alameda 3ra. Ave. Tiburcio Carias Andino, sendero suberina, Edificio Warren Valdemar Ochioa"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "22399706"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "INPREUNAH"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Documento de Constancia/Vaucher"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://sol.pdihonduras.gob.hn/inpreunah/web/ciudadano/#/inicio",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sol.pdihonduras.gob.hn/inpreunah/web/ciudadano/#/inicio"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.youtube.com/watch?v=GoJDpa_xn_Q",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.youtube.com/watch?v=GoJDpa_xn_Q"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Solicitud de Vaucher"
+}

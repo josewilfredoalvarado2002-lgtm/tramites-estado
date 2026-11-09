@@ -1,0 +1,614 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://sol.cnbs.gob.hn/ciudadano/"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Gerente Protección al Usuario Financiero (GPUF)"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Emitir resolución de inscripción en el Registro de Auditores Externos (RAE)"
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Solicitante del Registro (Firmas de Auditoría Externa)"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Para registro de una Firma Auditora Externa que desee estar autorizada para auditar Estados Financieros de las Instituciones Supervisadas por la CNBS.",
+  "Con fundamento en el artículo 6 literal C y artículo 7 de las Normas para el Registro y Contratación del Trabajo de los Auditores Externos, la CNBS tiene la facultad para comprobar la veracidad de los requisitos y la información declarada en conjunto con la firma, por lo cual se podrá requerir información o documentación adicional en cualquier momento del proceso."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 138,
+ "institucion": "Comisión Nacional de Bancos y Seguros",
+ "modalidad": "En línea",
+ "numero": "138",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Pasos para la Presentación de Reclamos"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "1. Digitalización de Documentos: Escanea o fotografía claramente los siguientes documentos (preferiblemente en formato PDF): Documento Nacional de Identidad (DNI) o pasaporte vigente del reclamante. Hoja de Reclamación presentada originalmente ante la institución. Respuesta de la Institución Supervisada (o una nota explicando la ausencia de respuesta). Documentación de Soporte (estados de cuenta, contratos, comprobantes de pago, notas de débito/crédito, etc.) que sustenten tu reclamo."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "2. Acceso a la Ventanilla Electrónica (Recomendado): Ingresa a la Ventanilla Electrónica de Correspondencia (BOX) de la CNBS (ubicada en el sitio web oficial de la CNBS). Este es el canal oficial y más seguro para la recepción de documentos."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "3. Envío del Reclamo: Sigue las instrucciones del BOX para adjuntar todos los documentos requeridos. Deberás incluir una descripción clara y concisa de los hechos, el motivo del reclamo y la solución que esperas."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [
+       {
+        "texto": "[email protected]",
+        "url": "/cdn-cgi/l/email-protection"
+       }
+      ],
+      "marca": "5",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Opción Alterna (Correo Electrónico): Como alternativa al BOX, puedes enviar el reclamo y todos los documentos adjuntos al correo electrónico oficial de la Gerencia de Protección al Usuario Financiero: [email protected]."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "4. Acuse de Recibo: La CNBS te enviará un correo electrónico de confirmación o un acuse de recibo de la Ventanilla Electrónica, con un número de referencia para tu expediente."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "5. Seguimiento del Trámite: La CNBS notificará a la Institución Supervisada para que presente su descargo. Podrás realizar consultas sobre el estado de tu reclamo utilizando el número de referencia, contactando a la GPUF."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Pasos para Cancelación del Registro de Remesadoras"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "9",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "1. Acceso a la Ventanilla Electrónica: Ingresar al Sistema de Gestiones Electrónicas (BOX) de la CNBS. Esta es la vía oficial para la recepción de correspondencia y trámites digitales de las entidades supervisadas."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "10",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "2. Creación y Clasificación de Trámite: Crear una nueva solicitud en el BOX, clasificándola como \"Trámite\" o \"Solicitud de Cancelación de Registro\" (según las opciones de la plataforma) e indicando la Gerencia de Protección al Usuario Financiero (GPUF) como destinataria."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "11",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "3. Carga de Documentos (Anexos): Adjuntar todos los documentos listados en la Sección I (Solicitud, Acta de Cancelación, Solvencias, Declaraciones Juradas, DNI/RTN, etc.) en el formato requerido (PDF)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "12",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "4. Envío y Acuse de Recibo: Enviar la gestión a través del BOX. El sistema generará un Acuse de Recibo Electrónico con un número de expediente o gestión. Este número es crucial para el seguimiento."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "13",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "5. Revisión y Resolución: La GPUF y el Departamento de Registros Públicos revisarán la documentación. Si todo está en orden, la CNBS emitirá la Resolución de Cancelación del Registro."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "14",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "6. Notificación y Finalización: La sociedad será notificada de la Resolución a través del mismo BOX o el medio de notificación oficial que haya establecido. Con esta resolución, la cancelación se hace efectiva y se publica en los registros de la CNBS."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Ser sociedad mercantil con actividad principal en auditoría externa."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Al menos el 51% del capital debe pertenecer a profesionales de la Contaduría Pública."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Contar con profesionales colegiados y calificados en auditoría financiera."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "No tener vínculos con instituciones supervisadas por la Comisión."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "No haber sido condenados por delitos dolosos o financieros."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "No haber sido declarados en quiebra o ser fallidos no rehabilitados."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Tener solvencia económica adecuada."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "No ser deudores en Categoría III, IV o V según la CNBS."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "No haber sido suspendidos o inhabilitados profesionalmente."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "No ser empleados de instituciones supervisadas ni de la Comisión."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Datos de contacto oficiales."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Copia del RTN y de identidad de socios y representantes."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Escritura de constitución y reformas."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Información financiera de la firma."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Constancia de colegiación (sociedad y profesionales)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Currículum con respaldos documentales."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Descripción de la organización: Reseña histórica, estructura de capital, organigrama y perfiles de puestos"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Detalle del personal técnico y administrativo"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Sistema de control de calidad de auditorías."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Detalle de equipo de oficina y sistemas de procesamiento de datos."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Detalle de cartera de clientes por sector"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Póliza de responsabilidad civil profesional: · Categoría A: US$60,000 · Categoría B o C: US$20,000"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Declaración jurada (Anexo 4)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Boleta de pago TGR por L.200.00"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638914112775302139.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638914112775302139.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Requisitos de Inscripción o reclasificación de Categorías"
+      ]
+     },
+     {
+      "documentos": [
+       "https://beta.sigpret.gob.hn/Content/Uploads/Tramites/Requisitos/638914114595326583.pdf"
+      ],
+      "enlaces": [],
+      "marca": "",
+      "meta": [
+       {
+        "etiqueta": "Documento",
+        "valor": [
+         "638914114595326583.pdf"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Criterios de evaluación"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa M.D.C"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Edificio de la Comisión Nacional de Bancos y Seguros, Residencial la Hacienda, esquina Boulevard la Hacienda y Boulevard Suyapa."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2290-4500 ext 7114"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Edificio de la CNBS / Oficinas de la Gerencia de Protección al Usuario Financiero"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Resolución"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Aplicación",
+       "https://pdihonduras.gob.hn/consulta/navigate/process/1100",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://pdihonduras.gob.hn/consulta/navigate/process/1100"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://sol.cnbs.gob.hn/ciudadano/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://sol.cnbs.gob.hn/ciudadano/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.youtube.com/watch?v=dAjU3EjucZg",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.youtube.com/watch?v=dAjU3EjucZg"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.cnbs.gob.hn/registros-publicos/registro-de-auditores-externos/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.cnbs.gob.hn/registros-publicos/registro-de-auditores-externos/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.cnbs.gob.hn/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.cnbs.gob.hn/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Solicitud de inscripción en el Registro de Auditores Externos (RAE)"
+}

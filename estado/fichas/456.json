@@ -1,0 +1,370 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "http://juno.sefin.gob.hn/PAMEH/"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Jefe de la Unidad de Monitoreo y Control Fiscal"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Validar conforme emisión de Órdenes de Compra Exenta los bienes y/o servicios por adquirir exonerados del Impuesto Sobre la Venta otorgados por la Secretaría de Finanzas mediante la resolución del obligado tributario."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Todos lo obligados Tributarios beneficiarios de exoneración administrada mediante Orden de Compra Exenta con resolución vigente a nivel Nacional."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Validar conforme emisión de Órdenes de Compra Exenta los bienes y/o servicios por adquirir exonerados del Impuesto Sobre la Venta e impuesto, Aporte para la Atención a Programas Sociales y Conservación del Patrimonio Vial (ACPV), otorgados por la Secretaría de Finanzas, mediante la resolución otorgada al obligado tributario."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 456,
+ "institucion": "Secretaría de Finanzas",
+ "modalidad": "En línea",
+ "numero": "456",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección General y Control de Franquicias Aduaneras"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Solicitud de creación de usuario en el sistema PAMEH por parte del obligado tributario y la unidad de informática."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección General y Control de Franquicias Aduaneras"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Creación de la Orden de compra, en el sistema PAMEH"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección General y Control de Franquicias Aduaneras"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Impresión y entrega de la orden de compra al proveedor, por parte del obligado tributario."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección General y Control de Franquicias Aduaneras"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Liquidación/anulación de las ordenes de compra, por parte del obligado tributario."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección General y Control de Franquicias Aduaneras"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Generación de los informes de las órdenes de compra, por parte del obligado tributario."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección General y Control de Franquicias Aduaneras"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Presentación de los informes de órdenes de compra, por parte del obligado tributario en ventanilla."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección General y Control de Franquicias Aduaneras"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Revisión de los informes de ordenes de compra por parte de la unidad de monitoreo y control fiscal."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Inscripción en el Registro de Exonerados"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Registro de usuario dentro de la Plataforma Administradora de Modulo de Exoneraciones de Honduras (PAMEH)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificación de resolución de exoneración de ISV o ACPV"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Factura proforma o cotización del bien o servicio a comprar exonerado"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Generar Orden de Compra Exenta (OCE) en PAMEH"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Obtener la factura original extendida por el proveedor después de adquirido el bien exonerado"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Liquidación o anulación de la OCE dentro de PAMEH"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Generación y presentación de informe OCE en la Dirección General de Control de Franquicias Aduaneras los primeros 5 días hábiles del mes"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Avenida Cervantes, Barrio El Jazmín, Centro Histórico"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2222-1811"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Secretaría de Finanzas Edificio Principal"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "San Pedro Sula"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Oficinas de la SAR. Barrio el Centro, 1 calle 1 avenida frente al Ferrocarril Nacional"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Regional S.P.S- Secretaría de Finanzas"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Órden de Compra Exenta"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "http://juno.sefin.gob.hn/PAMEH/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "http://juno.sefin.gob.hn/PAMEH/"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.sefin.gob.hn/exoneraciones-y-franquicias-pameh/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.sefin.gob.hn/exoneraciones-y-franquicias-pameh/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Órdenes de Compra Exenta"
+}

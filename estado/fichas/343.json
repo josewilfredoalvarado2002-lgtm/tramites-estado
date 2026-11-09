@@ -1,0 +1,400 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Secretaría General"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Extender permiso de operación para empresas de seguridad privada."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Empresas que se dedica a la prestación de servicios de seguridad"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Al amparo de lo establecido en el reglamento para el control de los servicios de seguridad privada en sus artículo 3 corresponde a la Secretaría de Estado en el Despacho de Seguridad previo dictamen de la Dirección de Control de Empresas de Seguridad Privada la autorización para la prestación de Servicios de vigilancia preventiva, investigación privada, capacitaciones en materia de seguridad y servicios conexos ."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 343,
+ "institucion": "Secretaría de Seguridad",
+ "modalidad": "Presencial",
+ "numero": "343",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría de Seguridad"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Presentar toda la documentación requerida debidamente autenticada ante la Secretaría Genera de la Secretaría de Seguridad."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría de Seguridad"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Revisión de documentación correcta y completa."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría de Seguridad"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Notificación de providencia al apoderado legal de la empresa solicitante."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría de Seguridad"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Remisión de expediente a la Dirección de Control de Empresas de Seguridad a fin de efectuar inspección de campo de la empresa."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Dirección de Control de Empresas de Seguridad"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "La Dirección de Control de Empresas de Seguridad efectúa la inspección, emite un informe y efectúa Dictamen Técnico."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "6",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría de Seguridad"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Remisión del expediente a la Dirección Legal"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "7",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría de Seguridad"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Dirección Legal emite dictámen"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "8",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría de Seguridad"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Secretaría General emite resolución, favorable o desfavorable al solicitante"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "9",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría de Seguridad"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Notificación de Resolución al apoderado legal de la empresa solicitante."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "10",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Banco privado"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Efectuar pago correspondiente, mediante TGR-1."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "11",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Secretaría de Seguridad"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Emisión de permiso para operar como empresa de seguridad privada."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Solicitud dirigida al Secretario de Estado en el Despacho de Seguridad"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Acreditación del poder con el que actúe el apoderado legal"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Escritura de Constitución debidamente inscrita."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Balance Contable original, en legal y debida forma"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Poder de Administración si corresponde (RTN, dirección de la empresa, croquis de la empresa y datos generales de la empresa, número de teléfono, correo electrónico)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Presentar documentos de los socios de la empresa (listado de socios, currículum vitae de cada uno, DNI, RTN, solvencia municipal, antecedentes penales y policiales, en caso de ser extranjero constancias de antecedentes policiales y penales del país de origen y estatus migratorio)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Presentar documentos del personal administrativo la empresa (listado de personal, currículum vitae de cada uno, DNI, RTN, solvencia municipal, antecedentes penales y policiales, en caso de ser extranjero constancias de antecedentes policiales y penales del país de origen y estatus migratorio)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Presentar constancias de solvencia de la empresa (IHSS, RAP, SAR y Municipal)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Presentar documentos del personal operativo la empresa (listado de personal, currículum vitae de cada uno, DNI, RTN, solvencia municipal, antecedentes penales y policiales)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Presentar otros requisitos (formato de contrato de trabajo, reglamento interno de trabajo o solicitud presentado ante la Secretaría de Trabajo, formato de contrato a celebrarse con el cliente, listado de clientes, inventarios de armas de fuego, inventario de vehículos, equipo de comunicación y demás equipo de seguridad, diseño de uniformes con fotografías y su descripción, monogramas y credenciales)"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Aldea Mateo, antiguas instalaciones de la ANAPO, en horario de 8: 00 am a 4:00 pm de lunes a viernes."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2236-1200"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Secretaría de Estado en el Despacho de Seguridad"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "enlaces": [],
+    "lineas": [
+     "No hay entregables registrados",
+     "No se han definido entregables para este trámite"
+    ],
+    "tipo": "texto"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "enlaces": [],
+    "lineas": [
+     "No hay enlaces registrados",
+     "No se han agregado enlaces adicionales para este trámite"
+    ],
+    "tipo": "texto"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Licencia de Operación de Servicios de Seguridad Privada"
+}

@@ -1,0 +1,352 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Jefe Regional de la Dirección Policial Anti Maras y Pandillas y Crimen Organizado"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Brindar acompañamiento y asesoría."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Ciudadanía victima de extorsión."
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "La victima de extorsión efectúa una llamada telefónica a la línea 143 o en su defecto a los números telefónicos para toma de denuncia de DIPAMPCO, reportando de qué forma está siendo extorsionado a fin de obtener la orientación y el acompañamiento requerido."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 959,
+ "institucion": "Secretaría de Seguridad",
+ "modalidad": "Presencial",
+ "numero": "959",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "DIPAMPCO o 143"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Ciudadano se comunica vía teléfono a DIPAMPCO o el número 143."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "DIPAMPCO"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Generación de reporte impreso."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "DIPAMPCO"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Asignación del Reporte a un agente de investigación, para su análisis y que le brinde la asesoría a la victima."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Recibir amenazas o intimidación que limiten el desarrollo de la actividad comercial."
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa MDC"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Edificio Plaza la Estancia, frente a ciudad Nueva, horarios de atención 24 horas del día."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "3366-2588"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Dirección Policial Anti Maras y Pandillas y Crimen Organizado (DIPAMPCO)"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "San Pedro Sula"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio Los Andes 13 Avenida entre 4 y 5 calle, atrás del Estadio Morazán."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "3312-0786"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Dirección Policial Anti Maras y Pandillas y Crimen Organizado (DIPAMPCO)"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "La Ceiba"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Residencial Rancho Lima, Bloque D casa N 8."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "9482-1268"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Dirección Policial Anti Maras y Pandillas y Crimen Organizado (DIPAMPCO)"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Choluteca"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio Tamarindo, contiguo a la Cooperativa Elga, frente al taller Motiño."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "9681-6346"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Dirección Policial Anti Maras y Pandillas y Crimen Organizado (DIPAMPCO)"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Santa Rosa de Copan"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Barrio El Calvario, media cuadra al sur de Hotel San Jorge, Santa Rosa de Copán Honduras."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "3179-6747"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Dirección Policial Anti Maras y Pandillas y Crimen Organizado (DIPAMPCO)"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Danli"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Colonia Apaguiz, primera entrada casa N 2."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "3366-2588"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Dirección Policial Anti Maras y Pandillas y Crimen Organizado (DIPAMPCO)"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Comayagua"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Colonia San Carlos, contiguo a clínica Brazos de Amor"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "9632-6483"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Dirección Policial Anti Maras y Pandillas y Crimen Organizado (DIPAMPCO)"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Número de Denuncias DIPAMPCO"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.facebook.com/SecretariaDeSeguridadHN/posts/-denunciar-es-protegerdesde-la-secretar%C3%ADa-de-seguridad-honduras-y-la-direcci%C3%B3n-p/1135006378658640/",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.facebook.com/SecretariaDeSeguridadHN/posts/-denunciar-es-protegerdesde-la-secretar%C3%ADa-de-seguridad-honduras-y-la-direcci%C3%B3n-p/1135006378658640/"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Reporte Telefónico por Extorsión"
+}

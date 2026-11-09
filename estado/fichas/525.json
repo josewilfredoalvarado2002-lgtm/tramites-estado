@@ -1,0 +1,309 @@
+{
+ "accion": {
+  "texto": "Iniciar trámite en línea",
+  "url": "https://miempresaenlinea.org/auth/login"
+ },
+ "datos": [
+  {
+   "lineas": [
+    "Sub Directora de Formalización"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "Incentivar a la formación de las empresas y la generación de nuevos empleos por medio de la micro y pequeña empresa, que generará un impacto positivo en la economía y desarrollo del país."
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Todas las empresas del Sector Social Mercantil"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Mi Empresa en Línea es un portal que permite la constitución de empresas en Honduras de Sociedad de Responsabilidad Limitada, Sociedad Anónima y Comerciantes Individuales"
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 525,
+ "institucion": "Servicio Nacional de Emprendimiento y de Pequeños Negocios",
+ "modalidad": "En línea",
+ "numero": "525",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "https://www.miempresaenlinea.org/"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Registrate en la pagina de Mi Empresa en Línea https://www.miempresaenlinea.org/"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Apoderado Legal"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Elige el tipo de Sociedad Mercantil que deseas conformar y el área de cobertura; luego llena los formularios para ingresar la información al sistema."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Subdirección de Formalización"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Entregar los documentos solicitados en las oficinas del Servicio Nacional de Emprendimiento y Pequeños Negocios"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Subdirección de Formalización"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Enviar solicitud de constitución al Instituto de la Propiedad (IP)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "5",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Para consultar el estado de tu expediente pulsar el botón Más información e ir al enlace Informativo"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Documento Nacional de Identidad y copia"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Registro Nacional Tributario (RTN)"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Recibo público de ENEE"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Recibo Público SANAA"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Creación de Usuario a través de tu Correo Electrónico"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Llenar formularios en el sistema"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Carta Poder"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa"
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Centro Cívico Gubernamental, torre 2, piso 12"
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2242-8101, 2242-8102, 2242-8104, 2242-8105, 2242-8106"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "SENPRENDE"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificado de Constitución"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Contrato societario"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Trámite en línea",
+       "https://miempresaenlinea.org/auth/login",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://miempresaenlinea.org/auth/login"
+       }
+      ]
+     },
+     {
+      "celdas": [
+       "Informativo",
+       "https://www.miempresaenlinea.org/CONSULTAR",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "https://www.miempresaenlinea.org/CONSULTAR"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Constitución de Mi Empresa en Línea"
+}

@@ -1,0 +1,247 @@
+{
+ "accion": null,
+ "datos": [
+  {
+   "lineas": [
+    "Jefe de Misión/Cónsul General/Cónsul"
+   ],
+   "titulo": "Responsable"
+  },
+  {
+   "lineas": [
+    "El certificado de matrimonio sirve para proteger y garantizar el vínculo matrimonial. Por ello, después de casarse y contraer matrimonio en el Registro Civil, lo más recomendable es solicitar el certificado matrimonial"
+   ],
+   "titulo": "Objetivo"
+  },
+  {
+   "lineas": [
+    "Hondureño en el extranjero"
+   ],
+   "titulo": "Dirigido a"
+  }
+ ],
+ "descripcion": [
+  "Es un documento que se encarga de dar fe y certificar el acto del matrimonio entre dos personas, el cual recoge datos importantes como la fecha, la hora y el lugar en el que se ha contraído el matrimonio."
+ ],
+ "etiquetas": [
+  "Aprobado"
+ ],
+ "id_portal": 236,
+ "institucion": "Secretaría de Relaciones Exteriores y Cooperación Internacional",
+ "modalidad": "Presencial",
+ "numero": "236",
+ "pestanas": [
+  {
+   "clave": "pasos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "1",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficina Consular"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Agendar cita en la página: http://citaconsular.sreci.gob.hn/citaconsular/pages/layout/CitaConsular.php"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "2",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Oficina Consular"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Presentar Certificado de Matrimonio original emitida por la Oficina Consular. Carta Poder (cuando la inscripción la realice una tercera persona)."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "3",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Ventanilla de Autenticas y Apostilla/Secretaría de Relaciones Exteriores"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Autenticar la documentación en la Unidad de Autenticas. Tiempo del Tramite: Un día."
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "4",
+      "meta": [
+       {
+        "etiqueta": "Dependencia",
+        "valor": [
+         "Registro Nacional de las Personas"
+        ]
+       }
+      ],
+      "otros": [],
+      "texto": [
+       "Presentar la documentación autenticada ante el Registro Civil Municipalidad de su jurisdicción. Costo del Tramite: Gratuito Tiempo del Tramite: Inmediato"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Pasos del trámite"
+  },
+  {
+   "clave": "requisitos",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Cita consular"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Tarjeta de identidad o Pasaporte hondureño vigente de ambos cónyuges (si uno de los cónyuges es extranjero deberá presentar su Pasaporte vigente). Certificado de Matrimonio original del país en donde ocurrió el casamiento. Comprobante de pago"
+      ]
+     },
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Uno o ambos cónyuges deben acudir obligatoriamente a la Oficina Consular. En el caso que una tercera persona es quien efectuará la inscripción de matrimonio ante el Registro Nacional de las Personas, los cónyuges deberán realizar una Carta Poder en la Oficina Consular"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Requisitos"
+  },
+  {
+   "clave": "lugares",
+   "contenido": {
+    "lugares": [
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "En donde se cuente oficina consular de Honduras"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Oficina Consular"
+      ]
+     },
+     {
+      "datos": [
+       {
+        "etiqueta": "Ciudad",
+        "valor": [
+         "Tegucigalpa M.D.C."
+        ]
+       },
+       {
+        "etiqueta": "Dirección",
+        "valor": [
+         "Tegucigalpa, Honduras, Bulevar Kuwait, antigua casa presidencial, contiguo a la Corte Suprema de Justicia."
+        ]
+       },
+       {
+        "etiqueta": "Teléfonos",
+        "valor": [
+         "2236-0200, ext 3009"
+        ]
+       }
+      ],
+      "enlaces": [],
+      "titulo": [
+       "Secretaria de Relaciones exteriores y cooperación internacional, en la sección de autenticas"
+      ]
+     }
+    ],
+    "tipo": "lugares"
+   },
+   "etiqueta": "Lugares"
+  },
+  {
+   "clave": "entregables",
+   "contenido": {
+    "elementos": [
+     {
+      "documentos": [],
+      "enlaces": [],
+      "marca": "",
+      "meta": [],
+      "otros": [],
+      "texto": [
+       "Certificación de Matrimonio"
+      ]
+     }
+    ],
+    "tipo": "lista"
+   },
+   "etiqueta": "Entregables"
+  },
+  {
+   "clave": "enlaces",
+   "contenido": {
+    "encabezados": [
+     "Tipo de enlace",
+     "URL",
+     "Acción"
+    ],
+    "filas": [
+     {
+      "celdas": [
+       "Aplicación",
+       "http://citaconsular.sreci.gob.hn/citaconsular/pages/layout/CitaConsular.php",
+       "Abrir"
+      ],
+      "enlaces": [
+       {
+        "texto": "Abrir",
+        "url": "http://citaconsular.sreci.gob.hn/citaconsular/pages/layout/CitaConsular.php"
+       }
+      ]
+     }
+    ],
+    "tipo": "tabla"
+   },
+   "etiqueta": "Más información"
+  }
+ ],
+ "titulo": "Certificación de Matrimonio"
+}
