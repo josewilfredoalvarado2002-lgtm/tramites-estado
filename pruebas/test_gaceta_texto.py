@@ -71,5 +71,23 @@ class Gaceta(unittest.TestCase):
         self.assertIn(rutas[0][:-3], T.nota_edicion(ed, actos, rutas, res, "2026-11-09"))
 
 
+class Encabezados(unittest.TestCase):
+    def test_encabezado_sin_la_palabra_numero(self):
+        for x in ("DECRETO 198-2026", "ACUERDO EJECUTIVO 400-2026", "DECRETO No. 196-2026", "ACUERDO NÚMERO 1632"):
+            reng = [(1, x), (1, "EL CONGRESO NACIONAL,"), (1, "CONSIDERANDO: Que algo.")]
+            self.assertEqual(len(T.separar_actos(reng, [])), 1, x)
+        for x in ("DECRETO LEGISLATIVO", "ACUERDO DE PAZ", "RESOLUCIÓN 2026"):
+            reng = [(1, x), (1, "EL CONGRESO NACIONAL,"), (1, "CONSIDERANDO: Que algo. " * 20)]
+            self.assertEqual(T.separar_actos(reng, [])[0]["tipo"], "Otro acto", x)
+
+    def test_indices_en_arbol(self):
+        n = T.notas_indice([("2026-10-02", 37261, "11 Normativa/La Gaceta/2026/La Gaceta 37261 (2026-10-02).md", 4)])
+        self.assertEqual(sorted(n), ["11 Normativa/La Gaceta/2026/2026-10 Octubre.md", "11 Normativa/La Gaceta/La Gaceta 2026.md",
+                                     "11 Normativa/Índice de normativa.md"])
+        self.assertIn("La Gaceta 2026]]", n["11 Normativa/Índice de normativa.md"])
+        self.assertNotIn("37261", n["11 Normativa/Índice de normativa.md"])
+        self.assertIn("La Gaceta 37261]]", n["11 Normativa/La Gaceta/2026/2026-10 Octubre.md"])
+
+
 if __name__ == "__main__":
     unittest.main()

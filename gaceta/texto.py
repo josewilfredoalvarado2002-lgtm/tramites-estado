@@ -15,11 +15,12 @@ MAYUS = "A-ZÁÉÍÓÚÑÜ"
 
 RE_CAB = re.compile(
     r"^(?:L?a Gaceta|Secci[óo]n\s+[AB]\s+(?:Acuerdos y Leyes|Avisos Legales)"
-    r"|REP[ÚU]BLICA\s+DE\s+HONDURAS\s*-\s*TEGUCIGALPA.*No\.\s*[\d,. ]+)$")
+    r"|REP[ÚU]BLICA\s+DE\s+HONDURAS\s*-\s*TEGUCIGALPA.{0,70}No\.\s*[\d,. ]+\S{0,2})$")
 RE_SEC_B = re.compile(r"^Secci[óo]n\s+B\s+Avisos Legales")
 RE_ACTO = re.compile(
-    rf"^(?:CERTIFICACI[ÓO]N,?\s+)?(DECRETO|ACUERDO|RESOLUCI[ÓO]N|CERTIFICACI[ÓO]N)((?: [{MAYUS}]+){{0,3}})\s*"
-    rf"(?:No\.?|N[ÚU]MERO|N[°º]\.?)\s*([A-Z0-9][\w\-/]*(?:\.\d+)?)\s*(?:[.\-]+(?:\s*Sesi[óo]n.*)?)?$")
+    rf"^(?:CERTIFICACI[ÓO]N,?\s+)?(DECRETO|ACUERDO|RESOLUCI[ÓO]N|CERTIFICACI[ÓO]N)((?: (?!N[ÚU]MERO\b)[{MAYUS}]+){{0,3}})\s*"
+    rf"(No\.?|N[ÚU]MERO|N[°º]\.?)?\s*([A-Z0-9][\w\-/]*(?:\.\d+)?)\s*(?:[.\-]+(?:\s*Sesi[óo]n.*)?)?$")
+RE_NUM_SOLO = re.compile(r"\d\w*[-/][\w\-/]*\d")
 RE_CERT = re.compile(r"^CERTIFICACI[ÓO]N\.?$")
 RE_SUSCRITO = re.compile(r"^(?:El|La)\s+(?:infrascrit|suscrit)[oa]")
 RE_SUM = re.compile(r"(Decreto|Acuerdo|Resoluci[óo]n|Certificaci[óo]n)[\w ]*?\s(?:No\.?|N[úu]mero)\s*([A-Z0-9][\w\-/]*)")
@@ -63,6 +64,9 @@ def limpiar_paginas(paginas):
             lin = _portada(lin)
         if i == 1:
             lin = _recuadro(lin, r"^DIARIO OFICIAL DE LA REP", r"^CENTRO C[ÍI]VICO GUBERNAMENTAL")
+        k = next((k for k, x in enumerate(lin) if x.startswith("El Diario Oficial La Gaceta circula")), None)
+        if k is not None and any("Suscripciones" in x for x in lin[k:k + 6]):
+            lin = lin[:k]  # recuadro de suscripciones de la contraportada
         fuera = set()
         for k, x in enumerate(lin):
             if RE_CAB.match(x):
@@ -154,9 +158,9 @@ def separar_actos(renglones, sumario):
             cortes.append((k, None, ""))
             continue
         m = RE_ACTO.match(x)
-        if not m or len(x) > 90:
+        if not m or len(x) > 90 or (not m.group(3) and not RE_NUM_SOLO.fullmatch(m.group(4).rstrip(".-"))):
             continue
-        num = m.group(3).rstrip(".-")
+        num = m.group(4).rstrip(".-")
         if cortes and cortes[-1][2] == num and k - cortes[-1][0] < 15:
             continue
         cerca = [y for y in lin[k + 1:k + 5]]
@@ -216,6 +220,18 @@ def _archivo(s):
     return re.sub(r"\s+", " ", re.sub(r'[\\/:*?"<>|#^\[\]]', "-", s)).strip(" .-")[:120]
 
 
+MESES = ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre",
+         "Noviembre", "Diciembre"]
+
+
+def ruta_anio(anio):
+    return f"{CARPETA}/La Gaceta/La Gaceta {anio}.md"
+
+
+def ruta_mes(fecha):
+    return f"{CARPETA}/La Gaceta/{fecha[:4]}/{fecha[:7]} {MESES[int(fecha[5:7]) - 1]}.md"
+
+
 def ruta_edicion(ed):
     return f"{CARPETA}/La Gaceta/{ed['fecha'][:4]}/La Gaceta {ed['numero']} ({ed['fecha']}).md"
 
@@ -270,19 +286,38 @@ def nota_edicion(ed, actos, rutas, resumen, hoy):
     sumario = "\n".join(f"- {s}" for s in ed.get("sumario") or []) or NO_CONSTA
     lista = "\n".join(f"- [[{r[:-3]}|{a['titulo'] or 'Otros actos'}]] ({a['paginas']})" for a, r in zip(actos, rutas))
     return (f"---\n{fm}\n---\n{INICIO}\n# La Gaceta No. {ed['numero']} del {ed['fecha']}\n\n"
-            f"[[{CARPETA}/Índice de normativa|Índice de normativa]]\n\n## Sumario según el portal de la ENAG\n\n{sumario}\n\n"
+            f"{enlace_mes(ed['fecha'])}\n\n## Sumario según el portal de la ENAG\n\n{sumario}\n\n"
             f"## Actos de la Sección A\n\n{lista or 'No se identificaron actos en la Sección A.'}\n\n"
             f"La Sección B (Avisos Legales) no se copia.\n\n## Fuente\n\n{ed['descarga']}\n{FIN}\n\n## Notas propias\n\n")
 
 
-def nota_indice(ediciones):
-    """ediciones: lista de (fecha, numero, ruta)."""
-    out = ["---\ntipo: \"indice_normativa\"\n---", INICIO, "# Índice de normativa", "",
-           "[[00 Panel/Directorio|Directorio de Case Deck]]", ""]
-    anio = None
-    for fecha, numero, ruta in sorted(ediciones, reverse=True):
-        if fecha[:4] != anio:
-            anio = fecha[:4]
-            out += ["", f"## {anio}", ""]
-        out.append(f"- [[{ruta[:-3]}|La Gaceta {numero} ({fecha})]]")
-    return "\n".join(out) + f"\n{FIN}\n"
+def enlace_mes(fecha):
+    return f"[[{ruta_mes(fecha)[:-3]}|{MESES[int(fecha[5:7]) - 1]} de {fecha[:4]}]]"
+
+
+def notas_indice(ediciones):
+    """ediciones: lista de (fecha, numero, ruta, actos). Devuelve {ruta: contenido} con el índice general,
+    una nota por año y una por mes, para que el grafo quede en árbol: índice, año, mes, edición, acto."""
+    notas, anios = {}, {}
+    for e in sorted(ediciones):
+        anios.setdefault(e[0][:4], {}).setdefault(e[0][:7], []).append(e)
+    cuerpo = ["# Índice de normativa", "", "[[00 Panel/Directorio|Directorio de Case Deck]]", "",
+              "Normas publicadas en la Sección A de La Gaceta, por año.", ""]
+    for anio in sorted(anios, reverse=True):
+        meses = anios[anio]
+        total = sum(len(v) for v in meses.values())
+        cuerpo.append(f"- [[{ruta_anio(anio)[:-3]}|La Gaceta {anio}]] ({total} ediciones cargadas)")
+        lin = [f"# La Gaceta {anio}", "", f"[[{CARPETA}/Índice de normativa|Índice de normativa]]", ""]
+        for mes in sorted(meses, reverse=True):
+            eds = sorted(meses[mes], reverse=True)
+            lin.append(f"- {enlace_mes(mes + '-01')} ({len(eds)} ediciones)")
+            lm = [f"# {MESES[int(mes[5:7]) - 1]} de {anio}", "", f"[[{ruta_anio(anio)[:-3]}|La Gaceta {anio}]]", "",
+                  "| Fecha | Edición | Actos de la Sección A |", "| --- | --- | --- |"]
+            lm += [f"| {f} | [[{r[:-3]}\\|La Gaceta {n}]] | {a} |" for f, n, r, a in eds]
+            notas[ruta_mes(mes + "-01")] = ('---\ntipo: "normativa_mes"\n---\n'
+                                           f"{INICIO}\n" + "\n".join(lm) + f"\n{FIN}\n")
+        notas[ruta_anio(anio)] = ('---\ntipo: "normativa_anio"\n---\n'
+                                  f"{INICIO}\n" + "\n".join(lin) + f"\n{FIN}\n")
+    notas[f"{CARPETA}/Índice de normativa.md"] = ('---\ntipo: "normativa_indice"\n---\n' + f"{INICIO}\n"
+                                                + "\n".join(cuerpo) + f"\n{FIN}\n")
+    return notas
