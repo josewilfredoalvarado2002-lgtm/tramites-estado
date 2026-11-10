@@ -11,5 +11,7 @@ tipo: "normativa_anio"
 - [[11 Normativa/La Gaceta/2025/2025-10 Octubre|Octubre de 2025]] (26 ediciones)
 - [[11 Normativa/La Gaceta/2025/2025-09 Septiembre|Septiembre de 2025]] (25 ediciones)
 - [[11 Normativa/La Gaceta/2025/2025-08 Agosto|Agosto de 2025]] (26 ediciones)
-- [[11 Normativa/La Gaceta/2025/2025-07 Julio|Julio de 2025]] (20 ediciones)
+- [[11 Normativa/La Gaceta/2025/2025-07 Julio|Julio de 2025]] (26 ediciones)
+- [[11 Normativa/La Gaceta/2025/2025-06 Junio|Junio de 2025]] (24 ediciones)
+- [[11 Normativa/La Gaceta/2025/2025-05 Mayo|Mayo de 2025]] (9 ediciones)
 <!-- portal:fin -->
