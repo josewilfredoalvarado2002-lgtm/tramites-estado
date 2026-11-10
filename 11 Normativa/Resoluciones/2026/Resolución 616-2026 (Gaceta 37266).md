@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Resolución No. 616-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261009-37266/download"
 extraido: "2026-11-09"
-huella: "77ccdfda3c9c610d"
+huella: "139268c42a5a6a89"
 ---
 <!-- portal:inicio -->
 # RESOLUCIÓN No. 616-2026
@@ -241,7 +241,9 @@ CAPÍTULO VII DE LA REFORMA
 
 ARTÍCULO 28.- Toda reforma o modificación a los presentes estatutos, deberá ser conforme a lo establecido en la Ley Marco del Sector Agua Potable y Saneamiento y demás leyes del sector, cuya propuesta deberá será sometida a aprobación en Asamblea General, por las tres cuartas partes de los usuarios o abonados asistentes, es decir, por mayoría calificada, siguiendo el mismo procedimiento de su aprobación.
 
-CAPÍTULO VIII RESOLUCIÓN DE CONFLICTOS
+CAPÍTULO VIII
+
+RESOLUCIÓN DE CONFLICTOS
 
 #### Artículo 29
 

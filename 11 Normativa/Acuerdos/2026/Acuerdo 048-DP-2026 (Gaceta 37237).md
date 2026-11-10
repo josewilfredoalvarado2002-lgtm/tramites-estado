@@ -1,0 +1,114 @@
+---
+tipo: "norma"
+tipo_acto: "Acuerdo"
+numero: "048-DP-2026"
+titulo: "ACUERDO EJECUTIVO NÚMERO 048-DP-2026"
+emisor: "Poder Ejecutivo"
+gaceta_numero: 37237
+gaceta_fecha: "2026-09-03"
+gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37237 (2026-09-03)|La Gaceta 37237]]"
+paginas: "A. 1 - 8"
+sumario: "Acuerdo Ejecutivo Número 048-DP-2026"
+url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260903-37237/download"
+extraido: "2026-11-09"
+huella: "63056a5e02578676"
+---
+<!-- portal:inicio -->
+# ACUERDO EJECUTIVO NÚMERO 048-DP-2026
+
+| Dato | Valor |
+| --- | --- |
+| Tipo de acto | Acuerdo |
+| Número | 048-DP-2026 |
+| Emisor | Poder Ejecutivo |
+| Publicado en | [[11 Normativa/La Gaceta/2026/La Gaceta 37237 (2026-09-03)\|La Gaceta 37237]] del 2026-09-03 |
+| Páginas | A. 1 - 8 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo Número 048-DP-2026 |
+
+## Texto
+
+EL PRESIDENTE DE LA REPÚBLICA,
+
+CONSIDERANDO: Que de conformidad al Artículo 235 de la Constitución de la República, la titularidad del Poder Ejecutivo la ejerce en representación y para beneficio del Pueblo, el Presidente de la República.
+
+CONSIDERANDO: Que de conformidad con el Artículo 245 Numerales 1, 2, 11 y 45 de la Constitución de la República, corresponde al Presidente de la República, entre otras atribuciones, dirigir la política general del Estado y representarlo, asimismo, emitir Acuerdos, Decretos y expedir reglamentos y resoluciones conforme a la Ley.
+
+CONSIDERANDO: Que los contratos de obras, bienes y servicios que celebren los órganos de la administración pública se regirán conforme a los procedimientos establecidos que al efecto determina la Ley de Contratación del Estado y, en su Artículo 63 establece los supuestos de la Contratación Directa, que podrá realizarse en los casos siguientes: "...4) Cuando las circunstancias exijan que las operaciones del Gobierno se mantengan secretas; ....... 6) Cuando se trate de trabajos científicos, técnicos o artísticos especializados...." y, en su párrafo final establece literalmente que "...Para llevar a cabo la Contratación Directa en los casos que anteceden, se requerirá autorización del Presidente de la República cuando se trate de contratos de la Administración Pública Centralizada o del órgano de dirección superior, cuando se trate de Contratos de la Administración Descentralizada o de los demás organismos públicos a que se refiere el
+
+Artículo 1 de la presente Ley, debiendo emitirse Acuerdo expresando detalladamente sus motivos".
+
+CONSIDERANDO: Que de acuerdo con el Artículo 11 de la Ley General de Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, pudiendo actuar por sí o en Consejo de Secretarios de Estado.
+
+CONSIDERANDO: Que mediante Artículo 4 del DECRETO EJECUTIVO NÚMERO PCM-004-2026, publicado el 25 de febrero de 2026 en el Diario Oficial "La Gaceta", se reformaron las funciones y atribuciones de la DIRECCIÓN DE GESTIÓN POR RESULTADOS (DIGER), en adelante "... responsable de rectorar, ejecutar, supervisar, coordinar y administrar el marco de planes, políticas, programas y proyectos en materia digital del sector público en las áreas de conectividad, trámites y plataformas digitales, economía digital, datos abiertos, talento digital, ciberseguridad y otras tecnologías emergentes, de conformidad con las prioridades y asignaciones establecidas por la Presidencia de la República ...".
+
+CONSIDERANDO: Que como consecuencia de dichas atribuciones la DIRECCIÓN DE GESTIÓN POR RESULTADOS (DIGER), administra infraestructura tecnológica crítica del Estado, integrada por centros de datos, plataformas de interoperabilidad, infraestructura de virtualización, redes de comunicaciones, sistemas de almacenamiento, plataformas de identidad digital, mecanismos de autenticación, infraestructura criptográfica, servicios de integración institucional y demás componentes tecnológicos que permiten la prestación continua de servicios digitales gubernamentales.
+
+CONSIDERANDO:
+
+Que sobre la Infraestructura Pública Digital administrada por la DIRECCIÓN DE GESTIÓN POR RESULTADOS (DIGER) operan, se integran y consumen servicios digitales estratégicos cuya disponibilidad, integridad, confidencialidad, autenticidad y continuidad constituyen elementos esenciales para el funcionamiento seguro de la Administración Pública y la prestación de servicios públicos digitales a la ciudadanía.
+
+Dicha infraestructura soporta, entre otros, el Sistema de Gestión por Resultados, mediante el cual más de ochenta
+
+(80) instituciones de la Administración Pública registran, consultan e intercambian información para el seguimiento de la medición de resultados y la toma de decisiones estratégicas; la Billetera Electrónica Nacional (BIEN), oficializada por el Registro Nacional de las Personas para la generación del Documento Nacional de Identificación Biométrico (DNIB), mediante Sesión No. CPRNP-037-2026 y certificación publicada en el Diario Oficial "La Gaceta" de fecha diecisiete (17) de julio del presente año 2026, que actualmente interopera con el Registro Nacional de las Personas, Instituto Nacional de Migración y la Policía Nacional; asimismo, soporta el desarrollo e implementación del Bus Nacional de lnteroperabilidad, concebido como la infraestructura nacional de confianza destinada a posibilitar el intercambio seguro, interoperable, estandarizado y controlado de información entre las instituciones públicas, incrementándose progresivamente el número de entidades integradas y, consecuentemente, la dependencia institucional respecto de la Infraestructura Pública Digital administrada por DIGER. De igual forma, dicha infraestructura proporciona servicios tecnológicos compartidos, incluyendo el alojamiento de plataformas institucionales y servicios especializados para diversas entidades de la Administración Pública, consolidándose como un componente transversal para la operación del Estado, cuya criticidad aumenta de manera proporcional al crecimiento del ecosistema digital gubernamental y a la incorporación progresiva de nuevas instituciones, plataformas y servicios digitales estratégicos. En consecuencia, la protección de la seguridad y la ciberseguridad de la Infraestructura Pública Digital constituye un asunto de interés público y un elemento esencial para garantizar la continuidad operativa del Estado, la prestación ininterrumpida de los servicios públicos digitales, la protección del intercambio seguro de información entre las instituciones y la consolidación del proceso transformación digital del Estado de Honduras, siendo indispensable adoptar medidas permanentes para fortalecer las capacidades institucionales de ciberseguridad orientadas a prevenir, detectar, contener y responder oportunamente frente a amenazas que puedan comprometer la infraestructura tecnológica crítica del Estado.
+
+CONSIDERANDO: Que la DIRECCIÓN DE GESTIÓN POR RESULTADOS (DIGER), en el marco de sus atribuciones como órgano rector de la transformación digital del Estado, desarrolla e implementa la infraestructura tecnológica que soporta servicios de confianza digital utilizados por la Administración Pública, incluyendo la Firma Digital Avanzada, la cual constituye un mecanismo esencial para garantizar la autenticidad, integridad, no repudio, trazabilidad y validez jurídica de los documentos electrónicos. En virtud de la naturaleza de dichos servicios, la infraestructura tecnológica y criptográfica que los soporta requiere los más altos niveles de seguridad, disponibilidad, integridad y resiliencia, por cuanto cualquier vulneración, alteración, indisponibilidad o compromiso de sus mecanismos de protección podría afectar la confianza en los procesos electrónicos del Estado, comprometer la seguridad de las transacciones digitales, poner en riesgo la eficacia jurídica de los actos administrativos emitidos por medios electrónicos y generar impactos sobre la continuidad de los servicios públicos digitales, circunstancias que hacen indispensable fortalecer de manera permanente las capacidades institucionales de ciberseguridad, con el propósito de garantizar la continuidad operativa, la seguridad de la infraestructura tecnológica y la confianza en los servicios digitales prestados por el Estado.
+
+CONSIDERANDO: Que la DIRECCIÓN DE GESTIÓN POR RESULTADOS (DIGER), en el ejercicio de sus competencias en materia de ciberseguridad, presentó al señor Presidente de la República, mediante Oficio No.
+
+DM-DIGER 236-2026, de fecha 2 de julio de 2026, al cual se adjuntó el Informe Técnico de Evaluación de Ciberseguridad, los resultados de las evaluaciones especializadas de ciberseguridad practicadas sobre instituciones estratégicas del Estado, en las cuales se documentó la existencia de vulnerabilidades críticas, deficiencias en los controles de seguridad, exposición de activos tecnológicos y escenarios de riesgo susceptibles de comprometer la confidencialidad, integridad, disponibilidad y continuidad de los servicios digitales gubernamentales, concluyéndose la necesidad de adoptar, con carácter prioritario e inmediato, medidas de fortalecimiento de la infraestructura de seguridad y ciberseguridad administrada por la DIRECCIÓN DE GESTIÓN POR RESULTADOS (DIGER), a fin de proteger la Infraestructura Pública Digital del Estado y garantizar la continuidad de servicios públicos digitales.
+
+CONSIDERANDO: Que durante la implementación de la Billetera Electrónica Nacional (BIEN) se registró un incidente de ciberseguridad consistente en ataques automatizados dirigidos contra los servicios públicos, ocasionando degradación temporal de la disponibilidad del servicio y requiriendo la ejecución inmediata de medidas especializadas de contención, monitoreo, análisis y mitigación; determinándose mediante los análisis técnicos correspondientes que los controles de seguridad implementados evitaron el compromiso de la identidad digital y de las credenciales de los ciudadanos, sin perjuicio de evidenciar la necesidad de fortalecer las capacidades institucionales de protección perimetral y respuesta frente a amenazas avanzadas (INFORME DE INCIDENTE DE SEGURIDAD HONDURAS DIGITAL ID PROJECT MAYO 2026).
+
+CONSIDERANDO: Que, adicionalmente, se registró un incidente de seguridad informática sobre plataformas institucionales, alojadas dentro de la infraestructura tecnológica administrada por la DIRECCIÓN DE GESTIÓN POR RESULTADOS (DIGER), el cual hizo necesaria la adopción inmediata de medidas de aislamiento, contención, segmentación, monitoreo y análisis, con el propósito de impedir la propagación del incidente hacia otros servicios gubernamentales que operan sobre la Infraestructura Pública Digital del Estado, confirmándose mediante los análisis técnicos correspondientes que los mecanismos de seguridad implementados por DIGER evitaron el compromiso de la infraestructura tecnológica bajo su administración (INFORME EJECUTIVO INCIDENTE DE SEGURIDAD PLATAFORMA).
+
+CONSIDERANDO: Que los incidentes de ciberseguridad documentados, conjuntamente con los resultados de las evaluaciones técnicas practicadas sobre instituciones estratégicas del Estado, permiten establecer objetivamente que las amenazas cibernéticas que enfrenta la Infraestructura Pública Digital del Estado no constituyen riesgos meramente potenciales o hipotéticos, sino riesgos ciertos, actuales y verificables, caracterizados por la explotación de vulnerabilidades, campañas automatizadas, intentos de acceso no autorizado, reconocimiento activo de infraestructura tecnológica y demás actividades propias de amenazas cibernéticas avanzadas; concluyendo por dichos informes que resulta indispensable fortalecer, con carácter prioritario y a la mayor brevedad posible, la protección perimetral, las capacidades institucionales de ciberseguridad, los mecanismos de monitoreo, detección, prevención, contención y respuesta ante incidentes, así como implementar controles avanzados de seguridad que permitan reducir la superficie de ataque, preservar la continuidad operativa de los servicios públicos digitales y garantizar la protección de la Infraestructura Pública Digital del Estado.
+
+CONSIDERANDO: Que las mejores prácticas y estándares internacionales en materia de protección de infraestructuras críticas y gestión del riesgo cibernético reconocen la necesidad de resguardar la información relacionada con la arquitectura de seguridad y ciberseguridad de los sistemas que soportan servicios esenciales del Estado. En ese sentido, el NIST Cybersecurity Framework (CSF 2.0) reconoce que la protección de infraestructuras críticas requiere una gestión permanente del riesgo cibernético mediante la identificación de activos críticos, la implementación de controles de seguridad apropiados y la protección de la información cuya divulgación pueda incrementar el riesgo sobre dichos activos. Por su parte, la NORMA ISO/IEC 27001:2022 reconoce la clasificación de la información como un control esencial para la gestión de la seguridad de la información, disponiendo que ésta sea clasificada de acuerdo con su nivel de sensibilidad, criticidad, valor y requisitos de protección, así como la implementación de controles que garanticen que el acceso a dicha información sea otorgado únicamente a las personas autorizadas, conforme a las funciones que desempeñan y a las necesidades propias de la organización.
+
+Asimismo, las directrices emitidas por la Cybersecurity and lnfrastructure Security Agency (CISA) promueven la protección de la infraestructura crítica mediante la reducción de la superficie de ataque, la protección de la información sensible relacionada con los mecanismos de defensa y la limitación de la divulgación de información técnica cuya exposición pueda facilitar la preparación o ejecución de ataques cibernéticos. En consecuencia, la información relacionada con la arquitectura, diseño, operación y mecanismos de seguridad y ciberseguridad de la Infraestructura Pública Digital del Estado constituye información estratégica cuya divulgación o exposición innecesaria podría comprometer la eficacia de las medidas de protección implementadas, incrementar el riesgo cibernético y afectar la continuidad de los servicios públicos digitales que soporta dicha infraestructura.
+
+CONSIDERANDO: Que, de conformidad con el Numeral 4 del Artículo 63 de la Ley de Contratación del Estado, procede la contratación directa cuando las circunstancias exijan que las operaciones del Gobierno se mantengan secretas. En el presente caso, la definición y eventual publicación de los requerimientos técnicos necesarios para el fortalecimiento de la seguridad y ciberseguridad de la Infraestructura Pública Digital del Estado implicaría revelar, directa o indirectamente, las capacidades de protección, necesidades de seguridad y mecanismos de defensa requeridos para la protección de dicha infraestructura, incrementando objetivamente el riesgo sobre los servicios digitales estratégicos del Estado. En consecuencia, dichas circunstancias justifican que el procedimiento se tramite mediante la modalidad de contratación directa, evitando la diculgación pública de los requerimientos técnicos cuya exposición pudiera comprometer la eficacia de las medidas de seguridad y ciberseguridad implementada para la protección de la Infraestructura Pública Digital del Estado.
+
+CONSIDERANDO: Que la protección de la Infraestructura Pública Digital del Estado requiere la adquisición e implementación de bienes, tecnologías y servicios técnicos altamente especializados para el fortalecimiento de las capacidades de seguridad y ciberseguridad del Estado, por tratarse de soluciones de alta complejidad tecnológica cuya integración, operación y puesta en funcionamiento demandan conocimientos y capacidades técnicas especializadas, siendo aplicable, adicionalmente, el supuesto previsto en el Numeral 6 del Artículo 63 de la Ley de Contratación del Estado.
+
+POR TANTO;
+
+En uso de las facultades de que está investido y que están contenidas en los Artículos 235, 245 Numerales 1, 2, 11, 19 y 45 de la Constitución de la República; y, Artículos 11, 16, 116, 118 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No.
+
+266-2013; Artículo 63 Numerales 4, 6 y Párrafo Final, de la Ley de Contratación del Estado; Artículo 4 del DECRETO EJECUTIVO NÚMERO PCM-004-2026, publicado el 25 de febrero de 2026 en el Diario Oficial "La Gaceta" y, demás aplicables.
+
+ACUERDA:
+
+PRIMERO: Autorizar a la DIRECCIÓN DE GESTIÓN POR RESULTADOS (DIGER), para que, a partir de la vigencia del presente Acuerdo Ejecutivo, proceda mediante la modalidad de CONTRATACIÓN DIRECTA, al amparo de las circunstancias o supuestos previstos en los Numerales 4, 6 y Párrafo Final del Artículo 63 de la Ley de Contratación del Estado, es decir, "... 4) Cuando las circunstancias exijan que las operaciones del Gobierno se mantengan secretas; ....... 6) Cuando se trate de trabajos científicos, técnicos o artísticos especializados....", para la contratación del diseño, suministro, implementación, integración, configuración, puesta en operación, soporte especializado, capacitación y demás servicios técnicos necesarios para el fortalecimiento de la protección perimetral, la seguridad y la ciberseguridad de la Infraestructura Pública Digital Administrada por la DIRECCIÓN DE GESTIÓN POR RESULTADOS (DIGER), incluyendo los bienes, licencias, software, hardware, suscripciones, servicios profesionales especializados y demás componentes tecnológicos que resulten indispensables para garantizar la disponibilidad, integridad, confidencialidad, autenticidad y continuidad de los servicios digitales estratégicos del Estado.
+
+SEGUNDO: La DIRECCIÓN DE GESTIÓN POR RESULTADOS (DIGER), deberá seleccionar al proveedor o proveedores que, conforme a las investigaciones de mercado, análisis técnicos, jurídicos, y demás actuaciones que integren el expediente administrativo, acrediten contar con la experiencia, especialización capacidad técnica y soluciones tecnológicas idóneas para satisfacer los requerimientos institucionales y garantizar la adecuada protección de la Infraestructura Pública Digital del Estado, de conformidad con la legislación aplicable.
+
+TERCERO: La DIRECCIÓN DE GESTIÓN POR RESULTADOS (DIGER) deberá presentar un Informe detallado al Presidente de la República, que contenga los bienes y servicios específicamente contratados, los montos de inversión, entre otros extremos relevantes y, a la revisión del mismo, podrá recibir instrucciones precisas del Presidente de la República en cuanto a la adquisición del resto de bienes y servicios contratados, siempre que estos cumplan con los requerimientos establecidos, al amparo del presente Acuerdo Ejecutivo.
+
+CUARTO: El o los contratos que se suscriban al amparo del presente Acuerdo Ejecutivo deberán obtener las condiciones más ventajosas en calidad, especificaciones, capacidad, disponibilidad, cobertura y/o extensión para la Administración Pública. La solución tecnológica deberá corresponder a tecnologías de seguridad y ciberseguridad de reconocido liderazgo internacional, ampliamente adoptadas para la protección de infraestructuras críticas y servicios esenciales, respaldadas por fabricantes de prestigio y reconocimiento mundial. Asimismo, el proveedor deberá acreditar capacidad técnica, financiera, operativa y logística suficiente para la ejecución de proyectos estratégicos de alta criticidad; experiencia comprobada en el diseño, implementación, integración, operación y soporte de soluciones de seguridad y ciberseguridad de similar naturaleza, complejidad y magnitud; mantener relaciones vigentes con los fabricantes de las tecnologías propuestas; y, contar con personal técnico especializado con certificaciones oficiales vigentes emitidas por dichos fabricantes, así como con la infraestructura y capacidades necesarias para garantizar la adecuada implementación, operación, soporte y transferencia de conocimiento a la DIRECCIÓN DE GESTIÓN POR RESULTADOS (DIGER).
+
+QUINTO: Instruir a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que, en el ámbito de sus competencias, adopte con carácter prioritario las medidas presupuestarias, financieras, administrativas y contables que resulten necesarias para garantizar la ejecución oportuna del presente Acuerdo Ejecutivo, brindando la celeridad y prioridad que demanden las actuaciones requeridas para la implementación de las medidas destinadas al fortalecimiento de la seguridad y ciberseguridad de la Infraestructura Pública Digital del Estado.
+
+SEXTO: Autorizar e instruir a todas las instituciones de la Administración Pública Centralizada y Descentralizada que interoperen, se encuentren integradas, conectadas o hagan uso de la Infraestructura Pública Digital administrada por la DIRECCIÓN DE GESTIÓN POR RESULTADOS (DIGER), así como aquellas que en el futuro se incorporen a dicha infraestructura, para que presten de manera oportuna, permanente y efectiva toda la colaboración técnica, administrativa operativa e institucional que les sea requerida por la DIRECCIÓN DE GESTRIÓN POR RESULTADOS (DIGER), con el propósito de garantizar la correcta implementación de las soluciones de seguridad y ciberseguridad, el fortalecimiento de la protección de la Infraestructura Pública Digital del Estado, la continuidad de los servicios públicos digitales y el cumplimiento de los objetivos establecidos en el presente Acuerdo Ejecutivo.
+
+SÉPTIMO: El presente Acuerdo Ejecutivo es de ejecución inmediata y será publicado en el Diario Oficial "La Gaceta".
+
+Dado en la Ciudad de Tegucigalpa, Municipio del Distrito Central, a los veinticuatro (24) días del mes de agosto del año dos mil veintiséis (2026).
+
+COMUNÍQUESE Y PUBLÍQUESE.
+
+NASRY JUAN ASFURA ZABLAH
+
+Presidente de la República
+
+JUAN CARLOS GARCÍA MEDINA
+
+Secretario de Estado en el Despacho de la Presidencia
+
+## Fuente
+
+Texto extraído del PDF de La Gaceta No. 37237 del 2026-09-03, publicado por la ENAG: https://enag.gob.hn/index.php/gaceta-digital/20260903-37237/download. Copia de consulta; el texto oficial es el del PDF.
+<!-- portal:fin -->
+
+## Notas propias
+

@@ -11,7 +11,7 @@ paginas: "A. 8 - 12"
 sumario: "Decretos Nos. 184-2026, 187-2026,194-2026, 200-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261014-37269/download"
 extraido: "2026-11-09"
-huella: "a42f351a89173033"
+huella: "9c8603c00386d026"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 200-2026
@@ -124,10 +124,6 @@ Salida a Puerto Cortés, Centro Comercial, “Los Castaños”, Teléfono:
 La Gaceta está a la vanguardia de la tecnología, ahora ofreciendo a sus clientes el servicio en versión digital a nivel nacional e internacional en su página web www.lagaceta.hn Para mayor información llamar al Tel.: 2230-1339 o al correo: gacetadigitalhn@gmail.com Contamos con:
 
 • Servicio de consulta en línea.
-
-El Diario Oficial La Gaceta circula de lunes a sábado Tels.: 2230-1120, 2230-4957, 2230-1339 Suscripciones:
-
-Nombre:___________________________________________________________________________________________ Dirección: _________________________________________________________________________________________ Teléfono: _________________________________________________________________________________________ Empresa: __________________________________________________________________________________________ Dirección Oficina: __________________________________________________________________________________ Teléfono Oficina: ___________________________________________________________________________________ Remita sus datos a: Empresa Nacional de Artes Gráficas precio unitario: Lps. 15.00 Suscripción Físico y Digital Lps. 2,000.00 anual, seis meses Lps. 1,000.00 Empresa Nacional de Artes Gráficas (E.N.A.G.) Colonia Miraflores Sur, Centro Cívico Gubernamental
 
 ## Fuente
 

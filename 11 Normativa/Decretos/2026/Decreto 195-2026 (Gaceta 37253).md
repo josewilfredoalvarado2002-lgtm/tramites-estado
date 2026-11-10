@@ -11,7 +11,7 @@ paginas: "A. 10 - 24"
 sumario: "Decretos Nos. 183-2026, 189-2026, 192-2026, 195-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260923-37253/download"
 extraido: "2026-11-09"
-huella: "be1237e7fef22c0e"
+huella: "215cbac297933604"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 195-2026
@@ -63,7 +63,11 @@ Por Tanto: Ejecútese.
 
 Tegucigalpa, M.D.C., 2 de septiembre de 2026.
 
-NASRY JUAN ASFURA ZABLAH PRESIDENTE DE LA REPÚBLICA SECRETARÍA DE ESTADO EN EL DESPACHO DE LA PRESIDENCIA __________ EMPRESA NACIONAL DE ARTES GRÁFICAS tus ideas, LAs diseñamos y plasmamos el concepto con creatividad y lo imprimimos al formato que mas te guste gaceta digital@enag.gob.hn www.enag.gob.hn www.lagaceta.hn Empresa Nacional de Artes Gráficas Comisión Interventora CERTIFICACIÓN DE ACUERDO En la Ciudad de Tegucigalpa, Municipio del Distrito Central, en fecha ocho (08) de septiembre del dos mil veintiséis (2026), el infrascrito COMISIONADO SECRETARIO OSCAR JAVIER CÓRDOVA GUEVARA, CERTIFICA el ACUERDO emitida por la Comisión Interventora No. 003- 2026-CI/SANAA de fecha treinta y un (31) días del mes de julio del año dos mil veintiséis (2026) que literalmente dice:
+NASRY JUAN ASFURA ZABLAH PRESIDENTE DE LA REPÚBLICA SECRETARÍA DE ESTADO EN EL DESPACHO DE LA PRESIDENCIA __________ EMPRESA NACIONAL DE ARTES GRÁFICAS tus ideas, LAs diseñamos y plasmamos el concepto con creatividad y lo imprimimos al formato que mas te guste gaceta digital@enag.gob.hn www.enag.gob.hn www.lagaceta.hn Empresa Nacional de Artes Gráficas Comisión Interventora
+
+CERTIFICACIÓN DE ACUERDO
+
+En la Ciudad de Tegucigalpa, Municipio del Distrito Central, en fecha ocho (08) de septiembre del dos mil veintiséis (2026), el infrascrito COMISIONADO SECRETARIO OSCAR JAVIER CÓRDOVA GUEVARA, CERTIFICA el ACUERDO emitida por la Comisión Interventora No. 003- 2026-CI/SANAA de fecha treinta y un (31) días del mes de julio del año dos mil veintiséis (2026) que literalmente dice:
 
 COMISIÓN INTERVENTORA PRESIDENCIAL PCM-
 

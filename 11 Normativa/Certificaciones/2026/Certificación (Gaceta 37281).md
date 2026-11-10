@@ -11,7 +11,7 @@ paginas: "A. 8 - 48"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261029-37281/download"
 extraido: "2026-11-09"
-huella: "b67aa1511212ebef"
+huella: "1c0c1ea7ac9bce14"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -159,7 +159,19 @@ Descripción Precio en VAC-MAT-001 Derecho de matrícula anual a estudiantes ext
 
 2 Cobrar a la tasa de cambio actual.
 
-REPÚBLICA DE HONDURAS - TEGUCIGALPA, M.D.C., 29 DE OCTUBRE DEL 2026 No. 37,281i Sección Tercera: Valores de Graduación CODIGO Descripción Precio en (L) VAC -VAR -001 Reposición de título L 2,500.00 VAC -GRA -001 Ceremonia privada de graduación nacionales L 6,000.00 3 VAC -GRA -002 Ceremonia privada de graduación extranjeros $270.004 VAC -GRA -003 Derechos de Graduación nacionales L 4,500.00 VAC -GRA -004 Derechos de Graduación extranjeros $220.005 VAC -GRA -005 Título por Ventanilla L 2,500.00 6 VAC -DPG -002 Deposito por alquiler de Toga (Valor reembolsable al alumno cuando regrese la misma).
+Sección Tercera: Valores de Graduación
+
+CODIGO
+
+Descripción Precio en (L)
+
+VAC -VAR -001
+
+Reposición de título L 2,500.00
+
+VAC -GRA -001
+
+Ceremonia privada de graduación nacionales L 6,000.00 3 VAC -GRA -002 Ceremonia privada de graduación extranjeros $270.004 VAC -GRA -003 Derechos de Graduación nacionales L 4,500.00 VAC -GRA -004 Derechos de Graduación extranjeros $220.005 VAC -GRA -005 Título por Ventanilla L 2,500.00 6 VAC -DPG -002 Deposito por alquiler de Toga (Valor reembolsable al alumno cuando regrese la misma).
 
 L 500.00
 
@@ -275,7 +287,7 @@ Leguminosae L 20.00 JBL-PFO-007 La limba Terminalia superva Combretaceae L 20.00
 
 Meliaceae L 20.00 JBL-PFO-011 Masica Brosimum alicastrum Moraceae L 20.00 Dialium guianensis ( Aubl. ) Sand Caesalpinaceae L 20.00 Hyeronima alchorneoides FR. All Euphorbiaceae L 20.00 JBL-PFO-014 San Juan guayapeño Tabebuia donnell smithii Bignoniaceae L 20.00 JBL-PFO-015 Teca Tectona grandis Verbenaceae L 20.00 JBL-PFO-016 Otros maderables L 20.00 JBL-PFO-017 Caoba Swietenia macrophylla Meliaceae L 20.00 JBL-PFO-018 Barba de jolote Cojoba arborea Mimosaceae L 20.00 CODIGO Nombre Maderas Pie Tablar Precio L Común Científico Familia Caoba Swietenia macrophylla JBL-MAD-001 Meliaceae Pt L 50.00 JBL-MAD-002 Cedro Cedrela odorata Meliaceae Pt L 50.00 JBL-MAD-003 Teca Tectona grandis Verbenaceae Pt L 50.00 JBL-MAD-004 Nazareno Pt L 50.00 JBL-MAD-005 Otros maderables Pt L 40.00 Rodajas de Madera CODIGO Pequeñ Grande Median a (de 50 a (&lt; de (≥ de 1 Unidad 50 cm de diámetr Común Científico Familia ro)
 
-o) JBL-SUB-001 Caoba Swietenia macrophylla Meliaceae C/u L200.00 L100.00 L50.00 JBL-SUB-002 Cedro Cedrela odorata Meliaceae C/u L200.00 L100.00 L50.00 JBL-SUB-003 Teca Tectona grandis Verbenaceae C/u L200.00 L100.00 L50.00 C/u L300.00 L200.00 L100.00 Leguminosae- Caesalpinioideae JBL-SUB-005 Otros maderables C/u L150.00 L75.00 L30.00 Lomos de Madera CODIGO Común Científico Familia Categoría Categoría Categoría Unidad 1 (≥ a 7 pie de largo) 2 (de 4 a 6 pie de largo) 3 (&lt; de 4 pie de largo) de medida JBL-SUB-006 Caoba Swietenia macrophylla Meliaceae C/u L 200.00 L 100.00 L 50.00 JBL-SUB-007 Cedro Cedrela odorata Meliaceae C/u L 200.00 L 100.00 L 50.00 JBL-SUB-008 Teca Tectona grandis Verbenaceae C/u L 200.00 L 100.00 L 50.00 C/u L 250.00 L 150.00 L 100.00 Leguminosae- Caesalpinioideae maderables C/u L 100.00 L 50.00 L 30.00 REPÚBLICA DE HONDURAS - TEGUCIGALPA, M.D.C., 29 DE OCTUBRE DEL 2026 No. 37,281i Nota: A los precios establecidos se les aplicará los impuestos correspondientes, de acuerdo con el marco normativo vigente, exclusivamente aquellos productos y servicios sujetos a gravámenes.
+o) JBL-SUB-001 Caoba Swietenia macrophylla Meliaceae C/u L200.00 L100.00 L50.00 JBL-SUB-002 Cedro Cedrela odorata Meliaceae C/u L200.00 L100.00 L50.00 JBL-SUB-003 Teca Tectona grandis Verbenaceae C/u L200.00 L100.00 L50.00 C/u L300.00 L200.00 L100.00 Leguminosae- Caesalpinioideae JBL-SUB-005 Otros maderables C/u L150.00 L75.00 L30.00 Lomos de Madera CODIGO Común Científico Familia Categoría Categoría Categoría Unidad 1 (≥ a 7 pie de largo) 2 (de 4 a 6 pie de largo) 3 (&lt; de 4 pie de largo) de medida JBL-SUB-006 Caoba Swietenia macrophylla Meliaceae C/u L 200.00 L 100.00 L 50.00 JBL-SUB-007 Cedro Cedrela odorata Meliaceae C/u L 200.00 L 100.00 L 50.00 JBL-SUB-008 Teca Tectona grandis Verbenaceae C/u L 200.00 L 100.00 L 50.00 C/u L 250.00 L 150.00 L 100.00 Leguminosae- Caesalpinioideae maderables C/u L 100.00 L 50.00 L 30.00 Nota: A los precios establecidos se les aplicará los impuestos correspondientes, de acuerdo con el marco normativo vigente, exclusivamente aquellos productos y servicios sujetos a gravámenes.
 
 Si se requiere la elaboración de productos o servicios de madera (como pino, caoba, cedro, entre otros) en el Jardín Botánico Lancetilla que no estén contemplados en este plan de arbitrios, se deberá conformar la comisión especial descrita en el artículo 1 0 para ﬁjar sus costos y precios de venta.
 
