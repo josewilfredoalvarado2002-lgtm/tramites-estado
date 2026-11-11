@@ -1,0 +1,52 @@
+---
+tipo: "norma"
+tipo_acto: "Acuerdo"
+numero: "27-2025"
+titulo: "ACUERDO EJECUTIVO No. 27-2025"
+emisor: "Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización"
+gaceta_numero: 36817
+gaceta_fecha: "2025-04-16"
+gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36817 (2025-04-16)|La Gaceta 36817]]"
+paginas: "A. 3"
+sumario: "Acuerdo Ejecutivo No. 27-2025,Acuerdo No. 14-2025"
+url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250416-36817/download"
+extraido: "2026-11-11"
+huella: "ec4dec064a831edd"
+---
+<!-- portal:inicio -->
+# ACUERDO EJECUTIVO No. 27-2025
+
+| Dato | Valor |
+| --- | --- |
+| Tipo de acto | Acuerdo |
+| Número | 27-2025 |
+| Emisor | Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización |
+| Publicado en | [[11 Normativa/La Gaceta/2025/La Gaceta 36817 (2025-04-16)\|La Gaceta 36817]] del 2025-04-16 |
+| Páginas | A. 3 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. 27-2025,Acuerdo No. 14-2025 |
+
+## Texto
+
+EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN En uso de las facultades de que fue investido por la Presidenta de la República, mediante Acuerdo Ejecutivo No. 46-2022, delegación de fecha 28 de enero 2022 y en aplicaciones de los artículos: 235, 245 atribuciones 5 y 11 de la Constitución de la República 11, 35, 116, 118, 119, 122 de la Ley General de la Administración Pública.
+
+ACUERDA:
+
+PRIMERO: Cancelar por fallecimiento al ciudadano Ricardo Alfredo Martínez Castañeda, del cargo de Secretario Ejecutivo del Servicio Aeroportuario Nacional (SAN), entidad desconcentrada de la Secretaría de Estado en el Despacho de Infraestructura y Transporte (SIT).
+
+SEGUNDO: El presente Acuerdo Ejecutivo efectivo a partir de la fecha y debe publicarse en el Diario Oficial La Gaceta.
+
+TERCERO: Hacer las transcripciones de Ley.
+
+COMUNÍQUESE Y CÚMPLASE.
+
+Dado en la ciudad de Tegucigalpa, municipio del Distrito Central, a los diecisiete (17) días del mes de marzo del año dos mil veinticinco (2025).
+
+TOMÁS EDUARDO VAQUERO MORRIS SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN CELSO DONADÍN ALVARADO HERNÁNDEZ SECRETARIO GENERAL SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN
+
+## Fuente
+
+Texto extraído del PDF de La Gaceta No. 36817 del 2025-04-16, publicado por la ENAG: https://enag.gob.hn/index.php/gaceta-digital/20250416-36817/download. Copia de consulta; el texto oficial es el del PDF.
+<!-- portal:fin -->
+
+## Notas propias
+
