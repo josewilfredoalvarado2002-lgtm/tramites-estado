@@ -8,6 +8,6 @@ tipo: "normativa_indice"
 
 Normas publicadas en la Sección A de La Gaceta, por año.
 
-- [[11 Normativa/La Gaceta/La Gaceta 2026|La Gaceta 2026]] (255 ediciones cargadas)
-- [[11 Normativa/La Gaceta/La Gaceta 2025|La Gaceta 2025]] (262 ediciones cargadas)
+- [[11 Normativa/La Gaceta/La Gaceta 2026|La Gaceta 2026]] (257 ediciones cargadas)
+- [[11 Normativa/La Gaceta/La Gaceta 2025|La Gaceta 2025]] (300 ediciones cargadas)
 <!-- portal:fin -->
