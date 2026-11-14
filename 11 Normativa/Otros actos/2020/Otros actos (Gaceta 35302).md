@@ -11,7 +11,7 @@ paginas: "A. 1 - 144"
 sumario: "Acuerdos CREE-074, CREE-075, CREE-076, CREE-077"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200703-35302/download"
 extraido: "2026-11-14"
-huella: "ff5cfa7faab6332f"
+huella: "05bc61c05d332806"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdos CREE-074, CREE-075, CREE-076, CREE-077
@@ -29,7 +29,9 @@ huella: "ff5cfa7faab6332f"
 
 Energía Eléctrica
 
-CREE ACUERDO CREE - 074 COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA. TEGUCIGALPA, MUNICIPIO DE DISTRITO CENTRAL, A LOS TREINTA DÍAS DE JUNIO DE DOS MIL VEINTE.
+CREE
+
+ACUERDO CREE - 074 COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA. TEGUCIGALPA, MUNICIPIO DE DISTRITO CENTRAL, A LOS TREINTA DÍAS DE JUNIO DE DOS MIL VEINTE.
 
 RESULTANDO
 
@@ -1475,7 +1477,9 @@ Los propietarios de unidades generadoras dispondrán de un plazo de un (1) año 
 
 Artículo 118. Potencia firme de contratos suscritos con anterioridad a la entrada en vigencia de la Ley. El ODS calculará anualmente la Potencia Firme de Unidades Generadoras cuyos titulares tengan suscritos contratos con anterioridad a la entrada en vigor de la Ley, siguiendo la metodología descrita en este Reglamento. A pesar de esto, los Agentes Productores en tanto titulares de estos contratos estarán exentos de los derechos y obligaciones relativos a la potencia firme establecidos en este Reglamento. Los Agentes Compradores que se conviertan en la contraparte de estos contratos, podrán declarar esta potencia firme a efectos de cobertura de su Requerimiento de Potencia Firme.
 
-Comisión Reguladora de Energía Eléctrica CREE ACUERDO CREE - 075 COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA. TEGUCIGALPA, MUNICIPIO DE DISTRITO CENTRAL, A LOS TREINTA DÍAS DE JUNIO DE DOS MIL VEINTE.
+Comisión Reguladora de Energía Eléctrica CREE
+
+ACUERDO CREE - 075 COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA. TEGUCIGALPA, MUNICIPIO DE DISTRITO CENTRAL, A LOS TREINTA DÍAS DE JUNIO DE DOS MIL VEINTE.
 
 RESULTANDO
 
@@ -1523,7 +1527,9 @@ QUINTO: El presente acuerdo es de ejecución inmediata.
 
 JOSÉ ANTONIO MORÁN MARADIAGA GERARDO ANTONIO SALGADO OCHOA
 
-Comisión Reguladora de Energía Eléctrica CREE ACUERDO CREE - 076 COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA. TEGUCIGALPA, MUNICIPIO DE DISTRITO CENTRAL, A LOS TREINTA DÍAS DEL MES DE JUNIO DE DOS MIL VEINTE.
+Comisión Reguladora de Energía Eléctrica CREE
+
+ACUERDO CREE - 076 COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA. TEGUCIGALPA, MUNICIPIO DE DISTRITO CENTRAL, A LOS TREINTA DÍAS DEL MES DE JUNIO DE DOS MIL VEINTE.
 
 RESULTANDO:
 
@@ -2147,7 +2153,9 @@ El ODS contará con un plazo de doce (12) meses para poner en marcha los estudio
 
 3. Las cuatrocientas treinta y ocho (438) horas seleccionadas en el numeral anterior son las que conforman el Período Crítico del Sistema para el siguiente año. Este es el Periodo Crítico del Sistema que se utilizará para la determinación de la potencia firme de las centrales.
 
-Comisión Reguladora de Energía Eléctrica CREE ACUERDO CREE - 077 COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA. TEGUCIGALPA, MUNICIPIO DE DISTRITO CENTRAL A LOS TREINTA DÍAS DEL MES DE JUNIO DE DOS MIL VEINTE.
+Comisión Reguladora de Energía Eléctrica CREE
+
+ACUERDO CREE - 077 COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA. TEGUCIGALPA, MUNICIPIO DE DISTRITO CENTRAL A LOS TREINTA DÍAS DEL MES DE JUNIO DE DOS MIL VEINTE.
 
 RESULTANDO:
 

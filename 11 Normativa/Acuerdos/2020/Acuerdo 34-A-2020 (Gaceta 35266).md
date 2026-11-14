@@ -9,7 +9,7 @@ gaceta_fecha: "2020-05-28"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35266 (2020-05-28)|La Gaceta 35266]]"
 paginas: "A. 4"
 sumario: "Acuerdos Nos. 138-2019, 140-2019, 151-2019, 152-2019, 34-A-2020, 34-B-2020"
-url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200528-35266-2/download"
+url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200528-35266/download"
 extraido: "2026-11-14"
 huella: "2d124dead6d0ef94"
 ---
@@ -43,7 +43,7 @@ RICARDO LEONEL CARDONA LÓPEZ SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL
 
 ## Fuente
 
-Texto extraído del PDF de La Gaceta No. 35266 del 2020-05-28, publicado por la ENAG: https://enag.gob.hn/index.php/gaceta-digital/20200528-35266-2/download. Copia de consulta; el texto oficial es el del PDF.
+Texto extraído del PDF de La Gaceta No. 35266 del 2020-05-28, publicado por la ENAG: https://enag.gob.hn/index.php/gaceta-digital/20200528-35266/download. Copia de consulta; el texto oficial es el del PDF.
 <!-- portal:fin -->
 
 ## Notas propias

@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36947 (2025-09-20)|La Gaceta 36
 paginas: "A. 1 - 20"
 sumario: "Acuerdos de DeclaratoriaDE-DCHA-001-2025, DE-DCHA-003-2025DE-DCHA-004-2025, DE-DCHA-005-2025,DE-DCHA-006-2025, DE-DCHA-007-2025,DE-DCHA-008-2025, DE-DCHA-010-2025, DE-DCHA-011-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250920-36947/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "480363e36d235607"
 ---
 <!-- portal:inicio -->

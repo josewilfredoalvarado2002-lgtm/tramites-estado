@@ -23,7 +23,7 @@ tipo: "normativa_mes"
 | 2022-09-16 | [[11 Normativa/La Gaceta/2022/La Gaceta 36029 (2022-09-16)\|La Gaceta 36029]] | 1 |
 | 2022-09-14 | [[11 Normativa/La Gaceta/2022/La Gaceta 36028 (2022-09-14)\|La Gaceta 36028]] | 3 |
 | 2022-09-13 | [[11 Normativa/La Gaceta/2022/La Gaceta 36027 (2022-09-13)\|La Gaceta 36027]] | 3 |
-| 2022-09-12 | [[11 Normativa/La Gaceta/2022/La Gaceta 36026 (2022-09-12)\|La Gaceta 36026]] | 2 |
+| 2022-09-12 | [[11 Normativa/La Gaceta/2022/La Gaceta 36026 (2022-09-12)\|La Gaceta 36026]] | 3 |
 | 2022-09-10 | [[11 Normativa/La Gaceta/2022/La Gaceta 36025 (2022-09-10)\|La Gaceta 36025]] | 2 |
 | 2022-09-09 | [[11 Normativa/La Gaceta/2022/La Gaceta 36024 (2022-09-09)\|La Gaceta 36024]] | 1 |
 | 2022-09-08 | [[11 Normativa/La Gaceta/2022/La Gaceta 36023 (2022-09-08)\|La Gaceta 36023]] | 6 |

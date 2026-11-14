@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36922 (2025-08-21)|La Gaceta 36
 paginas: "A. 8 - 56"
 sumario: "Acuerdos Nos. 074-2025, 078-2025."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250821-36922/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "91b3004e5557acb2"
 ---
 <!-- portal:inicio -->

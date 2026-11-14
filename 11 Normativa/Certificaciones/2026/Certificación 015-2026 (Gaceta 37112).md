@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37112 (2026-04-08)|La Gaceta 37
 paginas: "A. 6 - 8"
 sumario: "Acuerdo No. SAG-059-2026,Certificación No. 015-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260408-37112/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "feba7ed8f1891594"
 ---
 <!-- portal:inicio -->

@@ -11,7 +11,7 @@ paginas: "A. 24 - 33"
 sumario: "Acuerdo No. 012-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200630-35299/download"
 extraido: "2026-11-14"
-huella: "a9e3a68e2c575c37"
+huella: "9dc69c63db746656"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 012-2020
@@ -51,7 +51,9 @@ CONSIDERANDO: Que la Sección Octava del Capítulo V del Reglamento Para el Cont
 
 CONSIDERANDO: Que el Capítulo X del Reglamento Para el Control Sanitario de Productos, Servicios y Establecimientos de Interés Sanitario instituye que “El otorgamiento de registros sanitarios,…certificados, autorizaciones, renovaciones y otros servicios… causará los derechos de conformidad con los valores contemplados en el Reglamento de Cuotas de Recuperación por Prestación de Servicios…; a la vez, el referido Reglamento no establece el tiempo para resolver dichas solicitudes ni tampoco establece los costos a cobrar por los servicios prestados y sabiendo que es competencia de la Agencia de Regulación Sanitaria (ARSA), elaborar, actualizar el marco normativo que regule los establecimientos, servicios y productos de interés sanitario, así como también es atribución, establecer mecanismos para garantizar la calidad de los servicios y de los productos en el mercado que puedan repercutir sobre la salud de la población, de igual forma, es atribución de la ARSA, aprobar las cuotas de recuperación por servicios prestados.
 
-CONSIDERANDO: Que el desempeño de la función de regulación y la vigilancia del marco normativo es un campo de acción muy específico, caracterizado por un elevado nivel de complejidad y diversidad tanto técnica como científica que requiere contar con una institucionalidad especializada que mejore la gestión de la regulación, fiscalización, control y vigilancia sanitaria, por lo que, a fin de responder eficientemente a las exigencias anteriormente planteadas es necesario el diseño y puesta en marcha de un nuevo modelo de organización y administración. Razón por la cual, el Pleno de Comisionados de la Agencia de Regulación Sanitaria (ARSA), en Sesión Extraordinaria de fecha 24 febrero del año 2020, en Acta No. 001-SE-2020, en punto único, aprueban: ESTABLECER LOS PLAZOS DE RESOLUCIÓN Y LAS CUOTAS DE RECUPERACIÓN POR LOS SERVICIOS PRESTADOS DE LA DIRECCIÓN DE DISPOSITIVOS MÉDICOS Y OTROS DISPOSITIVOS DE INTERÉS SANITARIO DE LOS SIGUIENTES TRÁMITES: 1) INFORME DE CLASIFICACIÓN POR RIESGO SANITARIO; 2) PRÓRROGA DE INFORME DE CLASIFICACIÓN POR RIESGO SANITARIO 3) MODIFICACIÓN DE INFORME DE CLASIFICACIÓN POR RIESGO SANITARIO 4) REGISTRO SANITARIO NUEVO Y RENOVACIÓN;
+CONSIDERANDO: Que el desempeño de la función de regulación y la vigilancia del marco normativo es un campo de acción muy específico, caracterizado por un elevado nivel de complejidad y diversidad tanto técnica como científica que requiere contar con una institucionalidad especializada que mejore la gestión de la regulación, fiscalización, control y vigilancia sanitaria, por lo que, a fin de responder eficientemente a las exigencias anteriormente planteadas es necesario el diseño y puesta en marcha de un nuevo modelo de organización y administración. Razón por la cual, el Pleno de Comisionados de la Agencia de Regulación Sanitaria (ARSA), en Sesión Extraordinaria de fecha 24 febrero del año 2020, en Acta No. 001-SE-2020, en punto único, aprueban: ESTABLECER LOS PLAZOS DE
+
+RESOLUCIÓN Y LAS CUOTAS DE RECUPERACIÓN POR LOS SERVICIOS PRESTADOS DE LA DIRECCIÓN DE DISPOSITIVOS MÉDICOS Y OTROS DISPOSITIVOS DE INTERÉS SANITARIO DE LOS SIGUIENTES TRÁMITES: 1) INFORME DE CLASIFICACIÓN POR RIESGO SANITARIO; 2) PRÓRROGA DE INFORME DE CLASIFICACIÓN POR RIESGO SANITARIO 3) MODIFICACIÓN DE INFORME DE CLASIFICACIÓN POR RIESGO SANITARIO 4) REGISTRO SANITARIO NUEVO Y RENOVACIÓN;
 
 \5) MODIFICACIÓN DE REGISTRO SANITARIO CON APROBACIÓN PREVIA; 6) MODIFICACIÓN DE REGISTRO SANITARIO SIN APROBACIÓN PREVIA;
 
@@ -63,7 +65,9 @@ AGENCIA DE REGULACIÓN SANITARIA, en uso de las facultades de que está investi
 
 RESUELVE:
 
-PRIMERO: Que en Sesión Extraordinaria de fecha 24 febrero del año 2020, en Acta No. 001-SE-2020, el Pleno de Comisionados de la Agencia de Regulación Sanitaria (ARSA), en punto único aprueban ESTABLECER LOS PLAZOS DE RESOLUCIÓN Y LAS CUOTAS DE RECUPERACIÓN POR LOS SERVICIOS PRESTADOS DE LA DIRECCIÓN DE DISPOSITIVOS MÉDICOS Y OTROS DISPOSITIVOS DE INTERÉS SANITARIO DE LOS SIGUIENTES TRÁMITES: INFORME DE CLASIFICACIÓN POR RIESGO SANITARIO; 2) PRÓRROGA DE INFORME DE CLASIFICACIÓN POR RIESGO SANITARIO 3) MODIFICACIÓN DE INFORME DE CLASIFICACIÓN POR RIESGO SANITARIO 4) REGISTRO SANITARIO NUEVO Y RENOVACIÓN;
+PRIMERO: Que en Sesión Extraordinaria de fecha 24 febrero del año 2020, en Acta No. 001-SE-2020, el Pleno de Comisionados de la Agencia de Regulación Sanitaria (ARSA), en punto único aprueban ESTABLECER LOS PLAZOS DE
+
+RESOLUCIÓN Y LAS CUOTAS DE RECUPERACIÓN POR LOS SERVICIOS PRESTADOS DE LA DIRECCIÓN DE DISPOSITIVOS MÉDICOS Y OTROS DISPOSITIVOS DE INTERÉS SANITARIO DE LOS SIGUIENTES TRÁMITES: INFORME DE CLASIFICACIÓN POR RIESGO SANITARIO; 2) PRÓRROGA DE INFORME DE CLASIFICACIÓN POR RIESGO SANITARIO 3) MODIFICACIÓN DE INFORME DE CLASIFICACIÓN POR RIESGO SANITARIO 4) REGISTRO SANITARIO NUEVO Y RENOVACIÓN;
 
 \5) MODIFICACIÓN DE REGISTRO SANITARIO CON APROBACIÓN PREVIA; 6) MODIFICACIÓN DE REGISTRO SANITARIO SIN APROBACIÓN PREVIA;
 

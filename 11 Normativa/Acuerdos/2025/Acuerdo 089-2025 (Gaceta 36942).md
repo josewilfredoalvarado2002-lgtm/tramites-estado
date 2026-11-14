@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36942 (2025-09-13)|La Gaceta 36
 paginas: "A. 7 - 8"
 sumario: "Decreto Ejecutivo Número PCM 27-2025; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 089-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250913-36942/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "eb5683756dc2afaf"
 ---
 <!-- portal:inicio -->

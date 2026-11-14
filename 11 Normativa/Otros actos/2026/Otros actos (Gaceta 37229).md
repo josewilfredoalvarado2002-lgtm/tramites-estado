@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37229 (2026-08-25)|La Gaceta 37
 paginas: "A. 1 - 8"
 sumario: "Reglamento de Viáticos y otros gastos de viaje para Funcionarios, Empleados y Colaboradores del Patronato Nacional de la Infancia (PANI) OTROS AVANCE"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260825-37229/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "3059eb66396edad7"
 ---
 <!-- portal:inicio -->

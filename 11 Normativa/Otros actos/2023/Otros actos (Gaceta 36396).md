@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdos Números J.D. 001-15-06-2023, J.D. 001-16-03-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231129-36396/download"
 extraido: "2026-11-14"
-huella: "1e34431a508cfdb8"
+huella: "af64003920192fdc"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdos Números J.D. 001-15-06-2023, J.D. 001-16-03-2023
@@ -27,7 +27,9 @@ huella: "1e34431a508cfdb8"
 
 ## Texto
 
-CONSUCOOP ACUERDO NÚMERO J.D. 001-15-06-2023
+CONSUCOOP
+
+ACUERDO NÚMERO J.D. 001-15-06-2023
 
 El suscrito, Secretario General del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP), por este medio CERTIFICA el Acuerdo número J.D.001-15-06-2023 aprobado en Sesión Ordinaria de Junta Directiva del CONSUCOOP número 355/2023, celebrada en fecha quince
 
@@ -125,7 +127,9 @@ Y para los fines legales que se estime convenientes se extiende la presente Cert
 
 SECRETARIO GENERAL CONSUCOOP
 
-Consejo Nacional Supervisor de Cooperativas CONSUCOOP ACUERDO NÚMERO J.D. 001-16-03-2023 CONSEJO NACIONAL SUPERVISOR DE COOPERATIVAS CONSUCOOP TEGUCIGALPA, M.D.C., 16 DE MARZO DEL 2023 El suscrito Secretario General del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP), por este medio CERTIFICA el Acuerdo número J.D.001-16-03-2023 aprobado en Sesión Ordinaria de Junta Directiva del CONSUCOOP número 352/2023, celebrada en fecha dieciséis
+Consejo Nacional Supervisor de Cooperativas CONSUCOOP
+
+ACUERDO NÚMERO J.D. 001-16-03-2023 CONSEJO NACIONAL SUPERVISOR DE COOPERATIVAS CONSUCOOP TEGUCIGALPA, M.D.C., 16 DE MARZO DEL 2023 El suscrito Secretario General del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP), por este medio CERTIFICA el Acuerdo número J.D.001-16-03-2023 aprobado en Sesión Ordinaria de Junta Directiva del CONSUCOOP número 352/2023, celebrada en fecha dieciséis
 
 (16) de marzo del año dos mil veintitrés (2023), el cual literalmente dice
 

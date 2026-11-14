@@ -8,7 +8,7 @@ tipo: "normativa_mes"
 
 | Fecha | Edición | Actos de la Sección A |
 | --- | --- | --- |
-| 2020-12-31 | [[11 Normativa/La Gaceta/2020/La Gaceta 35474 (2020-12-31)\|La Gaceta 35474]] | 4 |
+| 2020-12-31 | [[11 Normativa/La Gaceta/2020/La Gaceta 35474 (2020-12-31)\|La Gaceta 35474]] | 6 |
 | 2020-12-30 | [[11 Normativa/La Gaceta/2020/La Gaceta 35473 (2020-12-30)\|La Gaceta 35473]] | 7 |
 | 2020-12-29 | [[11 Normativa/La Gaceta/2020/La Gaceta 35472 (2020-12-29)\|La Gaceta 35472]] | 3 |
 | 2020-12-28 | [[11 Normativa/La Gaceta/2020/La Gaceta 35471 (2020-12-28)\|La Gaceta 35471]] | 6 |

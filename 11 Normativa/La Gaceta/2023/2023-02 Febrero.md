@@ -24,12 +24,12 @@ tipo: "normativa_mes"
 | 2023-02-13 | [[11 Normativa/La Gaceta/2023/La Gaceta 36154 (2023-02-13)\|La Gaceta 36154]] | 1 |
 | 2023-02-11 | [[11 Normativa/La Gaceta/2023/La Gaceta 36153 (2023-02-11)\|La Gaceta 36153]] | 2 |
 | 2023-02-10 | [[11 Normativa/La Gaceta/2023/La Gaceta 36152 (2023-02-10)\|La Gaceta 36152]] | 2 |
-| 2023-02-09 | [[11 Normativa/La Gaceta/2023/La Gaceta 36151 (2023-02-09)\|La Gaceta 36151]] | 1 |
+| 2023-02-09 | [[11 Normativa/La Gaceta/2023/La Gaceta 36151 (2023-02-09)\|La Gaceta 36151]] | 3 |
 | 2023-02-08 | [[11 Normativa/La Gaceta/2023/La Gaceta 36150 (2023-02-08)\|La Gaceta 36150]] | 1 |
 | 2023-02-07 | [[11 Normativa/La Gaceta/2023/La Gaceta 36149 (2023-02-07)\|La Gaceta 36149]] | 1 |
 | 2023-02-06 | [[11 Normativa/La Gaceta/2023/La Gaceta 36148 (2023-02-06)\|La Gaceta 36148]] | 1 |
 | 2023-02-04 | [[11 Normativa/La Gaceta/2023/La Gaceta 36147 (2023-02-04)\|La Gaceta 36147]] | 1 |
 | 2023-02-03 | [[11 Normativa/La Gaceta/2023/La Gaceta 36146 (2023-02-03)\|La Gaceta 36146]] | 1 |
 | 2023-02-02 | [[11 Normativa/La Gaceta/2023/La Gaceta 36145 (2023-02-02)\|La Gaceta 36145]] | 1 |
-| 2023-02-01 | [[11 Normativa/La Gaceta/2023/La Gaceta 36144 (2023-02-01)\|La Gaceta 36144]] | 2 |
+| 2023-02-01 | [[11 Normativa/La Gaceta/2023/La Gaceta 36144 (2023-02-01)\|La Gaceta 36144]] | 3 |
 <!-- portal:fin -->

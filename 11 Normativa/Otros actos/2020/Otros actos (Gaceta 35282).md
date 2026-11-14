@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200613-35282/download"
 extraido: "2026-11-14"
-huella: "6010aa5c49e86ef1"
+huella: "28f13daeffe605b6"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -63,7 +63,7 @@ QUINTO: El presente Acuerdo es de ejecución inmediata y deberá publicarse en e
 
 COMUNÍQUESE Y PUBLÍQUESE:
 
-ROCÍO IZABEL TABORA MORALES SECRETARIA DE ESTADO MARTHA SUYAPA GUILLEN CARRASCO SECRETARIA GENERAL, POR LEY ACUERDO DE DELEGACIÓN NO. 611-2019
+ROCÍO IZABEL TABORA MORALES SECRETARIA DE ESTADO MARTHA SUYAPA GUILLEN CARRASCO SECRETARIA GENERAL, POR LEY
 
 ## Fuente
 

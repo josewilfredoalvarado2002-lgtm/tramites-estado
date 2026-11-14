@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36776 (2025-02-26)|La Gaceta 36
 paginas: "A. 1 - 16"
 sumario: "Acuerdos DNII Nos. 012-2025, 013-2025, 014-2025, 015-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250226-36776/download"
-extraido: "2026-11-12"
+extraido: "2026-11-14"
 huella: "2ff518544607fbce"
 ---
 <!-- portal:inicio -->

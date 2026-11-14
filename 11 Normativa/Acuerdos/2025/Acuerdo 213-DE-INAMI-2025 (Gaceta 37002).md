@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 37002 (2025-11-25)|La Gaceta 37
 paginas: "A. 4 - 8"
 sumario: "Acuerdo No. 213-DE-INAMI-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251125-37002/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "d28d83cea471b0b6"
 ---
 <!-- portal:inicio -->

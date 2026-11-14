@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37161 (2026-06-06)|La Gaceta 37
 paginas: "A. 1 - 20"
 sumario: "Acuerdo Ministerial N.º367-2026; Certificaciones, Resoluciones CD-89-14-05/2026, CD-90-14-05/2026; AVANCE"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260606-37161/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "d26deddfd9b97184"
 ---
 <!-- portal:inicio -->

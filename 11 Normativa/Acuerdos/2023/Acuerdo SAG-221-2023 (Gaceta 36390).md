@@ -11,7 +11,7 @@ paginas: "A. 19 - 20"
 sumario: "Acuerdo No. SAG-221-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231122-36390/download"
 extraido: "2026-11-14"
-huella: "d3f8329b97462d9a"
+huella: "05a9a7bd0ccb6afd"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-221-2023
@@ -61,7 +61,9 @@ TERCERO: El presente Acuerdo es de ejecución inmediata y deberá publicarse en 
 
 COMUNÍQUESE:
 
-PHD. LAURA ELENA SUAZO TORRES SECRETARIA DE ESTADO ABG. LORENZA CONCEPCIÓN FIGUEROA AYALA SECRETARIA GENERAL ACUERDO DE DELEGACIÓN NO. SAG-191-2023
+PHD. LAURA ELENA SUAZO TORRES SECRETARIA DE ESTADO ABG. LORENZA CONCEPCIÓN FIGUEROA AYALA SECRETARIA GENERAL
+
+ACUERDO DE DELEGACIÓN NO. SAG-191-2023
 
 ## Fuente
 

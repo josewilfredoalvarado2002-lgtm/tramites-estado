@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36950 (2025-09-24)|La Gaceta 36
 paginas: "A. 1 - 3"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250924-36950/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "0c9b124d7c092b58"
 ---
 <!-- portal:inicio -->

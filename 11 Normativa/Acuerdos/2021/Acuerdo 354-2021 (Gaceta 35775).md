@@ -11,7 +11,7 @@ paginas: "A. 18 - 20"
 sumario: "Acuerdo SAR-No. 354-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211118-35775/download"
 extraido: "2026-11-14"
-huella: "a967fcd2cb6df02c"
+huella: "1c2b65a3f077fe7c"
 ---
 <!-- portal:inicio -->
 # ACUERDO SAR No. 354-2021
@@ -77,7 +77,9 @@ CUARTO: Se instruye a la Dirección Nacional de Talento Humano realizar las acci
 
 QUINTO: El presente Acuerdo entrará en vigencia a partir de su fecha y deberá ser publicado en el Diario Oficial La Gaceta.
 
-PUBLÍQUESE. - MIRIAM ESTELA GUZMAN BONILLA MINISTRA DIRECTORA ALEXANDRA KARINA RIVERA MEJÍA ACUERDO DE DELEGACIÓN NO. SAR-547-2019 SECRETARIA GENERAL
+PUBLÍQUESE. - MIRIAM ESTELA GUZMAN BONILLA MINISTRA DIRECTORA ALEXANDRA KARINA RIVERA MEJÍA
+
+ACUERDO DE DELEGACIÓN NO. SAR-547-2019 SECRETARIA GENERAL
 
 ## Fuente
 

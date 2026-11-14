@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36984 (2025-11-04)|La Gaceta 36
 paginas: "A. 5 - 8"
 sumario: "Decreto Ejecutivo Número PCM 36-2025,Acuerdo Ejecutivo Número 263-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251104-36984/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "b5e6abe318095485"
 ---
 <!-- portal:inicio -->

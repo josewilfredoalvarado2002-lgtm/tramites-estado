@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37239 (2026-09-05)|La Gaceta 37
 paginas: "A. 1 - 12"
 sumario: "Certificación, Resolución"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260905-37239/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "2b3e1ff0124aca7e"
 ---
 <!-- portal:inicio -->

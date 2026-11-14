@@ -8,13 +8,13 @@ tipo: "normativa_mes"
 
 | Fecha | Edición | Actos de la Sección A |
 | --- | --- | --- |
-| 2023-11-30 | [[11 Normativa/La Gaceta/2023/La Gaceta 36397 (2023-11-30)\|La Gaceta 36397]] | 1 |
+| 2023-11-30 | [[11 Normativa/La Gaceta/2023/La Gaceta 36397 (2023-11-30)\|La Gaceta 36397]] | 7 |
 | 2023-11-29 | [[11 Normativa/La Gaceta/2023/La Gaceta 36396 (2023-11-29)\|La Gaceta 36396]] | 1 |
 | 2023-11-28 | [[11 Normativa/La Gaceta/2023/La Gaceta 36395 (2023-11-28)\|La Gaceta 36395]] | 2 |
 | 2023-11-27 | [[11 Normativa/La Gaceta/2023/La Gaceta 36394 (2023-11-27)\|La Gaceta 36394]] | 1 |
 | 2023-11-25 | [[11 Normativa/La Gaceta/2023/La Gaceta 36393 (2023-11-25)\|La Gaceta 36393]] | 1 |
 | 2023-11-24 | [[11 Normativa/La Gaceta/2023/La Gaceta 36392 (2023-11-24)\|La Gaceta 36392]] | 1 |
-| 2023-11-23 | [[11 Normativa/La Gaceta/2023/La Gaceta 36391 (2023-11-23)\|La Gaceta 36391]] | 1 |
+| 2023-11-23 | [[11 Normativa/La Gaceta/2023/La Gaceta 36391 (2023-11-23)\|La Gaceta 36391]] | 2 |
 | 2023-11-22 | [[11 Normativa/La Gaceta/2023/La Gaceta 36390 (2023-11-22)\|La Gaceta 36390]] | 8 |
 | 2023-11-21 | [[11 Normativa/La Gaceta/2023/La Gaceta 36389 (2023-11-21)\|La Gaceta 36389]] | 1 |
 | 2023-11-20 | [[11 Normativa/La Gaceta/2023/La Gaceta 36388 (2023-11-20)\|La Gaceta 36388]] | 2 |

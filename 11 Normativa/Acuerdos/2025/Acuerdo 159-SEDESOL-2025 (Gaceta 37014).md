@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 37014 (2025-12-09)|La Gaceta 37
 paginas: "A. 46 - 48"
 sumario: "Acuerdo Ministerial No. 159-SEDESOL-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251209-37014/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "98edbb72ecd48bae"
 ---
 <!-- portal:inicio -->

@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36763 (2025-02-11)|La Gaceta 36
 paginas: "A. 1 - 108"
 sumario: "Certificación, Acuerdo"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250211-36763/download"
-extraido: "2026-11-13"
+extraido: "2026-11-14"
 huella: "4738fbda8247c6db"
 ---
 <!-- portal:inicio -->

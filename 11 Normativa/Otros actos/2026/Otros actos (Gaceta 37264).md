@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37264 (2026-10-07)|La Gaceta 37
 paginas: "A. 1 - 24"
 sumario: "Reglamento del Plan de Arbitrios de la Universidad de Defensa de Honduras"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261007-37264/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "a01f86814f38aac4"
 ---
 <!-- portal:inicio -->

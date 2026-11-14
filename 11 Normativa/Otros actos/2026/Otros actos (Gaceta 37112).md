@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37112 (2026-04-08)|La Gaceta 37
 paginas: "A. 1 - 3"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260408-37112/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "5fa02921dda8a54d"
 ---
 <!-- portal:inicio -->

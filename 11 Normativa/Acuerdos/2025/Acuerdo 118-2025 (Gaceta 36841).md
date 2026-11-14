@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36841 (2025-05-19)|La Gaceta 36
 paginas: "A. 16 - 18"
 sumario: "Decreto Ejecutivo Número PCM 18-2025Acuerdo Ejecutivo Número 118-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250519-36841/download"
-extraido: "2026-11-11"
+extraido: "2026-11-14"
 huella: "0e8b4f9bb362cdf9"
 ---
 <!-- portal:inicio -->

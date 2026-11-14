@@ -2,32 +2,38 @@
 tipo: "norma"
 tipo_acto: "Acuerdo"
 numero: "SAG-160-2023"
-titulo: "ACUERDO No. SAG-160-2023"
-emisor: "Secretaría de Estado en los Despachos de Agricultura y Ganadería"
+titulo: "ACUERDO DE DELEGACIÓN No. SAG 160-2023"
+emisor: "SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA"
 gaceta_numero: 36325
 gaceta_fecha: "2023-09-04"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36325 (2023-09-04)|La Gaceta 36325]]"
-paginas: "A. 7"
+paginas: "A. 6 - 7"
 sumario: "Acuerdos Nos. SAG-159, SAG-160-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230904-36325/download"
 extraido: "2026-11-14"
-huella: "af5e0af21f84fcdf"
+huella: "e4b04087b91cff69"
 ---
 <!-- portal:inicio -->
-# ACUERDO No. SAG-160-2023
+# ACUERDO DE DELEGACIÓN No. SAG 160-2023
 
 | Dato | Valor |
 | --- | --- |
 | Tipo de acto | Acuerdo |
 | Número | SAG-160-2023 |
-| Emisor | Secretaría de Estado en los Despachos de Agricultura y Ganadería |
+| Emisor | SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36325 (2023-09-04)\|La Gaceta 36325]] del 2023-09-04 |
-| Páginas | A. 7 |
+| Páginas | A. 6 - 7 |
 | Según el sumario de La Gaceta | Acuerdos Nos. SAG-159, SAG-160-2023 |
 
 ## Texto
 
-Tegucigalpa, M.D.C., 21 de agosto del 2023 LA SECRETARIA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERIA
+ABG. HENRY ALEXIS MENDOZA ZELAYA SECRETARIO GENERAL
+
+ACUERDO DE DELEGACIÓN NO. SAG-335--2022
+
+Secretaría de Estado en los Despachos de Agricultura y Ganadería
+
+ACUERDO No. SAG-160-2023 Tegucigalpa, M.D.C., 21 de agosto del 2023 LA SECRETARIA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERIA
 
 CONSIDERANDO: Que la Constitución de la República de Honduras, establece que los Secretarios de Estado son colaboradores del Presidente de la República en la orientación, coordinación, dirección y supervisión de los órganos y entidades de la administración pública nacional, en el área de su competencia.
 

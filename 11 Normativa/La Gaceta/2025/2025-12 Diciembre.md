@@ -8,7 +8,7 @@ tipo: "normativa_mes"
 
 | Fecha | Edición | Actos de la Sección A |
 | --- | --- | --- |
-| 2025-12-31 | [[11 Normativa/La Gaceta/2025/La Gaceta 37032 (2025-12-31)\|La Gaceta 37032]] | 1 |
+| 2025-12-31 | [[11 Normativa/La Gaceta/2025/La Gaceta 37032 (2025-12-31)\|La Gaceta 37032]] | 13 |
 | 2025-12-29 | [[11 Normativa/La Gaceta/2025/La Gaceta 37030 (2025-12-29)\|La Gaceta 37030]] | 1 |
 | 2025-12-27 | [[11 Normativa/La Gaceta/2025/La Gaceta 37029 (2025-12-27)\|La Gaceta 37029]] | 5 |
 | 2025-12-26 | [[11 Normativa/La Gaceta/2025/La Gaceta 37028 (2025-12-26)\|La Gaceta 37028]] | 3 |
@@ -26,7 +26,7 @@ tipo: "normativa_mes"
 | 2025-12-11 | [[11 Normativa/La Gaceta/2025/La Gaceta 37016 (2025-12-11)\|La Gaceta 37016]] | 1 |
 | 2025-12-10 | [[11 Normativa/La Gaceta/2025/La Gaceta 37015 (2025-12-10)\|La Gaceta 37015]] | 1 |
 | 2025-12-09 | [[11 Normativa/La Gaceta/2025/La Gaceta 37014 (2025-12-09)\|La Gaceta 37014]] | 2 |
-| 2025-12-08 | [[11 Normativa/La Gaceta/2025/La Gaceta 37013 (2025-12-08)\|La Gaceta 37013]] | 1 |
+| 2025-12-08 | [[11 Normativa/La Gaceta/2025/La Gaceta 37013 (2025-12-08)\|La Gaceta 37013]] | 2 |
 | 2025-12-06 | [[11 Normativa/La Gaceta/2025/La Gaceta 37012 (2025-12-06)\|La Gaceta 37012]] | 1 |
 | 2025-12-05 | [[11 Normativa/La Gaceta/2025/La Gaceta 37011 (2025-12-05)\|La Gaceta 37011]] | 1 |
 | 2025-12-04 | [[11 Normativa/La Gaceta/2025/La Gaceta 37010 (2025-12-04)\|La Gaceta 37010]] | 4 |

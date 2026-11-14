@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201217-35462/download"
 extraido: "2026-11-14"
-huella: "2dd3f0cbdaca6a32"
+huella: "697b0fa4d5121a62"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -67,7 +67,9 @@ El presente Acuerdo es de ejecución inmediata y deberá publicarse en el Diario
 
 COMUNÍQUESE Y PUBLÍQUESE:
 
-ROXANA MELANI RODRÍGUEZ ALVARADO SECRETARIA DE ESTADO EN EL DESPACHO DE FINANZAS, POR LEY Acuerdo de Delegación No. 455-2020 de fecha 7 de septiembre de 2020 MARTHA SUYAPA GUILLEN CARRASCO SECRETARIA GENERAL, POR LEY ACUERDO DE DELEGACION NO. 611-2019
+ROXANA MELANI RODRÍGUEZ ALVARADO SECRETARIA DE ESTADO EN EL DESPACHO DE FINANZAS, POR LEY Acuerdo de Delegación No. 455-2020 de fecha 7 de septiembre de 2020 MARTHA SUYAPA GUILLEN CARRASCO SECRETARIA GENERAL, POR LEY
+
+ACUERDO DE DELEGACION NO. 611-2019
 
 ## Fuente
 

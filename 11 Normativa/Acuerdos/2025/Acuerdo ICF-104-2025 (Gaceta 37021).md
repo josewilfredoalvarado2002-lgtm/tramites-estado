@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 37021 (2025-12-17)|La Gaceta 37
 paginas: "A. 10 - 15"
 sumario: "Acuerdo DE-090-2025,Acuerdos Institucionales No. ICF-104-2025, ICF-105-2025, ICF-106-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251217-37021/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "fd90451cdbbd3aa0"
 ---
 <!-- portal:inicio -->

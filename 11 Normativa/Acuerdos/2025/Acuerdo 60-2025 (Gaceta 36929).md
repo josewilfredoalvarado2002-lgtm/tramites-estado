@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36929 (2025-08-29)|La Gaceta 36
 paginas: "A. 17 - 25"
 sumario: "Acuerdos Nos. DE-DCHA-047-2025, 059-2025, 60-2025,62-2025."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250829-36929/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "5a41ad1bd9e52cc9"
 ---
 <!-- portal:inicio -->

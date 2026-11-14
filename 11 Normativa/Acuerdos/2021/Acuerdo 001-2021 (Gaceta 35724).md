@@ -1,0 +1,84 @@
+---
+tipo: "norma"
+tipo_acto: "Acuerdo"
+numero: "001-2021"
+titulo: "ACUERDO NÚMERO-001-2021"
+emisor: "INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE"
+gaceta_numero: 35724
+gaceta_fecha: "2021-09-21"
+gaceta: "[[11 Normativa/La Gaceta/2021/La Gaceta 35724 (2021-09-21)|La Gaceta 35724]]"
+paginas: "A. 1 - 3"
+sumario: "Acuerdo número-001-2021"
+url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210921-35724/download"
+extraido: "2026-11-14"
+huella: "c8b920814400b353"
+---
+<!-- portal:inicio -->
+# ACUERDO NÚMERO-001-2021
+
+| Dato | Valor |
+| --- | --- |
+| Tipo de acto | Acuerdo |
+| Número | 001-2021 |
+| Emisor | INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE |
+| Publicado en | [[11 Normativa/La Gaceta/2021/La Gaceta 35724 (2021-09-21)\|La Gaceta 35724]] del 2021-09-21 |
+| Páginas | A. 1 - 3 |
+| Según el sumario de La Gaceta | Acuerdo número-001-2021 |
+
+## Texto
+
+CONSIDERANDO: Que de conformidad con la Ley Forestal, Áreas Protegidas y Vida Silvestre (Decreto No. 98-2007), el Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre, tiene la atribución de iniciar DE OFICIO los trámites de investigación, tenencia, deslinde, amojonamiento, recuperación y titulación a favor del Estado de Honduras, cuando proceda, de todas las tierras nacionales de vocación forestal y áreas protegidas del país y especificamente en este caso los sitios forestales conocidos como: “CERRO AZUL”, “CERRO LOS MAGUELITOS”, CERRO LA CRUZ”, jurisdicción del municipio de Jano y “EL SALITRE” jurisdicción del municipio de Guata, todos del departamento de Olancho.
+
+CONSIDERANDO: Que uno de los principios básicos del Régimen Legal Forestal, Áreas Protegidas y Vida Silvestre es la regularización, el respeto y la seguridad jurídica de la inversión de la propiedad forestal estatal y la propiedad privada forestal, garantizando la posesión de los grupos campesinos, comunidades, grupos étnicos y determinando sus derechos y sus obligaciones relacionadas con la protección y el manejo sostenible de los recursos forestales.
+
+CONSIDERANDO: Que la Ley de Propiedad (Decreto No. 82-2004) declara prioridad nacional la regularización y solución de conflictos sobre la tenencia, posesión y propiedad de bienes inmuebles, la incorporación de los mismos al catastro nacional, la titulación, inscripción en los registros de la propiedad inmueble y en el caso específico de los bosques nacionales, áreas protegidas y parques nacionales, determinando en su artículo 71 éstas áreas como zonas sujetas a regímenes especiales ordenando la regulación de los predios ubicados dentro de las mismas, enfatizando que le corresponde Exclusivamente al ICF, realizar los procedimientos de regularización de la ocupación, uso y goce de todas las tierras forestales públicas y áreas protegidas comprendidas en el territorio nacional.
+
+CONSIDERANDO: Que la Ley de Reforma Agraria en su artículo 13 inciso d), dispone que los parques y bosques nacionales, las reservas forestales y las zonas protegidas y las superficies sujetas a procesos de reforestación, no se destinarán a la realización de la Reforma Agraria.
+
+CONSIDERANDO: Que el artículo 7 de la Ley Forestal, Áreas Protegidas y Vida Silvestre, establece que las áreas forestales en ningún caso se consideran tierras incultas u ociosas y no podrán ser objeto de afectación o titulación con fines de Reforma Agraria.
+
+CONSIDERANDO: Que la Ley Forestal, Áreas Protegidas y Vida Silvestre, en su artículo 62 establece claramente:
+
+“Se prohíbe emitir títulos supletorios sobre áreas nacionales y ejidales, so pena de nulidad de los mismos y de su correspondiente inscripción, sin perjuicio de la responsabilidad administrativa, civil y penal cuando proceda.
+
+CONSIDERANDO: Que la Ley de Propiedad en el artículo 71 establece: “Se consideran zonas sujetas a regímenes especiales: 1) Bosques Nacionales. 2) Las áreas protegidas. 3) Los parques nacionales. Las leyes especiales que correspondan determinarán la forma en las que podrá hacerse la regularización de los bienes inmuebles ubicados dentro de éstas zonas”.
+
+CONSIDERANDO: Que es facultad del ICF, con el apoyo de otras dependencias del sector público, mantener íntegramente la posesión de los Terrenos Forestal Estatales, impidiendo las ocupaciones, segregaciones y demás actos posesorios de naturaleza ilegal. Lo anterior en armonía con lo dispuesto en el artículo 178- de la Ley Forestal, Áreas Protegidas y Vida Silvestre.
+
+POR TANTO
+
+La Dirección Ejecutiva del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), en uso de las facultades que la Ley le confiere y con fundamento en los artículos 103, 255, 340 y 341 la Constitución de la República; artículo 51 al 59 de la Ley Forestal, Áreas Protegidas y Vida Silvestre (Decreto No. 98-2007) y 102, 108, 109, 112 al 139 de su Reglamento (Acuerdo No. 031-2010): 70 y 71 de la Ley de Propiedad; 23, 24, 25, 26, 27 de la Ley de Procedimiento Administrativo.
+
+SEGUNDO:
+
+INICIAR
+
+EL
+
+LEVANTAMIENTO
+
+CATASTRAL, de las DIEZ MIL NOVECIENTAS
+
+NOVENTA PUNTO TRES HECTÁREAS (10,990.3
+
+Ha.) que se encuentran localizadas dentro de los sitios mencionados anteriormente.
+
+TERCERO: REQUERIR Formalmente mediante este acto, a todas las personas naturales o jurídicas que pretendieren derechos de propiedad, así como a los ocupantes o poseedores a cualquier título de predios ubicados dentro de los límitis del área arriba mencionada para que en el plazo de TRES(3) MESES contados a partir de la fecha de la publicación del presente Acuerdo, presenten ante el ICF los títulos, escrituras de propiedad, planos, mapas, croquis, documentos privados o cualesquiera otros documentos que amparen su dominio, posesión u ocupación, según corresponda. Dicha documentación deberán acreditarla en cualquiera de las siguientes oficinas: a) Región Forestal Olancho, ubicada en el Barrio Las Acacias, una cuadra antes de la nueva terminal de buses, en el municipio de Juticalpa, departamento Olancho; b) Oficina Local de La Unión, situada en el Barrio Áreas Verdes, contiguo al complejo policial; c) Oficina Central del ICF, específicamente la Secretaría General o el Centro de Información y Patrimonio Forestal, ubicadas en las oficinas centrales del ICF en colonias Brisas de Olancho, atrás de la Gasolinera UNO, Comayagüela, M.D.C., Tel. 222-30028/2223-2613: c) Oficinas Móviles de Regularización, que estarán ubicadas en las comunidades que se encuentran dentro de los sitios: “ Cerro Azul, Cerro Los Maguelitos, Cerro La Cruz, El Salitre” en los días y horas que al efecto se notifíque al público en general: Lo anterior con apercibimiento de que la persona que no presente su documentación en el tiempo estipulado, se presumirá que las áreas son estrictamente estatales y se procederá a su titulación e inscripción en el Registro de la Propiedad, Inmueble y Mercantil correspondiente, a favor del Estado de Honduras, eximiéndose de la obligación de indemnización de conformidad con la Ley.
+
+CUARTO: Poner en conocimiento a los distintos departamentos y proyectos del ICF, así como a las demás Instituciones Estatales involucrados (Instituto Nacional Agrario, Instituto de la Propiedad y Corporaciones Municipales), a las autoridades comunales y a todas aquellas organizaciones e instituciones gubernamentales y no gubernamentales que tengan presencia en las zona a regularizar, con el objetivo de socializar con ellas el proceso a ejecutar y que presten a su vez toda la colaboración necesarias para cumplir con los fines previstos en la Ley.
+
+QUINTO: Procédase a notificar al Consejo Consultivo Nacional Forestal, Áreas Protegidas y Vida Silvestre (COCONAFOR) y a los demás Consejos Colsultivos Departamentales, Municipales o Comunitarios que pudiesen existir en la zona de influencia, el inicio del procedimiento de regularización, a fin de que puedan participar aportando información o ejerciendo el control social en el marco de sus respectivas atribuciones.
+
+SEXTO: El presente Acuerdo entrará en vigencia a partir de su publicación en el Diario Oficial La Gaceta y en dos diarios nacionales que tuvieren mayor circulación en la zona geográfica de las áreas de regularizar, así como en otros medios de comunicación y mediante avisos ubicados, en lugares visibles y ampliamente frecuentados por las poblaciones respectivas. CÚMPLASE Y PUBLÍQUESE.
+
+Comayagüela, municipio del Distrito Central, 07 de enero del año 2021 MARIO ANTONIO MARTÍNEZ PADILLA DIRECCIÓN EJECUTIVA SHERYL CRUZ PINEDA SECRETARIA GENERAL DIARIO OFICIAL DE LA REPÚBLICA DE HONDURAS DECANO DE LA PRENSA HONDUREÑA PARA MEJOR SEGURIDAD DE SUS PUBLICACIONES ABOG. THELMA LETICIA NEDA Gerente General JORGE ALBERTO RICO SALINAS Coordinador y Supervisor EMPRESA NACIONAL DE ARTES GRÁFICAS E.N.A.G.
+
+Colonia MirafIores Teléfono/Fax: Gerencia 2230-2520, 2230-1821 Administración: 2230-3026 CENTRO CÍVICO GUBERNAMENTAL
+
+## Fuente
+
+Texto extraído del PDF de La Gaceta No. 35724 del 2021-09-21, publicado por la ENAG: https://enag.gob.hn/index.php/gaceta-digital/20210921-35724/download. Copia de consulta; el texto oficial es el del PDF.
+<!-- portal:fin -->
+
+## Notas propias
+

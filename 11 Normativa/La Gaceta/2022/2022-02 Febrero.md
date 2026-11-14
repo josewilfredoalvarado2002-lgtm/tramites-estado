@@ -8,7 +8,7 @@ tipo: "normativa_mes"
 
 | Fecha | Edición | Actos de la Sección A |
 | --- | --- | --- |
-| 2022-02-28 | [[11 Normativa/La Gaceta/2022/La Gaceta 35860 (2022-02-28)\|La Gaceta 35860]] | 2 |
+| 2022-02-28 | [[11 Normativa/La Gaceta/2022/La Gaceta 35860 (2022-02-28)\|La Gaceta 35860]] | 4 |
 | 2022-02-26 | [[11 Normativa/La Gaceta/2022/La Gaceta 35859 (2022-02-26)\|La Gaceta 35859]] | 1 |
 | 2022-02-25 | [[11 Normativa/La Gaceta/2022/La Gaceta 35858 (2022-02-25)\|La Gaceta 35858]] | 1 |
 | 2022-02-24 | [[11 Normativa/La Gaceta/2022/La Gaceta 35857 (2022-02-24)\|La Gaceta 35857]] | 6 |

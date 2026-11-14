@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36913 (2025-08-11)|La Gaceta 36
 paginas: "A. 7 - 8"
 sumario: "Acuerdos Nos. SAG-104-2025, SAG-109-2025."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250811-36913/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "647787b9acf9e6b6"
 ---
 <!-- portal:inicio -->

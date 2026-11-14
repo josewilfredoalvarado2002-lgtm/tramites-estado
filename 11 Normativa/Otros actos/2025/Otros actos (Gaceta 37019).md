@@ -10,8 +10,8 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 37019 (2025-12-15)|La Gaceta 37
 paginas: "A. 1 - 24"
 sumario: "Acuerdos Nos. CSJ 01-2025, CSJ 02-2025,CSJ 03-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251215-37019/download"
-extraido: "2026-11-09"
-huella: "16b40fe07d333317"
+extraido: "2026-11-14"
+huella: "fcb00afbc3f2fcd7"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdos Nos. CSJ 01-2025, CSJ 02-2025,CSJ 03-2025
@@ -27,7 +27,9 @@ huella: "16b40fe07d333317"
 
 ## Texto
 
-Poder Judicial ACUERDO No. CSJ 01-2025
+Poder Judicial
+
+ACUERDO No. CSJ 01-2025
 
 REGLAMENTO PARA EL MANEJO DE FONDOS REINTEGRABLES DEL PODER JUDICIAL Tegucigalpa, municipio del Distrito Central, 10 de diciembre de 2025 CORTE SUPREMA DE JUSTICIA
 
@@ -355,7 +357,11 @@ Artículo 47. Este Reglamento entrará en vigencia a partir del día siguiente d
 
 El presente Acuerdo se emite en acatamiento a lo dispuesto en el Punto No. 5 del Acta No. 03-2025 iniciada el 18 de marzo de 2025 y concluida el 19 de agosto de 2025.
 
-REBECA LIZETTE RAQUEL OBANDO PRESIDENTA IRIS BERNARDA CASTELLANOS ALVARADO SECRETARIA GENERAL MICHELLE ALESSANDRA IZAGUIRRE COLINDRES SECRETARIA GENERAL ADJUNTA Poder Judicial ACUERDO No. CSJ 02-2025 REGLAMENTO PARA EL MANEJO DE FONDOS DE CAJA CHICA DEL PODER JUDICIAL Tegucigalpa, municipio del Distrito Central;
+REBECA LIZETTE RAQUEL OBANDO PRESIDENTA IRIS BERNARDA CASTELLANOS ALVARADO SECRETARIA GENERAL MICHELLE ALESSANDRA IZAGUIRRE COLINDRES SECRETARIA GENERAL ADJUNTA Poder Judicial
+
+ACUERDO No. CSJ 02-2025
+
+REGLAMENTO PARA EL MANEJO DE FONDOS DE CAJA CHICA DEL PODER JUDICIAL Tegucigalpa, municipio del Distrito Central;
 
 10 de diciembre de 2025
 
@@ -635,7 +641,11 @@ Artículo 39. Este Reglamento entrará en vigencia a partir del día siguiente d
 
 El presente Acuerdo se emite en acatamiento a lo dispuesto en el Punto No. 9 del Acta No. 13-2024 de la sesión celebrada por el Pleno de la Corte Suprema de Justicia, iniciada el 30 de octubre de 2024 y concluida el 11 de noviembre de 2024, ratificado en Acta No. 03-2025 iniciada el 18 de marzo de 2025 y concluida el 19 de agosto de 2025.
 
-REBECA LIZETTE RAQUEL OBANDO PRESIDENTA IRIS BERNARDA CASTELLANOS ALVARADO SECRETARIA GENERAL MICHELLE ALESSANDRA IZAGUIRRE COLINDRES SECRETARIA GENERAL ADJUNTA Poder Judicial ACUERDO No. CSJ 03-2025 REGLAMENTO PARA LA GESTIÓN DE ANTICIPOS OPERATIVOS DEL PODER JUDICIAL Tegucigalpa, municipio del Distrito Central, 10 de diciembre de 2025 CORTE SUPREMA DE JUSTICIA
+REBECA LIZETTE RAQUEL OBANDO PRESIDENTA IRIS BERNARDA CASTELLANOS ALVARADO SECRETARIA GENERAL MICHELLE ALESSANDRA IZAGUIRRE COLINDRES SECRETARIA GENERAL ADJUNTA Poder Judicial
+
+ACUERDO No. CSJ 03-2025
+
+REGLAMENTO PARA LA GESTIÓN DE ANTICIPOS OPERATIVOS DEL PODER JUDICIAL Tegucigalpa, municipio del Distrito Central, 10 de diciembre de 2025 CORTE SUPREMA DE JUSTICIA
 
 CONSIDERANDO
 

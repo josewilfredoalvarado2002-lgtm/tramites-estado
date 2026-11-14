@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37223 (2026-08-18)|La Gaceta 37
 paginas: "A. 3 - 12"
 sumario: "Acuerdo No. SAG-213-2026, Fe de Errata No. 001-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260818-37223/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "b0a86c156e5ca61e"
 ---
 <!-- portal:inicio -->

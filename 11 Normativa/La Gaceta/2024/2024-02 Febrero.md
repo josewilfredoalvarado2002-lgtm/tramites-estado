@@ -29,7 +29,7 @@ tipo: "normativa_mes"
 | 2024-02-08 | [[11 Normativa/La Gaceta/2024/La Gaceta 36455 (2024-02-08)\|La Gaceta 36455]] | 3 |
 | 2024-02-07 | [[11 Normativa/La Gaceta/2024/La Gaceta 36454 (2024-02-07)\|La Gaceta 36454]] | 1 |
 | 2024-02-06 | [[11 Normativa/La Gaceta/2024/La Gaceta 36453 (2024-02-06)\|La Gaceta 36453]] | 7 |
-| 2024-02-05 | [[11 Normativa/La Gaceta/2024/La Gaceta 36452 (2024-02-05)\|La Gaceta 36452]] | 1 |
+| 2024-02-05 | [[11 Normativa/La Gaceta/2024/La Gaceta 36452 (2024-02-05)\|La Gaceta 36452]] | 2 |
 | 2024-02-03 | [[11 Normativa/La Gaceta/2024/La Gaceta 36451 (2024-02-03)\|La Gaceta 36451]] | 2 |
 | 2024-02-02 | [[11 Normativa/La Gaceta/2024/La Gaceta 36450 (2024-02-02)\|La Gaceta 36450]] | 2 |
 | 2024-02-01 | [[11 Normativa/La Gaceta/2024/La Gaceta 36449 (2024-02-01)\|La Gaceta 36449]] | 2 |

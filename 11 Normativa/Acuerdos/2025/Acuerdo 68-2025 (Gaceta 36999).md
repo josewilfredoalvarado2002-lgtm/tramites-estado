@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36999 (2025-11-21)|La Gaceta 36
 paginas: "A. 17 - 21"
 sumario: "Certificaciones, Acuerdos Nos. 68-2025, 71-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251121-36999/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "ffde05c9b78789cd"
 ---
 <!-- portal:inicio -->

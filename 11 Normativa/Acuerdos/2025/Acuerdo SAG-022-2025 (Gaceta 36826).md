@@ -2,34 +2,34 @@
 tipo: "norma"
 tipo_acto: "Acuerdo"
 numero: "SAG-022-2025"
-titulo: "ACUERDO No. SAG-022-2025"
-emisor: "Secretaría de Estado en los Despachos de Agricultura y Ganadería"
+titulo: "ACUERDO DE DELEGACIÓN NO. SAG-022-2025"
+emisor: "SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA"
 gaceta_numero: 36826
 gaceta_fecha: "2025-04-30"
 gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36826 (2025-04-30)|La Gaceta 36826]]"
 paginas: "A. 11"
 sumario: "Acuerdos Nos. SAG-020-2025, SAG-022-2025, SAG-044-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250430-36826/download"
-extraido: "2026-11-11"
-huella: "ed967a3d76edfd70"
+extraido: "2026-11-14"
+huella: "611b7a76dea67408"
 ---
 <!-- portal:inicio -->
-# ACUERDO No. SAG-022-2025
+# ACUERDO DE DELEGACIÓN NO. SAG-022-2025
 
 | Dato | Valor |
 | --- | --- |
 | Tipo de acto | Acuerdo |
 | Número | SAG-022-2025 |
-| Emisor | Secretaría de Estado en los Despachos de Agricultura y Ganadería |
+| Emisor | SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA |
 | Publicado en | [[11 Normativa/La Gaceta/2025/La Gaceta 36826 (2025-04-30)\|La Gaceta 36826]] del 2025-04-30 |
 | Páginas | A. 11 |
 | Según el sumario de La Gaceta | Acuerdos Nos. SAG-020-2025, SAG-022-2025, SAG-044-2025 |
 
 ## Texto
 
-Tegucigalpa, M.D.C., 28 de marzo, 2025
+Secretaría de Estado en los Despachos de Agricultura y Ganadería
 
-LA SECRETARIA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA
+ACUERDO No. SAG-022-2025 Tegucigalpa, M.D.C., 28 de marzo, 2025 LA SECRETARIA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA
 
 CONSIDERANDO: Que la Constitución de la República de Honduras, establece que los Secretarios de Estado son colaboradores del Presidente de la República en la orientación, coordinación, dirección y supervisión de los órganos y entidades de la administración pública nacional, en el área de su competencia.
 

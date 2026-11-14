@@ -26,7 +26,7 @@ tipo: "normativa_mes"
 | 2023-09-12 | [[11 Normativa/La Gaceta/2023/La Gaceta 36332 (2023-09-12)\|La Gaceta 36332]] | 24 |
 | 2023-09-11 | [[11 Normativa/La Gaceta/2023/La Gaceta 36331 (2023-09-11)\|La Gaceta 36331]] | 1 |
 | 2023-09-09 | [[11 Normativa/La Gaceta/2023/La Gaceta 36330 (2023-09-09)\|La Gaceta 36330]] | 1 |
-| 2023-09-08 | [[11 Normativa/La Gaceta/2023/La Gaceta 36329 (2023-09-08)\|La Gaceta 36329]] | 10 |
+| 2023-09-08 | [[11 Normativa/La Gaceta/2023/La Gaceta 36329 (2023-09-08)\|La Gaceta 36329]] | 11 |
 | 2023-09-07 | [[11 Normativa/La Gaceta/2023/La Gaceta 36328 (2023-09-07)\|La Gaceta 36328]] | 1 |
 | 2023-09-06 | [[11 Normativa/La Gaceta/2023/La Gaceta 36327 (2023-09-06)\|La Gaceta 36327]] | 2 |
 | 2023-09-05 | [[11 Normativa/La Gaceta/2023/La Gaceta 36326 (2023-09-05)\|La Gaceta 36326]] | 5 |

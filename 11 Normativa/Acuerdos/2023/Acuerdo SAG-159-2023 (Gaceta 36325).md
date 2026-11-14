@@ -11,7 +11,7 @@ paginas: "A. 4 - 6"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230904-36325/download"
 extraido: "2026-11-14"
-huella: "bbb5d59178813540"
+huella: "664a0285c92315d5"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-159-2023
@@ -64,10 +64,6 @@ QUINTO: El presente Acuerdo es de ejecución inmediata y deberá publicarse en e
 COMUNÍQUESE:
 
 ING. LID ROY LAZO RODRIGUEZ SECRETARIO DE ESTADO, POR LEY
-
-ACUERDO DE DELEGACIÓN No. SAG 160-2023
-
-ABG. HENRY ALEXIS MENDOZA ZELAYA SECRETARIO GENERAL ACUERDO DE DELEGACIÓN NO. SAG-335--2022
 
 ## Fuente
 

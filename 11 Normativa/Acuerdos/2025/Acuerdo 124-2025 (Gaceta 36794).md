@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36794 (2025-03-19)|La Gaceta 36
 paginas: "A. 29 - 60"
 sumario: "Acuerdo No. 124-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250319-36794/download"
-extraido: "2026-11-12"
+extraido: "2026-11-14"
 huella: "5f45562362ff4b30"
 ---
 <!-- portal:inicio -->

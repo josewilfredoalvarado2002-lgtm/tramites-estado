@@ -22,7 +22,7 @@ tipo: "normativa_mes"
 | 2021-12-16 | [[11 Normativa/La Gaceta/2021/La Gaceta 35799 (2021-12-16)\|La Gaceta 35799]] | 5 |
 | 2021-12-15 | [[11 Normativa/La Gaceta/2021/La Gaceta 35798 (2021-12-15)\|La Gaceta 35798]] | 1 |
 | 2021-12-14 | [[11 Normativa/La Gaceta/2021/La Gaceta 35797 (2021-12-14)\|La Gaceta 35797]] | 3 |
-| 2021-12-13 | [[11 Normativa/La Gaceta/2021/La Gaceta 35796 (2021-12-13)\|La Gaceta 35796]] | 1 |
+| 2021-12-13 | [[11 Normativa/La Gaceta/2021/La Gaceta 35796 (2021-12-13)\|La Gaceta 35796]] | 3 |
 | 2021-12-11 | [[11 Normativa/La Gaceta/2021/La Gaceta 35795 (2021-12-11)\|La Gaceta 35795]] | 2 |
 | 2021-12-10 | [[11 Normativa/La Gaceta/2021/La Gaceta 35794 (2021-12-10)\|La Gaceta 35794]] | 2 |
 | 2021-12-09 | [[11 Normativa/La Gaceta/2021/La Gaceta 35793 (2021-12-09)\|La Gaceta 35793]] | 2 |

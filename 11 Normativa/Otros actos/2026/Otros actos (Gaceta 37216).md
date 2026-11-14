@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37216 (2026-08-10)|La Gaceta 37
 paginas: "A. 1 - 20"
 sumario: "Acuerdos; AVANCE"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260810-37216/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "a48f85e1489a348e"
 ---
 <!-- portal:inicio -->

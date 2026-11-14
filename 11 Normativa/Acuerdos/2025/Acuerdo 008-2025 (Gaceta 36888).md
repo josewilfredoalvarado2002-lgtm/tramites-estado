@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36888 (2025-07-12)|La Gaceta 36
 paginas: "A. 17 - 28"
 sumario: "Acuerdo No. 008-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250712-36888/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "7bbef7b7d0552ea5"
 ---
 <!-- portal:inicio -->

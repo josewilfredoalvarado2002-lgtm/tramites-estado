@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37187 (2026-07-07)|La Gaceta 37
 paginas: "A. 5 - 8"
 sumario: "Acuerdo Ministerial No. 041-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260707-37187/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "185d2e0ee2a3fe27"
 ---
 <!-- portal:inicio -->

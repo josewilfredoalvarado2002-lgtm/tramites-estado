@@ -116,9 +116,9 @@ Artículo No. 5.
 
 > [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2019). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
 
-- Acuerdo Ministerial SEN-001-2020 → [[Otros actos (Gaceta 35161)]] (La Gaceta del 2020-01-29; emisor: No consta en la fuente)
-- Acuerdo Ministerial SEN-119-2022 → [[Otros actos (Gaceta 36015)]] (La Gaceta del 2022-08-30; emisor: SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA)
-- Acuerdo Ministerial SEN-060-2025 → [[Otros actos (Gaceta 36927)]] (La Gaceta del 2025-08-27; emisor: No consta en la fuente)
+- Acuerdo Ministerial SEN-001-2020 → [[Acuerdo SEN-001-2020 (Gaceta 35161)]] (La Gaceta del 2020-01-29; emisor: Secretaría de Energía)
+- Acuerdo Ministerial SEN-119-2022 → [[Acuerdo SEN-119-2022 (Gaceta 36015)]] (La Gaceta del 2022-08-30; emisor: Secretaría de Estado en el Despacho de Energía)
+- Acuerdo Ministerial SEN-060-2025 → [[Acuerdo SEN-060-2025 (Gaceta 36927)]] (La Gaceta del 2025-08-27; emisor: Secretaría de Estado en el Despacho de Energía)
 <!-- normas:fin -->
 <!-- portal:fin -->
 

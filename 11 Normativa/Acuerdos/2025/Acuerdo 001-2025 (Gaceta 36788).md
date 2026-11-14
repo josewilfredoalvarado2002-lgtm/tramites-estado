@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36788 (2025-03-12)|La Gaceta 36
 paginas: "A. 7 - 8"
 sumario: "Acuerdo No. 001-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250312-36788/download"
-extraido: "2026-11-12"
+extraido: "2026-11-14"
 huella: "d8b1717f2a73af74"
 ---
 <!-- portal:inicio -->

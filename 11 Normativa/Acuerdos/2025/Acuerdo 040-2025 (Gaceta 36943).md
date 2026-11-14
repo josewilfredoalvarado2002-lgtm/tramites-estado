@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36943 (2025-09-16)|La Gaceta 36
 paginas: "A. 8 - 9"
 sumario: "Acuerdos Nos. 026-2025, 039-2025,040-2025, 072-2025, Acuerdos deDeclaratoria DE-DCHA-009-2025,DE-DCHA-044-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250916-36943/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "b8ce56ba6236a2c0"
 ---
 <!-- portal:inicio -->

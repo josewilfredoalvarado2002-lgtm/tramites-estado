@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36908 (2025-08-05)|La Gaceta 36
 paginas: "A. 12"
 sumario: "Acuerdo No. 0155-ARSA-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250805-36908/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "467c842cc09e2d9e"
 ---
 <!-- portal:inicio -->

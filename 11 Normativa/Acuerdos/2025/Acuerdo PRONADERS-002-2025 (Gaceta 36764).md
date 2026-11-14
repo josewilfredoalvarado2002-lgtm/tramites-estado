@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36764 (2025-02-12)|La Gaceta 36
 paginas: "A. 7 - 8"
 sumario: "Acuerdo de DelegaciónNo. PRONADERS-002-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250212-36764/download"
-extraido: "2026-11-13"
+extraido: "2026-11-14"
 huella: "6f800657343c650a"
 ---
 <!-- portal:inicio -->

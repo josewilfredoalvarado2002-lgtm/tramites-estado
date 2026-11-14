@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Acuerdos Nos. J.D. 002-20-12-2023,J.D. 003-20-12-2023; AVANCE"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240522-36540/download"
 extraido: "2026-11-14"
-huella: "c750418c9bc3dae5"
+huella: "bdaf9952467c8678"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdos Nos. J.D. 002-20-12-2023,J.D. 003-20-12-2023; AVANCE
@@ -27,7 +27,9 @@ huella: "c750418c9bc3dae5"
 
 ## Texto
 
-Consejo Nacional Supervisor de Cooperativas ACUERDO No. J.D. 002-20-12-2023 El suscrito Secretario General del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP), por este medio CERTIFICA el Acuerdo número J.D. 002-20-12-2023 aprobado en Sesión Ordinaria de Junta Directiva del CONSUCOOP número 360/2023, celebrada en fecha veinte
+Consejo Nacional Supervisor de Cooperativas
+
+ACUERDO No. J.D. 002-20-12-2023 El suscrito Secretario General del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP), por este medio CERTIFICA el Acuerdo número J.D. 002-20-12-2023 aprobado en Sesión Ordinaria de Junta Directiva del CONSUCOOP número 360/2023, celebrada en fecha veinte
 
 (20) de diciembre del año dos mil veintitrés (2023), el cual literalmente dice:
 
@@ -83,7 +85,9 @@ Y para los fines legales que se estimen conveniente se extiende la presente Cert
 
 SECRETARIO GENERAL CONSUCOOP
 
-Consejo Nacional Supervisor de Cooperativas ACUERDO No. J.D. 003-20-12-2023 El suscrito Secretario General del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP), por este medio CERTIFICA el Acuerdo número J.D. 003-20-12-2023 aprobado en Sesión Ordinaria de Junta Directiva del CONSUCOOP número 360/2023, celebrada en fecha veinte
+Consejo Nacional Supervisor de Cooperativas
+
+ACUERDO No. J.D. 003-20-12-2023 El suscrito Secretario General del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP), por este medio CERTIFICA el Acuerdo número J.D. 003-20-12-2023 aprobado en Sesión Ordinaria de Junta Directiva del CONSUCOOP número 360/2023, celebrada en fecha veinte
 
 (20) de diciembre del año dos mil veintitrés (2023), el cual literalmente dice:
 

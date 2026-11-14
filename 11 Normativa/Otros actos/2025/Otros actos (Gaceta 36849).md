@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36849 (2025-05-28)|La Gaceta 36
 paginas: "A. 1 - 16"
 sumario: "Acuerdo DNII- No. 136-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250528-36849/download"
-extraido: "2026-11-10"
+extraido: "2026-11-14"
 huella: "9b12fbfae1f44dc5"
 ---
 <!-- portal:inicio -->

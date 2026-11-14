@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37206 (2026-07-29)|La Gaceta 37
 paginas: "A. 8 - 32"
 sumario: "Certificación"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260729-37206/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "fc62d34e50f915f3"
 ---
 <!-- portal:inicio -->

@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36751 (2025-01-28)|La Gaceta 36
 paginas: "A. 7 - 8"
 sumario: "Decreto No. 104-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250128-36751/download"
-extraido: "2026-11-13"
+extraido: "2026-11-14"
 huella: "efda9432922a1f0e"
 ---
 <!-- portal:inicio -->

@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37233 (2026-08-29)|La Gaceta 37
 paginas: "A. 1 - 3"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260829-37233/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "e8f622584496df5b"
 ---
 <!-- portal:inicio -->

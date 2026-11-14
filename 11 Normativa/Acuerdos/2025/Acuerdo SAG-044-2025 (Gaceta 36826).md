@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36826 (2025-04-30)|La Gaceta 36
 paginas: "A. 12"
 sumario: "Acuerdos Nos. SAG-020-2025, SAG-022-2025, SAG-044-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250430-36826/download"
-extraido: "2026-11-11"
+extraido: "2026-11-14"
 huella: "eb3d4ea2188b44ed"
 ---
 <!-- portal:inicio -->

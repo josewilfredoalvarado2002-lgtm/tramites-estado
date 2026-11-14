@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36766 (2025-02-14)|La Gaceta 36
 paginas: "A. 8 - 16"
 sumario: "Acuerdos Nos. 001-2024, 006-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250214-36766/download"
-extraido: "2026-11-13"
+extraido: "2026-11-14"
 huella: "559da35b8791c583"
 ---
 <!-- portal:inicio -->

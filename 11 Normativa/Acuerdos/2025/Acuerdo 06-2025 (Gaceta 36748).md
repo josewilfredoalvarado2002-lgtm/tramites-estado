@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36748 (2025-01-24)|La Gaceta 36
 paginas: "A. 6 - 8"
 sumario: "Certificación, Acuerdo No. 06-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250124-36748/download"
-extraido: "2026-11-13"
+extraido: "2026-11-14"
 huella: "e3b2d14b9114ba9f"
 ---
 <!-- portal:inicio -->

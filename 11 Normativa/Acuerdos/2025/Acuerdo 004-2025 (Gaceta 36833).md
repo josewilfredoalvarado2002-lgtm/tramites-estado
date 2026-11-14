@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36833 (2025-05-09)|La Gaceta 36
 paginas: "A. 9 - 16"
 sumario: "Acuerdo SEDECOAS No. 004-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250509-36833/download"
-extraido: "2026-11-11"
+extraido: "2026-11-14"
 huella: "d5683b17f26cbf25"
 ---
 <!-- portal:inicio -->

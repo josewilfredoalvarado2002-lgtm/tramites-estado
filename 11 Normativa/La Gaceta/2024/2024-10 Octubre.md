@@ -12,10 +12,10 @@ tipo: "normativa_mes"
 | 2024-10-30 | [[11 Normativa/La Gaceta/2024/La Gaceta 36676 (2024-10-30)\|La Gaceta 36676]] | 2 |
 | 2024-10-29 | [[11 Normativa/La Gaceta/2024/La Gaceta 36675 (2024-10-29)\|La Gaceta 36675]] | 3 |
 | 2024-10-28 | [[11 Normativa/La Gaceta/2024/La Gaceta 36674 (2024-10-28)\|La Gaceta 36674]] | 2 |
-| 2024-10-26 | [[11 Normativa/La Gaceta/2024/La Gaceta 36673 (2024-10-26)\|La Gaceta 36673]] | 3 |
+| 2024-10-26 | [[11 Normativa/La Gaceta/2024/La Gaceta 36673 (2024-10-26)\|La Gaceta 36673]] | 4 |
 | 2024-10-25 | [[11 Normativa/La Gaceta/2024/La Gaceta 36672 (2024-10-25)\|La Gaceta 36672]] | 1 |
 | 2024-10-24 | [[11 Normativa/La Gaceta/2024/La Gaceta 36671 (2024-10-24)\|La Gaceta 36671]] | 2 |
-| 2024-10-23 | [[11 Normativa/La Gaceta/2024/La Gaceta 36670 (2024-10-23)\|La Gaceta 36670]] | 1 |
+| 2024-10-23 | [[11 Normativa/La Gaceta/2024/La Gaceta 36670 (2024-10-23)\|La Gaceta 36670]] | 2 |
 | 2024-10-22 | [[11 Normativa/La Gaceta/2024/La Gaceta 36669 (2024-10-22)\|La Gaceta 36669]] | 2 |
 | 2024-10-19 | [[11 Normativa/La Gaceta/2024/La Gaceta 36668 (2024-10-19)\|La Gaceta 36668]] | 2 |
 | 2024-10-18 | [[11 Normativa/La Gaceta/2024/La Gaceta 36667 (2024-10-18)\|La Gaceta 36667]] | 5 |

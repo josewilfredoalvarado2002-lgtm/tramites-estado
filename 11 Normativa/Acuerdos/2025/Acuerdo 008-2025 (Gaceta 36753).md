@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36753 (2025-01-30)|La Gaceta 36
 paginas: "A. 14 - 20"
 sumario: "Acuerdos Nos. 007-2025, 008-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250130-36753/download"
-extraido: "2026-11-13"
+extraido: "2026-11-14"
 huella: "9f0c1412262d959d"
 ---
 <!-- portal:inicio -->

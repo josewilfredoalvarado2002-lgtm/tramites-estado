@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36950 (2025-09-24)|La Gaceta 36
 paginas: "A. 53 - 60"
 sumario: "Acuerdo de DeclaratoriaDE-DCHA-026-2025, DE-DCHA-028-2025,DE-DCHA-049-2025, DE-DCHA-051-2025,DE-DCHA-052-2025; CONSEJO NACIONAL ELECTORALCNE: Certificación, Acuerdo No. 49-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250924-36950/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "4b2f67aee1835a9b"
 ---
 <!-- portal:inicio -->

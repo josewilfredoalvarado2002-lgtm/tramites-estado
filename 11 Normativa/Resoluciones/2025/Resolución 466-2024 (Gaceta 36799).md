@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36799 (2025-03-25)|La Gaceta 36
 paginas: "A. 12 - 20"
 sumario: "Certificación, Resolución No. 466-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250325-36799/download"
-extraido: "2026-11-12"
+extraido: "2026-11-14"
 huella: "6de8d955babcf762"
 ---
 <!-- portal:inicio -->

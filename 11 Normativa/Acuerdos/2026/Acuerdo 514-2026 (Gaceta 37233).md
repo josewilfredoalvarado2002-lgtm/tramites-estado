@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37233 (2026-08-29)|La Gaceta 37
 paginas: "A. 3 - 4"
 sumario: "Acuerdo Ministerial No. 514-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260829-37233/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "86acbc3d69b39199"
 ---
 <!-- portal:inicio -->

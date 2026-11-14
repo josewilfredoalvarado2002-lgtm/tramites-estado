@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37074 (2026-02-19)|La Gaceta 37
 paginas: "A. 1 - 4"
 sumario: "INSTITUTO NACIONAL PENITENCIARIOLPN-INP-GC-GA-002-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260219-37074/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "cd3f922160043b22"
 ---
 <!-- portal:inicio -->

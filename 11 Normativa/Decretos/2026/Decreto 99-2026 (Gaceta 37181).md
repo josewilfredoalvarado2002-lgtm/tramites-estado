@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37181 (2026-06-30)|La Gaceta 37
 paginas: "A. 13 - 14"
 sumario: "Decretos Nos. 97-2026, 99-2026, 100-2026, 102-2026, 103-2026, 106-2026, 111-2026, 112-2026, 113-2026, 114-2026, 115-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260630-37181/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "2239f56b746a5a53"
 ---
 <!-- portal:inicio -->

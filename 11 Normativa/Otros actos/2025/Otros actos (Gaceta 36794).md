@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36794 (2025-03-19)|La Gaceta 36
 paginas: "A. 1 - 28"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250319-36794/download"
-extraido: "2026-11-12"
+extraido: "2026-11-14"
 huella: "0088039bcf12abf0"
 ---
 <!-- portal:inicio -->

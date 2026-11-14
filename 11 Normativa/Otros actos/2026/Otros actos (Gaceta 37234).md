@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37234 (2026-08-31)|La Gaceta 37
 paginas: "A. 1 - 8"
 sumario: "Acuerdo N°. 001-2026, Reglamento para la Administración y Control del Fondo de Caja Chica de la Empresa de Correos de Honduras (HONDUCOR)"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260831-37234/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "87e35585d7980bb8"
 ---
 <!-- portal:inicio -->

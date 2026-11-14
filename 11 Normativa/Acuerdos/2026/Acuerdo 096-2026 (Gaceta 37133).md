@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37133 (2026-05-05)|La Gaceta 37
 paginas: "A. 17 - 36"
 sumario: "Acuerdo SAG-108-2026,Acuerdo Ejecutivo Número 096-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260505-37133/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "b1fb7e88bf75af90"
 ---
 <!-- portal:inicio -->

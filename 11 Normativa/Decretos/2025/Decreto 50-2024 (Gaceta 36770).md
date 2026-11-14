@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36770 (2025-02-19)|La Gaceta 36
 paginas: "A. 15 - 16"
 sumario: "Decreto No. 50-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250219-36770/download"
-extraido: "2026-11-12"
+extraido: "2026-11-14"
 huella: "7741759055bceffd"
 ---
 <!-- portal:inicio -->

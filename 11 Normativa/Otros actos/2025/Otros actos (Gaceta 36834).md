@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36834 (2025-05-10)|La Gaceta 36
 paginas: "A. 1 - 68"
 sumario: "Certificación, Acuerdo"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250510-36834/download"
-extraido: "2026-11-11"
+extraido: "2026-11-14"
 huella: "9aa8234facbe643e"
 ---
 <!-- portal:inicio -->

@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36788 (2025-03-12)|La Gaceta 36
 paginas: "A. 1 - 4"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250312-36788/download"
-extraido: "2026-11-12"
+extraido: "2026-11-14"
 huella: "97ebc9f4b868cbb9"
 ---
 <!-- portal:inicio -->

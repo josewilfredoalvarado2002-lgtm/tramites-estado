@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37154 (2026-05-29)|La Gaceta 37
 paginas: "A. 341 - 343"
 sumario: "Decretos Ejecutivos Números PCM 009-2026, PCM 010-2026, 015-2026Acuerdos Ejecutivos Números 033-DP-2026, 034-DP-2026; PODER LEGISLATIVO: Decretos Nos. 71-2026, 72-2026, 74-2026, 80-2026, 82-2026, SECRETARÍA DE ESTADO EN EL DESPACHO DE DEFENSA NACIONAL: Acuerdo C.G. No. 002-2026; INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF)"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260529-37154/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "2b25bcb5d4a3ae33"
 ---
 <!-- portal:inicio -->

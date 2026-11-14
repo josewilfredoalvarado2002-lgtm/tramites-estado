@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36999 (2025-11-21)|La Gaceta 36
 paginas: "A. 7 - 16"
 sumario: "Acuerdos Nos. 038-2025, 080-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251121-36999/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "e3b769d77d2c9222"
 ---
 <!-- portal:inicio -->

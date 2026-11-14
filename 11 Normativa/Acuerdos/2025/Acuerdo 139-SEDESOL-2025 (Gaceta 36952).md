@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36952 (2025-09-26)|La Gaceta 36
 paginas: "A. 17 - 20"
 sumario: "Acuerdos Ministeriales Nos.138-SEDESOL-2025, 139-SEDESOL-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250926-36952/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "07b2524150476e03"
 ---
 <!-- portal:inicio -->

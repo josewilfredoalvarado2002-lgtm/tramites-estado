@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36880 (2025-07-03)|La Gaceta 36
 paginas: "A. 17 - 32"
 sumario: "Acuerdo Ministerial No. 091-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250703-36880/download"
-extraido: "2026-11-10"
+extraido: "2026-11-14"
 huella: "522de98d543dfc57"
 ---
 <!-- portal:inicio -->

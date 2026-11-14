@@ -9,7 +9,7 @@ tipo: "normativa_mes"
 | Fecha | Edición | Actos de la Sección A |
 | --- | --- | --- |
 | 2024-12-31 | [[11 Normativa/La Gaceta/2024/La Gaceta 36728 (2024-12-31)\|La Gaceta 36728]] | 2 |
-| 2024-12-30 | [[11 Normativa/La Gaceta/2024/La Gaceta 36727 (2024-12-30)\|La Gaceta 36727]] | 1 |
+| 2024-12-30 | [[11 Normativa/La Gaceta/2024/La Gaceta 36727 (2024-12-30)\|La Gaceta 36727]] | 4 |
 | 2024-12-28 | [[11 Normativa/La Gaceta/2024/La Gaceta 36726 (2024-12-28)\|La Gaceta 36726]] | 1 |
 | 2024-12-27 | [[11 Normativa/La Gaceta/2024/La Gaceta 36725 (2024-12-27)\|La Gaceta 36725]] | 4 |
 | 2024-12-26 | [[11 Normativa/La Gaceta/2024/La Gaceta 36724 (2024-12-26)\|La Gaceta 36724]] | 3 |
@@ -29,7 +29,7 @@ tipo: "normativa_mes"
 | 2024-12-07 | [[11 Normativa/La Gaceta/2024/La Gaceta 36709 (2024-12-07)\|La Gaceta 36709]] | 3 |
 | 2024-12-06 | [[11 Normativa/La Gaceta/2024/La Gaceta 36708 (2024-12-06)\|La Gaceta 36708]] | 4 |
 | 2024-12-05 | [[11 Normativa/La Gaceta/2024/La Gaceta 36707 (2024-12-05)\|La Gaceta 36707]] | 2 |
-| 2024-12-04 | [[11 Normativa/La Gaceta/2024/La Gaceta 36706 (2024-12-04)\|La Gaceta 36706]] | 1 |
+| 2024-12-04 | [[11 Normativa/La Gaceta/2024/La Gaceta 36706 (2024-12-04)\|La Gaceta 36706]] | 2 |
 | 2024-12-03 | [[11 Normativa/La Gaceta/2024/La Gaceta 36705 (2024-12-03)\|La Gaceta 36705]] | 3 |
 | 2024-12-02 | [[11 Normativa/La Gaceta/2024/La Gaceta 36704 (2024-12-02)\|La Gaceta 36704]] | 5 |
 <!-- portal:fin -->

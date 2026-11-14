@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37255 (2026-09-25)|La Gaceta 37
 paginas: "A. 1 - 52"
 sumario: "Reglamento Interno de Trabajo"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260925-37255/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "67a86e890c9d9e3a"
 ---
 <!-- portal:inicio -->

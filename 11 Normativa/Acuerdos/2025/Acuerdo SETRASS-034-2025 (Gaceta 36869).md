@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36869 (2025-06-20)|La Gaceta 36
 paginas: "A. 6"
 sumario: "Acuerdos Nos. SETRASS-034-2025, SETRASS-044-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250620-36869/download"
-extraido: "2026-11-10"
+extraido: "2026-11-14"
 huella: "d5ddf36164ceaaad"
 ---
 <!-- portal:inicio -->

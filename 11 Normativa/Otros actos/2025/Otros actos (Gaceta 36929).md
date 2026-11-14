@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36929 (2025-08-29)|La Gaceta 36
 paginas: "A. 1 - 4"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250829-36929/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "eb0362305c9725da"
 ---
 <!-- portal:inicio -->

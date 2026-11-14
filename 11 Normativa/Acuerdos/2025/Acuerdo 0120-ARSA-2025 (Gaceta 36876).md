@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36876 (2025-06-28)|La Gaceta 36
 paginas: "A. 8"
 sumario: "Acuerdo No. 0120-ARSA-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250628-36876/download"
-extraido: "2026-11-10"
+extraido: "2026-11-14"
 huella: "f4a3231da965efb2"
 ---
 <!-- portal:inicio -->

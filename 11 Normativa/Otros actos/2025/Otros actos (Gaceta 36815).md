@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36815 (2025-04-12)|La Gaceta 36
 paginas: "A. 1 - 12"
 sumario: "Certificación, Acuerdo; CERTIFICACIÓN 1119-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250412-36815/download"
-extraido: "2026-11-11"
+extraido: "2026-11-14"
 huella: "6d9303f8556489b5"
 ---
 <!-- portal:inicio -->

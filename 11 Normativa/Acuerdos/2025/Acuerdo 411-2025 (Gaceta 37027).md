@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 37027 (2025-12-24)|La Gaceta 37
 paginas: "A. 21 - 24"
 sumario: "Acuerdos Nos. 019-2024, 411-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251224-37027/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "06ea1f61a5976d67"
 ---
 <!-- portal:inicio -->

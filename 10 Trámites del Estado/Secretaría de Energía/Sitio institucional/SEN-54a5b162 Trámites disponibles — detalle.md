@@ -135,7 +135,7 @@ Artículo 1.- REQUISITOS: Los peticionarios que soliciten su inscripción en el 
 
 > [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2019). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
 
-- Acuerdo Ministerial 23-2019 → no aparece en la colección de La Gaceta de la bóveda
+- Acuerdo Ministerial 23-2019 → posible: [[Acuerdo 023-2019 (Gaceta 35193)]] (Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre)
 - Acuerdo 04-2017 → anterior a 2019: no está en la colección de La Gaceta de la bóveda
 - Acuerdo 71-2019 → posible: [[Acuerdo 071-2019 (Gaceta 35186)]] (Agencia de Regulación Sanitaria)
 - Acuerdo 099-2019 → posible: [[Acuerdo 99-2019 (Gaceta 35075)]] (Secretaría de Gobernación, Justicia y Descentralización)

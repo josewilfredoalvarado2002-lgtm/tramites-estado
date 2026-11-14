@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36950 (2025-09-24)|La Gaceta 36
 paginas: "A. 4 - 52"
 sumario: "Acuerdo No. 2514-SE-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250924-36950/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "f747861b89e69821"
 ---
 <!-- portal:inicio -->

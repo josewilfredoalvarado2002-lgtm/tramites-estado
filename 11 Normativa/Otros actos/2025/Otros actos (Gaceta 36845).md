@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36845 (2025-05-23)|La Gaceta 36
 paginas: "A. 1 - 3"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250523-36845/download"
-extraido: "2026-11-10"
+extraido: "2026-11-14"
 huella: "16422cb776e1aed0"
 ---
 <!-- portal:inicio -->

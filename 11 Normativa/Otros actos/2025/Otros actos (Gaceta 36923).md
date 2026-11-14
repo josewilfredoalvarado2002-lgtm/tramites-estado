@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36923 (2025-08-22)|La Gaceta 36
 paginas: "A. 1 - 12"
 sumario: "INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF); Acuerdos Nos. DE-DCHA-040-2025, DE-DCHA-042-2025, DE-DCHA-049-2025, DE- DCHA-051-2025, DE-DCHA-052-2025."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250822-36923/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "e9f6aa9fdaa7c52f"
 ---
 <!-- portal:inicio -->

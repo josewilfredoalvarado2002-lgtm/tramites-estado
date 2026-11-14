@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36927 (2025-08-27)|La Gaceta 36
 paginas: "A. 8"
 sumario: "Acuerdo No. SAG-111-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250827-36927/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "3c22fc333151f5f0"
 ---
 <!-- portal:inicio -->

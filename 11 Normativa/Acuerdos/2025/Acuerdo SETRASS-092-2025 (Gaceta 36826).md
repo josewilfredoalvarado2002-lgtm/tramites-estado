@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36826 (2025-04-30)|La Gaceta 36
 paginas: "A. 7 - 9"
 sumario: "Acuerdo Ejecutivo No. SETRASS-092-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250430-36826/download"
-extraido: "2026-11-11"
+extraido: "2026-11-14"
 huella: "2a1a353c912a30cc"
 ---
 <!-- portal:inicio -->

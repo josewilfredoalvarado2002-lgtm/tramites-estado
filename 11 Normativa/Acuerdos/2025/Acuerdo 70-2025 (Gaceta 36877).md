@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36877 (2025-06-30)|La Gaceta 36
 paginas: "A. 6 - 12"
 sumario: "Acuerdos CREE-70-2025, CREE-78-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250630-36877/download"
-extraido: "2026-11-10"
+extraido: "2026-11-14"
 huella: "250344d5e0fbb7d4"
 ---
 <!-- portal:inicio -->

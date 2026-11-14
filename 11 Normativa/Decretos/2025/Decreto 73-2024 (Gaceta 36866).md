@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36866 (2025-06-17)|La Gaceta 36
 paginas: "A. 13 - 16"
 sumario: "Decreto No. 73-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250617-36866/download"
-extraido: "2026-11-10"
+extraido: "2026-11-14"
 huella: "b3c1bbefd39bc5b7"
 ---
 <!-- portal:inicio -->

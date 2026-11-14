@@ -10,7 +10,7 @@ gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37142 (2026-05-15)|La Gaceta 37
 paginas: "A. 33 - 56"
 sumario: "Decreto No. 70-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260515-37142/download"
-extraido: "2026-11-09"
+extraido: "2026-11-14"
 huella: "3553e870492c47e2"
 ---
 <!-- portal:inicio -->

@@ -9,7 +9,7 @@ gaceta_fecha: "2020-05-11"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35249 (2020-05-11)|La Gaceta 35249]]"
 paginas: "A. 1 - 4"
 sumario: "Fe de Errata"
-url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200511-35249-2/download"
+url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200511-35249/download"
 extraido: "2026-11-14"
 huella: "134d1b77c7c95e63"
 ---
@@ -75,7 +75,7 @@ La Gaceta está a la vanguardia de la tecnología, ahora ofreciendo a sus client
 
 ## Fuente
 
-Texto extraído del PDF de La Gaceta No. 35249 del 2020-05-11, publicado por la ENAG: https://enag.gob.hn/index.php/gaceta-digital/20200511-35249-2/download. Copia de consulta; el texto oficial es el del PDF.
+Texto extraído del PDF de La Gaceta No. 35249 del 2020-05-11, publicado por la ENAG: https://enag.gob.hn/index.php/gaceta-digital/20200511-35249/download. Copia de consulta; el texto oficial es el del PDF.
 <!-- portal:fin -->
 
 ## Notas propias
