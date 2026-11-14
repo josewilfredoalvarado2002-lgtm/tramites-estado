@@ -121,6 +121,14 @@ Se Incluyen aquellas personas que tengan deficiencias físicas, mentales, intele
 - Ficha: https://tramites.diger.gob.hn/landingPage/DetalleTramite/960
 - Última actualización según el portal: No consta en el portal
 - Fecha y hora de extracción: 2026-11-09 14:42 (hora de Honduras, UTC-6)
+
+<!-- normas:inicio -->
+## Normas citadas
+
+> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2025). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
+
+- Decreto 160-2005 → anterior a 2025: no está en la colección de La Gaceta de la bóveda
+<!-- normas:fin -->
 <!-- portal:fin -->
 
 ## Notas propias

@@ -129,6 +129,14 @@ Formato de Muestra
 
 - Ficha: https://www.sar.gob.hn/download/notificacion-de-documentos-fiscales-impresos-y-no-entregados-por-hurto-robo-extravio-o-destruccion/
 - Fecha y hora de extracción: 2026-11-14 00:15 (hora de Honduras, UTC-6)
+
+<!-- normas:inicio -->
+## Normas citadas
+
+> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2025). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
+
+- Acuerdo 481-2017 → anterior a 2025: no está en la colección de La Gaceta de la bóveda
+<!-- normas:fin -->
 <!-- portal:fin -->
 
 ## Notas propias

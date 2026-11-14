@@ -12394,6 +12394,31 @@ A MEM
 
 - Ficha: https://marinamercante.gob.hn/proteccion-del-medio-marino/
 - Fecha y hora de extracción: 2026-11-14 00:40 (hora de Honduras, UTC-6)
+
+<!-- normas:inicio -->
+## Normas citadas
+
+> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2025). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
+
+- Acuerdo 001-2001 → anterior a 2025: no está en la colección de La Gaceta de la bóveda
+- Acuerdo 003-2009 → anterior a 2025: no está en la colección de La Gaceta de la bóveda
+- Acuerdo 023-2015 → anterior a 2025: no está en la colección de La Gaceta de la bóveda
+- Acuerdo Ministerial 016-2015 → anterior a 2025: no está en la colección de La Gaceta de la bóveda
+- Acuerdo 053-2012 → anterior a 2025: no está en la colección de La Gaceta de la bóveda
+- Acuerdo 022-2015 → anterior a 2025: no está en la colección de La Gaceta de la bóveda
+- Resolución 123-2017 → anterior a 2025: no está en la colección de La Gaceta de la bóveda
+- Resolución 760-2019 → anterior a 2025: no está en la colección de La Gaceta de la bóveda
+- Decreto Ejecutivo 002-2002 → anterior a 2025: no está en la colección de La Gaceta de la bóveda
+- Decreto 266-2013 → anterior a 2025: no está en la colección de La Gaceta de la bóveda
+- Acuerdo Ejecutivo 138-2018 → anterior a 2025: no está en la colección de La Gaceta de la bóveda
+- Acuerdo Ministerial 58-2019 → anterior a 2025: no está en la colección de La Gaceta de la bóveda
+- Resolución 574-2019 → anterior a 2025: no está en la colección de La Gaceta de la bóveda
+- Resolución 387-2019 → anterior a 2025: no está en la colección de La Gaceta de la bóveda
+- Resolución 868-2019 → anterior a 2025: no está en la colección de La Gaceta de la bóveda
+- Acuerdo 118-2019 → anterior a 2025: no está en la colección de La Gaceta de la bóveda
+- Acuerdo 114-2019 → anterior a 2025: no está en la colección de La Gaceta de la bóveda
+- Decreto Ejecutivo PCM-009-2018 → anterior a 2025: no está en la colección de La Gaceta de la bóveda
+<!-- normas:fin -->
 <!-- portal:fin -->
 
 ## Notas propias

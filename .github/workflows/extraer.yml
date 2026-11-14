@@ -38,6 +38,10 @@ jobs:
       - name: Extracción (${{ env.MODO }})
         run: python3 -m crawler.extraer --modo "$MODO"
 
+      - name: Enlazar trámites con La Gaceta
+        if: always()
+        run: python3 sitios/enlazar_normativa.py
+
       - name: Guardar los cambios en el repositorio
         if: always()
         run: |

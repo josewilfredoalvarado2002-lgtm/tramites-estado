@@ -118,6 +118,14 @@ Cantidad horas semanales (entre 18 y 32):Salario por hora:
 
 - Ficha: https://sol.trabajo.gob.hn/ciudadano/#/inicio
 - Fecha y hora de extracción: 2026-11-14 00:46 (hora de Honduras, UTC-6)
+
+<!-- normas:inicio -->
+## Normas citadas
+
+> [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2025). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
+
+- Decreto Legislativo 45-2026 → [[Decreto 45-2026 (Gaceta 37106)]] (La Gaceta del 2026-03-28; emisor: Poder Legislativo)
+<!-- normas:fin -->
 <!-- portal:fin -->
 
 ## Notas propias

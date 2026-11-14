@@ -47,6 +47,10 @@ jobs:
             python3 -W ignore sitios/correr.py --todas
           fi
 
+      - name: Enlazar trámites con La Gaceta
+        if: always()
+        run: python3 sitios/enlazar_normativa.py
+
       - name: Guardar los cambios en el repositorio
         if: always()
         run: |
