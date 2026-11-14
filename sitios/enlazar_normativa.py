@@ -76,6 +76,13 @@ def indice_normativa(repo):
             with open(os.path.join(raiz, a), encoding="utf-8") as f:
                 cab = f.read(2000)
             tipo, numero = _prop(cab, "tipo_acto"), _prop(cab, "numero")
+            if not re.search(r"\d", numero):
+                # «Otro acto» sin número: el lector de La Gaceta no reconoció el encabezado (p. ej. «ACUERDO
+                # SEN-119-2022», sin «No.»), pero el título lo trae. Solo si el título nombra un único acto.
+                enc = citas(_prop(cab, "titulo"))
+                if len(enc) != 1:
+                    continue
+                (_, numero), tipo = enc[0][0], enc[0][1].split()[0]
             if not tipo or not numero:
                 continue
             m = re.search(r"((?:19|20)\d{2})", _prop(cab, "gaceta_fecha"))
